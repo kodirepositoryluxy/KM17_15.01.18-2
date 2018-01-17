@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<strings>
+	<string id="10001">Aggiungi una lista o una cartella</string>
+	<string id="10002">Seleziona sorgente lista</string>
+	<string id="10003">Favoriti</string>
+	<string id="10004">Nome Lista</string>
+	<string id="10005">URL Lista</string>
+	<string id="10006">Scegli una lista</string>
+	<string id="10007">è già nella lista</string>
+	<string id="10008">Rimuovi : </string>
+	<string id="10009">Aggiungi ai favoriti di Kodi Live TV</string>
+	<string id="10010">Rimuovi dai favoriti di Kodi Live TV</string>
+	<string id="10011">è già nei favoriti</string>
+	<string id="10012">aggiunto ai favoriti</string>
+	<string id="10013">Aggiungi un nuovo canale</string>
+	<string id="10014">Nome canale</string>
+	<string id="10015">URL canale</string>
+	<string id="10016">Nuova lista remota</string>
+	<string id="10017">Nuova lista locale</string>
+    <string id="10018">Rinomina</string>
+    <string id="10019">Cambia sorgente</string>
+        
+    <string id="10020">Italiano</string>
+    <string id="10021">Francese</string>
+    <string id="10022">Tedesco</string>
+    <string id="10023">Inglese</string>
+    <string id="10024">Turco</string>
+    <string id="10025">Spagnolo</string>
+    <string id="10026">Portoghese</string>
+    <string id="10027">Russo/Ucraino</string>
+    <string id="10028">Musica</string>
+    <string id="10029">Rumeno</string>
+    <string id="10030">Greco</string>
+    <string id="10031">Arabo</string>
+    <string id="10032">Bulgaro</string>
+    <string id="10033">Ceco</string>
+    <string id="10034">Polacco</string>
+    <string id="10035">Olandese</string>
+        
+    <string id="10047">Playlist Manager</string>       
+    <string id="10048">Canali TV e Radio</string>
+    <string id="10049">Altri canali</string>
+    <string id="10050">TV Regionali Italiane</string>
+    <string id="10051">TV - VPN/IP Italia</string>
+    <string id="10052">Televisioni italiane</string>
+    <string id="10053">Televisioni Svizzera italiana</string>
+    <string id="10054">TV - VPN/IP CH</string>
+    <string id="10055">Wilmaa TV (VPN CH)</string>
+    <string id="10059">TV - VPN/IP UK</string>
+    <string id="10060">TV - VPN/IP AT</string>
+        
+    <string id="10058">Televisioni in Francese</string>
+    <string id="10056">Televisioni in Tedesco</string>
+    <string id="10057">Televisioni in Inglese</string>
+        
+    <string id="10070">Radio italiane</string>
+    <string id="10071">Radio in Francese</string>
+    <string id="10072">Radio in Tedesco</string>
+    <string id="10073">Radio inglesi</string>
+    <string id="10074">BBC Radio</string>
+    <string id="10098">Fai un offerta</string>        
+    <string id="10099">Avvia Netflix</string>
+    <string id="10100">Tutti i canali</string>
+        
+	<string id="10101">Scrivi il file XML Advancedsettings</string>
+	<string id="10102">Cancella il file dei favoriti</string>
+    <string id="10103">Ripristina il file XML Advancedsettings</string>
+    <string id="10104">Cancella il file XML Advancedsettings</string>
+    <string id="10105">Pulisci cache</string>
+    <string id="10106">Ricerca aggiornamenti</string>
+    <string id="10107">Pulizia File</string>
+    <string id="10108">Aggiornamenti</string>       
+    <string id="10109">Opzioni F4mProxy</string>        
+    <string id="10110">Varie</string>
+    <string id="10111">Opzioni f4mProxy integrato</string>
+    <string id="10112">Cartella Download</string>
+    <string id="10113">Usa SimpleDownloader</string>
+        
+    <string id="10115">Usa f4mProxy esterno (necessario Add-on f4mTester di Shani)</string>
+    <string id="10116">Usa simpledownloader per riprodurre i flussi TS</string>
+    <string id="10117">F4mProxy MaxBitrate (0 = illimitato; es.: 800,1500,2200,3700)</string>
+    <string id="10118">Browser Internet preferito</string>
+    <string id="10119">Riavvia il PVR Manager</string>        
+    <string id="10120">Crea backup database PM</string>
+    <string id="10121">Ripristina Backup database PM</string>
+    <string id="10122">Scegli zip backup database</string>
+    <string id="10123">Importa database locale</string>
+    <string id="10124">Scegli cartella di destinazione Backup</string>
+    <string id="10125">Backup database ripristinato con successo!</string>
+    <string id="10126">Backup database creato con successo!</string>
+    <string id="10127">Riproduci tutto</string>
+        
+    <string id="10040">Aggiungi una cartella</string>
+    <string id="10041">Scegli una cartella</string>
+    <string id="10042">Aggiungi una lista</string>
+    <string id="10043">Aggiungi una cartella di rete</string>
+    <string id="10260">Aggiungi una cartella locale</string>
+    <string id="10261">Aggiungi una cartella remota</string>
+    <string id="10262">URL della cartella remota</string>
+    <string id="10263">Nome del collegamento</string>
+    <string id="10264">Questo collegamento era già stato aggiunto!</string>
+    <string id="10265">Nome della Playlist</string>
+    <string id="10266">Aggiungi una playlist di Youtube</string>
+    
+    <string id="10044">Kodi Live TV è aggiornato!</string>
+    <string id="10045">Attenzione, azione irreversibile!</string>
+    <string id="10046">Sei assolutamente sicuro di voler cellare in modo definitivo il file </string>
+    <string id="10200">Il file è stato cancellato con successo!</string>
+    <string id="10201">Il file non può essere cancellato!</string>
+    <string id="10202">Il file è stato rinominato!</string>
+    <string id="10203">Nuovo nome</string>
+    <string id="10204">Aggiungi Repository PM</string>
+    <string id="10205">Cancella</string>
+    <string id="10206">Sei sicuro di voler eliminare il percorso </string>
+    <string id="10207">Cancella le credenziali di accesso</string>
+    <string id="10215">Cancella la chiave memorizzata</string>
+    
+    <string id="10220">Aggiungi XML Kodilive</string>
+    <string id="10221">Seleziona sorgente XML</string>
+    <string id="10222">Nuovo XML remoto</string>
+    <string id="10223">Nuovo XML locale</string>
+    <string id="10224">URL dell'XML Kodilive</string>
+    <string id="10225">Seleziona un XML Kodilive</string>
+    <string id="10226">ID della Playlist di Youtube</string>
+    
+    <string id="10208">Scaricamento file fermato</string>
+    <string id="10209">Scaricamento completato</string>
+    <string id="10210">Sto già scaricando questo file!</string>
+    <string id="10211">Riavvio scaricamento file</string>
+    <string id="10212">Ferma lo scaricamento di</string>
+    <string id="10213">Riavvia lo scaricamento di</string>
+    <string id="10214">Cancella il file incompleto</string>
+    
+    <string id="10250">Cerca canale o file multimediale</string>
+    <string id="10251">Escludi dalla ricerca globale</string>
+    <string id="10252">Includi nella ricerca globale</string>
+    
+    <string id="10150">Usa VLC per Teleboy (Windows e Linux)</string>
+    <string id="10151">Abilita la ricerca automatica di aggiornamenti</string>
+    <string id="10152">Abilita sezione a luci rosse</string>
+    <string id="10160">Ripristina impostazioni di default</string>
+    <string id="10161">Cancella il cookie di Teleboy</string>
+</strings>

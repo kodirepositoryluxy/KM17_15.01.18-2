@@ -1,0 +1,14 @@
+------------------------
+Lucifer's Repo (1-Sep-17)
+------------------------
+
+- Initial Release
+- Addons: Cartoon Crazy
+
+------------------------
+Lucifer's Repo (20-Oct-17)
+------------------------
+ - Updated Repo to V0.0.2
+ - Remove Colossus Repo dependency
+ - Bumped Cartoon Crazy to V1.0.19 to remove Colossus dependency
+ - Initial Release of Strictly HD

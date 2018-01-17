@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-logo="0075.png",[COLOR orange]SRF 1[/COLOR]
+1:enc1uni_ch@190951
+#EXTINF:-1 tvg-logo="0077.png",[COLOR orange]SRF Zwei[/COLOR]
+2:enc2uni_ch@191041
+#EXTINF:-1 tvg-logo="0079.png",[COLOR orange]SRF Info[/COLOR]
+3:enc3uni_ch@191073

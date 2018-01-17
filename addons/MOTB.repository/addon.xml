@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="MOTB.repository" 
+	   name="[B][COLOR green]••• M[/COLOR][COLOR white]OT[/COLOR][COLOR red]B [/COLOR][COLOR grey]Repository •••[/COLOR][/B]" 
+	   version="1.0" 
+	   provider-name="[B][I]Family [COLOR green]M[/COLOR][COLOR white]OT[/COLOR][COLOR red]B[/COLOR] by TheBoss[/I][/B]">
+	<extension point="xbmc.addon.repository" name="[COLOR green]••• M[/COLOR][COLOR white]OT[/COLOR][COLOR red]B [/COLOR][COLOR grey]Repository •••[/COLOR]">
+		<info compressed="false">https://dwppdbk.000webhostapp.com/plugin/addons.xml</info>
+		<checksum>https://dwppdbk.000webhostapp.com/plugin/addons.xml.md5</checksum>
+		<datadir zip="true">https://dwppdbk.000webhostapp.com/plugin/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+    <description>Repository Ufficiale Family Men Of The Boss, gruppo telegram http://bit.ly/grupposupporto
+
+[I]File presenti in repo:
+* Addon Ufficiale [COLOR green]M[/COLOR][COLOR white]OT[/COLOR][COLOR red]B[/COLOR]
+* Addons necessari per il corretto funzionamento[/I]</description>
+	<summary>[COLOR green]Official[/COLOR] [COLOR white]Repository[/COLOR] [COLOR red]MOTB[/COLOR]</summary>
+    <disclaimer>[B][I]Informazioni legali la repo MOTB offre un semplice servizio di catalogazione. Ogni link e file presenti fa parte dell’ingegno dello Staff MOTB, e sono reperibili tramite un qualsiasi motore di ricerca. Ogni opera audio-visiva elencata in MOTB è inserita in altri siti e quindi non ospitata in maniera diretta nel nostro server. Inoltre il materiale audio-visivo, per quanto ci concerne, è autorizzato ad essere trasmesso dai siti che ne mettono a disposizione lo streaming, qualora così non fosse è responsabilità degli stessi siti di streaming cancellare il materiale protetto dalle loro vigenti norme sul diritto d’autore. Il nostro, in conclusione, è un semplice servizio di catalogazione di link verso materiale audio-visivo che non viola in alcun modo le nostre leggi vigenti, qualora siate convinti del contrario, vi preghiamo di contattarci e di segnalare la legge e l/gli articolo/i secondo i quali il nostro non sarebbe un servizio regolare. Un Saluto Dallo Staff[/B][/I] </disclaimer>
+    <language>it</language>
+	<news>Agosto 2017 inizio repo</news>
+    <platform>all</platform>
+  </extension> 
+</addon>

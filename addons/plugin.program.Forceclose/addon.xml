@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<addon id="plugin.program.Forceclose" version="0.0.1" name="Force Close Kodi" provider-name="Andy">
+
+    <requires>
+        <import addon="xbmc.python" version="2.1.0" />
+    </requires>
+
+    <extension point="xbmc.python.pluginsource" library="ForceClose.py">
+        <provides>executable</provides>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Force Close Kodi</summary>
+        <description lang="en">Force Close Kodi so that it immediatly closes. This is alot quicker than unloading all processes. If you wish to save skin settings in 16 you must close Kodi the normal way.</description>
+        <platform>all</platform>
+        <forum></forum>
+        <website>https://raw.githubusercontent.com/halikus/_AndyRepo/master/_repo/</website>
+    </extension>
+</addon>

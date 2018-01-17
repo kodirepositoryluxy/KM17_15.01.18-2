@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window type="dialog">
+	<defaultcontrol always="true">450</defaultcontrol>
+	<include>dialogeffect</include>
+	<coordinates>
+		<left>0</left>
+		<top>0</top>
+	</coordinates>
+	<controls>
+		
+		<!--<include>BehindDialogFadeOut</include>-->
+		
+		<include>BehindDialogDarkBackgroundDarkest</include>
+		
+		
+		
+		<control type="group">
+			<left>156</left>
+			<depth>DepthDialog+</depth>
+			<!--
+			<control type="image">
+				<left>0</left>
+				<top>0</top>
+				<width>968</width>
+				<height>720</height>
+				<texture border="10,0,10,0">_added_img/DialogBack_lr.png</texture>
+			</control>
+			-->
+			
+			<control type="button">
+				<description>Close Window button</description>
+				<left>876</left>
+				<top>0</top>
+				<width>64</width>
+				<height>32</height>
+				<label>-</label>
+				<font>-</font>
+				<onclick>PreviousMenu</onclick>
+				<texturefocus>DialogCloseButton-focus.png</texturefocus>
+				<texturenofocus>DialogCloseButton.png</texturenofocus>
+				<onleft>450</onleft>
+				<onright>450</onright>
+				<onup>450</onup>
+				<ondown>450</ondown>
+				<visible>System.GetBool(input.enablemouse)</visible>
+				
+				<animation effect="slide" start="0,0" end="15,0" time="0" condition="Control.IsVisible(4501)">Conditional</animation>
+			</control>
+			
+			
+			
+			<control type="label">
+				<left>14</left>
+				<top>30</top>
+				<width>904</width>
+				<height>30</height>
+				<font>Regular24</font>
+				<textcolor>grey</textcolor>
+				<align>center</align>
+				<aligny>center</aligny>
+				<label>$LOCALIZE[1036]</label>
+			</control>
+			
+			<control type="panel" id="450">
+				<left>26</left>
+				<top>96</top>
+				<width>912</width>
+				<height>616</height>
+				<onleft>450</onleft>
+				<onup>450</onup>
+				<onright>450</onright>
+				<ondown>450</ondown>
+				<pagecontrol>4501</pagecontrol>
+				<scrolltime>200</scrolltime>
+				
+				
+				
+				<itemlayout height="88" width="304">
+					<!--
+					<control type="image">
+						<left>0</left>
+						<top>0</top>
+						<width>302</width>
+						<height>86</height>
+						<texture border="4">_added_img/button-nofocus-darkbase.png</texture>
+					</control>
+					-->
+					<control type="image">
+						<left>3</left>
+						<top>3</top>
+						<width>80</width>
+						<height>80</height>
+						<texture fallback="DefaultVideoPlaylists.png" colordiffuse="ffcecece">$INFO[Listitem.Icon]</texture><!--ffb3b3b3-->
+						<aspectratio>scale</aspectratio>
+						<!--<animation effect="fade" start="100" end="70" time="0" condition="true">Conditional</animation>-->
+					</control>
+					<control type="textbox">
+						<left>91</left>
+						<top>2</top>
+						<width>203</width>
+						<height>82</height>
+						<font>Regular18</font>
+						<textcolor>grey</textcolor>
+						<align>left</align>
+						<aligny>center</aligny>
+						<label>$INFO[ListItem.Label]</label>
+					</control>
+				</itemlayout>
+				<focusedlayout height="88" width="304">
+					<control type="image">
+						<left>0</left>
+						<top>0</top>
+						<width>302</width>
+						<height>86</height>
+						<texture border="4">_added_img/button-focus-darkbase.png</texture><!--button-focus2.png-->
+					</control>
+					<control type="image">
+						<left>0</left>
+						<top>0</top>
+						<width>302</width>
+						<height>86</height>
+						<texture border="4">_added_img/button-focus-darkbase.png</texture><!--button-focus2.png-->
+						<animation effect="fade" start="100" end="30" time="0" condition="true">Conditional</animation>
+					</control>
+					<control type="image">
+						<left>3</left>
+						<top>3</top>
+						<width>80</width>
+						<height>80</height>
+						<texture fallback="DefaultVideoPlaylists.png">$INFO[Listitem.Icon]</texture>
+						<aspectratio>scale</aspectratio>
+					</control>
+					<control type="textbox">
+						<left>91</left>
+						<top>2</top>
+						<width>203</width>
+						<height>82</height>
+						<font>Regular18</font>
+						<textcolor>white</textcolor>
+						<align>left</align>
+						<aligny>center</aligny>
+						<label>$INFO[ListItem.Label]</label>
+					</control>
+				</focusedlayout>
+				
+				
+				
+			</control>
+			
+			
+			
+			<control type="scrollbar" id="4501">
+				<left>936</left>
+				<top>90</top>
+				<width>20</width>
+				<height>628</height>
+				<onleft>450</onleft>
+				<texturesliderbackground border="10">scrollbars/ScrollBarUni-bg.png</texturesliderbackground>
+				<texturesliderbar border="10">scrollbars/ScrollBarUni-bar.png</texturesliderbar>
+				<texturesliderbarfocus border="10">scrollbars/ScrollBarUni-bar-focus.png</texturesliderbarfocus>
+				<textureslidernib>scrollbars/ScrollBarUni-nib.png</textureslidernib>
+				<textureslidernibfocus>scrollbars/ScrollBarUni-nib.png</textureslidernibfocus>
+				<showonepage>false</showonepage>
+				<orientation>vertical</orientation>
+				<visible>Control.IsVisible(450)</visible>
+				
+				<animation effect="fade" end="75" time="0" condition="true">Conditional</animation>
+
+			</control>
+			
+			
+			
+		</control>
+	</controls>
+</window>

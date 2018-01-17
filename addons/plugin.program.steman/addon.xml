@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.program.steman" 
+  name="Ste Maintenance"
+  version="1.0.6" 
+  provider-name="Stefano">
+	<requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+    <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable </provides>
+    </extension>
+    <extension point="xbmc.service" library="service.py" start="startup"/>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Stefano Maintenace </summary>
+        <description lang="en">Versione 1.0.6  Piu stabile miglioramenti vari.</description>
+        <disclaimer lang="en">.</disclaimer>
+        <language>en</language>
+        <platform>all</platform>
+        <forum></forum>
+        <website></website>
+        <source></source>
+    </extension>
+</addon>

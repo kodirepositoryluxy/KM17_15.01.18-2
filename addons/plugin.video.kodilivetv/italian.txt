@@ -1,0 +1,43 @@
+[
+    {
+        "url": "it.txt",
+        "image": "https://kodilive.eu/icon/it.png",        
+        "name": 10052
+    },    
+    {
+        "url": "regionali.txt",
+        "image": "https://kodilive.eu/icon/it.png",
+        "name":10050
+    },     
+    {
+        "url": "vpnit.txt",
+        "image": "https://kodilive.eu/icon/it.png",      
+        "name":10051
+    },
+    {
+        "url": "radioit.txt",
+        "image": "radio.png",
+        "name":10070
+    },
+    {
+        "url": "rsi.txt",
+        "image": "https://kodilive.eu/icon/playrsi.png",        
+        "name": "RSI.ch"
+    },    
+    {
+        "url": "rawtb.php?l=chit",
+        "image": "tb.png",        
+        "name": "Teleboy VPN/IP CH"
+    },   
+    
+    {
+        "url": "w_it.txt",
+        "image": "wi.png",        
+        "name": 10054
+    },
+    {
+        "url": "oggi.tv?l=oggitv",
+        "image": "https://kodilive.eu/logo/popcorn.png",        
+        "name": "Film in TV"
+    }
+]

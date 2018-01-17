@@ -1,0 +1,171 @@
+# Addon Name: Stefano Kodi 16
+# Addon id: plugin.video.Stefano16
+# Addon Provider: Stefano
+msgid ""
+msgstr ""
+"Project-Id-Version: Stefano\n"
+"POT-Creation-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language-Team: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+
+
+msgctxt "#30701"
+msgid "Settings"
+msgstr ""
+
+msgctxt "#30702"
+msgid "[B][COLOR cyan]Cerca[/B][/COLOR]"
+msgstr ""
+
+msgctxt "#30703"
+msgid "[B][COLOR blue]Cancella cronologia[/B][/COLOR]"
+msgstr ""
+
+msgctxt "#30704"
+msgid "Link"
+msgstr ""
+
+msgctxt "#30705"
+msgid "Stream non disponibile"
+msgstr ""
+
+msgctxt "#30706"
+msgid "Scopri le miglior playlist streaming"
+msgstr ""
+
+msgctxt "#30707"
+msgid "Trailer"
+msgstr ""
+
+msgctxt "#30708"
+msgid "Informazioni"
+msgstr ""
+
+msgctxt "#30711"
+msgid "Set Movies view"
+msgstr ""
+
+msgctxt "#30712"
+msgid "Set TV Shows view"
+msgstr ""
+
+msgctxt "#30713"
+msgid "Set Seasons view"
+msgstr ""
+
+msgctxt "#30714"
+msgid "Set Episodes view"
+msgstr ""
+
+msgctxt "#30715"
+msgid "General"
+msgstr ""
+
+msgctxt "#30716"
+msgid "MetaData"
+msgstr ""
+
+msgctxt "#30717"
+msgid "Enable MetaData"
+msgstr ""
+
+msgctxt "#30718"
+msgid "Cache"
+msgstr ""
+
+msgctxt "#30719"
+msgid "Cancella cache..."
+msgstr ""
+
+msgctxt "#30720"
+msgid "Path"
+msgstr ""
+
+msgctxt "#30721"
+msgid "Downloads"
+msgstr ""
+
+msgctxt "#30722"
+msgid "Download item"
+msgstr ""
+
+msgctxt "#30723"
+msgid "Queue item"
+msgstr ""
+
+msgctxt "#30725"
+msgid "Add-on settings"
+msgstr ""
+
+msgctxt "#30726"
+msgid "Opening stream"
+msgstr ""
+
+msgctxt "#30727"
+msgid "Accounts"
+msgstr ""
+
+msgctxt "#30728"
+msgid "User"
+msgstr ""
+
+msgctxt "#30729"
+msgid "Email"
+msgstr ""
+
+msgctxt "#30730"
+msgid "Password"
+msgstr ""
+
+msgctxt "#30731"
+msgid "[B][COLOR yellow]Attendere prego...[/B][/COLOR]"
+msgstr ""
+
+msgctxt "#30401"
+msgid "[B][COLOR red]Sei sicuro?[/B][/COLOR]"
+msgstr ""
+
+msgctxt "#30402"
+msgid "[B][COLOR yellow]Processo Completato[/B][/COLOR]"
+msgstr ""
+
+msgctxt "#30500"
+msgid "[I]Pagina successiva[/I]"
+msgstr ""
+
+msgctxt "#32404"
+msgid "Time elapsed: %s seconds"
+msgstr ""
+
+msgctxt "#32405"
+msgid "%s seconds"
+msgstr ""
+
+msgctxt "#32406"
+msgid "Remaining providers: %s"
+msgstr ""
+
+msgctxt "#32501"
+msgid "Start from beginning"
+msgstr ""
+
+msgctxt "#32502"
+msgid "Resume from %s"
+msgstr ""
+
+msgctxt "#32503"
+msgid "Resume"
+msgstr ""
+
+msgctxt "#32504"
+msgid "URLResolver"
+msgstr ""
+
+msgctxt "#32505"
+msgid "Settings"
+msgstr ""

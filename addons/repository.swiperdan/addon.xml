@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.swiperdan" name="Swiper Dan's Repository" version="7.1" provider-name="SwiperNoSwipey">
+	<extension point="xbmc.addon.repository" name="Swiper Dan's Repository">
+		<info compressed="false">http://darkwebrepo.gq/swiperdansbuilds/repo/addons.xml</info>
+		<checksum>http://darkwebrepo.gq/swiperdansbuilds/repo/addons.xml.md5</checksum>
+		<datadir zip="true">http://darkwebrepo.gq/swiperdansbuilds/files/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

@@ -1,0 +1,15 @@
+<addon id="repository.stefanorepository" name="Stefano Repository" version="3.0" provider-name="Stefano">
+	<extension point="xbmc.addon.repository" name="Stefano Repository">
+		<info compressed="false">http://stefanoaddon.info/zip/addon.xml</info>
+		<checksum>http://stefanoaddon.info/zip/addons.xml.md5</checksum>
+		<datadir zip="true">http://stefanoaddon.info/zip/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Stefano Official Repository</summary>
+		<description>Repository ufficiale di Stefano</description>
+<news>v3.0
+- - Addons non ufficiali essenziali per il Funzionamento di Stefano Addon e Evil Addon  
+</news>
+		<platform>all</platform>
+	</extension>
+</addon>

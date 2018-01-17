@@ -1,0 +1,29 @@
+<addon id="repository.evilkingrepository" name="[COLOR yellow]Evil [COLOR crimson]King [COLOR lightskyblue]Repository[/COLOR]" version="2.0" provider-name="[COLOR deepskyblue]iPaderi[/COLOR]">
+	<extension point="xbmc.addon.repository" name="[COLOR yellow]Evil [COLOR crimson]King [COLOR lightskyblue]Repository[/COLOR]">
+		<info compressed="false">http://www.repository.evilking.it/Zips/addons.xml</info>
+		<checksum>http://www.repository.evilking.it/Zips/addons.xml.md5</checksum>
+		<datadir zip="true">http://www.repository.evilking.it/Zips/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>[COLOR yellow]Evil [COLOR crimson]King [COLOR lightskyblue]Official Repository[/COLOR]</summary>
+		<description>[COLOR khaki]Repository ufficiale del team di Evil King[/COLOR]</description>
+<news>v2.0
+- [COLOR red][HOT][/COLOR] Migrazione da Hosting a VPS
+- [COLOR red][HOT][/COLOR] Nuovo logo per la Repository adatto allo stile di Evil King Ultimate 4.0
+- [COLOR red][HOT][/COLOR] Aggiunti colori nel titolo della Repository
+v1.5
+- Problema risolto "invisiblità" Evil King su alcuni Kodi
+v1.4
+- Correzione errore di battitura configurazione server
+v1.3
+- Migrazione nuovo server
+v1.2
+- Correzione descrizione Evil King Repository
+v1.1
+- Test auto aggiornamento: Nessuna modifica
+v1.0
+- Rilascio della Repository
+</news>
+		<platform>all</platform>
+	</extension>
+</addon>

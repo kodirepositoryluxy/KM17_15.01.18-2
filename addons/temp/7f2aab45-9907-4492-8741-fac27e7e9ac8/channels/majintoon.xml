@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+    <id>majintoon</id>
+    <name>Majintoon</name>
+
+    <active>true</active>
+    <adult>false</adult>
+    <language>it</language>
+
+    <thumbnail>https://majintoon.files.wordpress.com/2017/03/anime-fight-mix.jpg</thumbnail>
+    <bannermenu>https://majintoon.files.wordpress.com/2017/03/anime-fight-mix.jpg</bannermenu>
+
+    <update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/channels/</update_url>
+    <version>5</version>
+    <date>1/07/2017</date>
+    <changes>Small Fix and removed library support</changes>
+
+    <categories>
+        <category>serie</category>
+        <category>anime</category>
+    </categories>
+
+    <settings>
+        <id>include_in_global_search</id>
+        <type>bool</type>
+        <label>Includi ricerca globale</label>
+		<default>false</default>
+		<enabled>false</enabled>
+		<visible>true</visible>
+    </settings>
+</channel>

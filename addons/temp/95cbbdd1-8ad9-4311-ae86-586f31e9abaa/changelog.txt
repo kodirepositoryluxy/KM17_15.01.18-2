@@ -1,0 +1,137 @@
+v5.5.9
+- transactional release
+
+v5.5.8
+- various re-fix on mega-update
+
+v5.5.7
+- mega-update
+
+v5.5.6
+- new SOD fashion
+
+v5.5.5
+- main menu update with news
+- removed dead channels
+
+v5.5.4
+- main menu update
+- removed dead channels
+- new channels
+
+v5.5.3
+- mitigated thread in search
+- update on menu
+- new channels
+- new servers
+- small general fixes
+
+v5.5.2
+- update channels and servers process
+- new channels
+- small general fixes
+
+v5.5.1
+- global search, update channels/server fix... perhaps :-)
+- minor release
+
+v5.5.0
+- gobal merge fix
+- library, download, tvdb optimization
+- fix channels and servers
+
+v5.4.9
+- major upstreams fix
+
+v5.4.8
+- fix mega connector multi-platform
+- fix erratic search
+- tmdb ad scraper optimization
+
+v5.4.7
+- fix library, download, favorites
+- removed dead channels
+- added new channels
+- removed last_search
+- special thanks coding: MrTruth0, axlt2002
+- special thanks sharing ideas: Scruffy3000, thehutt61
+- International Women's Day (IWD) release :-)
+
+v5.4.6
+- wide change: Kodi 17 compatible
+- removed dead channels
+- new channels
+
+v5.4.5
+- transitional release, not yet Kodi 17 dedicated version
+- new channels
+- various fix
+
+v5.4.4
+- fixed dowload options
+- fixed some servers
+- added new channels
+
+v5.4.3
+- various fix
+
+v5.4.2
+- fix update channels
+- added new channels
+- remove dead channels
+- fix host domains 
+
+v5.4.1
+- transictional release
+
+v5.4.0
+- global search fix
+- update options fix
+- new channels added
+- updated some channels and servers
+- removed channel
+
+v5.3.9
+- configuration fix
+- search options fix
+- captcha fix
+- updated some channels and servers
+
+v5.3.8
+- library fix
+- cookies management fix
+
+v5.3.7
+- Megamerge pelisa
+- Major update
+
+v5.3.6
+- openload big fix
+- jjdecode lib
+
+v5.3.5
+- fix megadrive, streaminto, openload (plus code jsunpack)
+- beautify jjdecode lib
+- translated downloadtools by artioni81
+- new channel: altadefinizioneclub
+- fixed some channels
+
+v5.3.4
+- openload big fix
+- transictional release
+
+v5.3.3
+- openload fix
+- new channel added
+- favorites and download -=NOT WORKING=-
+
+v5.3.2
+- TMDB fix
+- many channels fix
+
+v5.3.1
+- Minor fix menu
+
+v5.3.0
+- Megamerge pelisa
+- Major update

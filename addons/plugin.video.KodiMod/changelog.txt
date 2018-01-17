@@ -1,0 +1,10 @@
+v1.0.3
+Versione aggiornata al 21.10.2016
+
+
+v1.0.2
+Fixed Script Error when Force Close Kodi
+
+
+v1.0
+Initial Release

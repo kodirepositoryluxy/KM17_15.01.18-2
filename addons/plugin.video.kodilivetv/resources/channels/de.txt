@@ -1,0 +1,26 @@
+#EXTINF:-1 tvg-logo="austria_24.png",[COLOR orange]Austria 24[/COLOR]
+rtmp://streaming.austria24.tv/live/stream_360p
+#EXTINF:-1 tvg-logo="0068.png",[COLOR orange]Deutsche Welle[/COLOR]
+http://www.metafilegenerator.de/DWelle/tv/ios/master.m3u8
+#EXTINF:-1 tvg-logo="0018.png",[COLOR orangered]WDR HD[/COLOR]
+http://wdr_fs-lh.akamaihd.net/i/wdrfs_weltweit@112033/index_3776_av-b.m3u8
+#EXTINF:-1 tvg-logo="aktuelle.png",[COLOR orangered]TV Aktuell[/COLOR]
+http://tvaktuellr.iptv-playoutcenter.de:1935/tvaktuellr/tvaktuellr.stream_1/playlist.m3u8
+#EXTINF:-1 tvg-logo="elbe_kanal.png",[COLOR orange]Elbe Kanal[/COLOR]
+rtmp://62.113.210.250/medienasa-live/elbe_high
+#EXTINF:-1 tvg-logo="augsburg_Tv.png",[COLOR orangered]Augsburg TV[/COLOR]
+rtmp://augsburgtv.iptv-playoutcenter.de:1935/augsburgtv/augsburgtv.stream_1
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]München TV[/COLOR]
+rtmp://muenchentv.iptv-playoutcenter.de/muenchentv/muenchentv.stream_1
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Halle TV[/COLOR]
+rtmp://62.113.210.250/medienasa-live/tvhalle_high
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Ok Dessau[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ok-dessau_high
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Ok Magdeburg[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ok-magdeburg_high
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Ok Salzwedel[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ok-salzwedel_high
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Ok Stendal[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ok-stendal_high
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orange]Ok Wernigerode[/COLOR]
+rtmp://62.113.210.250/medienasa-live/ok-wernigerode_high

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+        <category label="10107">
+            <setting id="action" type="action" label="10105" action="RunScript($CWD/default.py,,?mode=45&url=settings)" option="close" />
+            <setting id="action" type="action" label="10102" action="RunScript($CWD/default.py,,?mode=41&url=settings)" option="close" />
+            <setting id="action" type="action" label="10160" action="RunScript($CWD/default.py,,?mode=1&url=settings)" option="close" />
+        </category>
+        <category label="10110">
+            <setting id="autoupdate" type="bool" label="10151" default="true" />
+            <setting id="XXX_section" type="bool" label="10152" default="false" />
+            <setting id="browser" type="select" label="10118" values="Chrome|Internet Explorer|Chromium" default="Chrome" />
+            <setting id="action" type="action" label="10119" action="RunScript($CWD/default.py,,?mode=47&url=settings)" option="close" />
+            <setting label="Download Video" type="lsep"/>
+            <!--setting id="use_simple_downloader" type="bool" label="10113" default="false" />
+            <setting id="action" type="action" label="Patch Simple Downloader" action="RunScript($CWD/default.py,,?mode=10&url=settings)" option="close" -->
+            <setting id="download_path" type="folder" label="Download :" />
+        </category>
+        <category label="Teleboy">
+            <setting id="player" type="bool" label="10150" default="false" />
+            <setting id="action" type="action" label="10161" action="RunScript($CWD/default.py,,?mode=62&url=settings)" option="close" />
+            <setting label="Teleboy Login" type="lsep" />
+            <setting id="login" type="text" label="Login:" />
+            <setting id="password" type="text" label="Password:" option="hidden"/> 
+        </category>
+</settings>

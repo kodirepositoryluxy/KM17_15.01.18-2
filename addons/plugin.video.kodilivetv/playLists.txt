@@ -1,0 +1,38 @@
+[  
+    {
+        "url": "tr.txt",
+        "image": "http://kodilive.eu/flag/tr.png",       
+        "name": 10024
+    }, 
+    {
+        "url": "es.txt",
+        "image": "http://kodilive.eu/flag/es.png",        
+        "name": 10025
+    }, 
+    {
+        "url": "pt.txt",
+        "image": "http://kodilive.eu/flag/pt.png",     
+        "name": 10026
+    }, 
+    {
+        "url": "ru.txt",
+        "image": "http://kodilive.eu/flag/ru.png",     
+        "name": 10027
+    },
+    {
+        "url": "ro.txt",
+        "image": "http://kodilive.eu/flag/ro.png",     
+        "name": 10029
+    },     
+    {
+        "url": "gr.txt",
+        "image": "http://kodilive.eu/flag/gr.png",
+        "name": 10030
+    },
+    {
+        "url": "pl.txt",
+        "image": "http://kodilive.eu/flag/pl.png",       
+        "name": 10034
+    }
+    
+]

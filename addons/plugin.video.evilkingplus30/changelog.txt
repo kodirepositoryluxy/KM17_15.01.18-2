@@ -1,0 +1,53 @@
+v6.0.0
+- [COLOR red][B](FIX)[/B][/COLOR] - Funzione Ricerca all'interno dell'addon
+v5.0.3
+- [COLOR red][B](FIX)[/B][/COLOR] - Funzione EPG By Vexen
+v5.0.2
+- [COLOR red][B](FIX)[/B][/COLOR] - Fix problema SSL 
+v5.0.1
+- [COLOR red][B](FIX)[/B][/COLOR] - Fix stabilità
+v5.0.0
+-[COLOR red][B](NEW)[/B][/COLOR]  - Riscritto intero Addon aumentata velocità e compatibilità da kodi 16 a 18x
+-[COLOR red][B](NEW)[/B][/COLOR]  - Eliminate "Notifiche Push" menù più semplici con meno passaggi.	
+v4.1.2	
+- [COLOR red][B](FIX)[/B][/COLOR] - Fix bug minori
+v4.1.1
+- [COLOR red][B](FIX)[/B][/COLOR] - Riscritto il sistema di "Notifiche Push" che causava rallentamenti al server di Evil King.
+v4.1.0
+- [COLOR red][B](NEW)[/B][/COLOR] - Sistema di Notifiche Push by iPaderi
+- [COLOR red][B](NEW)[/B][/COLOR] - Possibilità di aprire le impostazioni di Evil con il tasto destro su un oggetto.
+v4.0.1
+- [COLOR red][B](FIX)[/B][/COLOR] - Fix stabilità e funzionalità
+- [COLOR red][B](FIX)[/B][/COLOR] - Risolto problemi compatibilità 17.3
+- [COLOR red][B](FIX)[/B][/COLOR] - Fix Pulizia Kodi/Common Cache/Ripristina Evil King	
+- [COLOR red][B](FIX)[/B][/COLOR] - Link Utili Sistemati, ora si aprono a dovere.
+- [COLOR red][B](FIX)[/B][/COLOR] - Inseriti Tag corretti nel ChangeLog
+- [COLOR red][B](FIX)[/B][/COLOR] - Ripristinati collegamenti degli zip per gli Addons Necessari installabili dalle impostazioni di Evil
+v4.0.0
+- [COLOR red][B](NEW)[/B][/COLOR] - Possibilità di forzare la chiusura di Kodi premendo il tasto destro su qualsiasi oggetto.
+- [COLOR red][B](FIX)[/B][/COLOR] - Fix browser con possibilità di selezionare Google Chrome o quello di Default su dispositivi Android 
+- [COLOR red][B](FIX)[/B][/COLOR] - Corretti errori di battitura su alcuni link utili
+- [COLOR red][B](NEW)[/B][/COLOR] - Basta Wizard! Adesso Evil King pulisce Kodi come i classici Wizard!
+- [COLOR red][B](HOT)[/B][/COLOR] - Avviso per gli utenti dell'app Android all'apertura
+- [COLOR red][B](HOT)[/B][/COLOR] - Aggiunto 'Ripristina Evil King' (Ripristina Evil King alle impostazioni di fabbrica)
+- [COLOR red][B](FIX)[/B][/COLOR] - Fix compatibilità Kodi 16
+- [COLOR red][B](FIX)[/B][/COLOR] - Sistemata installazione F4mProxy/F4mTester/Plexus dalle impostazioni di EvilKing.
+- [COLOR red][B](HOT)[/B][/COLOR] - Nuova grafica per Ultimate 
+- [COLOR red][B](HOT)[/B][/COLOR] - Registra il programma che stai guardando ( Migliorata qualità di registazione ) 
+- [COLOR red][B](HOT)[/B][/COLOR] - Pulizia Cache e file temporanei di Evil tra le impostazioni
+v3.0.4
+- [COLOR red][B](FIX)[/B][/COLOR] - Sistemato problema per utenti Linux
+- [COLOR red][B](NEW)[/B][/COLOR] - Nuova funzione inserita e corretta da bug: Preferiti Evil King Plus
+v3.0.3
+- [COLOR red][B](NEW)[/B][/COLOR] - Inserimento nuovo Parental Control! ( Grazie Salvatore @jspkay )
+- [COLOR red][B](FIX)[/B][/COLOR] - Ottimizzazione compatibilità con Kodi 16/16.1/17.1/18
+- [COLOR red][B](NEW)[/B][/COLOR] - Leggero aumento della velocità di apertura!
+- [COLOR red][B](FIX)[/B][/COLOR] - Risolti alcuni bug minori
+v3.0.2
+- [COLOR red][B](FIX)[/B][/COLOR] - Correzioni finali per il rilascio al pubblico.
+v3.0.1
+- [COLOR red][B](FIX)[/B][/COLOR] - Correzione descrizione dell'AddOn
+v3.0.0
+- [COLOR red][B](FIX)[/B][/COLOR] - Sistemato compatibilità con Kodi 16
+- [COLOR red][B](FIX)[/B][/COLOR] - Sistemato compatibilità con Kodi 17.1
+- Per info e segnalazioni bug contattami su telegram @iPaderi

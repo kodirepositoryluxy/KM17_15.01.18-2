@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.boom" name="BOOM! Repository" version="1.5" provider-name="BOOM">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="BOOM! Repository">
+            <info compressed="false">http://burrtv.tech/boom/_repo/addons.xml</info>
+            <checksum>http://burrtv.tech/boom/_repo/addons.xml.md5</checksum>
+            <datadir zip="true">http://burrtv.tech/boom/_repo/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>BOOM! Repository</summary>
+            <description>In memory of Lee Jeffries.</description>
+            <platform>all</platform>
+    </extension>
+</addon>

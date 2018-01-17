@@ -1,0 +1,35 @@
+[
+    {
+        "url": "en.txt",
+        "image": "tv.png",        
+        "name": 10057
+    },    
+    {
+        "url": "radioen.txt",
+        "image": "radio.png",
+        "name":10073
+    }, 
+
+    {
+        "url": "bbc_radio.txt",
+        "image": "radio.png",
+        "name":10074
+    }, 
+    
+    {
+        "url": "vpnuk.txt",
+        "image": "tv.png",        
+        "name": 10059
+    }, 
+    
+    {
+        "url": "http://kodilive.eu/iptv/rawtb.php?l=chen",
+        "image": "tb.png",        
+        "name": 10054
+    },
+    {
+        "url": "w_en.txt",
+        "image": "wi.png",        
+        "name": 10054
+    }
+]

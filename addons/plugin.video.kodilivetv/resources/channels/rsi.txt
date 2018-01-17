@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-logo="0601.png",[COLOR orange]RSI LA 1[/COLOR]
+12:enc12uni_ch@191527
+#EXTINF:-1 tvg-logo="0603.png",[COLOR orange]RSI LA 2[/COLOR]
+13:enc13uni_ch@191855

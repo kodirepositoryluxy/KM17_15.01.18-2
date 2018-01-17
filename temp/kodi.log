@@ -1,0 +1,383 @@
+﻿12:38:10.186 T:140030275733888  NOTICE: special://profile/ is mapped to: special://masterprofile/
+12:38:10.186 T:140030275733888  NOTICE: -----------------------------------------------------------------------
+12:38:10.186 T:140030275733888  NOTICE: Starting Kodi (17.6 Git:20171114-a9a7a20). Platform: Linux x86 64-bit
+12:38:10.186 T:140030275733888  NOTICE: Using Release Kodi x64 build
+12:38:10.186 T:140030275733888  NOTICE: Kodi compiled Nov  4 2012 by GCC 6.3.0 for Linux x86 64-bit version 4.10.17 (264721)
+12:38:10.186 T:140030275733888  NOTICE: Running on Ubuntu 17.04, kernel: Linux x86 64-bit version 4.10.0-42-generic
+12:38:10.187 T:140030275733888  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+12:38:10.187 T:140030275733888  NOTICE: Host CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, 8 cores available
+12:38:10.187 T:140030275733888  NOTICE: special://xbmc/ is mapped to: /usr/share/kodi
+12:38:10.187 T:140030275733888  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/x86_64-linux-gnu/kodi
+12:38:10.187 T:140030275733888  NOTICE: special://xbmcbinaddons/ is mapped to: /usr/lib/x86_64-linux-gnu/kodi/addons
+12:38:10.187 T:140030275733888  NOTICE: special://masterprofile/ is mapped to: /home/aba/.kodi/userdata
+12:38:10.187 T:140030275733888  NOTICE: special://envhome/ is mapped to: /home/aba
+12:38:10.187 T:140030275733888  NOTICE: special://home/ is mapped to: /home/aba/.kodi
+12:38:10.187 T:140030275733888  NOTICE: special://temp/ is mapped to: /home/aba/.kodi/temp
+12:38:10.187 T:140030275733888  NOTICE: special://logpath/ is mapped to: /home/aba/.kodi/temp
+12:38:10.187 T:140030275733888  NOTICE: The executable running is: /usr/lib/x86_64-linux-gnu/kodi/kodi.bin
+12:38:10.187 T:140030275733888  NOTICE: Local hostname: aba-HP-ENVY-Notebook
+12:38:10.187 T:140030275733888  NOTICE: Log File is located: /home/aba/.kodi/temp//kodi.log
+12:38:10.187 T:140030275733888  NOTICE: -----------------------------------------------------------------------
+12:38:10.209 T:140030275733888   ERROR: DBus: Error org.freedesktop.DBus.Error.InvalidArgs - Proprietà "CanSuspend" inesistente
+12:38:10.210 T:140030275733888   ERROR: DBus: Error org.freedesktop.DBus.Error.InvalidArgs - Proprietà "CanHibernate" inesistente
+12:38:10.212 T:140030275733888  NOTICE: load settings...
+12:38:10.225 T:140030275733888  NOTICE: Found 1 Lists of Devices
+12:38:10.225 T:140030275733888  NOTICE: Enumerated PULSE devices:
+12:38:10.225 T:140030275733888  NOTICE:     Device 1
+12:38:10.225 T:140030275733888  NOTICE:         m_deviceName      : Default
+12:38:10.225 T:140030275733888  NOTICE:         m_displayName     : Default
+12:38:10.225 T:140030275733888  NOTICE:         m_displayNameExtra: Default Output Device (PULSEAUDIO)
+12:38:10.225 T:140030275733888  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+12:38:10.225 T:140030275733888  NOTICE:         m_channels        : FL,FR
+12:38:10.225 T:140030275733888  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+12:38:10.225 T:140030275733888  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
+12:38:10.225 T:140030275733888  NOTICE:         m_streamTypes     : No passthrough capabilities
+12:38:10.225 T:140030275733888  NOTICE:     Device 2
+12:38:10.225 T:140030275733888  NOTICE:         m_deviceName      : alsa_output.pci-0000_00_1f.3.analog-stereo
+12:38:10.225 T:140030275733888  NOTICE:         m_displayName     : Audio interno Stereo analogico
+12:38:10.225 T:140030275733888  NOTICE:         m_displayNameExtra: Altoparlanti (PULSEAUDIO)
+12:38:10.225 T:140030275733888  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+12:38:10.225 T:140030275733888  NOTICE:         m_channels        : FL,FR
+12:38:10.225 T:140030275733888  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+12:38:10.225 T:140030275733888  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
+12:38:10.225 T:140030275733888  NOTICE:         m_streamTypes     : No passthrough capabilities
+12:38:10.228 T:140030275733888  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+12:38:10.228 T:140030275733888  NOTICE: Loaded settings file from special://profile/advancedsettings.xml
+12:38:10.228 T:140030275733888  NOTICE: Contents of special://profile/advancedsettings.xml are...
+                                            <!-- Created using Easy Advanced Settings addon -->
+                                            <advancedsettings>
+                                              <network>
+                                                <buffermode>1</buffermode>
+                                                <cachemembuffersize>419430400</cachemembuffersize>
+                                                <readbufferfactor>4.0</readbufferfactor>
+                                              </network>
+                                            </advancedsettings>
+12:38:10.228 T:140030275733888  NOTICE: Default Video Player: VideoPlayer
+12:38:10.228 T:140030275733888  NOTICE: Default Audio Player: paplayer
+12:38:10.228 T:140030275733888  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+12:38:10.228 T:140030275733888  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+12:38:10.228 T:140030275733888  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+12:38:10.230 T:140030275733888  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+12:38:10.230 T:140030275733888  NOTICE: Loaded playercorefactory configuration
+12:38:10.230 T:140030275733888  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+12:38:10.230 T:140030275733888  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+12:38:10.241 T:140030275733888  NOTICE: Running database version Addons27
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.xbmc.org
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.axbmcuser
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.colossus
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository superrepo.kodi.krypton.all
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.vipsecrettv
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.aresproject
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.xbmchub
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.kodil
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository baseaddons.repository
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.evilkingrepository
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.exodus
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.origin
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.stefanorepository
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.RisingTides
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository loganaddon.repository
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.smash
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.StreamArmy
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.supremacy
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.schemestreams
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.Brettusrepo
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.inside4ndroid
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.kodinerds
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.maverickrepo
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.alleyezonme
+12:38:10.374 T:140030275733888  NOTICE: ADDONS: Using repository repository.Goliath
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository MOTB.repository
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.Rockcrusher
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.cerebro
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.noobsandnerds
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.xbmc-avigdork
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository plugin.video.avezy
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.playonmonkey
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.sweetwork
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.zt
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.lucifer
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.Maniac
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.SpinzTV
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.lookingglass
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.uncoded
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.jesusboxtv
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.streetwise
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.q
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.subzero
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.slim
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.husham.com
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.Galaxy
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.swiperdan
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.Wherethemonsterslive
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.blamo
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.Firestickplusman
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.aj
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.tknorris.release
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.ytplugin
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository tvsupertuga.repository
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.illuminati
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.tantrumtv
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.plexus-streams
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.boom
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository repository.judgement
+12:38:10.375 T:140030275733888  NOTICE: ADDONS: Using repository frenchdj.repository
+12:38:10.384 T:140029682771712  NOTICE: PulseAudio: Opened device Default in pcm mode with Buffersize 150 ms
+12:38:10.468 T:140030275733888  NOTICE: Checking resolution 15
+12:38:10.525 T:140030275733888  NOTICE: Using visual 0x41
+12:38:10.529 T:140030275733888  NOTICE: GL_VENDOR = Intel Open Source Technology Center
+12:38:10.529 T:140030275733888  NOTICE: GL_RENDERER = Mesa DRI Intel(R) HD Graphics 530 (Skylake GT2)
+12:38:10.529 T:140030275733888  NOTICE: GL_VERSION = 3.0 Mesa 17.0.7
+12:38:10.529 T:140030275733888  NOTICE: GL_SHADING_LANGUAGE_VERSION = 1.30
+12:38:10.529 T:140030275733888  NOTICE: GL_EXTENSIONS = GL_ARB_multisample GL_EXT_abgr GL_EXT_bgra GL_EXT_blend_color GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_copy_texture GL_EXT_polygon_offset GL_EXT_subtexture GL_EXT_texture_object GL_EXT_vertex_array GL_EXT_compiled_vertex_array GL_EXT_texture GL_EXT_texture3D GL_IBM_rasterpos_clip GL_ARB_point_parameters GL_EXT_draw_range_elements GL_EXT_packed_pixels GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_separate_specular_color GL_EXT_texture_edge_clamp GL_SGIS_generate_mipmap GL_SGIS_texture_border_clamp GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_ARB_framebuffer_sRGB GL_ARB_multitexture GL_EXT_framebuffer_sRGB GL_IBM_multimode_draw_arrays GL_IBM_texture_mirrored_repeat GL_3DFX_texture_compression_FXT1 GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_transpose_matrix GL_EXT_blend_func_separate GL_EXT_fog_coord GL_EXT_multi_draw_arrays GL_EXT_secondary_color GL_EXT_texture_env_add GL_EXT_texture_filter_anisotropic GL_EXT_texture_lod_bias GL_INGR_blend_func_separate GL_NV_blend_square GL_NV_light_max_exponent GL_NV_texgen_reflection GL_NV_texture_env_combine4 GL_S3_s3tc GL_SUN_multi_draw_arrays GL_ARB_texture_border_clamp GL_ARB_texture_compression GL_EXT_framebuffer_object GL_EXT_texture_compression_s3tc GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_MESA_window_pos GL_NV_packed_depth_stencil GL_NV_texture_rectangle GL_ARB_depth_texture GL_ARB_occlusion_query GL_ARB_shadow GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_mirrored_repeat GL_ARB_window_pos GL_EXT_stencil_two_side GL_EXT_texture_cube_map GL_NV_depth_clamp GL_APPLE_packed_pixels GL_APPLE_vertex_array_object GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_vertex_program GL_ARB_vertex_shader GL_ATI_draw_buffers GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_MESA_pack_invert GL_NV_primitive_restart GL_ARB_depth_clamp GL_ARB_fragment_program_shadow GL_ARB_half_float_pixel GL_ARB_occlusion_query2 GL_ARB_point_sprite GL_ARB_shading_language_100 GL_ARB_sync GL_ARB_texture_non_power_of_two GL_ARB_vertex_buffer_object GL_ATI_blend_equation_separate GL_EXT_blend_equation_separate GL_OES_read_format GL_ARB_color_buffer_float GL_ARB_pixel_buffer_object GL_ARB_texture_compression_rgtc GL_ARB_texture_float GL_ARB_texture_rectangle GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_shared_exponent GL_ARB_framebuffer_object GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_packed_depth_stencil GL_APPLE_object_purgeable GL_ARB_vertex_array_object GL_ATI_separate_stencil GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_gpu_program_parameters GL_EXT_texture_array GL_EXT_texture_integer GL_EXT_texture_sRGB_decode GL_EXT_timer_query GL_OES_EGL_image GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_instanced_arrays GL_ARB_map_buffer_range GL_ARB_texture_rg GL_ARB_texture_swizzle GL_ARB_vertex_array_bgra GL_EXT_texture_swizzle GL_EXT_vertex_array_bgra GL_NV_conditional_render GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_ARB_ES2_compatibility GL_ARB_blend_func_extended GL_ARB_debug_output GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_provoking_vertex GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_shader_stencil_export GL_ARB_shader_texture_lod GL_ARB_texture_cube_map_array GL_ARB_texture_gather GL_ARB_texture_multisample GL_ARB_texture_query_lod GL_ARB_texture_rgb10_a2ui GL_ARB_uniform_buffer_object GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_provoking_vertex GL_EXT_texture_snorm GL_MESA_texture_signed_rgba GL_NV_texture_barrier GL_ARB_get_program_binary GL_ARB_robustness GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shader_precision GL_ARB_texture_compression_bptc GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_internalformat_query GL_ARB_map_buffer_alignment GL_ARB_shader_atomic_counters GL_ARB_shader_image_load_store GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_texture_storage GL_ARB_transform_feedback_instanced GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_transform_feedback GL_AMD_shader_trinary_minmax GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_clear_buffer_object GL_ARB_compute_shader GL_ARB_copy_image GL_ARB_explicit_uniform_location GL_ARB_framebuffer_no_attachments GL_ARB_invalidate_subdata GL_ARB_program_interface_query GL_ARB_robust_buffer_access_behavior GL_ARB_shader_image_size GL_ARB_shader_storage_buffer_object GL_ARB_stencil_texturing GL_ARB_texture_query_levels GL_ARB_texture_storage_multisample GL_ARB_texture_view GL_ARB_vertex_attrib_binding GL_KHR_debug GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_ARB_buffer_storage GL_ARB_clear_texture GL_ARB_internalformat_query2 GL_ARB_multi_bind GL_ARB_query_buffer_object GL_ARB_seamless_cubemap_per_texture GL_ARB_shader_draw_parameters GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_stencil8 GL_ARB_vertex_type_10f_11f_11f_rev GL_EXT_shader_integer_mix GL_ARB_clip_control GL_ARB_conditional_render_inverted GL_ARB_cull_distance GL_ARB_derivative_control GL_ARB_get_texture_sub_image GL_ARB_pipeline_statistics_query GL_ARB_shader_texture_image_samples GL_ARB_texture_barrier GL_EXT_polygon_offset_clamp GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_robust_buffer_access_behavior GL_ARB_shader_atomic_counter_ops GL_ARB_shader_clock GL_EXT_shader_samples_identical GL_KHR_texture_compression_astc_sliced_3d GL_MESA_shader_integer_functions
+12:38:10.762 T:140029624055552  NOTICE: Running database version Addons27
+12:38:10.764 T:140029624055552  NOTICE: Running database version ViewModes6
+12:38:10.766 T:140029624055552  NOTICE: Running database version Textures13
+12:38:10.771 T:140029624055552  NOTICE: Running database version MyMusic60
+12:38:10.777 T:140029624055552  NOTICE: Running database version MyVideos107
+12:38:10.778 T:140029624055552  NOTICE: Running database version TV29
+12:38:10.782 T:140029624055552  NOTICE: Running database version Epg11
+12:38:10.800 T:140030275733888  NOTICE: start dvd mediatype detection
+12:38:10.956 T:140030275733888   ERROR: Window Translator: Can't find window infodialog
+12:38:11.003 T:140030275733888 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+12:38:11.108 T:140030275733888  NOTICE: initialize done
+12:38:11.108 T:140030275733888  NOTICE: Running the application...
+12:38:11.110 T:140030275733888  NOTICE: starting zeroconf publishing
+12:38:11.110 T:140030275733888  NOTICE: starting upnp client
+12:38:11.115 T:140027182958336  NOTICE: ES: Starting UDP Event server on port 9777
+12:38:11.115 T:140027182958336  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+12:38:11.860 T:140028245219072  NOTICE: INDIGO NOTICE: STARTING STEMAN SERVICE
+12:38:12.327 T:140028760188672   ERROR: EXCEPTION: Unknown addon id 'plugin.video.israelive'.
+12:38:12.755 T:140029624055552   ERROR: Previous line repeats 1 times.
+12:38:12.755 T:140029624055552  NOTICE: AddOnLog: PVR IPTV Simple Client: Loaded 550 channels.
+12:38:13.020 T:140028253611776  NOTICE: [plugin.video.youtube] Startup: detected Krypton (Kodi-17.6), setting DASH_SUPPORT_BUILTIN = False, DASH_SUPPORT_ADDON = True
+12:38:13.504 T:140027157780224  NOTICE: Start - EPG thread started
+12:38:13.821 T:140028245219072  NOTICE: INDIGO NOTICE: Auto Main Turned off
+12:38:13.821 T:140028245219072  NOTICE: INDIGO NOTICE: SCRIPT BLOCKER ON
+12:38:14.253 T:140027736614656  NOTICE: GENIE WIZ: 2018-01-15 12:38:14.238326
+12:38:14.607 T:140028228433664   ERROR: EXCEPTION: Unknown addon id 'plugin.video.ugottoc'.
+12:38:14.607 T:140028228433664   ERROR: EXCEPTION: Unknown addon id 'plugin.video.theroyalwe'.
+12:38:14.607 T:140028228433664   ERROR: EXCEPTION: Unknown addon id 'plugin.video.redbeard'.
+12:38:14.952 T:140028228433664  NOTICE: URLResolver: Initializing URLResolver version: 4.0.17
+12:38:14.980 T:140028228433664  NOTICE: APEP Common Routines: Setting DHCR API Access log to: /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/access.log
+12:38:15.010 T:140028228433664  NOTICE: APEP Common Routines: DHCR Service Starting...
+12:38:15.014 T:140028228433664  NOTICE: APEP Common Routines:  
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMM DudeHere - 2016 - http://forums.tvaddons.ag MMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+12:38:15.014 T:140028228433664  NOTICE: APEP Common Routines: Version: 0.7.14
+12:38:15.040 T:140028228433664  NOTICE: APEP Common Routines: Repository installed: False
+12:38:15.052 T:140028228433664  NOTICE: APEP Common Routines: Transmogrifier installed: False
+12:38:15.066 T:140028228433664  NOTICE: APEP Common Routines: Walter Sobchak installed: False
+12:38:15.066 T:140028228433664  NOTICE: APEP Common Routines: Launching Fanart WebInterface on: 127.0.0.1:8630
+12:38:15.316 T:140027736614656  NOTICE: GENIE WIZ: Continuing Start Up Script
+12:38:15.331 T:140027736614656  NOTICE: GENIE WIZ: [Path Check] Started
+12:38:15.437 T:140027736614656  NOTICE: GENIE WIZ: [Path Check] Good!
+12:38:15.477 T:140027736614656  NOTICE: GENIE WIZ: [Auto Install Repo] Started
+12:38:15.496 T:140027736614656  NOTICE: GENIE WIZ: [Auto Install Repo] Repository already installed
+12:38:15.503 T:140027736614656  NOTICE: GENIE WIZ: [Auto Update Wizard] Started
+12:38:15.503 T:140027736614656  NOTICE: GENIE WIZ: [Auto Update Wizard] Not Enabled
+12:38:15.503 T:140027736614656  NOTICE: GENIE WIZ: [Notifications] Started
+12:38:15.803 T:140027736614656  NOTICE: GENIE WIZ: [Notifications] id[1] Dismissed
+12:38:15.803 T:140027736614656  NOTICE: GENIE WIZ: [Installed Check] Started
+12:38:15.803 T:140027736614656  NOTICE: GENIE WIZ: [Installed Check] Not Enabled
+12:38:15.803 T:140027736614656  NOTICE: GENIE WIZ: [Build Check] Started
+12:38:15.803 T:140027736614656  NOTICE: GENIE WIZ: [Trakt Data] Started
+12:38:15.803 T:140027736614656  NOTICE: GENIE WIZ: [Trakt Data] Not Enabled
+12:38:15.803 T:140027736614656  NOTICE: GENIE WIZ: [Real Debrid Data] Started
+12:38:15.803 T:140027736614656  NOTICE: GENIE WIZ: [Real Debrid Data] Not Enabled
+12:38:15.803 T:140027736614656  NOTICE: GENIE WIZ: [Login Data] Started
+12:38:15.803 T:140027736614656  NOTICE: GENIE WIZ: [Login Data] Not Enabled
+12:38:15.804 T:140027736614656  NOTICE: GENIE WIZ: [Auto Clean Up] Started
+12:38:15.805 T:140027736614656  NOTICE: GENIE WIZ: [Auto Clean Up] Cache: On
+12:38:15.815 T:140027736614656  NOTICE: GENIE WIZ: [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache
+12:38:15.821 T:140027736614656  NOTICE: GENIE WIZ: [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache
+12:38:15.824 T:140027736614656  NOTICE: GENIE WIZ: Ignore Log File: kodi.log
+12:38:15.824 T:140027736614656  NOTICE: GENIE WIZ: Ignore Log File: kodi.old.log
+12:38:15.824 T:140027736614656  NOTICE: GENIE WIZ: [Wiped] /home/aba/.kodi/temp/commoncache.socket
+12:38:15.824 T:140027736614656  NOTICE: GENIE WIZ: [Wiped] /home/aba/.kodi/temp/commoncache.db
+12:38:15.824 T:140027736614656  NOTICE: GENIE WIZ: [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+12:38:15.824 T:140027736614656  NOTICE: GENIE WIZ: [Auto Clean Up] Old Thumbs: On
+12:38:15.826 T:140027736614656  NOTICE: GENIE WIZ: 0 total thumbs cleaned up.
+12:38:15.839 T:140027736614656  NOTICE: GENIE WIZ: [Auto Clean Up] Packages: On
+12:38:16.134 T:140028253611776  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+12:38:17.972 T:140028271974144   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://www.dropbox.com/s/09o1ngbesuidvvm/km17aba.png?dl=1
+12:38:18.004 T:140027157780224   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://www.dropbox.com/s/m9wm9nru14waqoh/km16nyeaba.png?dl=1
+12:38:18.844 T:140027157780224   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for https://www.dropbox.com/s/09o1ngbesuidvvm/km17aba.png?dl=1
+12:38:22.622 T:140028776974080   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <class 'zipfile.BadZipfile'>
+                                            Error Contents: File is not a zip file
+                                            Traceback (most recent call last):
+                                              File "/home/aba/.kodi/addons/plugin.video.KodiMod/default.py", line 227, in <module>
+                                                wizard(name,url,description)
+                                              File "/home/aba/.kodi/addons/plugin.video.KodiMod/default.py", line 54, in wizard
+                                                extract.all(lib,addonfolder,dp)
+                                              File "/home/aba/.kodi/addons/plugin.video.KodiMod/extract.py", line 5, in all
+                                                return allWithProgress(_in, _out, dp)
+                                              File "/home/aba/.kodi/addons/plugin.video.KodiMod/extract.py", line 23, in allWithProgress
+                                                zin = zipfile.ZipFile(_in,  'r')
+                                              File "/usr/lib/python2.7/zipfile.py", line 770, in __init__
+                                                self._RealGetContents()
+                                              File "/usr/lib/python2.7/zipfile.py", line 813, in _RealGetContents
+                                                raise BadZipfile, "File is not a zip file"
+                                            BadZipfile: File is not a zip file
+                                            -->End of Python script error report<--
+12:38:36.876 T:140028271974144   ERROR: Unable to find plugin
+12:38:36.876 T:140030275733888   ERROR: GetDirectory - Error getting plugin://
+12:38:36.877 T:140030275733888   ERROR: CGUIMediaWindow::GetDirectory(plugin://) failed
+12:38:38.001 T:140028776974080 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-poster.jpg
+12:38:38.002 T:140028776974080 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-poster.png
+12:38:38.002 T:140028776974080 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-banner.jpg
+12:38:38.002 T:140028776974080 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-banner.png
+12:39:00.751 T:140028776974080   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <type 'exceptions.TypeError'>
+                                            Error Contents: expected string or buffer
+                                            Traceback (most recent call last):
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 2949, in <module>
+                                                getData(url,fanart,data)
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 606, in getData
+                                                soup = getSoup(url,data)
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 374, in getSoup
+                                                if re.search("#EXTM3U",data) or 'm3u' in url:
+                                              File "/usr/lib/python2.7/re.py", line 146, in search
+                                                return _compile(pattern, flags).search(string)
+                                            TypeError: expected string or buffer
+                                            -->End of Python script error report<--
+12:39:00.824 T:140030275733888   ERROR: GetDirectory - Error getting plugin://plugin.video.evilkingplus30/?fanart=https%3a%2f%2fwww.dropbox.com%2fs%2fkivb4lt2zk2sbfp%2fnuovo%2520sfondo%2520evil%2520king%25206.jpg%3fdl%3d1&mode=1&name=%5bB%5d%5bCOLOR%20cyan%5dEVIL%202%5b%2fCOLOR%5d%5b%2fB%5d&url=https%3a%2f%2fwww.dropbox.com%2fs%2fnby06vphjfnk84f%2fev2.m3u%3fdl%3d1%24%24TSDOWNLOADER%24%24
+12:39:00.824 T:140030275733888   ERROR: CGUIMediaWindow::GetDirectory(plugin://plugin.video.evilkingplus30/?fanart=https%3a%2f%2fwww.dropbox.com%2fs%2fkivb4lt2zk2sbfp%2fnuovo%2520sfondo%2520evil%2520king%25206.jpg%3fdl%3d1&mode=1&name=%5bB%5d%5bCOLOR%20cyan%5dEVIL%202%5b%2fCOLOR%5d%5b%2fB%5d&url=https%3a%2f%2fwww.dropbox.com%2fs%2fnby06vphjfnk84f%2fev2.m3u%3fdl%3d1%24%24TSDOWNLOADER%24%24) failed
+12:39:05.248 T:140028776974080   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <type 'exceptions.TypeError'>
+                                            Error Contents: expected string or buffer
+                                            Traceback (most recent call last):
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 2949, in <module>
+                                                getData(url,fanart,data)
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 606, in getData
+                                                soup = getSoup(url,data)
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 374, in getSoup
+                                                if re.search("#EXTM3U",data) or 'm3u' in url:
+                                              File "/usr/lib/python2.7/re.py", line 146, in search
+                                                return _compile(pattern, flags).search(string)
+                                            TypeError: expected string or buffer
+                                            -->End of Python script error report<--
+12:39:05.320 T:140030275733888   ERROR: GetDirectory - Error getting plugin://plugin.video.evilkingplus30/?fanart=https%3a%2f%2fwww.dropbox.com%2fs%2fkivb4lt2zk2sbfp%2fnuovo%2520sfondo%2520evil%2520king%25206.jpg%3fdl%3d1&mode=1&name=%5bB%5d%5bCOLOR%20cyan%5dEVIL%204%5b%2fCOLOR%5d%5b%2fB%5d&url=https%3a%2f%2fwww.dropbox.com%2fs%2f3phoy8devfcib6h%2fev4.m3u%3fdl%3d1%24%24TSDOWNLOADER%24%24
+12:39:05.320 T:140030275733888   ERROR: CGUIMediaWindow::GetDirectory(plugin://plugin.video.evilkingplus30/?fanart=https%3a%2f%2fwww.dropbox.com%2fs%2fkivb4lt2zk2sbfp%2fnuovo%2520sfondo%2520evil%2520king%25206.jpg%3fdl%3d1&mode=1&name=%5bB%5d%5bCOLOR%20cyan%5dEVIL%204%5b%2fCOLOR%5d%5b%2fB%5d&url=https%3a%2f%2fwww.dropbox.com%2fs%2f3phoy8devfcib6h%2fev4.m3u%3fdl%3d1%24%24TSDOWNLOADER%24%24) failed
+12:39:08.040 T:140028776974080   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <type 'exceptions.TypeError'>
+                                            Error Contents: expected string or buffer
+                                            Traceback (most recent call last):
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 2949, in <module>
+                                                getData(url,fanart,data)
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 606, in getData
+                                                soup = getSoup(url,data)
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 374, in getSoup
+                                                if re.search("#EXTM3U",data) or 'm3u' in url:
+                                              File "/usr/lib/python2.7/re.py", line 146, in search
+                                                return _compile(pattern, flags).search(string)
+                                            TypeError: expected string or buffer
+                                            -->End of Python script error report<--
+12:39:08.103 T:140030275733888   ERROR: GetDirectory - Error getting plugin://plugin.video.evilkingplus30/?fanart=https%3a%2f%2fwww.dropbox.com%2fs%2fkivb4lt2zk2sbfp%2fnuovo%2520sfondo%2520evil%2520king%25206.jpg%3fdl%3d1&mode=1&name=%5bB%5d%5bCOLOR%20cyan%5dEVIL%206%5b%2fCOLOR%5d%5b%2fB%5d&url=https%3a%2f%2fwww.dropbox.com%2fs%2fvkdmgyu8r076l6w%2fev6.m3u%3fdl%3d1%24%24TSDOWNLOADER%24%24
+12:39:08.103 T:140030275733888   ERROR: CGUIMediaWindow::GetDirectory(plugin://plugin.video.evilkingplus30/?fanart=https%3a%2f%2fwww.dropbox.com%2fs%2fkivb4lt2zk2sbfp%2fnuovo%2520sfondo%2520evil%2520king%25206.jpg%3fdl%3d1&mode=1&name=%5bB%5d%5bCOLOR%20cyan%5dEVIL%206%5b%2fCOLOR%5d%5b%2fB%5d&url=https%3a%2f%2fwww.dropbox.com%2fs%2fvkdmgyu8r076l6w%2fev6.m3u%3fdl%3d1%24%24TSDOWNLOADER%24%24) failed
+12:41:26.510 T:140027157780224   ERROR: EXCEPTION Thrown (PythonToCppException) : -->Python callback/script returned the following error<--
+                                             - NOTE: IGNORING THIS CAN LEAD TO MEMORY LEAKS!
+                                            Error Type: <type 'exceptions.TypeError'>
+                                            Error Contents: expected string or buffer
+                                            Traceback (most recent call last):
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 2949, in <module>
+                                                getData(url,fanart,data)
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 606, in getData
+                                                soup = getSoup(url,data)
+                                              File "/home/aba/.kodi/addons/plugin.video.evilkingplus30/default.py", line 374, in getSoup
+                                                if re.search("#EXTM3U",data) or 'm3u' in url:
+                                              File "/usr/lib/python2.7/re.py", line 146, in search
+                                                return _compile(pattern, flags).search(string)
+                                            TypeError: expected string or buffer
+                                            -->End of Python script error report<--
+12:41:26.554 T:140030275733888   ERROR: GetDirectory - Error getting plugin://plugin.video.evilkingplus30/?fanart=https%3a%2f%2fwww.dropbox.com%2fs%2fkivb4lt2zk2sbfp%2fnuovo%2520sfondo%2520evil%2520king%25206.jpg%3fdl%3d1&mode=1&name=%5bB%5d%5bCOLOR%20cyan%5dEVIL%209%5b%2fCOLOR%5d%5b%2fB%5d&url=https%3a%2f%2fwww.dropbox.com%2fs%2f7ckm4trksbe5wpe%2fev9.m3u%3fdl%3d1%24%24TSDOWNLOADER%24%24
+12:41:26.554 T:140030275733888   ERROR: CGUIMediaWindow::GetDirectory(plugin://plugin.video.evilkingplus30/?fanart=https%3a%2f%2fwww.dropbox.com%2fs%2fkivb4lt2zk2sbfp%2fnuovo%2520sfondo%2520evil%2520king%25206.jpg%3fdl%3d1&mode=1&name=%5bB%5d%5bCOLOR%20cyan%5dEVIL%209%5b%2fCOLOR%5d%5b%2fB%5d&url=https%3a%2f%2fwww.dropbox.com%2fs%2f7ckm4trksbe5wpe%2fev9.m3u%3fdl%3d1%24%24TSDOWNLOADER%24%24) failed
+12:43:17.259 T:140028253611776  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+12:48:17.360 T:140028253611776   ERROR: CCurlFile::Stat - Failed: Couldn't connect to server(7) for http://www.epg-guide.com/it.gz
+12:48:18.244 T:140028253611776  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+12:53:18.411 T:140028253611776   ERROR: CCurlFile::Stat - Failed: Couldn't connect to server(7) for http://www.epg-guide.com/it.gz
+12:53:19.262 T:140028253611776  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+12:58:19.360 T:140028253611776   ERROR: CCurlFile::Stat - Failed: Couldn't connect to server(7) for http://www.epg-guide.com/it.gz
+12:58:20.254 T:140028253611776  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+13:03:20.357 T:140028253611776   ERROR: CCurlFile::Stat - Failed: Couldn't connect to server(7) for http://www.epg-guide.com/it.gz
+13:03:21.214 T:140028253611776  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+13:08:14.010 T:140028245219072  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+13:08:21.118 T:140028253611776   ERROR: CCurlFile::Stat - Failed: Couldn't connect to server(7) for http://www.epg-guide.com/it.gz
+13:08:22.027 T:140028253611776  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+13:13:22.120 T:140028253611776   ERROR: CCurlFile::Stat - Failed: Couldn't connect to server(7) for http://www.epg-guide.com/it.gz
+13:13:23.380 T:140028253611776  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+13:15:50.852 T:140027700385536   ERROR: CCurlFile::Open failed with code 404 for https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5
+13:15:50.853 T:140027700385536   ERROR: Open - failed to open source <https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5>
+13:15:50.853 T:140027700385536   ERROR: CRepository: failed read 'https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5'
+13:15:53.385 T:140029665986304   ERROR: CCurlFile::Open failed with code 404 for https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5
+13:15:53.385 T:140029665986304   ERROR: Open - failed to open source <https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5>
+13:15:53.385 T:140029665986304   ERROR: CRepository: failed read 'https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5'
+13:15:54.124 T:140029624055552   ERROR: CCurlFile::Open failed with code 404 for https://raw.githubusercontent.com/deltacharlie1888/repository.schemestreams/master/zips/addons.xml.md5
+13:15:54.124 T:140029624055552   ERROR: Open - failed to open source <https://raw.githubusercontent.com/deltacharlie1888/repository.schemestreams/master/zips/addons.xml.md5>
+13:15:54.124 T:140029624055552   ERROR: CRepository: failed read 'https://raw.githubusercontent.com/deltacharlie1888/repository.schemestreams/master/zips/addons.xml.md5'
+13:15:54.261 T:140027700385536   ERROR: CAddonMgr: Failed to parse addons.xml.
+13:15:54.497 T:140027700385536   ERROR: CCurlFile::Open failed with code 404 for http://i4pro.co.uk/kodi/_addons/addons.xml.md5
+13:15:54.497 T:140027700385536   ERROR: Open - failed to open source <http://i4pro.co.uk/kodi/_addons/addons.xml.md5>
+13:15:54.497 T:140027700385536   ERROR: CRepository: failed read 'http://i4pro.co.uk/kodi/_addons/addons.xml.md5'
+13:15:54.518 T:140029665986304   ERROR: ADDON: extension '' is not currently supported for service addon
+13:15:54.726 T:140029624055552   ERROR: Previous line repeats 1 times.
+13:15:54.726 T:140029624055552   ERROR: CAddonMgr: Failed to parse addons.xml.
+13:15:56.720 T:140029624055552   ERROR: ADDON: extension '' is not currently supported for service addon
+13:15:56.723 T:140029665986304   ERROR: Previous line repeats 1 times.
+13:15:56.723 T:140029665986304   ERROR: CAddonMgr: Failed to parse addons.xml.
+13:15:57.184 T:140029624055552   ERROR: CCurlFile::Open failed with code 404 for https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5
+13:15:57.185 T:140029624055552   ERROR: Open - failed to open source <https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5>
+13:15:57.185 T:140029624055552   ERROR: CRepository: failed read 'https://raw.githubusercontent.com/Colossal1/repository.colossus.common/master/addons.xml.md5'
+13:15:58.562 T:140027700385536   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 403
+13:15:58.562 T:140027700385536   ERROR: CCurlFile::Open failed with code 403 for http://www.projectdaddon.com/plugins/addons.xml.md5
+13:15:58.562 T:140027700385536   ERROR: Open - failed to open source <http://www.projectdaddon.com/plugins/addons.xml.md5>
+13:15:58.562 T:140027700385536   ERROR: CRepository: failed read 'http://www.projectdaddon.com/plugins/addons.xml.md5'
+13:15:59.360 T:140029624055552   ERROR: CAddonMgr: Failed to parse addons.xml.
+13:16:01.797 T:140027700385536   ERROR: ADDON: extension '' is not currently supported for service addon
+13:16:04.884 T:140027700385536   ERROR: Previous line repeats 1 times.
+13:16:04.884 T:140027700385536   ERROR: CCurlFile::Open failed with code 404 for https://archive.org/download/JudgementRepo/Repo/addons.xml.md5
+13:16:04.884 T:140027700385536   ERROR: Open - failed to open source <https://archive.org/download/JudgementRepo/Repo/addons.xml.md5>
+13:16:04.884 T:140027700385536   ERROR: CRepository: failed read 'https://archive.org/download/JudgementRepo/Repo/addons.xml.md5'
+13:18:23.491 T:140028253611776   ERROR: CCurlFile::Stat - Failed: Couldn't connect to server(7) for http://www.epg-guide.com/it.gz
+13:18:24.536 T:140028253611776  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+13:19:38.365 T:140029624055552 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-poster.jpg
+13:19:38.365 T:140029624055552 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-poster.png
+13:19:38.365 T:140029624055552 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-banner.jpg
+13:19:38.365 T:140029624055552 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-banner.png
+13:19:46.025 T:140029624055552 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-poster.jpg
+13:19:46.025 T:140029624055552 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-poster.png
+13:19:46.025 T:140029624055552 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-banner.jpg
+13:19:46.025 T:140029624055552 WARNING: CreateLoader - unsupported protocol(script) in script://plugin.video.streamondemand-pureita-master/-banner.png
+13:20:15.367 T:140030275733888  NOTICE: Storing total System Uptime
+13:20:15.367 T:140030275733888  NOTICE: Saving settings
+13:20:15.368 T:140030275733888  NOTICE: Saving skin settings
+13:20:15.368 T:140030275733888  NOTICE: stop all
+13:20:15.368 T:140030275733888  NOTICE: stop player
+13:20:15.368 T:140030275733888  NOTICE: ES: Stopping event server
+13:20:15.368 T:140030275733888  NOTICE: stopping upnp
+13:20:15.519 T:140030275733888  NOTICE: stopping zeroconf publishing
+13:20:15.578 T:140027182958336  NOTICE: ES: UDP Event server stopped
+13:20:15.578 T:140030275733888  NOTICE: stop dvd detect media
+13:20:15.798 T:140030275733888  NOTICE: clean cached files!
+13:20:15.851 T:140028245219072  NOTICE: INDIGO NOTICE: CLOSING INDIGO SERVICES
+13:20:17.648 T:140028228433664  NOTICE: APEP Common Routines: Service stopping...
+13:20:22.657 T:140030275733888   ERROR: CPythonInvoker(9, /home/aba/.kodi/addons/script.module.dudehere.routines/service.py): script didn't stop in 5 seconds - let's kill it
+13:20:22.947 T:140030275733888  NOTICE: closing down remote control service
+13:20:22.947 T:140030275733888  NOTICE: stopped
+13:20:23.147 T:140030275733888  NOTICE: destroy
+13:20:23.147 T:140030275733888  NOTICE: unload skin
+13:20:23.150 T:140030275733888 WARNING: Cleanup: Having to cleanup texture button-focus.png
+13:20:24.181 T:140030275733888  NOTICE: unload sections
+13:20:24.183 T:140030275733888  NOTICE: special://profile/ is mapped to: special://masterprofile/
+13:20:24.183 T:140030275733888  NOTICE: PVRManager - stopping
+13:20:24.569 T:140030275733888  NOTICE: application stopped...

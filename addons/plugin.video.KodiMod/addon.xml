@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.KodiMod" name="[I][B][COLOR orange]K[COLOR lime]o[COLOR violet]d[COLOR cyan]i[COLOR orange]M[COLOR lime]o[COLOR violet]d[/I][/COLOR][/B]" version="1.0.8" provider-name="androidaba.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Kodi Mod Build</summary>
+    <description lang="en">[COLOR cyan][B]Installa facilmente una versione tutta italiana per Kodi e progetti paralleli. Dopo l'installazione delle nostre Builds vi consigliamo di [COLOR red]pulire la cache con [COLOR orange]Ares Wizard [COLOR cyan]o [COLOR lime]Indigo. [COLOR yellow][I]Per info e assistenza siamo a vostra disposizione su [COLOR red]www.androidaba.com [/COLOR][/B][/I]</description>
+    <platform>all</platform>
+  </extension>
+</addon>

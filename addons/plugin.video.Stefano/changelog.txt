@@ -1,0 +1,31 @@
+Version 5.0.0
+-[COLOR red][B](NEW)[/B][/COLOR] Ritocchi base aggiunti moduli integrazione ste scapring
+
+Version 4.0.5
+-[COLOR red][B](NEW)[/B][/COLOR] Cambio Hosting (dopo attacco)
+
+Version 4.0.4
+-[COLOR red][B](NEW)[/B][/COLOR] Aggiornatemnto Proxy Aggiornamento Sources	
+Fix Vari
+
+
+Version 4.0.1
+-[COLOR red][B](NEW)[/B][/COLOR] Fix Dipendenze		
+
+Version 4.0.0
+-[COLOR red][B](NEW)[/B][/COLOR] Tutto lo sport Auto aggiornante !!! Nuovi moduli auto installanti da repo
+Version
+3.0.1
+-[COLOR red][B](NEW)[/B][/COLOR] Aggiunta funzione apri da dispositivo potrai aprire le tue liste e i tuoi video
+Version 
+3.0.0
+-[COLOR red][B](NEW)[/B][/COLOR]Funzione Ricerca Perfezzionata
+Version 
+2.0.1
+-[COLOR red][B](NEW)[/B][/COLOR]Cambio api ricerca - aggiornamenti sicurezza- aumento velocità e stabilità
+Version 
+2.0.0 
+-[COLOR red][B](NEW)[/B][/COLOR]Aggiunto Funzione Cerca - URLResolver Setting - Clean Cache - 
+Download Beta
+Version 1.0.1                                                                                                                                                                      Initial Release                                                                                                                                                     
+Versione Test                                                                                                                                                    

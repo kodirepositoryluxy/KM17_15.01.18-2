@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-logo="0236.png",[COLOR orangered]France 24[/COLOR]
+http://static.france24.com/live/F24_FR_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="tv5.png",[COLOR orange]TV5 Monde[/COLOR]
+http://v3fbs247hls-i.akamaihd.net/hls/live/219079/v3fbs247hls/v3fbs247hls_1_1.m3u8|X-Forwarded-For=94.177.240.81
+#EXTINF:-1 tvg-logo="notele.png",[COLOR orange]NOtélé[/COLOR]
+http://streaming06.axeweb.be/live//direct.stream/chunklist_w1993793147.m3u8
+#EXTINF:-1 tvg-logo="telesambre.png",[COLOR orange]Telesambre[/COLOR]
+http://vm109.imust.org:1935/live/telesambre-live/playlist.m3u8
+#EXTINF:-1 tvg-logo="tvpi.png",[COLOR orange]TVPI Bayonne[/COLOR]
+rtmp://streamcast.oc3n.net:1935/TVPI/myStream700.sdp
+#EXTINF:-1 tvg-logo="alsace_20.png",[COLOR orange]Alsace 20[/COLOR]
+http://live.alsace20.fr/live/alsace20/ngrp:alsace20_all/playlist.m3u8
+#EXTINF:-1 tvg-logo="la_chaine_normande.png",[COLOR orange]LA CHAÎNE NORMANDE[/COLOR]
+rtmp://live.lachainenormande.fr:80/live/lcn/livestream
+#EXTINF:-1 tvg-logo="gong.png",[COLOR orange]GONG[/COLOR]
+rtsp://ec.playmedia.fr:1935/gong-base/live

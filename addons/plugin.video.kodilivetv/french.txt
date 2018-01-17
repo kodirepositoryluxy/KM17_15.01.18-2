@@ -1,0 +1,33 @@
+[
+    {
+        "url": "fr.txt",
+        "image": "tv.png",        
+        "name": 10058
+    }, 
+
+    {
+        "url": "radiofr.txt",
+        "image": "radio.png",
+        "name":10071
+    },
+    {
+        "url": "vpnfr.txt",
+        "image": "tv.png",        
+        "name": "VPN/IP FR"
+    },
+    {
+        "url": "rts.txt",
+        "image": "https://kodilive.eu/icon/rts.png",        
+        "name": "RTS.ch"
+    },    
+    {
+        "url": "http://kodilive.eu/iptv/rawtb.php?l=chfr",
+        "image": "tb.png",
+        "name":10054
+    },
+    {
+        "url": "w_fr.txt",
+        "image": "wi.png",        
+        "name": 10054
+    } 
+]

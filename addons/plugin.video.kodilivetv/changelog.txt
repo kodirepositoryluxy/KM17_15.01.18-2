@@ -1,0 +1,156 @@
+09.07.2017 : Version 2.2.1
+- aggiunto supporto video Dailymotion
+- aggiunto supporto playlist daylimotion
+- aggiornamento canali
+- aggiunto Link per ricerca globale nell'indice
+- aggiunto link per ricerca nella sezione canali TV e Radio
+- aggiunta possibilità di cambiare sorgente a tutti gli item del Playlist Manager
+- corretta funzione ricerca e menu contestuale delle playlist youtube aggiunte nell'indice del playlist manager
+
+08.05.2017 : Version 2.2.0
+- aggiunto supporto playlist Youtube
+- aggiornamento canali
+- aggiunto comando nel menu contestuale per cancellare la cache di singole liste e file xml
+- aggiunte sezioni canali RSI.ch, SRF.ch e RTS.ch
+- correzione nomi liste Watch App
+- cache dei file xml e delle liste regolata a 30 ore
+
+26.02.2017 : Version 2.1.9
+- update channels
+- update f4mProxy (version 2.8.6)
+- fix play many channels with HLS Downloader
+- fix rocacax channels
+- added function for PM-database buckup
+- modified the favorites page
+- added cache for XML files
+- fix Teleboy login
+- fix problem trailing spaces in links (m3u list)
+- fix autoupdate KLTV
+- paths icons correction (Krypton)
+- KLTV added to the music category
+
+20.01.2017 : Version 2.1.8
+- update channels
+- fix Teleboy login
+- update f4mProxy (version 2.8.0)
+- added info checker for IPTV list
+- fix research page
+- added support for vidto.me (SOD required)
+- ability to change the file name to download
+- character encoding fix
+
+22.12.2016 : Version 2.1.7
+- aggiornamento canali
+- aggiornamento f4mProxy integrato (versione 2.7.9)
+- aggiunto youtube-dl control per la registrazione dei canali live
+- aggiunto comando nel menu contestuale per riproduzione m3u8 con HLS Player
+- aggiunto supporto ai server streamin.co e abysstream.com
+- modifiche e correzioni nel menu contestuale
+
+08.11.2016 : Version 2.1.6
+- aggiornamento canali
+- aggiunto supporto a speedvideo
+- correzione codifica nomi liste e cartelle nel Playlist manager
+- aggiornamento f4mProxy integrato (versione 2.6.6)
+
+26.09.2016 : Version 2.1.5
+- aggiunta opzione aggioramenti automatici (attiva di default)
+- aggiunta sezione EPG Film
+- aggiunti canali IPTV svizzere senza VPN (italiani, francesi, tedeschi e inglesi)
+- aggiunta sezione luci rosse (da abilitare in impostazioni add-on)
+- correzioni e miglioramenti relativi ai download
+- correzioni e miglioramenti nella ricerca
+- aggiunto supporto al protocollo plugin
+- aggiunto supporto a molti server VOD (necessario SOD installato): openload, megahd, nowvideo, nowdownload, fastvideo, rapidvideo
+- aggiornato f4mProxy alla versione 2.5.6
+
+01.09.2016 : Version 2.1.4
+- semplificazione delle opzioni per l'inserimento di liste, cartelle ed xml al Playlist Manager (ora i repo PM si aggiungono come XML, l'identificazione è automatica)
+- possibilità di rinominare i favoriti
+- possibilità di aggiungere collegamenti a file multimediali ai favoriti
+- corretto percorso della cartella download di default
+- visualizzazione nome delle liste nei risultati di ricerca relativi alle liste
+- ricerca liste remote in file di cache
+- aumento tempo di cache liste a 2 ore
+- tempo cache liste per ricerca 3 ore
+
+27.08.2016 : Version 2.1.3
+- Resarch page: fix download file name
+- fix italian channels URL
+
+26.08.2016 : Version 2.1.2
+- Playlist Manager: adedd support xml kodilive to create virtual folder in xml file 
+- Playlist Manager: added research function (in folder, m3u list and xml kodilive)
+
+07.08.2016 : Version 2.1.1
+- fix problem with first installation
+
+04.08.2016 : Version 2.1.0
+- Added new script to download video and audio file (resume, retry, stop and much more functions)
+- Ability to add folders, locale and remote, in Playlist Manager
+- Ability to add Repository PM (remote folders)
+- Autoscan to detect media files and lists in added folders and repository
+- Now checking for updates is only manual
+- Option to restore factory settings
+- Fixed some bugs and code improvements
+- KLdownloader script based on the script:fileDownloader.py-0.4.0 - http://pydoc.net/Python/fileDownloader.py/0.4.0/
+
+09.07.2016 : Version 2.0.5
+- Added option to download video file in Playlist Manager section
+- Change updates download function: now the updates are downloaded from github
+- Added Greeks TV channels
+
+08.07.2016 : Version 2.0.4
+- Added script to install the dependencies, if not installed
+
+05.07.2016 : Version 2.0.3
+- Integrated Simplejson library
+- Allert to start VPN (Teleboy)
+
+04.07.2016 : Version 2.0.2
+- Added option for open Teleboy stream in VLC Media Player: VLC required, work in Linux and Windows (tested in Windows 10)
+
+27.06.2016 : Version 2.0.1
+- Added official stream of RAI channels (Italian IP required, set f4mProxy to internal)
+- Added hlsDownloader support to play m3u8 with f4mProxy (interanl) 
+- hlsDownloader modified to play RAI 1 official channel;
+- Update regionals italian channels
+
+25.06.2016 : Version 2.0.0
+- changed Teleboy Section: now use new teleboy json api
+- free account from "http://www.teleboy.ch" required
+- Swiss IP required
+
+Steps to be done before using the teleboy section:
+--------------------------------------------------------------------------------
+* open "http://www.teleboy.ch" in your browser
+* sign up (free) and login
+* create your preferred channel list
+* enter your login and password in the addon settings
+* enjoy live television!
+
+22.06.2016 : Version 1.5.5
+- nuova sezione Playlist Manager al posto della sezione F4m TV
+- aggiunta possibilità di importare il db delle liste
+- fix nello script f4mDownloader
+- miglioramenti vari (in particolare nei menu contestuali)
+
+20.06.2016 : Version 1.5.4
+- Aggiornato f4m Proxy
+- Aggiunte opzioni per configurare l'f4m Proxy integrato
+- Possibilità di utilizzare l'f4m Proxy estrno invece di quello integrato
+- Aggiunto changelog
+
+18.06.2016 : Version 1.5.3
+- Aggiunto supporto f4m stream
+
+14.06.2016 : Version 1.5.2
+- Aggiunto supporto loghi nel player di f4mProxy 
+
+13.06.2016 : Version 1.5.1
+- Integrato f4mProxy per riproduzione TS stream 
+- (non è più indispensabile avere installati f4mProxy/f4mTester)
+
+30.05.2016 : Version 1.5.0
+- Supporto TS stream (necessari f4mTester/f4mProxy di Shani)
+

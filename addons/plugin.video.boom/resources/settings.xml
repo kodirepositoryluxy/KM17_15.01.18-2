@@ -1,0 +1,6 @@
+<settings>
+<category label="The Fixtures">
+     <setting id="Text" type="lsep" label="                       For more information please visit www.thefixtures.website" />
+	 <setting id="pin" type="text" visible='false' />
+</category>
+</settings>

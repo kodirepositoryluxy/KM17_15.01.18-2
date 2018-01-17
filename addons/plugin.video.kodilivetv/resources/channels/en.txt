@@ -1,0 +1,16 @@
+#EXTINF:-1 tvg-logo="0425.png",[COLOR orange]Al Jazeera[/COLOR]
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:-1 tvg-logo="florida_channel.png",[COLOR orange]Florida CH[/COLOR]
+http://webcasting.thefloridachannel.org/live/tvweb1/playlist.m3u8
+#EXTINF:-1 tvg-logo="0236.png",[COLOR orangered]France 24 English[/COLOR]
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:-1 tvg-logo="0068.png",[COLOR orangered]DWTV[/COLOR]
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:-1 tvg-logo="abc.png",[COLOR orange]ABC News[/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+#EXTINF:-1 tvg-logo="abc.png",[COLOR orange]ABC News (2)[/COLOR]
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-id="Qvc.uk" tvg-logo="qvcit.png",[COLOR orangered]QVC UK[/COLOR]
+http://llnw.live.qvc.simplestream.com/hera/remote/qvcuk_primary_sdi8/3/prog_index.m3u8
+#EXTINF:-1 tvg-logo="tv.png",[COLOR orangered]Heart TV[/COLOR]
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8

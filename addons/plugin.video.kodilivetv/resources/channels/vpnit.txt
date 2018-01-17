@@ -1,0 +1,52 @@
+#EXTINF:-1 tvg-logo="0626.png",[COLOR FF87df22]Rai 1 HD[/COLOR]
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=2606803
+#EXTINF:-1 tvg-logo="0627.png",[COLOR FF87df22]Rai 2 HD[/COLOR]
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180116
+#EXTINF:-1 tvg-logo="0628.png",[COLOR FF87df22]Rai 3 HD[/COLOR]
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=180117
+#EXTINF:-1 tvg-logo="0623.png",[COLOR FF76ce11]Rai 4[/COLOR]
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+#EXTINF:-1 tvg-logo="0624.png",[COLOR FF76ce11]Rai 5[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8
+#EXTINF:-1 tvg-logo="0619.png",[COLOR FF76ce11]Rete 4[/COLOR]
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH03HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="0614.png",[COLOR FF76ce11]Canale 5[/COLOR]
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="0615.png",[COLOR FF76ce11]Italia 1[/COLOR]
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH02HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="0610.png",[COLOR FF76ce11]Rai Storia[/COLOR]
+http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/index_900_av-p.m3u8
+#EXTINF:-1 tvg-logo="0621.png",[COLOR FF87df22]Rai Movie HD[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="0622.png",[COLOR FF76ce11]Rai Premium[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
+#EXTINF:-1 tvg-logo="0611.png",[COLOR FF87df22]Rai Sport +[/COLOR]
+http://mediapolisevent.rai.it/relinker/relinkerServlet.htm?cont=4145
+#EXTINF:-1 tvg-logo="0612.png",[COLOR FF76ce11]Rai Sport[/COLOR]
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
+#EXTINF:-1 tvg-logo="0608.png",[COLOR FF76ce11]Rai Gulp[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1200_av-p.m3u8
+#EXTINF:-1 tvg-logo="yoyo.png",[COLOR FF76ce11]Rai Yoyo[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/master.m3u8
+#EXTINF:-1 tvg-logo="0613.png",[COLOR FF76ce11]Rai News 24[/COLOR]
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:-1 tvg-logo="0625.png",[COLOR FF76ce11]Sky TG24[/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+#EXTINF:-1 tvg-logo="tgcom.png",[COLOR FF76ce11]Tgcom24[/COLOR]
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="la5.png",[COLOR FF76ce11]La5[/COLOR]
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="iris.png",[COLOR FF76ce11]Iris[/COLOR]
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="topcrime.png",[COLOR FF76ce11]Top Crime[/COLOR]
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="extra.png",[COLOR FF76ce11]Mediaset Extra[/COLOR]
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="italia2.png",[COLOR FF76ce11]Italia 2[/COLOR]
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
+#EXTINF:-1 tvg-logo="0620.png",[COLOR FF76ce11]Cielo[/COLOR]
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/playlist.m3u8
+#EXTINF:-1 tvg-logo="rtl1025.png",[COLOR FF87df22]RTL 102.5 HD[/COLOR]
+https://rtl-radio-stream-thron.akamaized.net/live-video/video1/ngrp:video1/chunklist_b2296000.m3u8
+#EXTINF:-1 tvg-logo="ibizatv.png",[COLOR FF76ce11]Ibiza TV[/COLOR]
+http://wma10.fluidstream.net/RadioIbizaTV/livestream/playlist.m3u8

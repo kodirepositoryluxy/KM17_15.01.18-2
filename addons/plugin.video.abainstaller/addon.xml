@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.abainstaller" name="[COLOR violet][B]ABA Installer[/COLOR][/B]" version="2.0.1" provider-name="androidaba.com">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video executable</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">ABA Installer</summary>
+    <description lang="en">[COLOR cyan][B]Installa facilmente i migliori Add-On per Kodi e tutti i fork compatibili. Dopo l'installazione di ogni singolo add-on, cliccate su [COLOR yellow]OK [COLOR cyan]per riavviare Kodi :)
+[I][COLOR yellow]Per info, consigli e richieste scrivete nel widget [COLOR red]Assistenza Tecnica [COLOR yellow]che trovate su [COLOR lime]www.androidaba.com [/COLOR][/B][/I]</description>
+    <platform>all</platform>
+  </extension>
+</addon>

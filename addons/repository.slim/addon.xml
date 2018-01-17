@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.slim" name="Slims Repository" version="1.3" provider-name="Slim">
+	<extension point="xbmc.addon.repository" name="Slims Repository">
+		<info compressed="false">http://slimsrepo.uk/Plugins/addons.xml</info>
+		<checksum>http://slimsrepo.uk/Plugins/addons.xml.md5</checksum>
+		<datadir zip="true">http://slimsrepo.uk/Plugins/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Repository Of Slim</summary>
+		<description>Slims Repo</description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

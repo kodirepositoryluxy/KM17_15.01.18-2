@@ -1,0 +1,374 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<includes>
+	
+	
+	
+	<include name="VolumeAmplification_Preset_DRC_OnLoad_OFF">
+		
+		<!-- Set "Volume Amplification" to 0 dB (max is 60 dB) -->
+		<!-- volampdown 6 x 10 -->
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		
+		<!-- Set "Volume" to 0 dB -->
+		<onload>SetVolume(100,false)</onload>
+		
+		<onload>SetProperty(DRC,False,home)</onload>
+		<onload>SetProperty(DRCid,$INFO[Player.Filename],home)</onload>
+		 
+		<!--<onload>Notification(VA-DRC,OFF,2500)</onload>-->
+		
+	</include>
+	
+	
+	
+	<include name="VolumeAmplification_Preset_DRC_OnLoad_ON">
+		
+		<!-- Set "Volume Amplification" to 0 dB (max is 60 dB) -->
+		<!-- volampdown 6 x 10 -->
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		<onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload><onload>volampdown</onload>
+		
+		<!-- Set "Volume" to -7,8 dB -->
+		<onload>SetVolume(87,false)</onload>
+		
+		<!-- Set "Volume Amplification" to 10 dB (max is 60 dB) -->
+		<!-- volampup x 10 -->
+		<onload>volampup</onload><onload>volampup</onload><onload>volampup</onload><onload>volampup</onload><onload>volampup</onload><onload>volampup</onload><onload>volampup</onload><onload>volampup</onload><onload>volampup</onload><onload>volampup</onload>
+		
+		<onload>SetProperty(DRC,True,home)</onload>
+		<onload>SetProperty(DRCid,$INFO[Player.Filename],home)</onload>
+		
+		<!--<onload>Notification(VA-DRC,ON,2500)</onload>-->
+		
+	</include>
+	
+	
+	
+	<include name="VolumeAmplification_Preset_DRC_Toggle">
+		
+		
+		<!-- Set "Volume Amplification" to 0 dB (max is 60 dB) -->
+		<!-- volampdown 6 x 10 -->
+		<onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick>
+		<onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick>
+		<onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick>
+		<onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick>
+		<onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick>
+		<onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick><onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">volampdown</onclick>
+		
+		<!-- Set "Volume" to 0 dB -->
+		<onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">SetVolume(100,false)</onclick>
+		
+		<onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">SetProperty(DRC,False,home)</onclick>
+		<onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">SetProperty(DRCid,$INFO[Player.Filename],home)</onclick>
+		
+		<onclick condition="!Player.Passthrough + String.IsEqual(Window(home).Property(DRC),True)">Notification(VA-DRC,OFF,1000)</onclick>
+		
+		
+		
+		<!-- Set "Volume Amplification" to 0 dB (max is 60 dB) -->
+		<!-- volampdown 6 x 10 -->
+		<onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick>
+		<onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick>
+		<onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick>
+		<onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick>
+		<onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick>
+		<onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampdown</onclick>
+		
+		<!-- Set "Volume" to -7,8 dB -->
+		<onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">SetVolume(87,false)</onclick>
+		
+		<!-- Set "Volume Amplification" to 10 dB (max is 60 dB) -->
+		<!-- volampup x 10 -->
+		<onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampup</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampup</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampup</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampup</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampup</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampup</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampup</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampup</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampup</onclick><onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">volampup</onclick>
+		
+		<onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">SetProperty(DRC,True,home)</onclick>
+		<onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">SetProperty(DRCid,$INFO[Player.Filename],home)</onclick>
+		
+		<onclick condition="!Player.Passthrough + [String.IsEqual(Window(home).Property(DRC),False) | String.IsEmpty(Window(home).Property(DRC))]">Notification(VA-DRC,ON,1000)</onclick>
+		
+		
+		<onclick condition="Player.Passthrough">Notification(Can't use VolumeAmplification-DRC,DISABLE audio passthrough first,5000,DefaultIconError.png)</onclick>
+		
+	</include>
+	
+	
+	
+	
+	
+	
+	<include name="BehindDialogDarkBackground">
+		<control type="image">
+			<left>0</left>
+			<top>0</top>
+			<width>1280</width>
+			<height>720</height>
+			<texture>_added_img/100x100_black.png</texture>
+			<animation effect="fade" end="85" time="0" condition="true">Conditional</animation>
+		</control>
+	</include>
+	
+	<include name="BehindDialogDarkBackgroundLighter">
+		<control type="image">
+			<left>0</left>
+			<top>0</top>
+			<width>1280</width>
+			<height>720</height>
+			<texture>_added_img/100x100_black.png</texture>
+			<animation effect="fade" end="75" time="0" condition="true">Conditional</animation>
+		</control>
+	</include>
+	
+	<include name="BehindDialogDarkBackgroundDarker">
+		<control type="image">
+			<left>0</left>
+			<top>0</top>
+			<width>1280</width>
+			<height>720</height>
+			<texture>_added_img/100x100_black.png</texture>
+			<animation effect="fade" end="96" time="0" condition="true">Conditional</animation>
+		</control>
+	</include>
+	
+	<include name="BehindDialogDarkBackgroundDarkest">
+		<control type="image">
+			<left>0</left>
+			<top>0</top>
+			<width>1280</width>
+			<height>720</height>
+			<texture>_added_img/100x100_black.png</texture>
+			<animation effect="fade" end="98" time="0" condition="true">Conditional</animation>
+		</control>
+	</include>
+	
+	
+	
+	
+	
+	
+	<include name="HomeItemsWidgetLayoutType1">
+		<itemlayout width="180" height="220">
+			<control type="image">
+				<description>background</description>
+				<left>5</left>
+				<top>5</top>
+				<width>170</width>
+				<height>210</height>
+				<texture background="true" border="4">RecentAddedBack.png</texture>
+			</control>
+			<control type="image">
+				<left>28</left>
+				<top>10</top>
+				<width>124</width><!-- 122x178 = poster wall ratio -->
+				<height>178</height>
+				<texture background="true" colordiffuse="ffd2d2d2">$INFO[ListItem.Art(poster)]</texture>
+				<aspectratio>scale</aspectratio>
+				<visible>!String.IsEmpty(ListItem.Art(poster))</visible>
+			</control>
+			<control type="image">
+				<left>5</left>
+				<top>10</top>
+				<width>170</width>
+				<height>178</height>
+				<texture background="true" colordiffuse="ffd2d2d2">$INFO[ListItem.Icon]</texture>
+				<aspectratio>keep</aspectratio>
+				<visible>String.IsEmpty(ListItem.Art(poster))</visible>
+			</control>
+			<control type="label">
+				<left>15</left>
+				<top>190</top>
+				<width>150</width>
+				<height>20</height>
+				<font>Regular14</font>
+				<textcolor>grey</textcolor>
+				<selectedcolor>selected</selectedcolor>
+				<align>center</align>
+				<aligny>center</aligny>
+				<label>$INFO[ListItem.Label]</label>
+			</control>
+			<!--
+			<control type="image">
+				<left>130</left>
+				<top>164</top>
+				<width>21</width>
+				<height>21</height>
+				<aspectratio>keep</aspectratio>
+				<texture background="true">$INFO[ListItem.Overlay]</texture>
+				<animation effect="fade" end="85" time="0" condition="true">Conditional</animation>
+			</control>
+			-->
+			<control type="image">
+				<left>130</left>
+				<top>164</top>
+				<width>21</width>
+				<height>21</height>
+				<aspectratio>keep</aspectratio>
+				<!--<texture background="true">$INFO[ListItem.Overlay]</texture>-->
+				<texture background="true">OverlayWatched.png</texture>
+				<animation effect="fade" end="85" time="0" condition="true">Conditional</animation>
+				<visible>!String.IsEmpty(ListItem.PlayCount)</visible>
+			</control>
+			<control type="image">
+				<left>80</left>
+				<top>178</top>
+				<width>18</width>
+				<height>10</height>
+				<aspectratio>keep</aspectratio>
+				<texture background="true">_added_img/OverlayDiscImage.png</texture>
+				<visible>String.IsEqual(ListItem.FileExtension,iso) | String.IsEqual(ListItem.FileExtension,ifo)</visible>
+			</control>
+		</itemlayout>
+		<focusedlayout width="180" height="220">
+			<control type="image">
+				<description>background</description>
+				<left>5</left>
+				<top>5</top>
+				<width>170</width>
+				<height>210</height>
+				<texture background="true" border="4">_added_img/RecentAddedBack_hover.png</texture>
+				<visible>Control.HasFocus($PARAM[list_id])</visible>
+			</control>
+				<control type="image">
+				<description>background</description>
+				<left>5</left>
+				<top>5</top>
+				<width>170</width>
+				<height>210</height>
+				<texture background="true" border="4">RecentAddedBack.png</texture>
+				<visible>!Control.HasFocus($PARAM[list_id])</visible>
+			</control>
+			
+			<control type="image">
+				<left>28</left>
+				<top>10</top>
+				<width>124</width><!-- 122x178 = poster wall ratio -->
+				<height>178</height>
+				<texture background="true">$INFO[ListItem.Art(poster)]</texture>
+				<aspectratio>scale</aspectratio>
+				<visible>Control.HasFocus($PARAM[list_id]) + !String.IsEmpty(ListItem.Art(poster))</visible>
+			</control>
+			<control type="image">
+				<left>5</left>
+				<top>10</top>
+				<width>170</width>
+				<height>178</height>
+				<texture background="true">$INFO[ListItem.Icon]</texture>
+				<aspectratio>keep</aspectratio>
+				<visible>Control.HasFocus($PARAM[list_id]) + String.IsEmpty(ListItem.Art(poster))</visible>
+			</control>
+			
+			<control type="image">
+				<left>28</left>
+				<top>10</top>
+				<width>124</width><!-- 122x178 = poster wall ratio -->
+				<height>178</height>
+				<texture background="true" colordiffuse="ffd2d2d2">$INFO[ListItem.Art(poster)]</texture>
+				<aspectratio>scale</aspectratio>
+				<visible>!Control.HasFocus($PARAM[list_id]) + !String.IsEmpty(ListItem.Art(poster))</visible>
+			</control>
+			<control type="image">
+				<left>5</left>
+				<top>10</top>
+				<width>170</width>
+				<height>178</height>
+				<texture background="true" colordiffuse="ffd2d2d2">$INFO[ListItem.Icon]</texture>
+				<aspectratio>keep</aspectratio>
+				<visible>!Control.HasFocus($PARAM[list_id]) + String.IsEmpty(ListItem.Art(poster))</visible>
+			</control>
+			
+			<control type="label">
+				<left>15</left>
+				<top>190</top>
+				<width>150</width>
+				<height>20</height>
+				<font>Regular14</font>
+				<textcolor>grey</textcolor>
+				<selectedcolor>selected</selectedcolor>
+				<align>center</align>
+				<aligny>center</aligny>
+				<label>$INFO[ListItem.Label]</label>
+				<visible>![Control.HasFocus($PARAM[list_id]) | [Window.IsVisible(contextmenu) + !Window.IsVisible(shutdownmenu) + !Window.IsVisible(favourites) + !Window.IsVisible(1107) + !Window.IsVisible(1102)]]</visible>
+			</control>
+			<control type="label">
+				<left>15</left>
+				<top>190</top>
+				<width>150</width>
+				<height>20</height>
+				<font>Regular14</font>
+				<textcolor>white</textcolor>
+				<selectedcolor>selected</selectedcolor>
+				<align>center</align>
+				<aligny>center</aligny>
+				<label>$INFO[ListItem.Label]</label>
+				<visible>Control.HasFocus($PARAM[list_id]) | [Window.IsVisible(contextmenu) + !Window.IsVisible(shutdownmenu) + !Window.IsVisible(favourites) + !Window.IsVisible(1107) + !Window.IsVisible(1102)]</visible>
+			</control>
+			<!--
+			<control type="image">
+				<left>130</left>
+				<top>164</top>
+				<width>21</width>
+				<height>21</height>
+				<aspectratio>keep</aspectratio>
+				<texture background="true">$INFO[ListItem.Overlay]</texture>
+				<animation effect="fade" end="85" time="0" condition="true">Conditional</animation>
+			</control>
+			-->
+			<control type="image">
+				<left>130</left>
+				<top>164</top>
+				<width>21</width>
+				<height>21</height>
+				<aspectratio>keep</aspectratio>
+				<!--<texture background="true">$INFO[ListItem.Overlay]</texture>-->
+				<texture background="true">OverlayWatched.png</texture>
+				<animation effect="fade" end="85" time="0" condition="true">Conditional</animation>
+				<visible>!String.IsEmpty(ListItem.PlayCount)</visible>
+			</control>
+			<control type="image">
+				<left>80</left>
+				<top>178</top>
+				<width>18</width>
+				<height>10</height>
+				<aspectratio>keep</aspectratio>
+				<texture background="true">_added_img/OverlayDiscImage.png</texture>
+				<visible>String.IsEqual(ListItem.FileExtension,iso) | String.IsEqual(ListItem.FileExtension,ifo)</visible>
+			</control>
+		</focusedlayout>
+	</include>
+	
+	
+	
+	
+	
+	<variable name="VideoOsdInfoButtonListType">
+		<value condition="VideoPlayer.Content(Movies)">movie</value>
+		<value condition="VideoPlayer.Content(Episodes)">episode</value>
+	</variable>
+	<include name="VideoOsdInfoButtonList">
+		<control type="list" id="43260">
+			<left>0</left>
+			<top>0</top>
+			<width>1</width>
+			<height>1</height>
+			<itemlayout/>
+			<focusedlayout/>
+			<!--<content>plugin://service.library.data.provider?type=$VAR[VideoOsdInfoButtonListType]&amp;dbid=$INFO[VideoPlayer.DBID]&amp;dbtype=$VAR[VideoOsdInfoButtonListType]</content>-->
+			<content>plugin://service.library.data.provider?type=$VAR[VideoOsdInfoButtonListType]&amp;dbid=$INFO[VideoPlayer.DBID]</content>
+		</control>
+	</include>
+	
+	
+	
+	
+	
+	
+</includes>

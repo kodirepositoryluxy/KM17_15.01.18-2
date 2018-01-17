@@ -1,0 +1,56 @@
+#EXTINF:-1 tvg-id="KroneTV.uk" tvg-logo="kronehit.png",[COLOR orangered]KRONE HIT TV[/COLOR]
+http://bitcdn-kronehit-live.bitmovin.com/hls/3000k/bitcodin.m3u8
+#EXTINF:-1 tvg-logo="eska_tv.png",[COLOR orangered]ESKA TV HD[/COLOR]
+http://stream.cdn.smcloud.net/eskatv-p/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="best_music_tv_eska.png",[COLOR orangered]ESKA BEST MUSIC HD[/COLOR]
+http://stream.cdn.smcloud.net/best-t/best_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="best_music_tv_eska.png",[COLOR orange]ESKA BEST MUSIC[/COLOR]
+http://stream.cdn.smcloud.net/best-t/best_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="eska_rock_bis.png",[COLOR orangered]ESKA ROCK HD[/COLOR]
+http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="eska_rock.png",[COLOR orange]ESKA ROCK[/COLOR]
+http://stream.cdn.smcloud.net/eska_rock-t/eska_rock_360p/playlist.m3u8
+#EXTINF:-1tvg-logo="eska_party.png",[COLOR orangered]ESKA PARTY HD[/COLOR]
+http://stream.cdn.smcloud.net/eska_party-t/eska_party_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="eska_party.png",[COLOR orange]ESKA PARTY[/COLOR]
+http://stream.cdn.smcloud.net/eska_party-t/eska_party_360p/playlist.m3u8
+#EXTINF:-1 tvg-logo="polo_party_tv.png",[COLOR orangered]POLO PARTY HD[/COLOR]
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="polo_party_tv.png",[COLOR orange]POLO PARTY[/COLOR]
+http://stream.cdn.smcloud.net/polo_party-t/polo_party_480p/playlist.m3u8
+#EXTINF:-1 tvg-logo="polo_tv.png",[COLOR orange]POLO TV[/COLOR]
+http://stream.cdn.smcloud.net/polotv-p/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="vox_music_tv.png",[COLOR orangered]VOX MUSIC HD[/COLOR]
+http://stream.cdn.smcloud.net/vox-t/vox_720p/playlist.m3u8
+#EXTINF:-1 tvg-logo="vox_music_tv.png",[COLOR orange]VOX MUSIC[/COLOR]
+http://stream.cdn.smcloud.net/vox2-p/stream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="1hd.png",[COLOR orangered]FIRST MUSIC CHANNEL HD[/COLOR]
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1 tvg-logo="djing.png",[COLOR orangered]Djing Classic[/COLOR]
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1 tvg-logo="djing.png",[COLOR orangered]Djing Animation[/COLOR]
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1 tvg-logo="djing.png",[COLOR orangered]Djing Underground[/COLOR]
+http://www.djing.com/tv/u-05.m3u8
+#EXTINF:-1 tvg-logo="djing.png",[COLOR orangered]Djing Dancefloor[/COLOR]
+http://www.djing.com/tv/d-05.m3u8
+#EXTINF:-1 tvg-logo="superspnic_tv.png",[COLOR orange]Super Sonic TV[/COLOR]
+http://str103.setplex.net:1935/228/stv_online/playlist.m3u8
+#EXTINF:-1 tvg-logo="ocko_gold.png",[COLOR orange]Ocko[/COLOR]
+http://ocko-live.service.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="ocko_gold.png",[COLOR orange]Ocko Gold[/COLOR]
+http://se01.se.ocko-live.service.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="ocko_gold.png",[COLOR orange]Ocko Express[/COLOR]
+http://ocko-live.service.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
+#EXTINF:-1 tvg-logo="nebiset.png",[COLOR orange]Nebiset[/COLOR]
+http://hls.nebiset.tv/nebiset.m3u8
+#EXTINF:-1 tvg-logo="telemusica.png",[COLOR orange]Telemusica[/COLOR]
+rtmp://186.155.200.118:1935/live/telemusica
+#EXTINF:-1 tvg-logo="slam.png",[COLOR orange]Slam TV[/COLOR]
+http://538hls.lswcdn.triple-it.nl/content/slamtv/slamtv_0.m3u8
+#EXTINF:-1 tvg-logo="kiss_tv.png",[COLOR orange]KISS TV[/COLOR]
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live/live
+#EXTINF:-1 tvg-logo="electrosound.png",[COLOR orange]Electrosound TV[/COLOR]
+rtmp://www.electrosound.tv/public/stream
+#EXTINF:-1 tvg-logo="electrika_tv.png",[COLOR orange]Elektrika TV[/COLOR]
+rtmp://rtmp.elektrika.cz/live/myStream.sdp

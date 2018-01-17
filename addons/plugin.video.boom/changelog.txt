@@ -1,0 +1,35 @@
+v1.0
+Initial Release.
+
+v1.1
+Added new sections: Watch Again, Replays & Highlights, Sports Radio.
+
+v1.2
+Moved to better server.
+
+v1.3
+Multiple channel sources.
+
+v2.0
+Add-on rebranded to BOOM! in memory of my friend Wookie L.
+
+v2.1
+Pin code added.
+
+v2.2
+Bug fixes.
+
+v2.3
+Bug fixes.
+
+v2.4
+Bug fixes
+
+v2.5
+Bug fixes
+
+v2.6
+Some sections removed
+
+v2.7
+New sections added

@@ -1,0 +1,3296 @@
+[2017-12-07 02:52:54] [Build Check] Started
+[2017-12-07 02:52:54] [Trakt Data] Started
+[2017-12-07 02:52:54] [Trakt Data] Not Enabled
+[2017-12-07 02:52:54] [Real Debrid Data] Started
+[2017-12-07 02:52:54] [Real Debrid Data] Not Enabled
+[2017-12-07 02:52:54] [Login Data] Started
+[2017-12-07 02:52:54] [Login Data] Not Enabled
+[2017-12-07 02:52:54] [Auto Clean Up] Started
+[2017-12-07 02:52:54] [Auto Clean Up] Cache: On
+[2017-12-07 02:52:54] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-07 02:52:54] Ignore Log File: kodi.log
+[2017-12-07 02:52:54] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-07 02:52:54] Ignore Log File: kodi.old.log
+[2017-12-07 02:52:54] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-07 02:52:54] [Auto Clean Up] Old Thumbs: On
+[2017-12-07 02:52:56] 0 total thumbs cleaned up.
+[2017-12-07 02:52:56] [Auto Clean Up] Packages: On
+[2017-12-07 14:51:08] 2017-12-07 14:51:08.453873
+[2017-12-07 14:51:09] Continuing Start Up Script
+[2017-12-07 14:51:09] [Path Check] Started
+[2017-12-07 14:51:09] [Path Check] Good!
+[2017-12-07 14:51:09] [Auto Install Repo] Started
+[2017-12-07 14:51:09] [Auto Install Repo] Repository already installed
+[2017-12-07 14:51:09] [Auto Update Wizard] Started
+[2017-12-07 14:51:09] [Auto Update Wizard] Not Enabled
+[2017-12-07 14:51:09] [Notifications] Started
+[2017-12-07 14:51:09] [Notifications] id[1] Dismissed
+[2017-12-07 14:51:09] [Installed Check] Started
+[2017-12-07 14:51:09] [Installed Check] Not Enabled
+[2017-12-07 14:51:09] [Build Check] Started
+[2017-12-07 14:51:09] [Trakt Data] Started
+[2017-12-07 14:51:09] [Trakt Data] Not Enabled
+[2017-12-07 14:51:09] [Real Debrid Data] Started
+[2017-12-07 14:51:09] [Real Debrid Data] Not Enabled
+[2017-12-07 14:51:09] [Login Data] Started
+[2017-12-07 14:51:09] [Login Data] Not Enabled
+[2017-12-07 14:51:09] [Auto Clean Up] Started
+[2017-12-07 14:51:09] [Auto Clean Up] Cache: On
+[2017-12-07 14:51:09] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-07 14:51:09] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-07 14:51:09] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-07 14:51:09] Ignore Log File: kodi.log
+[2017-12-07 14:51:09] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-07 14:51:09] Ignore Log File: kodi.old.log
+[2017-12-07 14:51:09] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-07 14:51:09] [Auto Clean Up] Old Thumbs: On
+[2017-12-07 14:51:09] 0 total thumbs cleaned up.
+[2017-12-07 14:51:09] [Auto Clean Up] Packages: On
+[2017-12-07 14:55:25] 2017-12-07 14:55:25.057880
+[2017-12-07 14:55:26] Continuing Start Up Script
+[2017-12-07 14:55:26] [Path Check] Started
+[2017-12-07 14:55:26] [Path Check] Good!
+[2017-12-07 14:55:26] [Auto Install Repo] Started
+[2017-12-07 14:55:26] [Auto Install Repo] Repository already installed
+[2017-12-07 14:55:26] [Auto Update Wizard] Started
+[2017-12-07 14:55:26] [Auto Update Wizard] Not Enabled
+[2017-12-07 14:55:26] [Notifications] Started
+[2017-12-07 14:55:26] [Notifications] id[1] Dismissed
+[2017-12-07 14:55:26] [Installed Check] Started
+[2017-12-07 14:55:26] [Installed Check] Not Enabled
+[2017-12-07 14:55:26] [Build Check] Started
+[2017-12-07 14:55:26] [Trakt Data] Started
+[2017-12-07 14:55:26] [Trakt Data] Not Enabled
+[2017-12-07 14:55:26] [Real Debrid Data] Started
+[2017-12-07 14:55:26] [Real Debrid Data] Not Enabled
+[2017-12-07 14:55:26] [Login Data] Started
+[2017-12-07 14:55:26] [Login Data] Not Enabled
+[2017-12-07 14:55:26] [Auto Clean Up] Started
+[2017-12-07 14:55:26] [Auto Clean Up] Cache: On
+[2017-12-07 14:55:26] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-07 14:55:26] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-07 14:55:26] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-07 14:55:26] Ignore Log File: kodi.log
+[2017-12-07 14:55:26] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-07 14:55:26] Ignore Log File: kodi.old.log
+[2017-12-07 14:55:26] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-07 14:55:26] [Auto Clean Up] Old Thumbs: On
+[2017-12-07 14:55:26] 0 total thumbs cleaned up.
+[2017-12-07 14:55:26] [Auto Clean Up] Packages: On
+[2017-12-08 01:38:15] 2017-12-08 01:38:15.687990
+[2017-12-08 01:38:16] Continuing Start Up Script
+[2017-12-08 01:38:16] [Path Check] Started
+[2017-12-08 01:38:16] [Path Check] Good!
+[2017-12-08 01:38:16] [Auto Install Repo] Started
+[2017-12-08 01:38:16] [Auto Install Repo] Repository already installed
+[2017-12-08 01:38:16] [Auto Update Wizard] Started
+[2017-12-08 01:38:16] [Auto Update Wizard] Not Enabled
+[2017-12-08 01:38:16] [Notifications] Started
+[2017-12-08 01:38:17] [Notifications] id[1] Dismissed
+[2017-12-08 01:38:17] [Installed Check] Started
+[2017-12-08 01:38:17] [Installed Check] Not Enabled
+[2017-12-08 01:38:17] [Build Check] Started
+[2017-12-08 01:38:17] [Trakt Data] Started
+[2017-12-08 01:38:17] [Trakt Data] Not Enabled
+[2017-12-08 01:38:17] [Real Debrid Data] Started
+[2017-12-08 01:38:17] [Real Debrid Data] Not Enabled
+[2017-12-08 01:38:17] [Login Data] Started
+[2017-12-08 01:38:17] [Login Data] Not Enabled
+[2017-12-08 01:38:17] [Auto Clean Up] Started
+[2017-12-08 01:38:17] [Auto Clean Up] Cache: On
+[2017-12-08 01:38:17] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-08 01:38:17] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-08 01:38:17] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-08 01:38:17] Ignore Log File: kodi.log
+[2017-12-08 01:38:17] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-08 01:38:17] Ignore Log File: kodi.old.log
+[2017-12-08 01:38:17] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-08 01:38:17] [Auto Clean Up] Old Thumbs: On
+[2017-12-08 01:38:17] 0 total thumbs cleaned up.
+[2017-12-08 01:38:17] [Auto Clean Up] Packages: On
+[2017-12-08 02:08:17] 2017-12-08 02:08:17.159833
+[2017-12-08 02:08:18] Continuing Start Up Script
+[2017-12-08 02:08:18] [Path Check] Started
+[2017-12-08 02:08:18] [Path Check] Good!
+[2017-12-08 02:08:18] [Auto Install Repo] Started
+[2017-12-08 02:08:18] [Auto Install Repo] Repository already installed
+[2017-12-08 02:08:18] [Auto Update Wizard] Started
+[2017-12-08 02:08:18] [Auto Update Wizard] Not Enabled
+[2017-12-08 02:08:18] [Notifications] Started
+[2017-12-08 02:08:19] [Notifications] id[1] Dismissed
+[2017-12-08 02:08:19] [Installed Check] Started
+[2017-12-08 02:08:19] [Installed Check] Not Enabled
+[2017-12-08 02:08:19] [Build Check] Started
+[2017-12-08 02:08:19] [Trakt Data] Started
+[2017-12-08 02:08:19] [Trakt Data] Not Enabled
+[2017-12-08 02:08:19] [Real Debrid Data] Started
+[2017-12-08 02:08:19] [Real Debrid Data] Not Enabled
+[2017-12-08 02:08:19] [Login Data] Started
+[2017-12-08 02:08:19] [Login Data] Not Enabled
+[2017-12-08 02:08:19] [Auto Clean Up] Started
+[2017-12-08 02:08:19] [Auto Clean Up] Cache: On
+[2017-12-08 02:08:19] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-08 02:08:19] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-08 02:08:19] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-08 02:08:19] Ignore Log File: kodi.log
+[2017-12-08 02:08:19] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-08 02:08:19] Ignore Log File: kodi.old.log
+[2017-12-08 02:08:19] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-08 02:08:19] [Auto Clean Up] Old Thumbs: On
+[2017-12-08 02:08:19] 0 total thumbs cleaned up.
+[2017-12-08 02:08:19] [Auto Clean Up] Packages: On
+[2017-12-08 22:59:55] 2017-12-08 22:59:55.499480
+[2017-12-08 22:59:56] Continuing Start Up Script
+[2017-12-08 22:59:56] [Path Check] Started
+[2017-12-08 22:59:56] [Path Check] Good!
+[2017-12-08 22:59:56] [Auto Install Repo] Started
+[2017-12-08 22:59:56] [Auto Install Repo] Repository already installed
+[2017-12-08 22:59:56] [Auto Update Wizard] Started
+[2017-12-08 22:59:56] [Auto Update Wizard] Not Enabled
+[2017-12-08 22:59:56] [Notifications] Started
+[2017-12-08 22:59:57] [Notifications] id[1] Dismissed
+[2017-12-08 22:59:57] [Installed Check] Started
+[2017-12-08 22:59:57] [Installed Check] Not Enabled
+[2017-12-08 22:59:57] [Build Check] Started
+[2017-12-08 22:59:57] [Trakt Data] Started
+[2017-12-08 22:59:57] [Trakt Data] Not Enabled
+[2017-12-08 22:59:57] [Real Debrid Data] Started
+[2017-12-08 22:59:57] [Real Debrid Data] Not Enabled
+[2017-12-08 22:59:57] [Login Data] Started
+[2017-12-08 22:59:57] [Login Data] Not Enabled
+[2017-12-08 22:59:57] [Auto Clean Up] Started
+[2017-12-08 22:59:57] [Auto Clean Up] Cache: On
+[2017-12-08 22:59:57] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-08 22:59:57] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-08 22:59:57] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-08 22:59:57] Ignore Log File: kodi.log
+[2017-12-08 22:59:57] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-08 22:59:57] Ignore Log File: kodi.old.log
+[2017-12-08 22:59:57] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-08 22:59:57] [Auto Clean Up] Old Thumbs: On
+[2017-12-08 22:59:57] 0 total thumbs cleaned up.
+[2017-12-08 22:59:57] [Auto Clean Up] Packages: On
+[2017-12-09 20:21:14] 2017-12-09 20:21:14.623725
+[2017-12-09 20:21:15] Continuing Start Up Script
+[2017-12-09 20:21:15] [Path Check] Started
+[2017-12-09 20:21:15] [Path Check] Good!
+[2017-12-09 20:21:15] [Auto Install Repo] Started
+[2017-12-09 20:21:15] [Auto Install Repo] Repository already installed
+[2017-12-09 20:21:15] [Auto Update Wizard] Started
+[2017-12-09 20:21:15] [Auto Update Wizard] Not Enabled
+[2017-12-09 20:21:15] [Notifications] Started
+[2017-12-09 20:21:16] [Notifications] id[1] Dismissed
+[2017-12-09 20:21:16] [Installed Check] Started
+[2017-12-09 20:21:16] [Installed Check] Not Enabled
+[2017-12-09 20:21:16] [Build Check] Started
+[2017-12-09 20:21:16] [Trakt Data] Started
+[2017-12-09 20:21:16] [Trakt Data] Not Enabled
+[2017-12-09 20:21:16] [Real Debrid Data] Started
+[2017-12-09 20:21:16] [Real Debrid Data] Not Enabled
+[2017-12-09 20:21:16] [Login Data] Started
+[2017-12-09 20:21:16] [Login Data] Not Enabled
+[2017-12-09 20:21:16] [Auto Clean Up] Started
+[2017-12-09 20:21:16] [Auto Clean Up] Cache: On
+[2017-12-09 20:21:16] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-09 20:21:16] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-09 20:21:16] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-09 20:21:16] Ignore Log File: kodi.log
+[2017-12-09 20:21:16] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-09 20:21:16] Ignore Log File: kodi.old.log
+[2017-12-09 20:21:16] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-09 20:21:16] [Auto Clean Up] Old Thumbs: On
+[2017-12-09 20:21:16] 6 total thumbs cleaned up.
+[2017-12-09 20:21:16] [Auto Clean Up] Packages: On
+[2017-12-10 03:16:53] 2017-12-10 03:16:53.736137
+[2017-12-10 03:16:54] Continuing Start Up Script
+[2017-12-10 03:16:54] [Path Check] Started
+[2017-12-10 03:16:54] [Path Check] Good!
+[2017-12-10 03:16:54] [Auto Install Repo] Started
+[2017-12-10 03:16:54] [Auto Install Repo] Repository already installed
+[2017-12-10 03:16:54] [Auto Update Wizard] Started
+[2017-12-10 03:16:54] [Auto Update Wizard] Not Enabled
+[2017-12-10 03:16:54] [Notifications] Started
+[2017-12-10 03:16:55] [Notifications] id[1] Dismissed
+[2017-12-10 03:16:55] [Installed Check] Started
+[2017-12-10 03:16:55] [Installed Check] Not Enabled
+[2017-12-10 03:16:55] [Build Check] Started
+[2017-12-10 03:16:55] [Trakt Data] Started
+[2017-12-10 03:16:55] [Trakt Data] Not Enabled
+[2017-12-10 03:16:55] [Real Debrid Data] Started
+[2017-12-10 03:16:55] [Real Debrid Data] Not Enabled
+[2017-12-10 03:16:55] [Login Data] Started
+[2017-12-10 03:16:55] [Login Data] Not Enabled
+[2017-12-10 03:16:55] [Auto Clean Up] Started
+[2017-12-10 03:16:55] [Auto Clean Up] Cache: On
+[2017-12-10 03:16:55] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-10 03:16:55] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-10 03:16:55] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-10 03:16:55] Ignore Log File: kodi.log
+[2017-12-10 03:16:55] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-10 03:16:55] Ignore Log File: kodi.old.log
+[2017-12-10 03:16:55] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-10 03:16:55] [Auto Clean Up] Old Thumbs: On
+[2017-12-10 03:16:55] 562 total thumbs cleaned up.
+[2017-12-10 03:16:55] [Auto Clean Up] Packages: On
+[2017-12-10 21:10:14] 2017-12-10 21:10:14.909697
+[2017-12-10 21:10:15] Continuing Start Up Script
+[2017-12-10 21:10:15] [Path Check] Started
+[2017-12-10 21:10:15] [Path Check] Good!
+[2017-12-10 21:10:15] [Auto Install Repo] Started
+[2017-12-10 21:10:15] [Auto Install Repo] Repository already installed
+[2017-12-10 21:10:15] [Auto Update Wizard] Started
+[2017-12-10 21:10:15] [Auto Update Wizard] Not Enabled
+[2017-12-10 21:10:15] [Notifications] Started
+[2017-12-10 21:10:16] [Notifications] id[1] Dismissed
+[2017-12-10 21:10:16] [Installed Check] Started
+[2017-12-10 21:10:16] [Installed Check] Not Enabled
+[2017-12-10 21:10:16] [Build Check] Started
+[2017-12-10 21:10:16] [Trakt Data] Started
+[2017-12-10 21:10:16] [Trakt Data] Not Enabled
+[2017-12-10 21:10:16] [Real Debrid Data] Started
+[2017-12-10 21:10:16] [Real Debrid Data] Not Enabled
+[2017-12-10 21:10:16] [Login Data] Started
+[2017-12-10 21:10:16] [Login Data] Not Enabled
+[2017-12-10 21:10:16] [Auto Clean Up] Started
+[2017-12-10 21:10:16] [Auto Clean Up] Cache: On
+[2017-12-10 21:10:16] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-10 21:10:16] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-10 21:10:16] Ignore Log File: kodi.log
+[2017-12-10 21:10:16] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-10 21:10:16] Ignore Log File: kodi.old.log
+[2017-12-10 21:10:16] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-10 21:10:16] [Auto Clean Up] Old Thumbs: On
+[2017-12-10 21:10:16] 0 total thumbs cleaned up.
+[2017-12-10 21:10:16] [Auto Clean Up] Packages: On
+[2017-12-11 01:01:07] 2017-12-11 01:01:07.112993
+[2017-12-11 01:01:08] Continuing Start Up Script
+[2017-12-11 01:01:08] [Path Check] Started
+[2017-12-11 01:01:08] [Path Check] Good!
+[2017-12-11 01:01:08] [Auto Install Repo] Started
+[2017-12-11 01:01:08] [Auto Install Repo] Repository already installed
+[2017-12-11 01:01:08] [Auto Update Wizard] Started
+[2017-12-11 01:01:08] [Auto Update Wizard] Not Enabled
+[2017-12-11 01:01:08] [Notifications] Started
+[2017-12-11 01:01:08] [Notifications] id[1] Dismissed
+[2017-12-11 01:01:08] [Installed Check] Started
+[2017-12-11 01:01:08] [Installed Check] Not Enabled
+[2017-12-11 01:01:08] [Build Check] Started
+[2017-12-11 01:01:08] [Trakt Data] Started
+[2017-12-11 01:01:08] [Trakt Data] Not Enabled
+[2017-12-11 01:01:08] [Real Debrid Data] Started
+[2017-12-11 01:01:08] [Real Debrid Data] Not Enabled
+[2017-12-11 01:01:08] [Login Data] Started
+[2017-12-11 01:01:08] [Login Data] Not Enabled
+[2017-12-11 01:01:08] [Auto Clean Up] Started
+[2017-12-11 01:01:08] [Auto Clean Up] Cache: On
+[2017-12-11 01:01:08] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-11 01:01:08] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-11 01:01:08] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-11 01:01:08] Ignore Log File: kodi.log
+[2017-12-11 01:01:08] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-11 01:01:08] Ignore Log File: kodi.old.log
+[2017-12-11 01:01:08] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-11 01:01:08] [Auto Clean Up] Old Thumbs: On
+[2017-12-11 01:01:08] 109 total thumbs cleaned up.
+[2017-12-11 01:01:08] [Auto Clean Up] Packages: On
+[2017-12-11 14:59:44] 2017-12-11 14:59:44.929487
+[2017-12-11 14:59:45] Continuing Start Up Script
+[2017-12-11 14:59:45] [Path Check] Started
+[2017-12-11 14:59:45] [Path Check] Good!
+[2017-12-11 14:59:45] [Auto Install Repo] Started
+[2017-12-11 14:59:45] [Auto Install Repo] Repository already installed
+[2017-12-11 14:59:45] [Auto Update Wizard] Started
+[2017-12-11 14:59:45] [Auto Update Wizard] Not Enabled
+[2017-12-11 14:59:45] [Notifications] Started
+[2017-12-11 14:59:46] [Notifications] id[1] Dismissed
+[2017-12-11 14:59:46] [Installed Check] Started
+[2017-12-11 14:59:46] [Installed Check] Not Enabled
+[2017-12-11 14:59:46] [Build Check] Started
+[2017-12-11 14:59:46] [Trakt Data] Started
+[2017-12-11 14:59:46] [Trakt Data] Not Enabled
+[2017-12-11 14:59:46] [Real Debrid Data] Started
+[2017-12-11 14:59:46] [Real Debrid Data] Not Enabled
+[2017-12-11 14:59:46] [Login Data] Started
+[2017-12-11 14:59:46] [Login Data] Not Enabled
+[2017-12-11 14:59:46] [Auto Clean Up] Started
+[2017-12-11 14:59:46] [Auto Clean Up] Cache: On
+[2017-12-11 14:59:46] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-11 14:59:46] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-11 14:59:46] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-11 14:59:46] Ignore Log File: kodi.log
+[2017-12-11 14:59:46] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-11 14:59:46] Ignore Log File: kodi.old.log
+[2017-12-11 14:59:46] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-11 14:59:46] [Auto Clean Up] Old Thumbs: On
+[2017-12-11 14:59:46] 0 total thumbs cleaned up.
+[2017-12-11 14:59:46] [Auto Clean Up] Packages: On
+[2017-12-11 16:00:10] 2017-12-11 16:00:10.663510
+[2017-12-11 16:00:11] Continuing Start Up Script
+[2017-12-11 16:00:11] [Path Check] Started
+[2017-12-11 16:00:11] [Path Check] Good!
+[2017-12-11 16:00:11] [Auto Install Repo] Started
+[2017-12-11 16:00:11] [Auto Install Repo] Repository already installed
+[2017-12-11 16:00:11] [Auto Update Wizard] Started
+[2017-12-11 16:00:11] [Auto Update Wizard] Not Enabled
+[2017-12-11 16:00:11] [Notifications] Started
+[2017-12-11 16:00:11] [Notifications] id[1] Dismissed
+[2017-12-11 16:00:11] [Installed Check] Started
+[2017-12-11 16:00:11] [Installed Check] Not Enabled
+[2017-12-11 16:00:11] [Build Check] Started
+[2017-12-11 16:00:11] [Trakt Data] Started
+[2017-12-11 16:00:11] [Trakt Data] Not Enabled
+[2017-12-11 16:00:11] [Real Debrid Data] Started
+[2017-12-11 16:00:11] [Real Debrid Data] Not Enabled
+[2017-12-11 16:00:11] [Login Data] Started
+[2017-12-11 16:00:11] [Login Data] Not Enabled
+[2017-12-11 16:00:11] [Auto Clean Up] Started
+[2017-12-11 16:00:12] [Auto Clean Up] Cache: On
+[2017-12-11 16:00:12] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-11 16:00:12] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-11 16:00:12] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-11 16:00:12] Ignore Log File: kodi.log
+[2017-12-11 16:00:12] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-11 16:00:12] Ignore Log File: kodi.old.log
+[2017-12-11 16:00:12] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-11 16:00:12] [Auto Clean Up] Old Thumbs: On
+[2017-12-11 16:00:12] 0 total thumbs cleaned up.
+[2017-12-11 16:00:12] [Auto Clean Up] Packages: On
+[2017-12-11 17:34:06] 2017-12-11 17:34:06.502670
+[2017-12-11 17:34:07] Continuing Start Up Script
+[2017-12-11 17:34:07] [Path Check] Started
+[2017-12-11 17:34:07] [Path Check] Good!
+[2017-12-11 17:34:07] [Auto Install Repo] Started
+[2017-12-11 17:34:07] [Auto Install Repo] Repository already installed
+[2017-12-11 17:34:07] [Auto Update Wizard] Started
+[2017-12-11 17:34:07] [Auto Update Wizard] Not Enabled
+[2017-12-11 17:34:07] [Notifications] Started
+[2017-12-11 17:34:07] [Notifications] id[1] Dismissed
+[2017-12-11 17:34:07] [Installed Check] Started
+[2017-12-11 17:34:07] [Installed Check] Not Enabled
+[2017-12-11 17:34:07] [Build Check] Started
+[2017-12-11 17:34:07] [Trakt Data] Started
+[2017-12-11 17:34:07] [Trakt Data] Not Enabled
+[2017-12-11 17:34:07] [Real Debrid Data] Started
+[2017-12-11 17:34:07] [Real Debrid Data] Not Enabled
+[2017-12-11 17:34:07] [Login Data] Started
+[2017-12-11 17:34:07] [Login Data] Not Enabled
+[2017-12-11 17:34:07] [Auto Clean Up] Started
+[2017-12-11 17:34:07] [Auto Clean Up] Cache: On
+[2017-12-11 17:34:08] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-11 17:34:08] Ignore Log File: kodi.log
+[2017-12-11 17:34:08] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-11 17:34:08] Ignore Log File: kodi.old.log
+[2017-12-11 17:34:08] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-11 17:34:08] [Auto Clean Up] Old Thumbs: On
+[2017-12-11 17:34:09] 0 total thumbs cleaned up.
+[2017-12-11 17:34:10] [Auto Clean Up] Packages: On
+[2017-12-11 20:34:05] 2017-12-11 20:34:05.303596
+[2017-12-11 20:34:06] Continuing Start Up Script
+[2017-12-11 20:34:06] [Path Check] Started
+[2017-12-11 20:34:06] [Path Check] Good!
+[2017-12-11 20:34:06] [Auto Install Repo] Started
+[2017-12-11 20:34:06] [Auto Install Repo] Repository already installed
+[2017-12-11 20:34:06] [Auto Update Wizard] Started
+[2017-12-11 20:34:06] [Auto Update Wizard] Not Enabled
+[2017-12-11 20:34:06] [Notifications] Started
+[2017-12-11 20:34:06] [Notifications] id[1] Dismissed
+[2017-12-11 20:34:06] [Installed Check] Started
+[2017-12-11 20:34:06] [Installed Check] Not Enabled
+[2017-12-11 20:34:06] [Build Check] Started
+[2017-12-11 20:34:06] [Trakt Data] Started
+[2017-12-11 20:34:06] [Trakt Data] Not Enabled
+[2017-12-11 20:34:06] [Real Debrid Data] Started
+[2017-12-11 20:34:06] [Real Debrid Data] Not Enabled
+[2017-12-11 20:34:06] [Login Data] Started
+[2017-12-11 20:34:06] [Login Data] Not Enabled
+[2017-12-11 20:34:06] [Auto Clean Up] Started
+[2017-12-11 20:34:06] [Auto Clean Up] Cache: On
+[2017-12-11 20:34:06] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-11 20:34:06] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-11 20:34:06] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-11 20:34:06] Ignore Log File: kodi.log
+[2017-12-11 20:34:06] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-11 20:34:06] Ignore Log File: kodi.old.log
+[2017-12-11 20:34:06] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-11 20:34:06] [Auto Clean Up] Old Thumbs: On
+[2017-12-11 20:34:06] 0 total thumbs cleaned up.
+[2017-12-11 20:34:06] [Auto Clean Up] Packages: On
+[2017-12-11 21:12:56] 2017-12-11 21:12:56.305916
+[2017-12-11 21:12:57] Continuing Start Up Script
+[2017-12-11 21:12:57] [Path Check] Started
+[2017-12-11 21:12:57] [Path Check] Good!
+[2017-12-11 21:12:57] [Auto Install Repo] Started
+[2017-12-11 21:12:57] [Auto Install Repo] Repository already installed
+[2017-12-11 21:12:57] [Auto Update Wizard] Started
+[2017-12-11 21:12:57] [Auto Update Wizard] Not Enabled
+[2017-12-11 21:12:57] [Notifications] Started
+[2017-12-11 21:12:57] [Notifications] id[1] Dismissed
+[2017-12-11 21:12:57] [Installed Check] Started
+[2017-12-11 21:12:57] [Installed Check] Not Enabled
+[2017-12-11 21:12:57] [Build Check] Started
+[2017-12-11 21:12:57] [Trakt Data] Started
+[2017-12-11 21:12:57] [Trakt Data] Not Enabled
+[2017-12-11 21:12:57] [Real Debrid Data] Started
+[2017-12-11 21:12:57] [Real Debrid Data] Not Enabled
+[2017-12-11 21:12:57] [Login Data] Started
+[2017-12-11 21:12:57] [Login Data] Not Enabled
+[2017-12-11 21:12:57] [Auto Clean Up] Started
+[2017-12-11 21:12:57] [Auto Clean Up] Cache: On
+[2017-12-11 21:12:57] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-11 21:12:57] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-11 21:12:57] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-11 21:12:57] Ignore Log File: kodi.log
+[2017-12-11 21:12:57] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-11 21:12:57] Ignore Log File: kodi.old.log
+[2017-12-11 21:12:57] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-11 21:12:57] [Auto Clean Up] Old Thumbs: On
+[2017-12-11 21:12:57] 0 total thumbs cleaned up.
+[2017-12-11 21:12:57] [Auto Clean Up] Packages: On
+[2017-12-12 01:10:02] 2017-12-12 01:10:02.322591
+[2017-12-12 01:10:03] Continuing Start Up Script
+[2017-12-12 01:10:03] [Path Check] Started
+[2017-12-12 01:10:03] [Path Check] Good!
+[2017-12-12 01:10:03] [Auto Install Repo] Started
+[2017-12-12 01:10:03] [Auto Install Repo] Repository already installed
+[2017-12-12 01:10:03] [Auto Update Wizard] Started
+[2017-12-12 01:10:03] [Auto Update Wizard] Not Enabled
+[2017-12-12 01:10:03] [Notifications] Started
+[2017-12-12 01:10:03] [Notifications] id[1] Dismissed
+[2017-12-12 01:10:03] [Installed Check] Started
+[2017-12-12 01:10:03] [Installed Check] Not Enabled
+[2017-12-12 01:10:03] [Build Check] Started
+[2017-12-12 01:10:03] [Trakt Data] Started
+[2017-12-12 01:10:03] [Trakt Data] Not Enabled
+[2017-12-12 01:10:03] [Real Debrid Data] Started
+[2017-12-12 01:10:03] [Real Debrid Data] Not Enabled
+[2017-12-12 01:10:03] [Login Data] Started
+[2017-12-12 01:10:03] [Login Data] Not Enabled
+[2017-12-12 01:10:03] [Auto Clean Up] Started
+[2017-12-12 01:10:03] [Auto Clean Up] Cache: On
+[2017-12-12 01:10:04] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-12 01:10:04] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-12 01:10:04] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-12 01:10:04] Ignore Log File: kodi.log
+[2017-12-12 01:10:04] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-12 01:10:04] Ignore Log File: kodi.old.log
+[2017-12-12 01:10:04] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-12 01:10:04] [Auto Clean Up] Old Thumbs: On
+[2017-12-12 01:10:04] 440 total thumbs cleaned up.
+[2017-12-12 01:10:04] [Auto Clean Up] Packages: On
+[2017-12-12 01:17:06] 2017-12-12 01:17:06.831279
+[2017-12-12 01:17:07] Continuing Start Up Script
+[2017-12-12 01:17:07] [Path Check] Started
+[2017-12-12 01:17:07] [Path Check] Good!
+[2017-12-12 01:17:07] [Auto Install Repo] Started
+[2017-12-12 01:17:07] [Auto Install Repo] Repository already installed
+[2017-12-12 01:17:07] [Auto Update Wizard] Started
+[2017-12-12 01:17:07] [Auto Update Wizard] Not Enabled
+[2017-12-12 01:17:07] [Notifications] Started
+[2017-12-12 01:17:08] [Notifications] id[1] Dismissed
+[2017-12-12 01:17:08] [Installed Check] Started
+[2017-12-12 01:17:08] [Installed Check] Not Enabled
+[2017-12-12 01:17:08] [Build Check] Started
+[2017-12-12 01:17:08] [Trakt Data] Started
+[2017-12-12 01:17:08] [Trakt Data] Not Enabled
+[2017-12-12 01:17:08] [Real Debrid Data] Started
+[2017-12-12 01:17:08] [Real Debrid Data] Not Enabled
+[2017-12-12 01:17:08] [Login Data] Started
+[2017-12-12 01:17:08] [Login Data] Not Enabled
+[2017-12-12 01:17:08] [Auto Clean Up] Started
+[2017-12-12 01:17:08] [Auto Clean Up] Cache: On
+[2017-12-12 01:17:08] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-12 01:17:08] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-12 01:17:08] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-12 01:17:08] Ignore Log File: kodi.log
+[2017-12-12 01:17:08] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-12 01:17:08] Ignore Log File: kodi.old.log
+[2017-12-12 01:17:08] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-12 01:17:08] [Auto Clean Up] Old Thumbs: On
+[2017-12-12 01:17:08] 0 total thumbs cleaned up.
+[2017-12-12 01:17:08] [Auto Clean Up] Packages: On
+[2017-12-12 20:44:45] 2017-12-12 20:44:45.361266
+[2017-12-12 20:44:46] Continuing Start Up Script
+[2017-12-12 20:44:46] [Path Check] Started
+[2017-12-12 20:44:46] [Path Check] Good!
+[2017-12-12 20:44:46] [Auto Install Repo] Started
+[2017-12-12 20:44:46] [Auto Install Repo] Repository already installed
+[2017-12-12 20:44:46] [Auto Update Wizard] Started
+[2017-12-12 20:44:46] [Auto Update Wizard] Not Enabled
+[2017-12-12 20:44:46] [Notifications] Started
+[2017-12-12 20:44:46] [Notifications] id[1] Dismissed
+[2017-12-12 20:44:46] [Installed Check] Started
+[2017-12-12 20:44:46] [Installed Check] Not Enabled
+[2017-12-12 20:44:46] [Build Check] Started
+[2017-12-12 20:44:46] [Trakt Data] Started
+[2017-12-12 20:44:46] [Trakt Data] Not Enabled
+[2017-12-12 20:44:46] [Real Debrid Data] Started
+[2017-12-12 20:44:46] [Real Debrid Data] Not Enabled
+[2017-12-12 20:44:46] [Login Data] Started
+[2017-12-12 20:44:46] [Login Data] Not Enabled
+[2017-12-12 20:44:46] [Auto Clean Up] Started
+[2017-12-12 20:44:46] [Auto Clean Up] Cache: On
+[2017-12-12 20:44:46] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-12 20:44:46] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-12 20:44:46] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-12 20:44:46] Ignore Log File: kodi.log
+[2017-12-12 20:44:46] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-12 20:44:46] Ignore Log File: kodi.old.log
+[2017-12-12 20:44:46] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-12 20:44:46] [Auto Clean Up] Old Thumbs: On
+[2017-12-12 20:44:46] 0 total thumbs cleaned up.
+[2017-12-12 20:44:46] [Auto Clean Up] Packages: On
+[2017-12-12 21:52:41] 2017-12-12 21:52:41.442437
+[2017-12-12 21:52:42] Continuing Start Up Script
+[2017-12-12 21:52:42] [Path Check] Started
+[2017-12-12 21:52:42] [Path Check] Good!
+[2017-12-12 21:52:42] [Auto Install Repo] Started
+[2017-12-12 21:52:42] [Auto Install Repo] Repository already installed
+[2017-12-12 21:52:42] [Auto Update Wizard] Started
+[2017-12-12 21:52:42] [Auto Update Wizard] Not Enabled
+[2017-12-12 21:52:42] [Notifications] Started
+[2017-12-12 21:52:42] [Notifications] id[1] Dismissed
+[2017-12-12 21:52:42] [Installed Check] Started
+[2017-12-12 21:52:42] [Installed Check] Not Enabled
+[2017-12-12 21:52:42] [Build Check] Started
+[2017-12-12 21:52:42] [Trakt Data] Started
+[2017-12-12 21:52:42] [Trakt Data] Not Enabled
+[2017-12-12 21:52:42] [Real Debrid Data] Started
+[2017-12-12 21:52:42] [Real Debrid Data] Not Enabled
+[2017-12-12 21:52:42] [Login Data] Started
+[2017-12-12 21:52:42] [Login Data] Not Enabled
+[2017-12-12 21:52:42] [Auto Clean Up] Started
+[2017-12-12 21:52:42] [Auto Clean Up] Cache: On
+[2017-12-12 21:52:42] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-12 21:52:42] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-12 21:52:42] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-12 21:52:42] Ignore Log File: kodi.log
+[2017-12-12 21:52:42] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-12 21:52:42] Ignore Log File: kodi.old.log
+[2017-12-12 21:52:42] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-12 21:52:42] [Auto Clean Up] Old Thumbs: On
+[2017-12-12 21:52:42] 0 total thumbs cleaned up.
+[2017-12-12 21:52:42] [Auto Clean Up] Packages: On
+[2017-12-13 13:37:27] 2017-12-13 13:37:27.302233
+[2017-12-13 13:37:28] Continuing Start Up Script
+[2017-12-13 13:37:28] [Path Check] Started
+[2017-12-13 13:37:28] [Path Check] Good!
+[2017-12-13 13:37:28] [Auto Install Repo] Started
+[2017-12-13 13:37:28] [Auto Install Repo] Repository already installed
+[2017-12-13 13:37:28] [Auto Update Wizard] Started
+[2017-12-13 13:37:28] [Auto Update Wizard] Not Enabled
+[2017-12-13 13:37:28] [Notifications] Started
+[2017-12-13 13:37:28] [Notifications] id[1] Dismissed
+[2017-12-13 13:37:28] [Installed Check] Started
+[2017-12-13 13:37:28] [Installed Check] Not Enabled
+[2017-12-13 13:37:28] [Build Check] Started
+[2017-12-13 13:37:28] [Trakt Data] Started
+[2017-12-13 13:37:28] [Trakt Data] Not Enabled
+[2017-12-13 13:37:28] [Real Debrid Data] Started
+[2017-12-13 13:37:28] [Real Debrid Data] Not Enabled
+[2017-12-13 13:37:28] [Login Data] Started
+[2017-12-13 13:37:28] [Login Data] Not Enabled
+[2017-12-13 13:37:28] [Auto Clean Up] Started
+[2017-12-13 13:37:28] [Auto Clean Up] Cache: On
+[2017-12-13 13:37:28] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-13 13:37:28] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-13 13:37:28] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-13 13:37:28] Ignore Log File: kodi.log
+[2017-12-13 13:37:28] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-13 13:37:28] Ignore Log File: kodi.old.log
+[2017-12-13 13:37:28] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-13 13:37:28] [Auto Clean Up] Old Thumbs: On
+[2017-12-13 13:37:28] 0 total thumbs cleaned up.
+[2017-12-13 13:37:28] [Auto Clean Up] Packages: On
+[2017-12-13 23:38:10] 2017-12-13 23:38:10.262309
+[2017-12-13 23:38:11] Continuing Start Up Script
+[2017-12-13 23:38:11] [Path Check] Started
+[2017-12-13 23:38:11] [Path Check] Good!
+[2017-12-13 23:38:11] [Auto Install Repo] Started
+[2017-12-13 23:38:11] [Auto Install Repo] Repository already installed
+[2017-12-13 23:38:11] [Auto Update Wizard] Started
+[2017-12-13 23:38:11] [Auto Update Wizard] Not Enabled
+[2017-12-13 23:38:11] [Notifications] Started
+[2017-12-13 23:38:11] [Notifications] id[1] Dismissed
+[2017-12-13 23:38:11] [Installed Check] Started
+[2017-12-13 23:38:11] [Installed Check] Not Enabled
+[2017-12-13 23:38:11] [Build Check] Started
+[2017-12-13 23:38:11] [Trakt Data] Started
+[2017-12-13 23:38:11] [Trakt Data] Not Enabled
+[2017-12-13 23:38:11] [Real Debrid Data] Started
+[2017-12-13 23:38:11] [Real Debrid Data] Not Enabled
+[2017-12-13 23:38:11] [Login Data] Started
+[2017-12-13 23:38:11] [Login Data] Not Enabled
+[2017-12-13 23:38:11] [Auto Clean Up] Started
+[2017-12-13 23:38:11] [Auto Clean Up] Cache: On
+[2017-12-13 23:38:11] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-13 23:38:11] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-13 23:38:11] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-13 23:38:11] Ignore Log File: kodi.log
+[2017-12-13 23:38:11] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-13 23:38:11] Ignore Log File: kodi.old.log
+[2017-12-13 23:38:11] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-13 23:38:11] [Auto Clean Up] Old Thumbs: On
+[2017-12-13 23:38:11] 0 total thumbs cleaned up.
+[2017-12-13 23:38:11] [Auto Clean Up] Packages: On
+[2017-12-15 01:41:15] 2017-12-15 01:41:15.514218
+[2017-12-15 01:41:16] Continuing Start Up Script
+[2017-12-15 01:41:16] [Path Check] Started
+[2017-12-15 01:41:16] [Path Check] Good!
+[2017-12-15 01:41:16] [Auto Install Repo] Started
+[2017-12-15 01:41:16] [Auto Install Repo] Repository already installed
+[2017-12-15 01:41:16] [Auto Update Wizard] Started
+[2017-12-15 01:41:16] [Auto Update Wizard] Not Enabled
+[2017-12-15 01:41:16] [Notifications] Started
+[2017-12-15 01:41:16] [Notifications] id[1] Dismissed
+[2017-12-15 01:41:16] [Installed Check] Started
+[2017-12-15 01:41:16] [Installed Check] Not Enabled
+[2017-12-15 01:41:16] [Build Check] Started
+[2017-12-15 01:41:16] [Trakt Data] Started
+[2017-12-15 01:41:16] [Trakt Data] Not Enabled
+[2017-12-15 01:41:16] [Real Debrid Data] Started
+[2017-12-15 01:41:16] [Real Debrid Data] Not Enabled
+[2017-12-15 01:41:16] [Login Data] Started
+[2017-12-15 01:41:16] [Login Data] Not Enabled
+[2017-12-15 01:41:16] [Auto Clean Up] Started
+[2017-12-15 01:41:16] [Auto Clean Up] Cache: On
+[2017-12-15 01:41:16] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-15 01:41:16] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-15 01:41:16] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-15 01:41:16] Ignore Log File: kodi.log
+[2017-12-15 01:41:16] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-15 01:41:16] Ignore Log File: kodi.old.log
+[2017-12-15 01:41:16] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-15 01:41:16] [Auto Clean Up] Old Thumbs: On
+[2017-12-15 01:41:16] 0 total thumbs cleaned up.
+[2017-12-15 01:41:16] [Auto Clean Up] Packages: On
+[2017-12-15 14:20:13] 2017-12-15 14:20:13.173511
+[2017-12-15 14:20:14] Continuing Start Up Script
+[2017-12-15 14:20:14] [Path Check] Started
+[2017-12-15 14:20:14] [Path Check] Good!
+[2017-12-15 14:20:14] [Auto Install Repo] Started
+[2017-12-15 14:20:14] [Auto Install Repo] Repository already installed
+[2017-12-15 14:20:14] [Auto Update Wizard] Started
+[2017-12-15 14:20:14] [Auto Update Wizard] Not Enabled
+[2017-12-15 14:20:14] [Notifications] Started
+[2017-12-15 14:20:14] [Notifications] id[1] Dismissed
+[2017-12-15 14:20:14] [Installed Check] Started
+[2017-12-15 14:20:14] [Installed Check] Not Enabled
+[2017-12-15 14:20:14] [Build Check] Started
+[2017-12-15 14:20:14] [Trakt Data] Started
+[2017-12-15 14:20:14] [Trakt Data] Not Enabled
+[2017-12-15 14:20:14] [Real Debrid Data] Started
+[2017-12-15 14:20:14] [Real Debrid Data] Not Enabled
+[2017-12-15 14:20:14] [Login Data] Started
+[2017-12-15 14:20:14] [Login Data] Not Enabled
+[2017-12-15 14:20:14] [Auto Clean Up] Started
+[2017-12-15 14:20:14] [Auto Clean Up] Cache: On
+[2017-12-15 14:20:14] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-15 14:20:14] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-15 14:20:14] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-15 14:20:14] Ignore Log File: kodi.log
+[2017-12-15 14:20:14] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-15 14:20:14] Ignore Log File: kodi.old.log
+[2017-12-15 14:20:14] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-15 14:20:14] [Auto Clean Up] Old Thumbs: On
+[2017-12-15 14:20:14] 0 total thumbs cleaned up.
+[2017-12-15 14:20:14] [Auto Clean Up] Packages: On
+[2017-12-15 20:45:58] 2017-12-15 20:45:58.691904
+[2017-12-15 20:45:59] Continuing Start Up Script
+[2017-12-15 20:45:59] [Path Check] Started
+[2017-12-15 20:45:59] [Path Check] Good!
+[2017-12-15 20:45:59] [Auto Install Repo] Started
+[2017-12-15 20:45:59] [Auto Install Repo] Repository already installed
+[2017-12-15 20:45:59] [Auto Update Wizard] Started
+[2017-12-15 20:45:59] [Auto Update Wizard] Not Enabled
+[2017-12-15 20:45:59] [Notifications] Started
+[2017-12-15 20:46:00] [Notifications] id[1] Dismissed
+[2017-12-15 20:46:00] [Installed Check] Started
+[2017-12-15 20:46:00] [Installed Check] Not Enabled
+[2017-12-15 20:46:00] [Build Check] Started
+[2017-12-15 20:46:00] [Trakt Data] Started
+[2017-12-15 20:46:00] [Trakt Data] Not Enabled
+[2017-12-15 20:46:00] [Real Debrid Data] Started
+[2017-12-15 20:46:00] [Real Debrid Data] Not Enabled
+[2017-12-15 20:46:00] [Login Data] Started
+[2017-12-15 20:46:00] [Login Data] Not Enabled
+[2017-12-15 20:46:00] [Auto Clean Up] Started
+[2017-12-15 20:46:00] [Auto Clean Up] Cache: On
+[2017-12-15 20:46:00] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-15 20:46:00] Ignore Log File: kodi.log
+[2017-12-15 20:46:00] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-15 20:46:00] Ignore Log File: kodi.old.log
+[2017-12-15 20:46:00] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-15 20:46:00] [Auto Clean Up] Old Thumbs: On
+[2017-12-15 20:46:01] 0 total thumbs cleaned up.
+[2017-12-15 20:46:01] [Auto Clean Up] Packages: On
+[2017-12-16 01:55:44] 2017-12-16 01:55:44.664272
+[2017-12-16 01:55:45] Continuing Start Up Script
+[2017-12-16 01:55:45] [Path Check] Started
+[2017-12-16 01:55:45] [Path Check] Good!
+[2017-12-16 01:55:45] [Auto Install Repo] Started
+[2017-12-16 01:55:45] [Auto Install Repo] Repository already installed
+[2017-12-16 01:55:45] [Auto Update Wizard] Started
+[2017-12-16 01:55:45] [Auto Update Wizard] Not Enabled
+[2017-12-16 01:55:45] [Notifications] Started
+[2017-12-16 01:55:46] [Notifications] id[1] Dismissed
+[2017-12-16 01:55:46] [Installed Check] Started
+[2017-12-16 01:55:46] [Installed Check] Not Enabled
+[2017-12-16 01:55:46] [Build Check] Started
+[2017-12-16 01:55:46] [Trakt Data] Started
+[2017-12-16 01:55:46] [Trakt Data] Not Enabled
+[2017-12-16 01:55:46] [Real Debrid Data] Started
+[2017-12-16 01:55:46] [Real Debrid Data] Not Enabled
+[2017-12-16 01:55:46] [Login Data] Started
+[2017-12-16 01:55:46] [Login Data] Not Enabled
+[2017-12-16 01:55:46] [Auto Clean Up] Started
+[2017-12-16 01:55:46] [Auto Clean Up] Cache: On
+[2017-12-16 01:55:46] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-16 01:55:46] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-16 01:55:46] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-16 01:55:46] Ignore Log File: kodi.log
+[2017-12-16 01:55:46] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-16 01:55:46] Ignore Log File: kodi.old.log
+[2017-12-16 01:55:46] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-16 01:55:46] [Auto Clean Up] Old Thumbs: On
+[2017-12-16 01:55:46] 0 total thumbs cleaned up.
+[2017-12-16 01:55:46] [Auto Clean Up] Packages: On
+[2017-12-16 14:30:40] 2017-12-16 14:30:40.160060
+[2017-12-16 14:30:41] Continuing Start Up Script
+[2017-12-16 14:30:41] [Path Check] Started
+[2017-12-16 14:30:41] [Path Check] Good!
+[2017-12-16 14:30:41] [Auto Install Repo] Started
+[2017-12-16 14:30:41] [Auto Install Repo] Repository already installed
+[2017-12-16 14:30:41] [Auto Update Wizard] Started
+[2017-12-16 14:30:41] [Auto Update Wizard] Not Enabled
+[2017-12-16 14:30:41] [Notifications] Started
+[2017-12-16 14:30:41] [Notifications] id[1] Dismissed
+[2017-12-16 14:30:41] [Installed Check] Started
+[2017-12-16 14:30:41] [Installed Check] Not Enabled
+[2017-12-16 14:30:41] [Build Check] Started
+[2017-12-16 14:30:41] [Trakt Data] Started
+[2017-12-16 14:30:41] [Trakt Data] Not Enabled
+[2017-12-16 14:30:41] [Real Debrid Data] Started
+[2017-12-16 14:30:41] [Real Debrid Data] Not Enabled
+[2017-12-16 14:30:41] [Login Data] Started
+[2017-12-16 14:30:41] [Login Data] Not Enabled
+[2017-12-16 14:30:41] [Auto Clean Up] Started
+[2017-12-16 14:30:41] [Auto Clean Up] Cache: On
+[2017-12-16 14:30:41] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-16 14:30:41] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-16 14:30:41] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-16 14:30:41] Ignore Log File: kodi.log
+[2017-12-16 14:30:41] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-16 14:30:41] Ignore Log File: kodi.old.log
+[2017-12-16 14:30:41] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-16 14:30:41] [Auto Clean Up] Old Thumbs: On
+[2017-12-16 14:30:41] 0 total thumbs cleaned up.
+[2017-12-16 14:30:41] [Auto Clean Up] Packages: On
+[2017-12-16 16:31:33] [ Version : '0.0.2' ] [ Mode : 'None' ] [ Name : 'None' ] [ Url : 'None' ]
+[2017-12-16 16:33:31] 2017-12-16 16:33:31.314849
+[2017-12-16 16:33:32] Continuing Start Up Script
+[2017-12-16 16:33:32] [Path Check] Started
+[2017-12-16 16:33:32] [Path Check] Good!
+[2017-12-16 16:33:32] [Auto Install Repo] Started
+[2017-12-16 16:33:32] [Auto Install Repo] Repository already installed
+[2017-12-16 16:33:32] [Auto Update Wizard] Started
+[2017-12-16 16:33:32] [Auto Update Wizard] Not Enabled
+[2017-12-16 16:33:32] [Notifications] Started
+[2017-12-16 16:33:32] [Notifications] id[1] Dismissed
+[2017-12-16 16:33:32] [Installed Check] Started
+[2017-12-16 16:33:32] [Installed Check] Not Enabled
+[2017-12-16 16:33:32] [Build Check] Started
+[2017-12-16 16:33:32] [Trakt Data] Started
+[2017-12-16 16:33:32] [Trakt Data] Not Enabled
+[2017-12-16 16:33:32] [Real Debrid Data] Started
+[2017-12-16 16:33:32] [Real Debrid Data] Not Enabled
+[2017-12-16 16:33:32] [Login Data] Started
+[2017-12-16 16:33:32] [Login Data] Not Enabled
+[2017-12-16 16:33:32] [Auto Clean Up] Started
+[2017-12-16 16:33:32] [Auto Clean Up] Cache: On
+[2017-12-16 16:33:32] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/plugin.video.SportsDevil/cache 
+[2017-12-16 16:33:32] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-16 16:33:32] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-16 16:33:32] Ignore Log File: kodi.log
+[2017-12-16 16:33:32] Ignore Log File: kodi.old.log
+[2017-12-16 16:33:32] [Success] cleared 2 files from /home/androidaba/.kodi/temp/temp
+[2017-12-16 16:33:32] [Auto Clean Up] Old Thumbs: On
+[2017-12-16 16:33:32] 0 total thumbs cleaned up.
+[2017-12-16 16:33:32] [Auto Clean Up] Packages: On
+[2017-12-16 20:49:11] 2017-12-16 20:49:11.742984
+[2017-12-16 20:49:12] Continuing Start Up Script
+[2017-12-16 20:49:12] [Path Check] Started
+[2017-12-16 20:49:12] [Path Check] Good!
+[2017-12-16 20:49:12] [Auto Install Repo] Started
+[2017-12-16 20:49:12] [Auto Install Repo] Repository already installed
+[2017-12-16 20:49:12] [Auto Update Wizard] Started
+[2017-12-16 20:49:12] [Auto Update Wizard] Not Enabled
+[2017-12-16 20:49:12] [Notifications] Started
+[2017-12-16 20:49:13] [Notifications] id[1] Dismissed
+[2017-12-16 20:49:13] [Installed Check] Started
+[2017-12-16 20:49:13] [Installed Check] Not Enabled
+[2017-12-16 20:49:13] [Build Check] Started
+[2017-12-16 20:49:13] [Trakt Data] Started
+[2017-12-16 20:49:13] [Trakt Data] Not Enabled
+[2017-12-16 20:49:13] [Real Debrid Data] Started
+[2017-12-16 20:49:13] [Real Debrid Data] Not Enabled
+[2017-12-16 20:49:13] [Login Data] Started
+[2017-12-16 20:49:13] [Login Data] Not Enabled
+[2017-12-16 20:49:13] [Auto Clean Up] Started
+[2017-12-16 20:49:13] [Auto Clean Up] Cache: On
+[2017-12-16 20:49:13] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-16 20:49:13] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-16 20:49:13] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-16 20:49:13] Ignore Log File: kodi.log
+[2017-12-16 20:49:13] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-16 20:49:13] Ignore Log File: kodi.old.log
+[2017-12-16 20:49:13] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-16 20:49:13] [Auto Clean Up] Old Thumbs: On
+[2017-12-16 20:49:13] 0 total thumbs cleaned up.
+[2017-12-16 20:49:13] [Auto Clean Up] Packages: On
+[2017-12-16 21:00:27] 2017-12-16 21:00:27.970354
+[2017-12-16 21:00:28] Continuing Start Up Script
+[2017-12-16 21:00:28] [Path Check] Started
+[2017-12-16 21:00:28] [Path Check] Good!
+[2017-12-16 21:00:28] [Auto Install Repo] Started
+[2017-12-16 21:00:28] [Auto Install Repo] Repository already installed
+[2017-12-16 21:00:28] [Auto Update Wizard] Started
+[2017-12-16 21:00:28] [Auto Update Wizard] Not Enabled
+[2017-12-16 21:00:28] [Notifications] Started
+[2017-12-16 21:00:33] [Notifications] id[1] Dismissed
+[2017-12-16 21:00:33] [Installed Check] Started
+[2017-12-16 21:00:33] [Installed Check] Not Enabled
+[2017-12-16 21:00:33] [Build Check] Started
+[2017-12-16 21:00:33] [Trakt Data] Started
+[2017-12-16 21:00:33] [Trakt Data] Not Enabled
+[2017-12-16 21:00:33] [Real Debrid Data] Started
+[2017-12-16 21:00:33] [Real Debrid Data] Not Enabled
+[2017-12-16 21:00:33] [Login Data] Started
+[2017-12-16 21:00:33] [Login Data] Not Enabled
+[2017-12-16 21:00:33] [Auto Clean Up] Started
+[2017-12-16 21:00:33] [Auto Clean Up] Cache: On
+[2017-12-16 21:00:33] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-16 21:00:33] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-16 21:00:33] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-16 21:00:33] Ignore Log File: kodi.log
+[2017-12-16 21:00:33] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-16 21:00:33] Ignore Log File: kodi.old.log
+[2017-12-16 21:00:33] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-16 21:00:33] [Auto Clean Up] Old Thumbs: On
+[2017-12-16 21:00:33] 0 total thumbs cleaned up.
+[2017-12-16 21:00:33] [Auto Clean Up] Packages: On
+[2017-12-16 21:07:58] 2017-12-16 21:07:58.762867
+[2017-12-16 21:07:59] Continuing Start Up Script
+[2017-12-16 21:07:59] [Path Check] Started
+[2017-12-16 21:07:59] [Path Check] Good!
+[2017-12-16 21:07:59] [Auto Install Repo] Started
+[2017-12-16 21:07:59] [Auto Install Repo] Repository already installed
+[2017-12-16 21:07:59] [Auto Update Wizard] Started
+[2017-12-16 21:07:59] [Auto Update Wizard] Not Enabled
+[2017-12-16 21:07:59] [Notifications] Started
+[2017-12-16 21:08:00] [Notifications] id[1] Dismissed
+[2017-12-16 21:08:00] [Installed Check] Started
+[2017-12-16 21:08:00] [Installed Check] Not Enabled
+[2017-12-16 21:08:00] [Build Check] Started
+[2017-12-16 21:08:00] [Trakt Data] Started
+[2017-12-16 21:08:00] [Trakt Data] Not Enabled
+[2017-12-16 21:08:00] [Real Debrid Data] Started
+[2017-12-16 21:08:00] [Real Debrid Data] Not Enabled
+[2017-12-16 21:08:00] [Login Data] Started
+[2017-12-16 21:08:00] [Login Data] Not Enabled
+[2017-12-16 21:08:00] [Auto Clean Up] Started
+[2017-12-16 21:08:00] [Auto Clean Up] Cache: On
+[2017-12-16 21:08:00] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-16 21:08:00] Ignore Log File: kodi.log
+[2017-12-16 21:08:00] Ignore Log File: kodi.old.log
+[2017-12-16 21:08:00] [Success] cleared 3 files from /home/androidaba/.kodi/temp/temp
+[2017-12-16 21:08:00] [Auto Clean Up] Old Thumbs: On
+[2017-12-16 21:08:00] 0 total thumbs cleaned up.
+[2017-12-16 21:08:00] [Auto Clean Up] Packages: On
+[2017-12-17 01:01:59] 2017-12-17 01:01:59.160640
+[2017-12-17 01:02:00] Continuing Start Up Script
+[2017-12-17 01:02:00] [Path Check] Started
+[2017-12-17 01:02:00] [Path Check] Good!
+[2017-12-17 01:02:00] [Auto Install Repo] Started
+[2017-12-17 01:02:00] [Auto Install Repo] Repository already installed
+[2017-12-17 01:02:00] [Auto Update Wizard] Started
+[2017-12-17 01:02:00] [Auto Update Wizard] Not Enabled
+[2017-12-17 01:02:00] [Notifications] Started
+[2017-12-17 01:02:00] [Notifications] id[1] Dismissed
+[2017-12-17 01:02:00] [Installed Check] Started
+[2017-12-17 01:02:00] [Installed Check] Not Enabled
+[2017-12-17 01:02:00] [Build Check] Started
+[2017-12-17 01:02:00] [Trakt Data] Started
+[2017-12-17 01:02:00] [Trakt Data] Not Enabled
+[2017-12-17 01:02:00] [Real Debrid Data] Started
+[2017-12-17 01:02:00] [Real Debrid Data] Not Enabled
+[2017-12-17 01:02:00] [Login Data] Started
+[2017-12-17 01:02:00] [Login Data] Not Enabled
+[2017-12-17 01:02:00] [Auto Clean Up] Started
+[2017-12-17 01:02:00] [Auto Clean Up] Cache: On
+[2017-12-17 01:02:00] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-17 01:02:00] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-17 01:02:00] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-17 01:02:00] Ignore Log File: kodi.log
+[2017-12-17 01:02:00] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-17 01:02:00] Ignore Log File: kodi.old.log
+[2017-12-17 01:02:00] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-17 01:02:00] [Auto Clean Up] Old Thumbs: On
+[2017-12-17 01:02:00] 0 total thumbs cleaned up.
+[2017-12-17 01:02:00] [Auto Clean Up] Packages: On
+[2017-12-17 15:16:10] 2017-12-17 15:16:10.925808
+[2017-12-17 15:16:11] Continuing Start Up Script
+[2017-12-17 15:16:11] [Path Check] Started
+[2017-12-17 15:16:11] [Path Check] Good!
+[2017-12-17 15:16:11] [Auto Install Repo] Started
+[2017-12-17 15:16:11] [Auto Install Repo] Repository already installed
+[2017-12-17 15:16:11] [Auto Update Wizard] Started
+[2017-12-17 15:16:11] [Auto Update Wizard] Not Enabled
+[2017-12-17 15:16:11] [Notifications] Started
+[2017-12-17 15:16:12] [Notifications] id[1] Dismissed
+[2017-12-17 15:16:12] [Installed Check] Started
+[2017-12-17 15:16:12] [Installed Check] Not Enabled
+[2017-12-17 15:16:12] [Build Check] Started
+[2017-12-17 15:16:12] [Trakt Data] Started
+[2017-12-17 15:16:12] [Trakt Data] Not Enabled
+[2017-12-17 15:16:12] [Real Debrid Data] Started
+[2017-12-17 15:16:12] [Real Debrid Data] Not Enabled
+[2017-12-17 15:16:12] [Login Data] Started
+[2017-12-17 15:16:12] [Login Data] Not Enabled
+[2017-12-17 15:16:12] [Auto Clean Up] Started
+[2017-12-17 15:16:12] [Auto Clean Up] Cache: On
+[2017-12-17 15:16:12] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-17 15:16:12] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-17 15:16:12] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-17 15:16:12] Ignore Log File: kodi.log
+[2017-12-17 15:16:12] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-17 15:16:12] Ignore Log File: kodi.old.log
+[2017-12-17 15:16:12] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-17 15:16:12] [Auto Clean Up] Old Thumbs: On
+[2017-12-17 15:16:12] 0 total thumbs cleaned up.
+[2017-12-17 15:16:12] [Auto Clean Up] Packages: On
+[2017-12-18 00:02:02] 2017-12-18 00:02:02.390527
+[2017-12-18 00:02:03] Continuing Start Up Script
+[2017-12-18 00:02:03] [Path Check] Started
+[2017-12-18 00:02:03] [Path Check] Good!
+[2017-12-18 00:02:03] [Auto Install Repo] Started
+[2017-12-18 00:02:03] [Auto Install Repo] Repository already installed
+[2017-12-18 00:02:03] [Auto Update Wizard] Started
+[2017-12-18 00:02:03] [Auto Update Wizard] Not Enabled
+[2017-12-18 00:02:03] [Notifications] Started
+[2017-12-18 00:02:04] [Notifications] id[1] Dismissed
+[2017-12-18 00:02:04] [Installed Check] Started
+[2017-12-18 00:02:04] [Installed Check] Not Enabled
+[2017-12-18 00:02:04] [Build Check] Started
+[2017-12-18 00:02:04] [Trakt Data] Started
+[2017-12-18 00:02:04] [Trakt Data] Not Enabled
+[2017-12-18 00:02:04] [Real Debrid Data] Started
+[2017-12-18 00:02:04] [Real Debrid Data] Not Enabled
+[2017-12-18 00:02:04] [Login Data] Started
+[2017-12-18 00:02:04] [Login Data] Not Enabled
+[2017-12-18 00:02:04] [Auto Clean Up] Started
+[2017-12-18 00:02:04] [Auto Clean Up] Cache: On
+[2017-12-18 00:02:04] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-18 00:02:04] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-18 00:02:04] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-18 00:02:04] Ignore Log File: kodi.log
+[2017-12-18 00:02:04] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-18 00:02:04] Ignore Log File: kodi.old.log
+[2017-12-18 00:02:04] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-18 00:02:04] [Auto Clean Up] Old Thumbs: On
+[2017-12-18 00:02:04] 0 total thumbs cleaned up.
+[2017-12-18 00:02:04] [Auto Clean Up] Packages: On
+[2017-12-18 17:39:47] 2017-12-18 17:39:47.798912
+[2017-12-18 17:39:48] Continuing Start Up Script
+[2017-12-18 17:39:48] [Path Check] Started
+[2017-12-18 17:39:48] [Path Check] Good!
+[2017-12-18 17:39:48] [Auto Install Repo] Started
+[2017-12-18 17:39:48] [Auto Install Repo] Repository already installed
+[2017-12-18 17:39:48] [Auto Update Wizard] Started
+[2017-12-18 17:39:48] [Auto Update Wizard] Not Enabled
+[2017-12-18 17:39:48] [Notifications] Started
+[2017-12-18 17:39:49] [Notifications] id[1] Dismissed
+[2017-12-18 17:39:49] [Installed Check] Started
+[2017-12-18 17:39:49] [Installed Check] Not Enabled
+[2017-12-18 17:39:49] [Build Check] Started
+[2017-12-18 17:39:49] [Trakt Data] Started
+[2017-12-18 17:39:49] [Trakt Data] Not Enabled
+[2017-12-18 17:39:49] [Real Debrid Data] Started
+[2017-12-18 17:39:49] [Real Debrid Data] Not Enabled
+[2017-12-18 17:39:49] [Login Data] Started
+[2017-12-18 17:39:49] [Login Data] Not Enabled
+[2017-12-18 17:39:49] [Auto Clean Up] Started
+[2017-12-18 17:39:49] [Auto Clean Up] Cache: On
+[2017-12-18 17:39:49] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-18 17:39:49] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-18 17:39:49] Ignore Log File: kodi.log
+[2017-12-18 17:39:49] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-18 17:39:49] Ignore Log File: kodi.old.log
+[2017-12-18 17:39:49] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-18 17:39:49] [Auto Clean Up] Old Thumbs: On
+[2017-12-18 17:39:49] 0 total thumbs cleaned up.
+[2017-12-18 17:39:49] [Auto Clean Up] Packages: On
+[2017-12-18 22:59:01] 2017-12-18 22:59:01.057344
+[2017-12-18 22:59:02] Continuing Start Up Script
+[2017-12-18 22:59:02] [Path Check] Started
+[2017-12-18 22:59:02] [Path Check] Good!
+[2017-12-18 22:59:02] [Auto Install Repo] Started
+[2017-12-18 22:59:02] [Auto Install Repo] Repository already installed
+[2017-12-18 22:59:02] [Auto Update Wizard] Started
+[2017-12-18 22:59:02] [Auto Update Wizard] Not Enabled
+[2017-12-18 22:59:02] [Notifications] Started
+[2017-12-18 22:59:02] [Notifications] id[1] Dismissed
+[2017-12-18 22:59:02] [Installed Check] Started
+[2017-12-18 22:59:02] [Installed Check] Not Enabled
+[2017-12-18 22:59:02] [Build Check] Started
+[2017-12-18 22:59:02] [Trakt Data] Started
+[2017-12-18 22:59:02] [Trakt Data] Not Enabled
+[2017-12-18 22:59:02] [Real Debrid Data] Started
+[2017-12-18 22:59:02] [Real Debrid Data] Not Enabled
+[2017-12-18 22:59:02] [Login Data] Started
+[2017-12-18 22:59:02] [Login Data] Not Enabled
+[2017-12-18 22:59:02] [Auto Clean Up] Started
+[2017-12-18 22:59:02] [Auto Clean Up] Cache: On
+[2017-12-18 22:59:02] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-18 22:59:02] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-18 22:59:02] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-18 22:59:02] Ignore Log File: kodi.log
+[2017-12-18 22:59:02] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-18 22:59:02] Ignore Log File: kodi.old.log
+[2017-12-18 22:59:02] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-18 22:59:02] [Auto Clean Up] Old Thumbs: On
+[2017-12-18 22:59:02] 0 total thumbs cleaned up.
+[2017-12-18 22:59:02] [Auto Clean Up] Packages: On
+[2017-12-19 00:11:28] 2017-12-19 00:11:28.489916
+[2017-12-19 00:11:29] Continuing Start Up Script
+[2017-12-19 00:11:29] [Path Check] Started
+[2017-12-19 00:11:29] [Path Check] Good!
+[2017-12-19 00:11:29] [Auto Install Repo] Started
+[2017-12-19 00:11:29] [Auto Install Repo] Repository already installed
+[2017-12-19 00:11:29] [Auto Update Wizard] Started
+[2017-12-19 00:11:29] [Auto Update Wizard] Not Enabled
+[2017-12-19 00:11:29] [Notifications] Started
+[2017-12-19 00:11:29] [Notifications] id[1] Dismissed
+[2017-12-19 00:11:29] [Installed Check] Started
+[2017-12-19 00:11:29] [Installed Check] Not Enabled
+[2017-12-19 00:11:29] [Build Check] Started
+[2017-12-19 00:11:29] [Trakt Data] Started
+[2017-12-19 00:11:29] [Trakt Data] Not Enabled
+[2017-12-19 00:11:29] [Real Debrid Data] Started
+[2017-12-19 00:11:29] [Real Debrid Data] Not Enabled
+[2017-12-19 00:11:29] [Login Data] Started
+[2017-12-19 00:11:29] [Login Data] Not Enabled
+[2017-12-19 00:11:29] [Auto Clean Up] Started
+[2017-12-19 00:11:29] [Auto Clean Up] Cache: On
+[2017-12-19 00:11:30] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-19 00:11:30] Ignore Log File: kodi.log
+[2017-12-19 00:11:30] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-19 00:11:30] Ignore Log File: kodi.old.log
+[2017-12-19 00:11:30] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-19 00:11:30] [Auto Clean Up] Old Thumbs: On
+[2017-12-19 00:11:31] 0 total thumbs cleaned up.
+[2017-12-19 00:11:31] [Auto Clean Up] Packages: On
+[2017-12-19 10:50:51] 2017-12-19 10:50:51.591365
+[2017-12-19 10:50:52] Continuing Start Up Script
+[2017-12-19 10:50:52] [Path Check] Started
+[2017-12-19 10:50:52] [Path Check] Good!
+[2017-12-19 10:50:52] [Auto Install Repo] Started
+[2017-12-19 10:50:52] [Auto Install Repo] Repository already installed
+[2017-12-19 10:50:52] [Auto Update Wizard] Started
+[2017-12-19 10:50:52] [Auto Update Wizard] Not Enabled
+[2017-12-19 10:50:52] [Notifications] Started
+[2017-12-19 10:50:52] [Notifications] id[1] Dismissed
+[2017-12-19 10:50:52] [Installed Check] Started
+[2017-12-19 10:50:52] [Installed Check] Not Enabled
+[2017-12-19 10:50:52] [Build Check] Started
+[2017-12-19 10:50:52] [Trakt Data] Started
+[2017-12-19 10:50:52] [Trakt Data] Not Enabled
+[2017-12-19 10:50:52] [Real Debrid Data] Started
+[2017-12-19 10:50:52] [Real Debrid Data] Not Enabled
+[2017-12-19 10:50:52] [Login Data] Started
+[2017-12-19 10:50:52] [Login Data] Not Enabled
+[2017-12-19 10:50:52] [Auto Clean Up] Started
+[2017-12-19 10:50:52] [Auto Clean Up] Cache: On
+[2017-12-19 10:50:52] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-19 10:50:52] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-19 10:50:52] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-19 10:50:52] Ignore Log File: kodi.log
+[2017-12-19 10:50:52] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-19 10:50:52] Ignore Log File: kodi.old.log
+[2017-12-19 10:50:52] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-19 10:50:52] [Auto Clean Up] Old Thumbs: On
+[2017-12-19 10:50:52] 0 total thumbs cleaned up.
+[2017-12-19 10:50:53] [Auto Clean Up] Packages: On
+[2017-12-19 12:29:44] 2017-12-19 12:29:44.829436
+[2017-12-19 12:29:45] Continuing Start Up Script
+[2017-12-19 12:29:45] [Path Check] Started
+[2017-12-19 12:29:45] [Path Check] Good!
+[2017-12-19 12:29:45] [Auto Install Repo] Started
+[2017-12-19 12:29:45] [Auto Install Repo] Repository already installed
+[2017-12-19 12:29:45] [Auto Update Wizard] Started
+[2017-12-19 12:29:45] [Auto Update Wizard] Not Enabled
+[2017-12-19 12:29:45] [Notifications] Started
+[2017-12-19 12:29:46] [Notifications] id[1] Dismissed
+[2017-12-19 12:29:46] [Installed Check] Started
+[2017-12-19 12:29:46] [Installed Check] Not Enabled
+[2017-12-19 12:29:46] [Build Check] Started
+[2017-12-19 12:29:46] [Trakt Data] Started
+[2017-12-19 12:29:46] [Trakt Data] Not Enabled
+[2017-12-19 12:29:46] [Real Debrid Data] Started
+[2017-12-19 12:29:46] [Real Debrid Data] Not Enabled
+[2017-12-19 12:29:46] [Login Data] Started
+[2017-12-19 12:29:46] [Login Data] Not Enabled
+[2017-12-19 12:29:46] [Auto Clean Up] Started
+[2017-12-19 12:29:46] [Auto Clean Up] Cache: On
+[2017-12-19 12:29:46] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-19 12:29:46] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-19 12:29:46] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-19 12:29:46] Ignore Log File: kodi.log
+[2017-12-19 12:29:46] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-19 12:29:46] Ignore Log File: kodi.old.log
+[2017-12-19 12:29:46] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-19 12:29:46] [Auto Clean Up] Old Thumbs: On
+[2017-12-19 12:29:46] 0 total thumbs cleaned up.
+[2017-12-19 12:29:46] [Auto Clean Up] Packages: On
+[2017-12-19 13:17:35] 2017-12-19 13:17:35.394179
+[2017-12-19 13:17:36] Continuing Start Up Script
+[2017-12-19 13:17:36] [Path Check] Started
+[2017-12-19 13:17:36] [Path Check] Good!
+[2017-12-19 13:17:36] [Auto Install Repo] Started
+[2017-12-19 13:17:36] [Auto Install Repo] Repository already installed
+[2017-12-19 13:17:36] [Auto Update Wizard] Started
+[2017-12-19 13:17:36] [Auto Update Wizard] Not Enabled
+[2017-12-19 13:17:36] [Notifications] Started
+[2017-12-19 13:17:37] [Notifications] id[1] Dismissed
+[2017-12-19 13:17:37] [Installed Check] Started
+[2017-12-19 13:17:37] [Installed Check] Not Enabled
+[2017-12-19 13:17:37] [Build Check] Started
+[2017-12-19 13:17:37] [Trakt Data] Started
+[2017-12-19 13:17:37] [Trakt Data] Not Enabled
+[2017-12-19 13:17:37] [Real Debrid Data] Started
+[2017-12-19 13:17:37] [Real Debrid Data] Not Enabled
+[2017-12-19 13:17:37] [Login Data] Started
+[2017-12-19 13:17:37] [Login Data] Not Enabled
+[2017-12-19 13:17:37] [Auto Clean Up] Started
+[2017-12-19 13:17:37] [Auto Clean Up] Cache: On
+[2017-12-19 13:17:37] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-19 13:17:37] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-19 13:17:37] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-19 13:17:37] Ignore Log File: kodi.log
+[2017-12-19 13:17:37] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-19 13:17:37] Ignore Log File: kodi.old.log
+[2017-12-19 13:17:37] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-19 13:17:37] [Auto Clean Up] Old Thumbs: On
+[2017-12-19 13:17:37] 0 total thumbs cleaned up.
+[2017-12-19 13:17:37] [Auto Clean Up] Packages: On
+[2017-12-19 14:52:23] 2017-12-19 14:52:23.853895
+[2017-12-19 14:52:24] Continuing Start Up Script
+[2017-12-19 14:52:24] [Path Check] Started
+[2017-12-19 14:52:24] [Path Check] Good!
+[2017-12-19 14:52:24] [Auto Install Repo] Started
+[2017-12-19 14:52:24] [Auto Install Repo] Repository already installed
+[2017-12-19 14:52:24] [Auto Update Wizard] Started
+[2017-12-19 14:52:24] [Auto Update Wizard] Not Enabled
+[2017-12-19 14:52:24] [Notifications] Started
+[2017-12-19 14:52:25] [Notifications] id[1] Dismissed
+[2017-12-19 14:52:25] [Installed Check] Started
+[2017-12-19 14:52:25] [Installed Check] Not Enabled
+[2017-12-19 14:52:25] [Build Check] Started
+[2017-12-19 14:52:25] [Trakt Data] Started
+[2017-12-19 14:52:25] [Trakt Data] Not Enabled
+[2017-12-19 14:52:25] [Real Debrid Data] Started
+[2017-12-19 14:52:25] [Real Debrid Data] Not Enabled
+[2017-12-19 14:52:25] [Login Data] Started
+[2017-12-19 14:52:25] [Login Data] Not Enabled
+[2017-12-19 14:52:25] [Auto Clean Up] Started
+[2017-12-19 14:52:25] [Auto Clean Up] Cache: On
+[2017-12-19 14:52:25] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-19 14:52:25] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-19 14:52:25] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-19 14:52:25] Ignore Log File: kodi.log
+[2017-12-19 14:52:25] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-19 14:52:25] Ignore Log File: kodi.old.log
+[2017-12-19 14:52:25] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-19 14:52:25] [Auto Clean Up] Old Thumbs: On
+[2017-12-19 14:52:25] 0 total thumbs cleaned up.
+[2017-12-19 14:52:25] [Auto Clean Up] Packages: On
+[2017-12-20 01:17:33] 2017-12-20 01:17:33.081717
+[2017-12-20 01:17:34] Continuing Start Up Script
+[2017-12-20 01:17:34] [Path Check] Started
+[2017-12-20 01:17:34] [Path Check] Good!
+[2017-12-20 01:17:34] [Auto Install Repo] Started
+[2017-12-20 01:17:34] [Auto Install Repo] Repository already installed
+[2017-12-20 01:17:34] [Auto Update Wizard] Started
+[2017-12-20 01:17:34] [Auto Update Wizard] Not Enabled
+[2017-12-20 01:17:34] [Notifications] Started
+[2017-12-20 01:17:34] [Notifications] id[1] Dismissed
+[2017-12-20 01:17:34] [Installed Check] Started
+[2017-12-20 01:17:34] [Installed Check] Not Enabled
+[2017-12-20 01:17:34] [Build Check] Started
+[2017-12-20 01:17:34] [Trakt Data] Started
+[2017-12-20 01:17:34] [Trakt Data] Not Enabled
+[2017-12-20 01:17:34] [Real Debrid Data] Started
+[2017-12-20 01:17:34] [Real Debrid Data] Not Enabled
+[2017-12-20 01:17:34] [Login Data] Started
+[2017-12-20 01:17:34] [Login Data] Not Enabled
+[2017-12-20 01:17:34] [Auto Clean Up] Started
+[2017-12-20 01:17:34] [Auto Clean Up] Cache: On
+[2017-12-20 01:17:34] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-20 01:17:34] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-20 01:17:34] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-20 01:17:34] Ignore Log File: kodi.log
+[2017-12-20 01:17:34] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-20 01:17:34] Ignore Log File: kodi.old.log
+[2017-12-20 01:17:34] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-20 01:17:34] [Auto Clean Up] Old Thumbs: On
+[2017-12-20 01:17:34] 0 total thumbs cleaned up.
+[2017-12-20 01:17:34] [Auto Clean Up] Packages: On
+[2017-12-20 14:19:30] 2017-12-20 14:19:30.524644
+[2017-12-20 14:19:31] Continuing Start Up Script
+[2017-12-20 14:19:31] [Path Check] Started
+[2017-12-20 14:19:31] [Path Check] Good!
+[2017-12-20 14:19:31] [Auto Install Repo] Started
+[2017-12-20 14:19:31] [Auto Install Repo] Repository already installed
+[2017-12-20 14:19:31] [Auto Update Wizard] Started
+[2017-12-20 14:19:31] [Auto Update Wizard] Not Enabled
+[2017-12-20 14:19:31] [Notifications] Started
+[2017-12-20 14:19:31] [Notifications] id[1] Dismissed
+[2017-12-20 14:19:31] [Installed Check] Started
+[2017-12-20 14:19:31] [Installed Check] Not Enabled
+[2017-12-20 14:19:31] [Build Check] Started
+[2017-12-20 14:19:31] [Trakt Data] Started
+[2017-12-20 14:19:31] [Trakt Data] Not Enabled
+[2017-12-20 14:19:31] [Real Debrid Data] Started
+[2017-12-20 14:19:31] [Real Debrid Data] Not Enabled
+[2017-12-20 14:19:31] [Login Data] Started
+[2017-12-20 14:19:31] [Login Data] Not Enabled
+[2017-12-20 14:19:31] [Auto Clean Up] Started
+[2017-12-20 14:19:31] [Auto Clean Up] Cache: On
+[2017-12-20 14:19:31] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-20 14:19:31] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-20 14:19:31] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-20 14:19:31] Ignore Log File: kodi.log
+[2017-12-20 14:19:31] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-20 14:19:31] Ignore Log File: kodi.old.log
+[2017-12-20 14:19:31] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-20 14:19:31] [Auto Clean Up] Old Thumbs: On
+[2017-12-20 14:19:31] 0 total thumbs cleaned up.
+[2017-12-20 14:19:31] [Auto Clean Up] Packages: On
+[2017-12-20 17:33:26] 2017-12-20 17:33:26.714209
+[2017-12-20 17:33:27] Continuing Start Up Script
+[2017-12-20 17:33:27] [Path Check] Started
+[2017-12-20 17:33:28] [Path Check] Good!
+[2017-12-20 17:33:28] [Auto Install Repo] Started
+[2017-12-20 17:33:28] [Auto Install Repo] Repository already installed
+[2017-12-20 17:33:28] [Auto Update Wizard] Started
+[2017-12-20 17:33:28] [Auto Update Wizard] Not Enabled
+[2017-12-20 17:33:28] [Notifications] Started
+[2017-12-20 17:33:28] [Notifications] id[1] Dismissed
+[2017-12-20 17:33:28] [Installed Check] Started
+[2017-12-20 17:33:28] [Installed Check] Not Enabled
+[2017-12-20 17:33:28] [Build Check] Started
+[2017-12-20 17:33:28] [Trakt Data] Started
+[2017-12-20 17:33:28] [Trakt Data] Not Enabled
+[2017-12-20 17:33:28] [Real Debrid Data] Started
+[2017-12-20 17:33:28] [Real Debrid Data] Not Enabled
+[2017-12-20 17:33:28] [Login Data] Started
+[2017-12-20 17:33:28] [Login Data] Not Enabled
+[2017-12-20 17:33:28] [Auto Clean Up] Started
+[2017-12-20 17:33:28] [Auto Clean Up] Cache: On
+[2017-12-20 17:33:29] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-20 17:33:29] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-20 17:33:29] Ignore Log File: kodi.log
+[2017-12-20 17:33:29] Ignore Log File: kodi.old.log
+[2017-12-20 17:33:29] [Success] cleared 2 files from /home/androidaba/.kodi/temp/temp
+[2017-12-20 17:33:29] [Auto Clean Up] Old Thumbs: On
+[2017-12-20 17:33:29] 0 total thumbs cleaned up.
+[2017-12-20 17:33:29] [Auto Clean Up] Packages: On
+[2017-12-20 17:34:54] 2017-12-20 17:34:54.407310
+[2017-12-20 17:34:55] Continuing Start Up Script
+[2017-12-20 17:34:55] [Path Check] Started
+[2017-12-20 17:34:55] [Path Check] Good!
+[2017-12-20 17:34:55] [Auto Install Repo] Started
+[2017-12-20 17:34:55] [Auto Install Repo] Repository already installed
+[2017-12-20 17:34:55] [Auto Update Wizard] Started
+[2017-12-20 17:34:55] [Auto Update Wizard] Not Enabled
+[2017-12-20 17:34:55] [Notifications] Started
+[2017-12-20 17:34:56] [Notifications] id[1] Dismissed
+[2017-12-20 17:34:56] [Installed Check] Started
+[2017-12-20 17:34:56] [Installed Check] Not Enabled
+[2017-12-20 17:34:56] [Build Check] Started
+[2017-12-20 17:34:56] [Trakt Data] Started
+[2017-12-20 17:34:56] [Trakt Data] Not Enabled
+[2017-12-20 17:34:56] [Real Debrid Data] Started
+[2017-12-20 17:34:56] [Real Debrid Data] Not Enabled
+[2017-12-20 17:34:56] [Login Data] Started
+[2017-12-20 17:34:56] [Login Data] Not Enabled
+[2017-12-20 17:34:56] [Auto Clean Up] Started
+[2017-12-20 17:34:56] [Auto Clean Up] Cache: On
+[2017-12-20 17:34:56] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-20 17:34:56] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-20 17:34:56] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-20 17:34:56] Ignore Log File: kodi.log
+[2017-12-20 17:34:56] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-20 17:34:56] Ignore Log File: kodi.old.log
+[2017-12-20 17:34:56] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-20 17:34:56] [Auto Clean Up] Old Thumbs: On
+[2017-12-20 17:34:56] 0 total thumbs cleaned up.
+[2017-12-20 17:34:56] [Auto Clean Up] Packages: On
+[2017-12-20 21:36:05] 2017-12-20 21:36:05.278947
+[2017-12-20 21:36:06] Continuing Start Up Script
+[2017-12-20 21:36:06] [Path Check] Started
+[2017-12-20 21:36:06] [Path Check] Good!
+[2017-12-20 21:36:06] [Auto Install Repo] Started
+[2017-12-20 21:36:06] [Auto Install Repo] Repository already installed
+[2017-12-20 21:36:06] [Auto Update Wizard] Started
+[2017-12-20 21:36:06] [Auto Update Wizard] Not Enabled
+[2017-12-20 21:36:06] [Notifications] Started
+[2017-12-20 21:36:06] [Notifications] id[1] Dismissed
+[2017-12-20 21:36:06] [Installed Check] Started
+[2017-12-20 21:36:06] [Installed Check] Not Enabled
+[2017-12-20 21:36:06] [Build Check] Started
+[2017-12-20 21:36:06] [Trakt Data] Started
+[2017-12-20 21:36:06] [Trakt Data] Not Enabled
+[2017-12-20 21:36:06] [Real Debrid Data] Started
+[2017-12-20 21:36:06] [Real Debrid Data] Not Enabled
+[2017-12-20 21:36:06] [Login Data] Started
+[2017-12-20 21:36:06] [Login Data] Not Enabled
+[2017-12-20 21:36:06] [Auto Clean Up] Started
+[2017-12-20 21:36:06] [Auto Clean Up] Cache: On
+[2017-12-20 21:36:06] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-20 21:36:06] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-20 21:36:06] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-20 21:36:06] Ignore Log File: kodi.log
+[2017-12-20 21:36:06] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-20 21:36:06] Ignore Log File: kodi.old.log
+[2017-12-20 21:36:06] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-20 21:36:06] [Auto Clean Up] Old Thumbs: On
+[2017-12-20 21:36:06] 0 total thumbs cleaned up.
+[2017-12-20 21:36:06] [Auto Clean Up] Packages: On
+[2017-12-21 14:35:23] 2017-12-21 14:35:23.162174
+[2017-12-21 14:35:24] Continuing Start Up Script
+[2017-12-21 14:35:24] [Path Check] Started
+[2017-12-21 14:35:24] [Path Check] Good!
+[2017-12-21 14:35:24] [Auto Install Repo] Started
+[2017-12-21 14:35:24] [Auto Install Repo] Repository already installed
+[2017-12-21 14:35:24] [Auto Update Wizard] Started
+[2017-12-21 14:35:24] [Auto Update Wizard] Not Enabled
+[2017-12-21 14:35:24] [Notifications] Started
+[2017-12-21 14:35:24] [Notifications] id[1] Dismissed
+[2017-12-21 14:35:24] [Installed Check] Started
+[2017-12-21 14:35:24] [Installed Check] Not Enabled
+[2017-12-21 14:35:24] [Build Check] Started
+[2017-12-21 14:35:24] [Trakt Data] Started
+[2017-12-21 14:35:24] [Trakt Data] Not Enabled
+[2017-12-21 14:35:24] [Real Debrid Data] Started
+[2017-12-21 14:35:24] [Real Debrid Data] Not Enabled
+[2017-12-21 14:35:24] [Login Data] Started
+[2017-12-21 14:35:24] [Login Data] Not Enabled
+[2017-12-21 14:35:24] [Auto Clean Up] Started
+[2017-12-21 14:35:24] [Auto Clean Up] Cache: On
+[2017-12-21 14:35:24] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-21 14:35:24] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-21 14:35:24] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-21 14:35:24] Ignore Log File: kodi.log
+[2017-12-21 14:35:24] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-21 14:35:24] Ignore Log File: kodi.old.log
+[2017-12-21 14:35:24] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-21 14:35:24] [Auto Clean Up] Old Thumbs: On
+[2017-12-21 14:35:24] 0 total thumbs cleaned up.
+[2017-12-21 14:35:24] [Auto Clean Up] Packages: On
+[2017-12-22 10:44:54] 2017-12-22 10:44:54.549051
+[2017-12-22 10:44:55] Continuing Start Up Script
+[2017-12-22 10:44:55] [Path Check] Started
+[2017-12-22 10:44:55] [Path Check] Good!
+[2017-12-22 10:44:55] [Auto Install Repo] Started
+[2017-12-22 10:44:55] [Auto Install Repo] Repository already installed
+[2017-12-22 10:44:55] [Auto Update Wizard] Started
+[2017-12-22 10:44:55] [Auto Update Wizard] Not Enabled
+[2017-12-22 10:44:55] [Notifications] Started
+[2017-12-22 10:44:55] [Notifications] id[1] Dismissed
+[2017-12-22 10:44:55] [Installed Check] Started
+[2017-12-22 10:44:55] [Installed Check] Not Enabled
+[2017-12-22 10:44:55] [Build Check] Started
+[2017-12-22 10:44:55] [Trakt Data] Started
+[2017-12-22 10:44:55] [Trakt Data] Not Enabled
+[2017-12-22 10:44:55] [Real Debrid Data] Started
+[2017-12-22 10:44:55] [Real Debrid Data] Not Enabled
+[2017-12-22 10:44:55] [Login Data] Started
+[2017-12-22 10:44:55] [Login Data] Not Enabled
+[2017-12-22 10:44:55] [Auto Clean Up] Started
+[2017-12-22 10:44:55] [Auto Clean Up] Cache: On
+[2017-12-22 10:44:55] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-22 10:44:55] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-22 10:44:55] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-22 10:44:55] Ignore Log File: kodi.log
+[2017-12-22 10:44:55] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-22 10:44:55] [Success] cleared 3 files from /home/androidaba/.kodi/temp/temp
+[2017-12-22 10:44:55] [Auto Clean Up] Old Thumbs: On
+[2017-12-22 10:44:55] 0 total thumbs cleaned up.
+[2017-12-22 10:44:55] [Auto Clean Up] Packages: On
+[2017-12-22 14:36:55] 2017-12-22 14:36:55.497792
+[2017-12-22 14:36:56] Continuing Start Up Script
+[2017-12-22 14:36:56] [Path Check] Started
+[2017-12-22 14:36:56] [Path Check] Good!
+[2017-12-22 14:36:56] [Auto Install Repo] Started
+[2017-12-22 14:36:56] [Auto Install Repo] Repository already installed
+[2017-12-22 14:36:56] [Auto Update Wizard] Started
+[2017-12-22 14:36:56] [Auto Update Wizard] Not Enabled
+[2017-12-22 14:36:56] [Notifications] Started
+[2017-12-22 14:36:56] [Notifications] id[1] Dismissed
+[2017-12-22 14:36:56] [Installed Check] Started
+[2017-12-22 14:36:56] [Installed Check] Not Enabled
+[2017-12-22 14:36:56] [Build Check] Started
+[2017-12-22 14:36:56] [Trakt Data] Started
+[2017-12-22 14:36:56] [Trakt Data] Not Enabled
+[2017-12-22 14:36:56] [Real Debrid Data] Started
+[2017-12-22 14:36:56] [Real Debrid Data] Not Enabled
+[2017-12-22 14:36:56] [Login Data] Started
+[2017-12-22 14:36:56] [Login Data] Not Enabled
+[2017-12-22 14:36:56] [Auto Clean Up] Started
+[2017-12-22 14:36:56] [Auto Clean Up] Cache: On
+[2017-12-22 14:36:56] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-22 14:36:56] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-22 14:36:56] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-22 14:36:56] Ignore Log File: kodi.log
+[2017-12-22 14:36:56] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-22 14:36:56] Ignore Log File: kodi.old.log
+[2017-12-22 14:36:56] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-22 14:36:56] [Auto Clean Up] Old Thumbs: On
+[2017-12-22 14:36:56] 0 total thumbs cleaned up.
+[2017-12-22 14:36:56] [Auto Clean Up] Packages: On
+[2017-12-22 18:22:07] 2017-12-22 18:22:07.680196
+[2017-12-22 18:22:08] Continuing Start Up Script
+[2017-12-22 18:22:08] [Path Check] Started
+[2017-12-22 18:22:08] [Path Check] Good!
+[2017-12-22 18:22:08] [Auto Install Repo] Started
+[2017-12-22 18:22:08] [Auto Install Repo] Repository already installed
+[2017-12-22 18:22:08] [Auto Update Wizard] Started
+[2017-12-22 18:22:08] [Auto Update Wizard] Not Enabled
+[2017-12-22 18:22:08] [Notifications] Started
+[2017-12-22 18:22:09] [Notifications] id[1] Dismissed
+[2017-12-22 18:22:09] [Installed Check] Started
+[2017-12-22 18:22:09] [Installed Check] Not Enabled
+[2017-12-22 18:22:09] [Build Check] Started
+[2017-12-22 18:22:09] [Trakt Data] Started
+[2017-12-22 18:22:09] [Trakt Data] Not Enabled
+[2017-12-22 18:22:09] [Real Debrid Data] Started
+[2017-12-22 18:22:09] [Real Debrid Data] Not Enabled
+[2017-12-22 18:22:09] [Login Data] Started
+[2017-12-22 18:22:09] [Login Data] Not Enabled
+[2017-12-22 18:22:09] [Auto Clean Up] Started
+[2017-12-22 18:22:09] [Auto Clean Up] Cache: On
+[2017-12-22 18:22:09] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-22 18:22:09] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-22 18:22:09] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-22 18:22:09] Ignore Log File: kodi.log
+[2017-12-22 18:22:09] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-22 18:22:09] Ignore Log File: kodi.old.log
+[2017-12-22 18:22:09] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-22 18:22:09] [Auto Clean Up] Old Thumbs: On
+[2017-12-22 18:22:09] 0 total thumbs cleaned up.
+[2017-12-22 18:22:09] [Auto Clean Up] Packages: On
+[2017-12-22 20:43:56] 2017-12-22 20:43:56.743565
+[2017-12-22 20:43:57] Continuing Start Up Script
+[2017-12-22 20:43:57] [Path Check] Started
+[2017-12-22 20:43:57] [Path Check] Good!
+[2017-12-22 20:43:57] [Auto Install Repo] Started
+[2017-12-22 20:43:57] [Auto Install Repo] Repository already installed
+[2017-12-22 20:43:57] [Auto Update Wizard] Started
+[2017-12-22 20:43:57] [Auto Update Wizard] Not Enabled
+[2017-12-22 20:43:57] [Notifications] Started
+[2017-12-22 20:43:59] [Notifications] id[1] Dismissed
+[2017-12-22 20:43:59] [Installed Check] Started
+[2017-12-22 20:43:59] [Installed Check] Not Enabled
+[2017-12-22 20:43:59] [Build Check] Started
+[2017-12-22 20:43:59] [Trakt Data] Started
+[2017-12-22 20:43:59] [Trakt Data] Not Enabled
+[2017-12-22 20:43:59] [Real Debrid Data] Started
+[2017-12-22 20:43:59] [Real Debrid Data] Not Enabled
+[2017-12-22 20:43:59] [Login Data] Started
+[2017-12-22 20:43:59] [Login Data] Not Enabled
+[2017-12-22 20:43:59] [Auto Clean Up] Started
+[2017-12-22 20:43:59] [Auto Clean Up] Cache: On
+[2017-12-22 20:43:59] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-22 20:43:59] Ignore Log File: kodi.log
+[2017-12-22 20:43:59] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-22 20:43:59] Ignore Log File: kodi.old.log
+[2017-12-22 20:43:59] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-22 20:43:59] [Auto Clean Up] Old Thumbs: On
+[2017-12-22 20:43:59] 0 total thumbs cleaned up.
+[2017-12-22 20:43:59] [Auto Clean Up] Packages: On
+[2017-12-22 20:56:05] 2017-12-22 20:56:05.764221
+[2017-12-22 20:56:06] Continuing Start Up Script
+[2017-12-22 20:56:06] [Path Check] Started
+[2017-12-22 20:56:06] [Path Check] Good!
+[2017-12-22 20:56:06] [Auto Install Repo] Started
+[2017-12-22 20:56:06] [Auto Install Repo] Repository already installed
+[2017-12-22 20:56:06] [Auto Update Wizard] Started
+[2017-12-22 20:56:06] [Auto Update Wizard] Not Enabled
+[2017-12-22 20:56:06] [Notifications] Started
+[2017-12-22 20:56:07] [Notifications] id[1] Dismissed
+[2017-12-22 20:56:07] [Installed Check] Started
+[2017-12-22 20:56:07] [Installed Check] Not Enabled
+[2017-12-22 20:56:07] [Build Check] Started
+[2017-12-22 20:56:07] [Trakt Data] Started
+[2017-12-22 20:56:07] [Trakt Data] Not Enabled
+[2017-12-22 20:56:07] [Real Debrid Data] Started
+[2017-12-22 20:56:07] [Real Debrid Data] Not Enabled
+[2017-12-22 20:56:07] [Login Data] Started
+[2017-12-22 20:56:07] [Login Data] Not Enabled
+[2017-12-22 20:56:07] [Auto Clean Up] Started
+[2017-12-22 20:56:07] [Auto Clean Up] Cache: On
+[2017-12-22 20:56:07] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-22 20:56:07] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-22 20:56:07] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-22 20:56:07] Ignore Log File: kodi.log
+[2017-12-22 20:56:07] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-22 20:56:07] Ignore Log File: kodi.old.log
+[2017-12-22 20:56:07] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-22 20:56:07] [Auto Clean Up] Old Thumbs: On
+[2017-12-22 20:56:07] 0 total thumbs cleaned up.
+[2017-12-22 20:56:07] [Auto Clean Up] Packages: On
+[2017-12-22 20:57:59] 2017-12-22 20:57:59.805050
+[2017-12-22 20:58:00] Continuing Start Up Script
+[2017-12-22 20:58:00] [Path Check] Started
+[2017-12-22 20:58:00] [Path Check] Good!
+[2017-12-22 20:58:00] [Auto Install Repo] Started
+[2017-12-22 20:58:00] [Auto Install Repo] Repository already installed
+[2017-12-22 20:58:00] [Auto Update Wizard] Started
+[2017-12-22 20:58:00] [Auto Update Wizard] Not Enabled
+[2017-12-22 20:58:00] [Notifications] Started
+[2017-12-22 20:58:01] [Notifications] id[1] Dismissed
+[2017-12-22 20:58:01] [Installed Check] Started
+[2017-12-22 20:58:01] [Installed Check] Not Enabled
+[2017-12-22 20:58:01] [Build Check] Started
+[2017-12-22 20:58:01] [Trakt Data] Started
+[2017-12-22 20:58:01] [Trakt Data] Not Enabled
+[2017-12-22 20:58:01] [Real Debrid Data] Started
+[2017-12-22 20:58:01] [Real Debrid Data] Not Enabled
+[2017-12-22 20:58:01] [Login Data] Started
+[2017-12-22 20:58:01] [Login Data] Not Enabled
+[2017-12-22 20:58:01] [Auto Clean Up] Started
+[2017-12-22 20:58:01] [Auto Clean Up] Cache: On
+[2017-12-22 20:58:01] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-22 20:58:01] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-22 20:58:01] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-22 20:58:01] Ignore Log File: kodi.log
+[2017-12-22 20:58:01] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-22 20:58:01] Ignore Log File: kodi.old.log
+[2017-12-22 20:58:01] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-22 20:58:01] [Auto Clean Up] Old Thumbs: On
+[2017-12-22 20:58:01] 0 total thumbs cleaned up.
+[2017-12-22 20:58:01] [Auto Clean Up] Packages: On
+[2017-12-23 02:02:46] 2017-12-23 02:02:46.653508
+[2017-12-23 02:02:47] Continuing Start Up Script
+[2017-12-23 02:02:47] [Path Check] Started
+[2017-12-23 02:02:47] [Path Check] Good!
+[2017-12-23 02:02:47] [Auto Install Repo] Started
+[2017-12-23 02:02:47] [Auto Install Repo] Repository already installed
+[2017-12-23 02:02:47] [Auto Update Wizard] Started
+[2017-12-23 02:02:47] [Auto Update Wizard] Not Enabled
+[2017-12-23 02:02:47] [Notifications] Started
+[2017-12-23 02:02:48] [Notifications] id[1] Dismissed
+[2017-12-23 02:02:48] [Installed Check] Started
+[2017-12-23 02:02:48] [Installed Check] Not Enabled
+[2017-12-23 02:02:48] [Build Check] Started
+[2017-12-23 02:02:48] [Trakt Data] Started
+[2017-12-23 02:02:48] [Trakt Data] Not Enabled
+[2017-12-23 02:02:48] [Real Debrid Data] Started
+[2017-12-23 02:02:48] [Real Debrid Data] Not Enabled
+[2017-12-23 02:02:48] [Login Data] Started
+[2017-12-23 02:02:48] [Login Data] Not Enabled
+[2017-12-23 02:02:48] [Auto Clean Up] Started
+[2017-12-23 02:02:48] [Auto Clean Up] Cache: On
+[2017-12-23 02:02:48] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-23 02:02:48] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-23 02:02:48] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-23 02:02:48] Ignore Log File: kodi.log
+[2017-12-23 02:02:48] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-23 02:02:48] Ignore Log File: kodi.old.log
+[2017-12-23 02:02:48] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-23 02:02:48] [Auto Clean Up] Old Thumbs: On
+[2017-12-23 02:02:48] 0 total thumbs cleaned up.
+[2017-12-23 02:02:48] [Auto Clean Up] Packages: On
+[2017-12-23 14:24:26] 2017-12-23 14:24:26.423974
+[2017-12-23 14:24:27] Continuing Start Up Script
+[2017-12-23 14:24:27] [Path Check] Started
+[2017-12-23 14:24:27] [Path Check] Good!
+[2017-12-23 14:24:27] [Auto Install Repo] Started
+[2017-12-23 14:24:27] [Auto Install Repo] Repository already installed
+[2017-12-23 14:24:27] [Auto Update Wizard] Started
+[2017-12-23 14:24:27] [Auto Update Wizard] Not Enabled
+[2017-12-23 14:24:27] [Notifications] Started
+[2017-12-23 14:24:28] [Notifications] id[1] Dismissed
+[2017-12-23 14:24:28] [Installed Check] Started
+[2017-12-23 14:24:28] [Installed Check] Not Enabled
+[2017-12-23 14:24:28] [Build Check] Started
+[2017-12-23 14:24:28] [Trakt Data] Started
+[2017-12-23 14:24:28] [Trakt Data] Not Enabled
+[2017-12-23 14:24:28] [Real Debrid Data] Started
+[2017-12-23 14:24:28] [Real Debrid Data] Not Enabled
+[2017-12-23 14:24:28] [Login Data] Started
+[2017-12-23 14:24:28] [Login Data] Not Enabled
+[2017-12-23 14:24:28] [Auto Clean Up] Started
+[2017-12-23 14:24:28] [Auto Clean Up] Cache: On
+[2017-12-23 14:24:28] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-23 14:24:28] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-23 14:24:28] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-23 14:24:28] Ignore Log File: kodi.log
+[2017-12-23 14:24:28] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-23 14:24:28] Ignore Log File: kodi.old.log
+[2017-12-23 14:24:28] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-23 14:24:28] [Auto Clean Up] Old Thumbs: On
+[2017-12-23 14:24:28] 0 total thumbs cleaned up.
+[2017-12-23 14:24:28] [Auto Clean Up] Packages: On
+[2017-12-24 04:27:25] 2017-12-24 04:27:25.365863
+[2017-12-24 04:27:26] Continuing Start Up Script
+[2017-12-24 04:27:26] [Path Check] Started
+[2017-12-24 04:27:26] [Path Check] Good!
+[2017-12-24 04:27:26] [Auto Install Repo] Started
+[2017-12-24 04:27:26] [Auto Install Repo] Repository already installed
+[2017-12-24 04:27:26] [Auto Update Wizard] Started
+[2017-12-24 04:27:26] [Auto Update Wizard] Not Enabled
+[2017-12-24 04:27:26] [Notifications] Started
+[2017-12-24 04:27:26] [Notifications] id[1] Dismissed
+[2017-12-24 04:27:26] [Installed Check] Started
+[2017-12-24 04:27:26] [Installed Check] Not Enabled
+[2017-12-24 04:27:26] [Build Check] Started
+[2017-12-24 04:27:26] [Trakt Data] Started
+[2017-12-24 04:27:26] [Trakt Data] Not Enabled
+[2017-12-24 04:27:26] [Real Debrid Data] Started
+[2017-12-24 04:27:26] [Real Debrid Data] Not Enabled
+[2017-12-24 04:27:26] [Login Data] Started
+[2017-12-24 04:27:26] [Login Data] Not Enabled
+[2017-12-24 04:27:26] [Auto Clean Up] Started
+[2017-12-24 04:27:26] [Auto Clean Up] Cache: On
+[2017-12-24 04:27:26] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-24 04:27:26] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-24 04:27:26] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-24 04:27:26] Ignore Log File: kodi.log
+[2017-12-24 04:27:26] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-24 04:27:26] Ignore Log File: kodi.old.log
+[2017-12-24 04:27:26] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-24 04:27:26] [Auto Clean Up] Old Thumbs: On
+[2017-12-24 04:27:26] 0 total thumbs cleaned up.
+[2017-12-24 04:27:26] [Auto Clean Up] Packages: On
+[2017-12-24 20:54:23] 2017-12-24 20:54:23.551180
+[2017-12-24 20:54:24] Continuing Start Up Script
+[2017-12-24 20:54:24] [Path Check] Started
+[2017-12-24 20:54:24] [Path Check] Good!
+[2017-12-24 20:54:24] [Auto Install Repo] Started
+[2017-12-24 20:54:24] [Auto Install Repo] Repository already installed
+[2017-12-24 20:54:24] [Auto Update Wizard] Started
+[2017-12-24 20:54:24] [Auto Update Wizard] Not Enabled
+[2017-12-24 20:54:24] [Notifications] Started
+[2017-12-24 20:54:24] [Notifications] id[1] Dismissed
+[2017-12-24 20:54:24] [Installed Check] Started
+[2017-12-24 20:54:24] [Installed Check] Not Enabled
+[2017-12-24 20:54:24] [Build Check] Started
+[2017-12-24 20:54:24] [Trakt Data] Started
+[2017-12-24 20:54:24] [Trakt Data] Not Enabled
+[2017-12-24 20:54:24] [Real Debrid Data] Started
+[2017-12-24 20:54:24] [Real Debrid Data] Not Enabled
+[2017-12-24 20:54:24] [Login Data] Started
+[2017-12-24 20:54:24] [Login Data] Not Enabled
+[2017-12-24 20:54:24] [Auto Clean Up] Started
+[2017-12-24 20:54:24] [Auto Clean Up] Cache: On
+[2017-12-24 20:54:24] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-24 20:54:24] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-24 20:54:24] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-24 20:54:24] Ignore Log File: kodi.log
+[2017-12-24 20:54:24] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-24 20:54:24] Ignore Log File: kodi.old.log
+[2017-12-24 20:54:24] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-24 20:54:24] [Auto Clean Up] Old Thumbs: On
+[2017-12-24 20:54:24] 0 total thumbs cleaned up.
+[2017-12-24 20:54:24] [Auto Clean Up] Packages: On
+[2017-12-24 20:57:07] 2017-12-24 20:57:07.237989
+[2017-12-24 20:57:08] Continuing Start Up Script
+[2017-12-24 20:57:08] [Path Check] Started
+[2017-12-24 20:57:08] [Path Check] Good!
+[2017-12-24 20:57:08] [Auto Install Repo] Started
+[2017-12-24 20:57:08] [Auto Install Repo] Repository already installed
+[2017-12-24 20:57:08] [Auto Update Wizard] Started
+[2017-12-24 20:57:08] [Auto Update Wizard] Not Enabled
+[2017-12-24 20:57:08] [Notifications] Started
+[2017-12-24 20:57:09] [Notifications] id[1] Dismissed
+[2017-12-24 20:57:09] [Installed Check] Started
+[2017-12-24 20:57:09] [Installed Check] Not Enabled
+[2017-12-24 20:57:09] [Build Check] Started
+[2017-12-24 20:57:09] [Trakt Data] Started
+[2017-12-24 20:57:09] [Trakt Data] Not Enabled
+[2017-12-24 20:57:09] [Real Debrid Data] Started
+[2017-12-24 20:57:09] [Real Debrid Data] Not Enabled
+[2017-12-24 20:57:09] [Login Data] Started
+[2017-12-24 20:57:09] [Login Data] Not Enabled
+[2017-12-24 20:57:09] [Auto Clean Up] Started
+[2017-12-24 20:57:09] [Auto Clean Up] Cache: On
+[2017-12-24 20:57:09] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-24 20:57:09] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-24 20:57:09] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-24 20:57:09] Ignore Log File: kodi.log
+[2017-12-24 20:57:09] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-24 20:57:09] Ignore Log File: kodi.old.log
+[2017-12-24 20:57:09] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-24 20:57:09] [Auto Clean Up] Old Thumbs: On
+[2017-12-24 20:57:09] 0 total thumbs cleaned up.
+[2017-12-24 20:57:09] [Auto Clean Up] Packages: On
+[2017-12-24 20:58:06] 2017-12-24 20:58:06.087502
+[2017-12-24 20:58:07] Continuing Start Up Script
+[2017-12-24 20:58:07] [Path Check] Started
+[2017-12-24 20:58:07] [Path Check] Good!
+[2017-12-24 20:58:07] [Auto Install Repo] Started
+[2017-12-24 20:58:07] [Auto Install Repo] Repository already installed
+[2017-12-24 20:58:07] [Auto Update Wizard] Started
+[2017-12-24 20:58:07] [Auto Update Wizard] Not Enabled
+[2017-12-24 20:58:07] [Notifications] Started
+[2017-12-24 20:58:07] [Notifications] id[1] Dismissed
+[2017-12-24 20:58:07] [Installed Check] Started
+[2017-12-24 20:58:07] [Installed Check] Not Enabled
+[2017-12-24 20:58:07] [Build Check] Started
+[2017-12-24 20:58:07] [Trakt Data] Started
+[2017-12-24 20:58:07] [Trakt Data] Not Enabled
+[2017-12-24 20:58:07] [Real Debrid Data] Started
+[2017-12-24 20:58:07] [Real Debrid Data] Not Enabled
+[2017-12-24 20:58:07] [Login Data] Started
+[2017-12-24 20:58:07] [Login Data] Not Enabled
+[2017-12-24 20:58:07] [Auto Clean Up] Started
+[2017-12-24 20:58:07] [Auto Clean Up] Cache: On
+[2017-12-24 20:58:07] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-24 20:58:07] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-24 20:58:07] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-24 20:58:07] Ignore Log File: kodi.log
+[2017-12-24 20:58:07] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-24 20:58:07] Ignore Log File: kodi.old.log
+[2017-12-24 20:58:07] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-24 20:58:07] [Auto Clean Up] Old Thumbs: On
+[2017-12-24 20:58:07] 0 total thumbs cleaned up.
+[2017-12-24 20:58:07] [Auto Clean Up] Packages: On
+[2017-12-25 04:29:43] 2017-12-25 04:29:43.179731
+[2017-12-25 04:29:44] Continuing Start Up Script
+[2017-12-25 04:29:44] [Path Check] Started
+[2017-12-25 04:29:44] [Path Check] Good!
+[2017-12-25 04:29:44] [Auto Install Repo] Started
+[2017-12-25 04:29:44] [Auto Install Repo] Repository already installed
+[2017-12-25 04:29:44] [Auto Update Wizard] Started
+[2017-12-25 04:29:44] [Auto Update Wizard] Not Enabled
+[2017-12-25 04:29:44] [Notifications] Started
+[2017-12-25 04:29:45] [Notifications] id[1] Dismissed
+[2017-12-25 04:29:45] [Installed Check] Started
+[2017-12-25 04:29:45] [Installed Check] Not Enabled
+[2017-12-25 04:29:45] [Build Check] Started
+[2017-12-25 04:29:45] [Trakt Data] Started
+[2017-12-25 04:29:45] [Trakt Data] Not Enabled
+[2017-12-25 04:29:45] [Real Debrid Data] Started
+[2017-12-25 04:29:45] [Real Debrid Data] Not Enabled
+[2017-12-25 04:29:45] [Login Data] Started
+[2017-12-25 04:29:45] [Login Data] Not Enabled
+[2017-12-25 04:29:45] [Auto Clean Up] Started
+[2017-12-25 04:29:45] [Auto Clean Up] Cache: On
+[2017-12-25 04:29:45] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-25 04:29:45] Ignore Log File: kodi.log
+[2017-12-25 04:29:45] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-25 04:29:45] [Success] cleared 3 files from /home/androidaba/.kodi/temp/temp
+[2017-12-25 04:29:45] [Auto Clean Up] Old Thumbs: On
+[2017-12-25 04:29:46] 0 total thumbs cleaned up.
+[2017-12-25 04:29:46] [Auto Clean Up] Packages: On
+[2017-12-26 02:44:11] 2017-12-26 02:44:11.125357
+[2017-12-26 02:44:12] Continuing Start Up Script
+[2017-12-26 02:44:12] [Path Check] Started
+[2017-12-26 02:44:12] [Path Check] Good!
+[2017-12-26 02:44:12] [Auto Install Repo] Started
+[2017-12-26 02:44:12] [Auto Install Repo] Repository already installed
+[2017-12-26 02:44:12] [Auto Update Wizard] Started
+[2017-12-26 02:44:12] [Auto Update Wizard] Not Enabled
+[2017-12-26 02:44:12] [Notifications] Started
+[2017-12-26 02:44:12] [Notifications] id[1] Dismissed
+[2017-12-26 02:44:12] [Installed Check] Started
+[2017-12-26 02:44:12] [Installed Check] Not Enabled
+[2017-12-26 02:44:12] [Build Check] Started
+[2017-12-26 02:44:12] [Trakt Data] Started
+[2017-12-26 02:44:12] [Trakt Data] Not Enabled
+[2017-12-26 02:44:12] [Real Debrid Data] Started
+[2017-12-26 02:44:12] [Real Debrid Data] Not Enabled
+[2017-12-26 02:44:12] [Login Data] Started
+[2017-12-26 02:44:12] [Login Data] Not Enabled
+[2017-12-26 02:44:12] [Auto Clean Up] Started
+[2017-12-26 02:44:12] [Auto Clean Up] Cache: On
+[2017-12-26 02:44:12] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-26 02:44:12] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-26 02:44:12] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-26 02:44:12] Ignore Log File: kodi.log
+[2017-12-26 02:44:12] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-26 02:44:12] Ignore Log File: kodi.old.log
+[2017-12-26 02:44:12] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-26 02:44:12] [Auto Clean Up] Old Thumbs: On
+[2017-12-26 02:44:12] 0 total thumbs cleaned up.
+[2017-12-26 02:44:12] [Auto Clean Up] Packages: On
+[2017-12-26 14:43:58] 2017-12-26 14:43:58.542374
+[2017-12-26 14:43:59] Continuing Start Up Script
+[2017-12-26 14:43:59] [Path Check] Started
+[2017-12-26 14:43:59] [Path Check] Good!
+[2017-12-26 14:43:59] [Auto Install Repo] Started
+[2017-12-26 14:43:59] [Auto Install Repo] Repository already installed
+[2017-12-26 14:43:59] [Auto Update Wizard] Started
+[2017-12-26 14:43:59] [Auto Update Wizard] Not Enabled
+[2017-12-26 14:43:59] [Notifications] Started
+[2017-12-26 14:43:59] [Notifications] id[1] Dismissed
+[2017-12-26 14:43:59] [Installed Check] Started
+[2017-12-26 14:43:59] [Installed Check] Not Enabled
+[2017-12-26 14:43:59] [Build Check] Started
+[2017-12-26 14:43:59] [Trakt Data] Started
+[2017-12-26 14:43:59] [Trakt Data] Not Enabled
+[2017-12-26 14:43:59] [Real Debrid Data] Started
+[2017-12-26 14:43:59] [Real Debrid Data] Not Enabled
+[2017-12-26 14:43:59] [Login Data] Started
+[2017-12-26 14:43:59] [Login Data] Not Enabled
+[2017-12-26 14:43:59] [Auto Clean Up] Started
+[2017-12-26 14:43:59] [Auto Clean Up] Cache: On
+[2017-12-26 14:43:59] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-26 14:43:59] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-26 14:43:59] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-26 14:43:59] Ignore Log File: kodi.log
+[2017-12-26 14:43:59] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-26 14:43:59] Ignore Log File: kodi.old.log
+[2017-12-26 14:43:59] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-26 14:43:59] [Auto Clean Up] Old Thumbs: On
+[2017-12-26 14:43:59] 0 total thumbs cleaned up.
+[2017-12-26 14:43:59] [Auto Clean Up] Packages: On
+[2017-12-27 02:44:58] 2017-12-27 02:44:58.648116
+[2017-12-27 02:44:59] Continuing Start Up Script
+[2017-12-27 02:44:59] [Path Check] Started
+[2017-12-27 02:44:59] [Path Check] Good!
+[2017-12-27 02:44:59] [Auto Install Repo] Started
+[2017-12-27 02:44:59] [Auto Install Repo] Repository already installed
+[2017-12-27 02:44:59] [Auto Update Wizard] Started
+[2017-12-27 02:44:59] [Auto Update Wizard] Not Enabled
+[2017-12-27 02:44:59] [Notifications] Started
+[2017-12-27 02:45:00] [Notifications] id[1] Dismissed
+[2017-12-27 02:45:00] [Installed Check] Started
+[2017-12-27 02:45:00] [Installed Check] Not Enabled
+[2017-12-27 02:45:00] [Build Check] Started
+[2017-12-27 02:45:00] [Trakt Data] Started
+[2017-12-27 02:45:00] [Trakt Data] Not Enabled
+[2017-12-27 02:45:00] [Real Debrid Data] Started
+[2017-12-27 02:45:00] [Real Debrid Data] Not Enabled
+[2017-12-27 02:45:00] [Login Data] Started
+[2017-12-27 02:45:00] [Login Data] Not Enabled
+[2017-12-27 02:45:00] [Auto Clean Up] Started
+[2017-12-27 02:45:00] [Auto Clean Up] Cache: On
+[2017-12-27 02:45:00] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-27 02:45:00] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-27 02:45:00] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-27 02:45:00] Ignore Log File: kodi.log
+[2017-12-27 02:45:00] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-27 02:45:00] Ignore Log File: kodi.old.log
+[2017-12-27 02:45:00] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-27 02:45:00] [Auto Clean Up] Old Thumbs: On
+[2017-12-27 02:45:00] 0 total thumbs cleaned up.
+[2017-12-27 02:45:00] [Auto Clean Up] Packages: On
+[2017-12-27 16:58:12] 2017-12-27 16:58:12.348225
+[2017-12-27 16:58:13] Continuing Start Up Script
+[2017-12-27 16:58:13] [Path Check] Started
+[2017-12-27 16:58:13] [Path Check] Good!
+[2017-12-27 16:58:13] [Auto Install Repo] Started
+[2017-12-27 16:58:13] [Auto Install Repo] Repository already installed
+[2017-12-27 16:58:13] [Auto Update Wizard] Started
+[2017-12-27 16:58:13] [Auto Update Wizard] Not Enabled
+[2017-12-27 16:58:13] [Notifications] Started
+[2017-12-27 16:58:13] [Notifications] id[1] Dismissed
+[2017-12-27 16:58:13] [Installed Check] Started
+[2017-12-27 16:58:13] [Installed Check] Not Enabled
+[2017-12-27 16:58:13] [Build Check] Started
+[2017-12-27 16:58:13] [Trakt Data] Started
+[2017-12-27 16:58:13] [Trakt Data] Not Enabled
+[2017-12-27 16:58:13] [Real Debrid Data] Started
+[2017-12-27 16:58:13] [Real Debrid Data] Not Enabled
+[2017-12-27 16:58:13] [Login Data] Started
+[2017-12-27 16:58:13] [Login Data] Not Enabled
+[2017-12-27 16:58:13] [Auto Clean Up] Started
+[2017-12-27 16:58:13] [Auto Clean Up] Cache: On
+[2017-12-27 16:58:13] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-27 16:58:13] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-27 16:58:13] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-27 16:58:13] Ignore Log File: kodi.log
+[2017-12-27 16:58:13] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-27 16:58:13] Ignore Log File: kodi.old.log
+[2017-12-27 16:58:13] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-27 16:58:13] [Auto Clean Up] Old Thumbs: On
+[2017-12-27 16:58:13] 0 total thumbs cleaned up.
+[2017-12-27 16:58:13] [Auto Clean Up] Packages: On
+[2017-12-27 17:43:09] 2017-12-27 17:43:09.368680
+[2017-12-27 17:43:10] Continuing Start Up Script
+[2017-12-27 17:43:10] [Path Check] Started
+[2017-12-27 17:43:10] [Path Check] Good!
+[2017-12-27 17:43:10] [Auto Install Repo] Started
+[2017-12-27 17:43:10] [Auto Install Repo] Repository already installed
+[2017-12-27 17:43:10] [Auto Update Wizard] Started
+[2017-12-27 17:43:10] [Auto Update Wizard] Not Enabled
+[2017-12-27 17:43:10] [Notifications] Started
+[2017-12-27 17:43:10] [Notifications] id[1] Dismissed
+[2017-12-27 17:43:10] [Installed Check] Started
+[2017-12-27 17:43:10] [Installed Check] Not Enabled
+[2017-12-27 17:43:10] [Build Check] Started
+[2017-12-27 17:43:10] [Trakt Data] Started
+[2017-12-27 17:43:10] [Trakt Data] Not Enabled
+[2017-12-27 17:43:10] [Real Debrid Data] Started
+[2017-12-27 17:43:10] [Real Debrid Data] Not Enabled
+[2017-12-27 17:43:10] [Login Data] Started
+[2017-12-27 17:43:10] [Login Data] Not Enabled
+[2017-12-27 17:43:10] [Auto Clean Up] Started
+[2017-12-27 17:43:10] [Auto Clean Up] Cache: On
+[2017-12-27 17:43:10] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-27 17:43:10] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-27 17:43:10] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-27 17:43:10] Ignore Log File: kodi.log
+[2017-12-27 17:43:10] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-27 17:43:10] Ignore Log File: kodi.old.log
+[2017-12-27 17:43:10] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-27 17:43:10] [Auto Clean Up] Old Thumbs: On
+[2017-12-27 17:43:10] 0 total thumbs cleaned up.
+[2017-12-27 17:43:10] [Auto Clean Up] Packages: On
+[2017-12-28 04:02:06] 2017-12-28 04:02:06.693594
+[2017-12-28 04:02:07] Continuing Start Up Script
+[2017-12-28 04:02:07] [Path Check] Started
+[2017-12-28 04:02:07] [Path Check] Good!
+[2017-12-28 04:02:07] [Auto Install Repo] Started
+[2017-12-28 04:02:07] [Auto Install Repo] Repository already installed
+[2017-12-28 04:02:07] [Auto Update Wizard] Started
+[2017-12-28 04:02:07] [Auto Update Wizard] Not Enabled
+[2017-12-28 04:02:07] [Notifications] Started
+[2017-12-28 04:02:08] [Notifications] id[1] Dismissed
+[2017-12-28 04:02:08] [Installed Check] Started
+[2017-12-28 04:02:08] [Installed Check] Not Enabled
+[2017-12-28 04:02:08] [Build Check] Started
+[2017-12-28 04:02:08] [Trakt Data] Started
+[2017-12-28 04:02:08] [Trakt Data] Not Enabled
+[2017-12-28 04:02:08] [Real Debrid Data] Started
+[2017-12-28 04:02:08] [Real Debrid Data] Not Enabled
+[2017-12-28 04:02:08] [Login Data] Started
+[2017-12-28 04:02:08] [Login Data] Not Enabled
+[2017-12-28 04:02:08] [Auto Clean Up] Started
+[2017-12-28 04:02:08] [Auto Clean Up] Cache: On
+[2017-12-28 04:02:08] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-28 04:02:08] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-28 04:02:08] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-28 04:02:08] Ignore Log File: kodi.log
+[2017-12-28 04:02:08] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-28 04:02:08] Ignore Log File: kodi.old.log
+[2017-12-28 04:02:08] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-28 04:02:08] [Auto Clean Up] Old Thumbs: On
+[2017-12-28 04:02:08] 0 total thumbs cleaned up.
+[2017-12-28 04:02:08] [Auto Clean Up] Packages: On
+[2017-12-28 14:35:02] 2017-12-28 14:35:02.446914
+[2017-12-28 14:35:03] Continuing Start Up Script
+[2017-12-28 14:35:03] [Path Check] Started
+[2017-12-28 14:35:03] [Path Check] Good!
+[2017-12-28 14:35:03] [Auto Install Repo] Started
+[2017-12-28 14:35:03] [Auto Install Repo] Repository already installed
+[2017-12-28 14:35:03] [Auto Update Wizard] Started
+[2017-12-28 14:35:03] [Auto Update Wizard] Not Enabled
+[2017-12-28 14:35:03] [Notifications] Started
+[2017-12-28 14:35:03] [Notifications] id[1] Dismissed
+[2017-12-28 14:35:03] [Installed Check] Started
+[2017-12-28 14:35:03] [Installed Check] Not Enabled
+[2017-12-28 14:35:03] [Build Check] Started
+[2017-12-28 14:35:03] [Trakt Data] Started
+[2017-12-28 14:35:03] [Trakt Data] Not Enabled
+[2017-12-28 14:35:03] [Real Debrid Data] Started
+[2017-12-28 14:35:03] [Real Debrid Data] Not Enabled
+[2017-12-28 14:35:03] [Login Data] Started
+[2017-12-28 14:35:03] [Login Data] Not Enabled
+[2017-12-28 14:35:03] [Auto Clean Up] Started
+[2017-12-28 14:35:03] [Auto Clean Up] Cache: On
+[2017-12-28 14:35:03] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-28 14:35:03] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-28 14:35:03] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-28 14:35:03] Ignore Log File: kodi.log
+[2017-12-28 14:35:03] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-28 14:35:03] Ignore Log File: kodi.old.log
+[2017-12-28 14:35:03] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-28 14:35:03] [Auto Clean Up] Old Thumbs: On
+[2017-12-28 14:35:03] 0 total thumbs cleaned up.
+[2017-12-28 14:35:03] [Auto Clean Up] Packages: On
+[2017-12-29 02:14:14] 2017-12-29 02:14:14.871699
+[2017-12-29 02:14:15] Continuing Start Up Script
+[2017-12-29 02:14:15] [Path Check] Started
+[2017-12-29 02:14:15] [Path Check] Good!
+[2017-12-29 02:14:15] [Auto Install Repo] Started
+[2017-12-29 02:14:15] [Auto Install Repo] Repository already installed
+[2017-12-29 02:14:15] [Auto Update Wizard] Started
+[2017-12-29 02:14:15] [Auto Update Wizard] Not Enabled
+[2017-12-29 02:14:15] [Notifications] Started
+[2017-12-29 02:14:16] [Notifications] id[1] Dismissed
+[2017-12-29 02:14:16] [Installed Check] Started
+[2017-12-29 02:14:16] [Installed Check] Not Enabled
+[2017-12-29 02:14:16] [Build Check] Started
+[2017-12-29 02:14:16] [Trakt Data] Started
+[2017-12-29 02:14:16] [Trakt Data] Not Enabled
+[2017-12-29 02:14:16] [Real Debrid Data] Started
+[2017-12-29 02:14:16] [Real Debrid Data] Not Enabled
+[2017-12-29 02:14:16] [Login Data] Started
+[2017-12-29 02:14:16] [Login Data] Not Enabled
+[2017-12-29 02:14:16] [Auto Clean Up] Started
+[2017-12-29 02:14:16] [Auto Clean Up] Cache: On
+[2017-12-29 02:14:16] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-29 02:14:16] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-29 02:14:16] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-29 02:14:16] Ignore Log File: kodi.log
+[2017-12-29 02:14:16] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-29 02:14:16] Ignore Log File: kodi.old.log
+[2017-12-29 02:14:16] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-29 02:14:16] [Auto Clean Up] Old Thumbs: On
+[2017-12-29 02:14:16] 0 total thumbs cleaned up.
+[2017-12-29 02:14:16] [Auto Clean Up] Packages: On
+[2017-12-29 03:16:32] 2017-12-29 03:16:32.386514
+[2017-12-29 03:16:33] Continuing Start Up Script
+[2017-12-29 03:16:33] [Path Check] Started
+[2017-12-29 03:16:33] [Path Check] Good!
+[2017-12-29 03:16:33] [Auto Install Repo] Started
+[2017-12-29 03:16:33] [Auto Install Repo] Repository already installed
+[2017-12-29 03:16:33] [Auto Update Wizard] Started
+[2017-12-29 03:16:33] [Auto Update Wizard] Not Enabled
+[2017-12-29 03:16:33] [Notifications] Started
+[2017-12-29 03:16:33] [Notifications] id[1] Dismissed
+[2017-12-29 03:16:33] [Installed Check] Started
+[2017-12-29 03:16:33] [Installed Check] Not Enabled
+[2017-12-29 03:16:33] [Build Check] Started
+[2017-12-29 03:16:33] [Trakt Data] Started
+[2017-12-29 03:16:33] [Trakt Data] Not Enabled
+[2017-12-29 03:16:33] [Real Debrid Data] Started
+[2017-12-29 03:16:33] [Real Debrid Data] Not Enabled
+[2017-12-29 03:16:33] [Login Data] Started
+[2017-12-29 03:16:33] [Login Data] Not Enabled
+[2017-12-29 03:16:33] [Auto Clean Up] Started
+[2017-12-29 03:16:33] [Auto Clean Up] Cache: On
+[2017-12-29 03:16:33] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-29 03:16:33] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-29 03:16:33] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-29 03:16:33] Ignore Log File: kodi.log
+[2017-12-29 03:16:33] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-29 03:16:33] Ignore Log File: kodi.old.log
+[2017-12-29 03:16:33] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-29 03:16:33] [Auto Clean Up] Old Thumbs: On
+[2017-12-29 03:16:33] 0 total thumbs cleaned up.
+[2017-12-29 03:16:33] [Auto Clean Up] Packages: On
+[2017-12-29 13:21:25] 2017-12-29 13:21:25.872702
+[2017-12-29 13:21:26] Continuing Start Up Script
+[2017-12-29 13:21:26] [Path Check] Started
+[2017-12-29 13:21:26] [Path Check] Good!
+[2017-12-29 13:21:26] [Auto Install Repo] Started
+[2017-12-29 13:21:26] [Auto Install Repo] Repository already installed
+[2017-12-29 13:21:26] [Auto Update Wizard] Started
+[2017-12-29 13:21:26] [Auto Update Wizard] Not Enabled
+[2017-12-29 13:21:26] [Notifications] Started
+[2017-12-29 13:21:27] [Notifications] id[1] Dismissed
+[2017-12-29 13:21:27] [Installed Check] Started
+[2017-12-29 13:21:27] [Installed Check] Not Enabled
+[2017-12-29 13:21:27] [Build Check] Started
+[2017-12-29 13:21:27] [Trakt Data] Started
+[2017-12-29 13:21:27] [Trakt Data] Not Enabled
+[2017-12-29 13:21:27] [Real Debrid Data] Started
+[2017-12-29 13:21:27] [Real Debrid Data] Not Enabled
+[2017-12-29 13:21:27] [Login Data] Started
+[2017-12-29 13:21:27] [Login Data] Not Enabled
+[2017-12-29 13:21:27] [Auto Clean Up] Started
+[2017-12-29 13:21:27] [Auto Clean Up] Cache: On
+[2017-12-29 13:21:27] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-29 13:21:27] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-29 13:21:27] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-29 13:21:27] Ignore Log File: kodi.log
+[2017-12-29 13:21:27] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-29 13:21:27] Ignore Log File: kodi.old.log
+[2017-12-29 13:21:27] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-29 13:21:27] [Auto Clean Up] Old Thumbs: On
+[2017-12-29 13:21:27] 0 total thumbs cleaned up.
+[2017-12-29 13:21:27] [Auto Clean Up] Packages: On
+[2017-12-29 14:48:56] 2017-12-29 14:48:56.033436
+[2017-12-29 14:48:57] Continuing Start Up Script
+[2017-12-29 14:48:57] [Path Check] Started
+[2017-12-29 14:48:57] [Path Check] Good!
+[2017-12-29 14:48:57] [Auto Install Repo] Started
+[2017-12-29 14:48:57] [Auto Install Repo] Repository already installed
+[2017-12-29 14:48:57] [Auto Update Wizard] Started
+[2017-12-29 14:48:57] [Auto Update Wizard] Not Enabled
+[2017-12-29 14:48:57] [Notifications] Started
+[2017-12-29 14:48:57] [Notifications] id[1] Dismissed
+[2017-12-29 14:48:57] [Installed Check] Started
+[2017-12-29 14:48:57] [Installed Check] Not Enabled
+[2017-12-29 14:48:57] [Build Check] Started
+[2017-12-29 14:48:57] [Trakt Data] Started
+[2017-12-29 14:48:57] [Trakt Data] Not Enabled
+[2017-12-29 14:48:57] [Real Debrid Data] Started
+[2017-12-29 14:48:57] [Real Debrid Data] Not Enabled
+[2017-12-29 14:48:57] [Login Data] Started
+[2017-12-29 14:48:57] [Login Data] Not Enabled
+[2017-12-29 14:48:57] [Auto Clean Up] Started
+[2017-12-29 14:48:57] [Auto Clean Up] Cache: On
+[2017-12-29 14:48:57] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-29 14:48:57] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-29 14:48:57] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-29 14:48:57] Ignore Log File: kodi.log
+[2017-12-29 14:48:57] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-29 14:48:57] Ignore Log File: kodi.old.log
+[2017-12-29 14:48:57] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-29 14:48:57] [Auto Clean Up] Old Thumbs: On
+[2017-12-29 14:48:57] 0 total thumbs cleaned up.
+[2017-12-29 14:48:57] [Auto Clean Up] Packages: On
+[2017-12-29 17:28:02] 2017-12-29 17:28:02.330797
+[2017-12-29 17:28:03] Continuing Start Up Script
+[2017-12-29 17:28:03] [Path Check] Started
+[2017-12-29 17:28:03] [Path Check] Good!
+[2017-12-29 17:28:03] [Auto Install Repo] Started
+[2017-12-29 17:28:03] [Auto Install Repo] Repository already installed
+[2017-12-29 17:28:03] [Auto Update Wizard] Started
+[2017-12-29 17:28:03] [Auto Update Wizard] Not Enabled
+[2017-12-29 17:28:03] [Notifications] Started
+[2017-12-29 17:28:04] [Notifications] id[1] Dismissed
+[2017-12-29 17:28:04] [Installed Check] Started
+[2017-12-29 17:28:04] [Installed Check] Not Enabled
+[2017-12-29 17:28:04] [Build Check] Started
+[2017-12-29 17:28:04] [Trakt Data] Started
+[2017-12-29 17:28:04] [Trakt Data] Not Enabled
+[2017-12-29 17:28:04] [Real Debrid Data] Started
+[2017-12-29 17:28:04] [Real Debrid Data] Not Enabled
+[2017-12-29 17:28:04] [Login Data] Started
+[2017-12-29 17:28:04] [Login Data] Not Enabled
+[2017-12-29 17:28:04] [Auto Clean Up] Started
+[2017-12-29 17:28:04] [Auto Clean Up] Cache: On
+[2017-12-29 17:28:04] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-29 17:28:04] Ignore Log File: kodi.log
+[2017-12-29 17:28:04] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-29 17:28:04] Ignore Log File: kodi.old.log
+[2017-12-29 17:28:04] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-29 17:28:04] [Auto Clean Up] Old Thumbs: On
+[2017-12-29 17:28:04] 0 total thumbs cleaned up.
+[2017-12-29 17:28:04] [Auto Clean Up] Packages: On
+[2017-12-29 17:31:50] 2017-12-29 17:31:50.118610
+[2017-12-29 17:31:51] Continuing Start Up Script
+[2017-12-29 17:31:51] [Path Check] Started
+[2017-12-29 17:31:51] [Path Check] Good!
+[2017-12-29 17:31:51] [Auto Install Repo] Started
+[2017-12-29 17:31:51] [Auto Install Repo] Repository already installed
+[2017-12-29 17:31:51] [Auto Update Wizard] Started
+[2017-12-29 17:31:51] [Auto Update Wizard] Not Enabled
+[2017-12-29 17:31:51] [Notifications] Started
+[2017-12-29 17:31:51] [Notifications] id[1] Dismissed
+[2017-12-29 17:31:51] [Installed Check] Started
+[2017-12-29 17:31:51] [Installed Check] Not Enabled
+[2017-12-29 17:31:51] [Build Check] Started
+[2017-12-29 17:31:51] [Trakt Data] Started
+[2017-12-29 17:31:51] [Trakt Data] Not Enabled
+[2017-12-29 17:31:51] [Real Debrid Data] Started
+[2017-12-29 17:31:51] [Real Debrid Data] Not Enabled
+[2017-12-29 17:31:51] [Login Data] Started
+[2017-12-29 17:31:51] [Login Data] Not Enabled
+[2017-12-29 17:31:51] [Auto Clean Up] Started
+[2017-12-29 17:31:51] [Auto Clean Up] Cache: On
+[2017-12-29 17:31:51] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-29 17:31:51] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-29 17:31:51] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-29 17:31:51] Ignore Log File: kodi.log
+[2017-12-29 17:31:51] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-29 17:31:51] Ignore Log File: kodi.old.log
+[2017-12-29 17:31:51] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-29 17:31:51] [Auto Clean Up] Old Thumbs: On
+[2017-12-29 17:31:51] 0 total thumbs cleaned up.
+[2017-12-29 17:31:51] [Auto Clean Up] Packages: On
+[2017-12-30 04:02:50] 2017-12-30 04:02:50.754713
+[2017-12-30 04:02:51] Continuing Start Up Script
+[2017-12-30 04:02:51] [Path Check] Started
+[2017-12-30 04:02:51] [Path Check] Good!
+[2017-12-30 04:02:51] [Auto Install Repo] Started
+[2017-12-30 04:02:51] [Auto Install Repo] Repository already installed
+[2017-12-30 04:02:51] [Auto Update Wizard] Started
+[2017-12-30 04:02:51] [Auto Update Wizard] Not Enabled
+[2017-12-30 04:02:51] [Notifications] Started
+[2017-12-30 04:02:52] [Notifications] id[1] Dismissed
+[2017-12-30 04:02:52] [Installed Check] Started
+[2017-12-30 04:02:52] [Installed Check] Not Enabled
+[2017-12-30 04:02:52] [Build Check] Started
+[2017-12-30 04:02:52] [Trakt Data] Started
+[2017-12-30 04:02:52] [Trakt Data] Not Enabled
+[2017-12-30 04:02:52] [Real Debrid Data] Started
+[2017-12-30 04:02:52] [Real Debrid Data] Not Enabled
+[2017-12-30 04:02:52] [Login Data] Started
+[2017-12-30 04:02:52] [Login Data] Not Enabled
+[2017-12-30 04:02:52] [Auto Clean Up] Started
+[2017-12-30 04:02:52] [Auto Clean Up] Cache: On
+[2017-12-30 04:02:52] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-30 04:02:52] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-30 04:02:52] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-30 04:02:52] Ignore Log File: kodi.log
+[2017-12-30 04:02:52] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-30 04:02:52] Ignore Log File: kodi.old.log
+[2017-12-30 04:02:52] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-30 04:02:52] [Auto Clean Up] Old Thumbs: On
+[2017-12-30 04:02:52] 0 total thumbs cleaned up.
+[2017-12-30 04:02:52] [Auto Clean Up] Packages: On
+[2017-12-30 04:03:29] 2017-12-30 04:03:29.822436
+[2017-12-30 04:03:30] Continuing Start Up Script
+[2017-12-30 04:03:30] [Path Check] Started
+[2017-12-30 04:03:30] [Path Check] Good!
+[2017-12-30 04:03:31] [Auto Install Repo] Started
+[2017-12-30 04:03:31] [Auto Install Repo] Repository already installed
+[2017-12-30 04:03:31] [Auto Update Wizard] Started
+[2017-12-30 04:03:31] [Auto Update Wizard] Not Enabled
+[2017-12-30 04:03:31] [Notifications] Started
+[2017-12-30 04:03:31] [Notifications] id[1] Dismissed
+[2017-12-30 04:03:31] [Installed Check] Started
+[2017-12-30 04:03:31] [Installed Check] Not Enabled
+[2017-12-30 04:03:31] [Build Check] Started
+[2017-12-30 04:03:31] [Trakt Data] Started
+[2017-12-30 04:03:31] [Trakt Data] Not Enabled
+[2017-12-30 04:03:31] [Real Debrid Data] Started
+[2017-12-30 04:03:31] [Real Debrid Data] Not Enabled
+[2017-12-30 04:03:31] [Login Data] Started
+[2017-12-30 04:03:31] [Login Data] Not Enabled
+[2017-12-30 04:03:31] [Auto Clean Up] Started
+[2017-12-30 04:03:31] [Auto Clean Up] Cache: On
+[2017-12-30 04:03:31] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-30 04:03:31] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-30 04:03:31] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-30 04:03:31] Ignore Log File: kodi.log
+[2017-12-30 04:03:31] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-30 04:03:31] Ignore Log File: kodi.old.log
+[2017-12-30 04:03:31] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-30 04:03:31] [Auto Clean Up] Old Thumbs: On
+[2017-12-30 04:03:31] 0 total thumbs cleaned up.
+[2017-12-30 04:03:31] [Auto Clean Up] Packages: On
+[2017-12-30 13:55:43] 2017-12-30 13:55:43.983788
+[2017-12-30 13:55:44] Continuing Start Up Script
+[2017-12-30 13:55:45] [Path Check] Started
+[2017-12-30 13:55:45] [Path Check] Good!
+[2017-12-30 13:55:45] [Auto Install Repo] Started
+[2017-12-30 13:55:45] [Auto Install Repo] Repository already installed
+[2017-12-30 13:55:45] [Auto Update Wizard] Started
+[2017-12-30 13:55:45] [Auto Update Wizard] Not Enabled
+[2017-12-30 13:55:45] [Notifications] Started
+[2017-12-30 13:55:45] [Notifications] id[1] Dismissed
+[2017-12-30 13:55:45] [Installed Check] Started
+[2017-12-30 13:55:45] [Installed Check] Not Enabled
+[2017-12-30 13:55:45] [Build Check] Started
+[2017-12-30 13:55:45] [Trakt Data] Started
+[2017-12-30 13:55:45] [Trakt Data] Not Enabled
+[2017-12-30 13:55:45] [Real Debrid Data] Started
+[2017-12-30 13:55:45] [Real Debrid Data] Not Enabled
+[2017-12-30 13:55:45] [Login Data] Started
+[2017-12-30 13:55:45] [Login Data] Not Enabled
+[2017-12-30 13:55:45] [Auto Clean Up] Started
+[2017-12-30 13:55:45] [Auto Clean Up] Cache: On
+[2017-12-30 13:55:45] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-30 13:55:45] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-30 13:55:45] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-30 13:55:45] Ignore Log File: kodi.log
+[2017-12-30 13:55:45] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-30 13:55:45] Ignore Log File: kodi.old.log
+[2017-12-30 13:55:45] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-30 13:55:45] [Auto Clean Up] Old Thumbs: On
+[2017-12-30 13:55:45] 0 total thumbs cleaned up.
+[2017-12-30 13:55:45] [Auto Clean Up] Packages: On
+[2017-12-30 16:39:22] 2017-12-30 16:39:22.049712
+[2017-12-30 16:39:23] Continuing Start Up Script
+[2017-12-30 16:39:23] [Path Check] Started
+[2017-12-30 16:39:23] [Path Check] Good!
+[2017-12-30 16:39:23] [Auto Install Repo] Started
+[2017-12-30 16:39:23] [Auto Install Repo] Repository already installed
+[2017-12-30 16:39:23] [Auto Update Wizard] Started
+[2017-12-30 16:39:23] [Auto Update Wizard] Not Enabled
+[2017-12-30 16:39:23] [Notifications] Started
+[2017-12-30 16:39:23] [Notifications] id[1] Dismissed
+[2017-12-30 16:39:23] [Installed Check] Started
+[2017-12-30 16:39:23] [Installed Check] Not Enabled
+[2017-12-30 16:39:23] [Build Check] Started
+[2017-12-30 16:39:23] [Trakt Data] Started
+[2017-12-30 16:39:23] [Trakt Data] Not Enabled
+[2017-12-30 16:39:23] [Real Debrid Data] Started
+[2017-12-30 16:39:23] [Real Debrid Data] Not Enabled
+[2017-12-30 16:39:23] [Login Data] Started
+[2017-12-30 16:39:23] [Login Data] Not Enabled
+[2017-12-30 16:39:23] [Auto Clean Up] Started
+[2017-12-30 16:39:23] [Auto Clean Up] Cache: On
+[2017-12-30 16:39:23] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/plugin.video.SportsDevil/cache 
+[2017-12-30 16:39:23] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-30 16:39:23] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-30 16:39:23] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-30 16:39:23] Ignore Log File: kodi.log
+[2017-12-30 16:39:23] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-30 16:39:23] Ignore Log File: kodi.old.log
+[2017-12-30 16:39:23] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-30 16:39:23] [Auto Clean Up] Old Thumbs: On
+[2017-12-30 16:39:23] 0 total thumbs cleaned up.
+[2017-12-30 16:39:23] [Auto Clean Up] Packages: On
+[2017-12-30 17:06:49] 2017-12-30 17:06:49.583416
+[2017-12-30 17:06:50] Continuing Start Up Script
+[2017-12-30 17:06:50] [Path Check] Started
+[2017-12-30 17:06:50] [Path Check] Good!
+[2017-12-30 17:06:50] [Auto Install Repo] Started
+[2017-12-30 17:06:50] [Auto Install Repo] Repository already installed
+[2017-12-30 17:06:50] [Auto Update Wizard] Started
+[2017-12-30 17:06:50] [Auto Update Wizard] Not Enabled
+[2017-12-30 17:06:50] [Notifications] Started
+[2017-12-30 17:06:50] [Notifications] id[1] Dismissed
+[2017-12-30 17:06:50] [Installed Check] Started
+[2017-12-30 17:06:50] [Installed Check] Not Enabled
+[2017-12-30 17:06:50] [Build Check] Started
+[2017-12-30 17:06:50] [Trakt Data] Started
+[2017-12-30 17:06:50] [Trakt Data] Not Enabled
+[2017-12-30 17:06:50] [Real Debrid Data] Started
+[2017-12-30 17:06:50] [Real Debrid Data] Not Enabled
+[2017-12-30 17:06:50] [Login Data] Started
+[2017-12-30 17:06:50] [Login Data] Not Enabled
+[2017-12-30 17:06:50] [Auto Clean Up] Started
+[2017-12-30 17:06:50] [Auto Clean Up] Cache: On
+[2017-12-30 17:06:50] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-30 17:06:50] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-30 17:06:50] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-30 17:06:50] Ignore Log File: kodi.log
+[2017-12-30 17:06:50] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-30 17:06:50] Ignore Log File: kodi.old.log
+[2017-12-30 17:06:50] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-30 17:06:50] [Auto Clean Up] Old Thumbs: On
+[2017-12-30 17:06:50] 0 total thumbs cleaned up.
+[2017-12-30 17:06:50] [Auto Clean Up] Packages: On
+[2017-12-31 03:11:43] 2017-12-31 03:11:43.150093
+[2017-12-31 03:11:44] Continuing Start Up Script
+[2017-12-31 03:11:44] [Path Check] Started
+[2017-12-31 03:11:44] [Path Check] Good!
+[2017-12-31 03:11:44] [Auto Install Repo] Started
+[2017-12-31 03:11:44] [Auto Install Repo] Repository already installed
+[2017-12-31 03:11:44] [Auto Update Wizard] Started
+[2017-12-31 03:11:44] [Auto Update Wizard] Not Enabled
+[2017-12-31 03:11:44] [Notifications] Started
+[2017-12-31 03:11:44] [Notifications] id[1] Dismissed
+[2017-12-31 03:11:44] [Installed Check] Started
+[2017-12-31 03:11:44] [Installed Check] Not Enabled
+[2017-12-31 03:11:44] [Build Check] Started
+[2017-12-31 03:11:44] [Trakt Data] Started
+[2017-12-31 03:11:44] [Trakt Data] Not Enabled
+[2017-12-31 03:11:44] [Real Debrid Data] Started
+[2017-12-31 03:11:44] [Real Debrid Data] Not Enabled
+[2017-12-31 03:11:44] [Login Data] Started
+[2017-12-31 03:11:44] [Login Data] Not Enabled
+[2017-12-31 03:11:44] [Auto Clean Up] Started
+[2017-12-31 03:11:44] [Auto Clean Up] Cache: On
+[2017-12-31 03:11:45] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-31 03:11:45] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-31 03:11:45] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-31 03:11:45] Ignore Log File: kodi.log
+[2017-12-31 03:11:45] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-31 03:11:45] Ignore Log File: kodi.old.log
+[2017-12-31 03:11:45] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-31 03:11:45] [Auto Clean Up] Old Thumbs: On
+[2017-12-31 03:11:45] 0 total thumbs cleaned up.
+[2017-12-31 03:11:45] [Auto Clean Up] Packages: On
+[2017-12-31 14:57:24] 2017-12-31 14:57:24.264040
+[2017-12-31 14:57:25] Continuing Start Up Script
+[2017-12-31 14:57:25] [Path Check] Started
+[2017-12-31 14:57:25] [Path Check] Good!
+[2017-12-31 14:57:25] [Auto Install Repo] Started
+[2017-12-31 14:57:25] [Auto Install Repo] Repository already installed
+[2017-12-31 14:57:25] [Auto Update Wizard] Started
+[2017-12-31 14:57:25] [Auto Update Wizard] Not Enabled
+[2017-12-31 14:57:25] [Notifications] Started
+[2017-12-31 14:57:25] [Notifications] id[1] Dismissed
+[2017-12-31 14:57:25] [Installed Check] Started
+[2017-12-31 14:57:25] [Installed Check] Not Enabled
+[2017-12-31 14:57:25] [Build Check] Started
+[2017-12-31 14:57:25] [Trakt Data] Started
+[2017-12-31 14:57:25] [Trakt Data] Not Enabled
+[2017-12-31 14:57:25] [Real Debrid Data] Started
+[2017-12-31 14:57:25] [Real Debrid Data] Not Enabled
+[2017-12-31 14:57:25] [Login Data] Started
+[2017-12-31 14:57:25] [Login Data] Not Enabled
+[2017-12-31 14:57:25] [Auto Clean Up] Started
+[2017-12-31 14:57:25] [Auto Clean Up] Cache: On
+[2017-12-31 14:57:25] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2017-12-31 14:57:25] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2017-12-31 14:57:25] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2017-12-31 14:57:25] Ignore Log File: kodi.log
+[2017-12-31 14:57:25] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2017-12-31 14:57:25] Ignore Log File: kodi.old.log
+[2017-12-31 14:57:25] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2017-12-31 14:57:25] [Auto Clean Up] Old Thumbs: On
+[2017-12-31 14:57:25] 0 total thumbs cleaned up.
+[2017-12-31 14:57:25] [Auto Clean Up] Packages: On
+[2018-01-01 04:10:23] 2018-01-01 04:10:23.442535
+[2018-01-01 04:10:24] Continuing Start Up Script
+[2018-01-01 04:10:24] [Path Check] Started
+[2018-01-01 04:10:24] [Path Check] Good!
+[2018-01-01 04:10:24] [Auto Install Repo] Started
+[2018-01-01 04:10:24] [Auto Install Repo] Repository already installed
+[2018-01-01 04:10:24] [Auto Update Wizard] Started
+[2018-01-01 04:10:24] [Auto Update Wizard] Not Enabled
+[2018-01-01 04:10:24] [Notifications] Started
+[2018-01-01 04:10:24] [Notifications] id[1] Dismissed
+[2018-01-01 04:10:24] [Installed Check] Started
+[2018-01-01 04:10:24] [Installed Check] Not Enabled
+[2018-01-01 04:10:24] [Build Check] Started
+[2018-01-01 04:10:24] [Trakt Data] Started
+[2018-01-01 04:10:24] [Trakt Data] Not Enabled
+[2018-01-01 04:10:24] [Real Debrid Data] Started
+[2018-01-01 04:10:24] [Real Debrid Data] Not Enabled
+[2018-01-01 04:10:24] [Login Data] Started
+[2018-01-01 04:10:24] [Login Data] Not Enabled
+[2018-01-01 04:10:24] [Auto Clean Up] Started
+[2018-01-01 04:10:24] [Auto Clean Up] Cache: On
+[2018-01-01 04:10:24] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-01 04:10:24] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-01 04:10:24] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2018-01-01 04:10:24] Ignore Log File: kodi.log
+[2018-01-01 04:10:24] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2018-01-01 04:10:24] Ignore Log File: kodi.old.log
+[2018-01-01 04:10:24] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2018-01-01 04:10:24] [Auto Clean Up] Old Thumbs: On
+[2018-01-01 04:10:24] 0 total thumbs cleaned up.
+[2018-01-01 04:10:24] [Auto Clean Up] Packages: On
+[2018-01-01 04:35:08] 2018-01-01 04:35:08.062320
+[2018-01-01 04:35:09] Continuing Start Up Script
+[2018-01-01 04:35:09] [Path Check] Started
+[2018-01-01 04:35:09] [Path Check] Good!
+[2018-01-01 04:35:09] [Auto Install Repo] Started
+[2018-01-01 04:35:09] [Auto Install Repo] Repository already installed
+[2018-01-01 04:35:09] [Auto Update Wizard] Started
+[2018-01-01 04:35:09] [Auto Update Wizard] Not Enabled
+[2018-01-01 04:35:09] [Notifications] Started
+[2018-01-01 04:35:09] [Notifications] id[1] Dismissed
+[2018-01-01 04:35:09] [Installed Check] Started
+[2018-01-01 04:35:09] [Installed Check] Not Enabled
+[2018-01-01 04:35:09] [Build Check] Started
+[2018-01-01 04:35:09] [Trakt Data] Started
+[2018-01-01 04:35:09] [Trakt Data] Not Enabled
+[2018-01-01 04:35:09] [Real Debrid Data] Started
+[2018-01-01 04:35:09] [Real Debrid Data] Not Enabled
+[2018-01-01 04:35:09] [Login Data] Started
+[2018-01-01 04:35:09] [Login Data] Not Enabled
+[2018-01-01 04:35:09] [Auto Clean Up] Started
+[2018-01-01 04:35:09] [Auto Clean Up] Cache: On
+[2018-01-01 04:35:09] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-01 04:35:09] [Success] wiped /home/androidaba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-01 04:35:09] [Wiped] /home/androidaba/.kodi/temp/commoncache.db
+[2018-01-01 04:35:09] Ignore Log File: kodi.log
+[2018-01-01 04:35:09] [Wiped] /home/androidaba/.kodi/temp/commoncache.socket
+[2018-01-01 04:35:09] Ignore Log File: kodi.old.log
+[2018-01-01 04:35:09] [Success] cleared 4 files from /home/androidaba/.kodi/temp/temp
+[2018-01-01 04:35:09] [Auto Clean Up] Old Thumbs: On
+[2018-01-01 04:35:09] 0 total thumbs cleaned up.
+[2018-01-01 04:35:09] [Auto Clean Up] Packages: On
+[2018-01-09 10:15:41] Working Url Error: <urlopen error timed out> [http://genietvcunts.co.uk/newwiz/builds.txt]
+[2018-01-09 10:15:46] 2018-01-09 10:15:46.509794
+[2018-01-09 10:15:47] Continuing Start Up Script
+[2018-01-09 10:15:47] [Path Check] Started
+[2018-01-09 10:15:47] [Path Check] Good!
+[2018-01-09 10:15:47] [Auto Install Repo] Started
+[2018-01-09 10:15:47] [Auto Install Repo] Repository already installed
+[2018-01-09 10:15:47] [Auto Update Wizard] Started
+[2018-01-09 10:15:47] [Auto Update Wizard] Not Enabled
+[2018-01-09 10:15:47] [Notifications] Started
+[2018-01-09 10:15:53] Working Url Error: timed out [http://genietvcunts.co.uk/newwiz/notify.txt]
+[2018-01-09 10:15:56] Working Url Error: <urlopen error timed out> [http://genietvcunts.co.uk/newwiz/notify.txt]
+[2018-01-09 10:16:01] Working Url Error: timed out [http://genietvcunts.co.uk/newwiz/notify.txt]
+[2018-01-09 10:16:02] [Notifications] URL(http://genietvcunts.co.uk/newwiz/notify.txt): timed out
+[2018-01-09 10:16:02] [Installed Check] Started
+[2018-01-09 10:16:02] [Installed Check] Not Enabled
+[2018-01-09 10:16:02] [Build Check] Started
+[2018-01-09 10:16:02] [Trakt Data] Started
+[2018-01-09 10:16:02] [Trakt Data] Not Enabled
+[2018-01-09 10:16:02] [Real Debrid Data] Started
+[2018-01-09 10:16:02] [Real Debrid Data] Not Enabled
+[2018-01-09 10:16:02] [Login Data] Started
+[2018-01-09 10:16:02] [Login Data] Not Enabled
+[2018-01-09 10:16:02] [Auto Clean Up] Started
+[2018-01-09 10:16:02] [Auto Clean Up] Cache: On
+[2018-01-09 10:16:02] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-09 10:16:02] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-09 10:16:02] Ignore Log File: kodi.log
+[2018-01-09 10:16:02] Ignore Log File: kodi.old.log
+[2018-01-09 10:16:02] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-09 10:16:02] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-09 10:16:02] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-09 10:16:02] [Auto Clean Up] Old Thumbs: On
+[2018-01-09 10:16:02] 0 total thumbs cleaned up.
+[2018-01-09 10:16:02] [Auto Clean Up] Packages: On
+[2018-01-09 10:17:54] 2018-01-09 10:17:54.696972
+[2018-01-09 10:17:55] Continuing Start Up Script
+[2018-01-09 10:17:55] [Path Check] Started
+[2018-01-09 10:17:55] [Path Check] Good!
+[2018-01-09 10:17:55] [Auto Install Repo] Started
+[2018-01-09 10:17:55] [Auto Install Repo] Repository already installed
+[2018-01-09 10:17:55] [Auto Update Wizard] Started
+[2018-01-09 10:17:55] [Auto Update Wizard] Not Enabled
+[2018-01-09 10:17:55] [Notifications] Started
+[2018-01-09 10:18:07] [Notifications] id[1] Dismissed
+[2018-01-09 10:18:07] [Installed Check] Started
+[2018-01-09 10:18:07] [Installed Check] Not Enabled
+[2018-01-09 10:18:07] [Build Check] Started
+[2018-01-09 10:18:07] [Trakt Data] Started
+[2018-01-09 10:18:07] [Trakt Data] Not Enabled
+[2018-01-09 10:18:07] [Real Debrid Data] Started
+[2018-01-09 10:18:07] [Real Debrid Data] Not Enabled
+[2018-01-09 10:18:07] [Login Data] Started
+[2018-01-09 10:18:07] [Login Data] Not Enabled
+[2018-01-09 10:18:07] [Auto Clean Up] Started
+[2018-01-09 10:18:07] [Auto Clean Up] Cache: On
+[2018-01-09 10:18:07] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-09 10:18:07] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-09 10:18:07] Ignore Log File: kodi.log
+[2018-01-09 10:18:07] Ignore Log File: kodi.old.log
+[2018-01-09 10:18:07] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-09 10:18:07] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-09 10:18:07] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-09 10:18:07] [Auto Clean Up] Old Thumbs: On
+[2018-01-09 10:18:07] 0 total thumbs cleaned up.
+[2018-01-09 10:18:07] [Auto Clean Up] Packages: On
+[2018-01-09 10:41:44] 2018-01-09 10:41:44.028199
+[2018-01-09 10:41:45] Continuing Start Up Script
+[2018-01-09 10:41:45] [Path Check] Started
+[2018-01-09 10:41:45] [Path Check] Good!
+[2018-01-09 10:41:45] [Auto Install Repo] Started
+[2018-01-09 10:41:45] [Auto Install Repo] Repository already installed
+[2018-01-09 10:41:45] [Auto Update Wizard] Started
+[2018-01-09 10:41:45] [Auto Update Wizard] Not Enabled
+[2018-01-09 10:41:45] [Notifications] Started
+[2018-01-09 10:41:45] [Notifications] id[1] Dismissed
+[2018-01-09 10:41:45] [Installed Check] Started
+[2018-01-09 10:41:45] [Installed Check] Not Enabled
+[2018-01-09 10:41:45] [Build Check] Started
+[2018-01-09 10:41:45] [Trakt Data] Started
+[2018-01-09 10:41:45] [Trakt Data] Not Enabled
+[2018-01-09 10:41:45] [Real Debrid Data] Started
+[2018-01-09 10:41:45] [Real Debrid Data] Not Enabled
+[2018-01-09 10:41:45] [Login Data] Started
+[2018-01-09 10:41:45] [Login Data] Not Enabled
+[2018-01-09 10:41:45] [Auto Clean Up] Started
+[2018-01-09 10:41:45] [Auto Clean Up] Cache: On
+[2018-01-09 10:41:45] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-09 10:41:45] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-09 10:41:45] Ignore Log File: kodi.log
+[2018-01-09 10:41:45] Ignore Log File: kodi.old.log
+[2018-01-09 10:41:45] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-09 10:41:45] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-09 10:41:45] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-09 10:41:45] [Auto Clean Up] Old Thumbs: On
+[2018-01-09 10:41:45] 0 total thumbs cleaned up.
+[2018-01-09 10:41:45] [Auto Clean Up] Packages: On
+[2018-01-09 13:43:30] Working Url Error: <urlopen error timed out> [http://genietvcunts.co.uk/newwiz/builds.txt]
+[2018-01-09 13:43:34] 2018-01-09 13:43:34.862398
+[2018-01-09 13:43:35] Continuing Start Up Script
+[2018-01-09 13:43:35] [Path Check] Started
+[2018-01-09 13:43:35] [Path Check] Good!
+[2018-01-09 13:43:35] [Auto Install Repo] Started
+[2018-01-09 13:43:35] [Auto Install Repo] Repository already installed
+[2018-01-09 13:43:35] [Auto Update Wizard] Started
+[2018-01-09 13:43:35] [Auto Update Wizard] Not Enabled
+[2018-01-09 13:43:35] [Notifications] Started
+[2018-01-09 14:27:32] 2018-01-09 14:27:32.727031
+[2018-01-09 14:27:33] Continuing Start Up Script
+[2018-01-09 14:27:33] [Path Check] Started
+[2018-01-09 14:27:33] [Path Check] Good!
+[2018-01-09 14:27:33] [Auto Install Repo] Started
+[2018-01-09 14:27:33] [Auto Install Repo] Repository already installed
+[2018-01-09 14:27:33] [Auto Update Wizard] Started
+[2018-01-09 14:27:33] [Auto Update Wizard] Not Enabled
+[2018-01-09 14:27:33] [Notifications] Started
+[2018-01-09 14:27:34] [Notifications] id[1] Dismissed
+[2018-01-09 14:27:34] [Installed Check] Started
+[2018-01-09 14:27:34] [Installed Check] Not Enabled
+[2018-01-09 14:27:34] [Build Check] Started
+[2018-01-09 14:27:34] [Trakt Data] Started
+[2018-01-09 14:27:34] [Trakt Data] Not Enabled
+[2018-01-09 14:27:34] [Real Debrid Data] Started
+[2018-01-09 14:27:34] [Real Debrid Data] Not Enabled
+[2018-01-09 14:27:34] [Login Data] Started
+[2018-01-09 14:27:34] [Login Data] Not Enabled
+[2018-01-09 14:27:34] [Auto Clean Up] Started
+[2018-01-09 14:27:34] [Auto Clean Up] Cache: On
+[2018-01-09 14:27:34] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-09 14:27:34] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-09 14:27:34] Ignore Log File: kodi.log
+[2018-01-09 14:27:34] Ignore Log File: kodi.old.log
+[2018-01-09 14:27:34] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-09 14:27:34] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-09 14:27:34] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-09 14:27:34] [Auto Clean Up] Old Thumbs: On
+[2018-01-09 14:27:34] 0 total thumbs cleaned up.
+[2018-01-09 14:27:34] [Auto Clean Up] Packages: On
+[2018-01-09 15:28:24] Working Url Error: timed out [http://genietvcunts.co.uk/newwiz/builds.txt]
+[2018-01-09 15:28:42] 2018-01-09 15:28:42.004408
+[2018-01-09 15:28:43] Continuing Start Up Script
+[2018-01-09 15:28:43] [Path Check] Started
+[2018-01-09 15:28:43] [Path Check] Good!
+[2018-01-09 15:28:43] [Auto Install Repo] Started
+[2018-01-09 15:28:43] [Auto Install Repo] Repository already installed
+[2018-01-09 15:28:43] [Auto Update Wizard] Started
+[2018-01-09 15:28:43] [Auto Update Wizard] Not Enabled
+[2018-01-09 15:28:43] [Notifications] Started
+[2018-01-09 15:28:44] [Notifications] id[1] Dismissed
+[2018-01-09 15:28:44] [Installed Check] Started
+[2018-01-09 15:28:44] [Installed Check] Not Enabled
+[2018-01-09 15:28:44] [Build Check] Started
+[2018-01-09 15:28:44] [Trakt Data] Started
+[2018-01-09 15:28:44] [Trakt Data] Not Enabled
+[2018-01-09 15:28:44] [Real Debrid Data] Started
+[2018-01-09 15:28:44] [Real Debrid Data] Not Enabled
+[2018-01-09 15:28:44] [Login Data] Started
+[2018-01-09 15:28:44] [Login Data] Not Enabled
+[2018-01-09 15:28:44] [Auto Clean Up] Started
+[2018-01-09 15:28:44] [Auto Clean Up] Cache: On
+[2018-01-09 15:28:44] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-09 15:28:44] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-09 15:28:44] Ignore Log File: kodi.log
+[2018-01-09 15:28:44] Ignore Log File: kodi.old.log
+[2018-01-09 15:28:44] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-09 15:28:44] [Success] cleared 3 files from /home/aba/.kodi/temp/temp
+[2018-01-09 15:28:44] [Auto Clean Up] Old Thumbs: On
+[2018-01-09 15:28:44] 0 total thumbs cleaned up.
+[2018-01-09 15:28:44] [Auto Clean Up] Packages: On
+[2018-01-09 15:29:40] 2018-01-09 15:29:40.976961
+[2018-01-09 15:29:42] Continuing Start Up Script
+[2018-01-09 15:29:42] [Path Check] Started
+[2018-01-09 15:29:42] [Path Check] Good!
+[2018-01-09 15:29:42] [Auto Install Repo] Started
+[2018-01-09 15:29:42] [Auto Install Repo] Repository already installed
+[2018-01-09 15:29:42] [Auto Update Wizard] Started
+[2018-01-09 15:29:42] [Auto Update Wizard] Not Enabled
+[2018-01-09 15:29:42] [Notifications] Started
+[2018-01-09 15:29:44] [Notifications] id[1] Dismissed
+[2018-01-09 15:29:44] [Installed Check] Started
+[2018-01-09 15:29:44] [Installed Check] Not Enabled
+[2018-01-09 15:29:44] [Build Check] Started
+[2018-01-09 15:29:44] [Trakt Data] Started
+[2018-01-09 15:29:44] [Trakt Data] Not Enabled
+[2018-01-09 15:29:44] [Real Debrid Data] Started
+[2018-01-09 15:29:44] [Real Debrid Data] Not Enabled
+[2018-01-09 15:29:44] [Login Data] Started
+[2018-01-09 15:29:44] [Login Data] Not Enabled
+[2018-01-09 15:29:44] [Auto Clean Up] Started
+[2018-01-09 15:29:44] [Auto Clean Up] Cache: On
+[2018-01-09 15:29:44] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-09 15:29:44] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-09 15:29:44] Ignore Log File: kodi.log
+[2018-01-09 15:29:44] Ignore Log File: kodi.old.log
+[2018-01-09 15:29:44] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-09 15:29:44] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-09 15:29:44] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-09 15:29:44] [Auto Clean Up] Old Thumbs: On
+[2018-01-09 15:29:44] 0 total thumbs cleaned up.
+[2018-01-09 15:29:44] [Auto Clean Up] Packages: On
+[2018-01-09 21:51:42] 2018-01-09 21:51:42.995221
+[2018-01-09 21:51:43] Continuing Start Up Script
+[2018-01-09 21:51:43] [Path Check] Started
+[2018-01-09 21:51:43] [Path Check] Good!
+[2018-01-09 21:51:43] [Auto Install Repo] Started
+[2018-01-09 21:51:43] [Auto Install Repo] Repository already installed
+[2018-01-09 21:51:43] [Auto Update Wizard] Started
+[2018-01-09 21:51:43] [Auto Update Wizard] Not Enabled
+[2018-01-09 21:51:43] [Notifications] Started
+[2018-01-09 21:51:44] [Notifications] id[1] Dismissed
+[2018-01-09 21:51:44] [Installed Check] Started
+[2018-01-09 21:51:44] [Installed Check] Not Enabled
+[2018-01-09 21:51:44] [Build Check] Started
+[2018-01-09 21:51:44] [Trakt Data] Started
+[2018-01-09 21:51:44] [Trakt Data] Not Enabled
+[2018-01-09 21:51:44] [Real Debrid Data] Started
+[2018-01-09 21:51:44] [Real Debrid Data] Not Enabled
+[2018-01-09 21:51:44] [Login Data] Started
+[2018-01-09 21:51:44] [Login Data] Not Enabled
+[2018-01-09 21:51:44] [Auto Clean Up] Started
+[2018-01-09 21:51:44] [Auto Clean Up] Cache: On
+[2018-01-09 21:51:44] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-09 21:51:44] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-09 21:51:44] Ignore Log File: kodi.log
+[2018-01-09 21:51:44] Ignore Log File: kodi.old.log
+[2018-01-09 21:51:44] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-09 21:51:44] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-09 21:51:44] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-09 21:51:44] [Auto Clean Up] Old Thumbs: On
+[2018-01-09 21:51:44] 0 total thumbs cleaned up.
+[2018-01-09 21:51:44] [Auto Clean Up] Packages: On
+[2018-01-10 02:56:53] 2018-01-10 02:56:53.717664
+[2018-01-10 02:56:54] Continuing Start Up Script
+[2018-01-10 02:56:54] [Path Check] Started
+[2018-01-10 02:56:54] [Path Check] Good!
+[2018-01-10 02:56:54] [Auto Install Repo] Started
+[2018-01-10 02:56:54] [Auto Install Repo] Repository already installed
+[2018-01-10 02:56:54] [Auto Update Wizard] Started
+[2018-01-10 02:56:54] [Auto Update Wizard] Not Enabled
+[2018-01-10 02:56:54] [Notifications] Started
+[2018-01-10 02:56:58] [Notifications] id[1] Dismissed
+[2018-01-10 02:56:58] [Installed Check] Started
+[2018-01-10 02:56:58] [Installed Check] Not Enabled
+[2018-01-10 02:56:58] [Build Check] Started
+[2018-01-10 02:56:58] [Trakt Data] Started
+[2018-01-10 02:56:58] [Trakt Data] Not Enabled
+[2018-01-10 02:56:58] [Real Debrid Data] Started
+[2018-01-10 02:56:58] [Real Debrid Data] Not Enabled
+[2018-01-10 02:56:58] [Login Data] Started
+[2018-01-10 02:56:58] [Login Data] Not Enabled
+[2018-01-10 02:56:58] [Auto Clean Up] Started
+[2018-01-10 02:56:58] [Auto Clean Up] Cache: On
+[2018-01-10 02:56:58] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-10 02:56:58] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-10 02:56:58] Ignore Log File: kodi.log
+[2018-01-10 02:56:58] Ignore Log File: kodi.old.log
+[2018-01-10 02:56:58] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-10 02:56:58] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-10 02:56:58] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-10 02:56:58] [Auto Clean Up] Old Thumbs: On
+[2018-01-10 02:56:58] 0 total thumbs cleaned up.
+[2018-01-10 02:56:58] [Auto Clean Up] Packages: On
+[2018-01-10 03:23:31] 2018-01-10 03:23:31.893114
+[2018-01-10 03:23:32] Continuing Start Up Script
+[2018-01-10 03:23:32] [Path Check] Started
+[2018-01-10 03:23:32] [Path Check] Good!
+[2018-01-10 03:23:32] [Auto Install Repo] Started
+[2018-01-10 03:23:32] [Auto Install Repo] Repository already installed
+[2018-01-10 03:23:32] [Auto Update Wizard] Started
+[2018-01-10 03:23:32] [Auto Update Wizard] Not Enabled
+[2018-01-10 03:23:32] [Notifications] Started
+[2018-01-10 03:23:33] [Notifications] id[1] Dismissed
+[2018-01-10 03:23:33] [Installed Check] Started
+[2018-01-10 03:23:33] [Installed Check] Not Enabled
+[2018-01-10 03:23:33] [Build Check] Started
+[2018-01-10 03:23:33] [Trakt Data] Started
+[2018-01-10 03:23:33] [Trakt Data] Not Enabled
+[2018-01-10 03:23:33] [Real Debrid Data] Started
+[2018-01-10 03:23:33] [Real Debrid Data] Not Enabled
+[2018-01-10 03:23:33] [Login Data] Started
+[2018-01-10 03:23:33] [Login Data] Not Enabled
+[2018-01-10 03:23:33] [Auto Clean Up] Started
+[2018-01-10 03:23:33] [Auto Clean Up] Cache: On
+[2018-01-10 03:23:33] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-10 03:23:33] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-10 03:23:33] Ignore Log File: kodi.log
+[2018-01-10 03:23:33] Ignore Log File: kodi.old.log
+[2018-01-10 03:23:33] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-10 03:23:33] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-10 03:23:33] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-10 03:23:33] [Auto Clean Up] Old Thumbs: On
+[2018-01-10 03:23:33] 0 total thumbs cleaned up.
+[2018-01-10 03:23:33] [Auto Clean Up] Packages: On
+[2018-01-10 04:02:46] 2018-01-10 04:02:46.619152
+[2018-01-10 04:02:47] Continuing Start Up Script
+[2018-01-10 04:02:47] [Path Check] Started
+[2018-01-10 04:02:47] [Path Check] Good!
+[2018-01-10 04:02:47] [Auto Install Repo] Started
+[2018-01-10 04:02:47] [Auto Install Repo] Repository already installed
+[2018-01-10 04:02:47] [Auto Update Wizard] Started
+[2018-01-10 04:02:47] [Auto Update Wizard] Not Enabled
+[2018-01-10 04:02:47] [Notifications] Started
+[2018-01-10 04:02:47] [Notifications] id[1] Dismissed
+[2018-01-10 04:02:47] [Installed Check] Started
+[2018-01-10 04:02:47] [Installed Check] Not Enabled
+[2018-01-10 04:02:47] [Build Check] Started
+[2018-01-10 04:02:47] [Trakt Data] Started
+[2018-01-10 04:02:47] [Trakt Data] Not Enabled
+[2018-01-10 04:02:47] [Real Debrid Data] Started
+[2018-01-10 04:02:47] [Real Debrid Data] Not Enabled
+[2018-01-10 04:02:47] [Login Data] Started
+[2018-01-10 04:02:47] [Login Data] Not Enabled
+[2018-01-10 04:02:47] [Auto Clean Up] Started
+[2018-01-10 04:02:47] [Auto Clean Up] Cache: On
+[2018-01-10 04:02:47] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-10 04:02:47] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-10 04:02:47] Ignore Log File: kodi.log
+[2018-01-10 04:02:47] Ignore Log File: kodi.old.log
+[2018-01-10 04:02:47] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-10 04:02:47] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-10 04:02:47] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-10 04:02:47] [Auto Clean Up] Old Thumbs: On
+[2018-01-10 04:02:47] 0 total thumbs cleaned up.
+[2018-01-10 04:02:47] [Auto Clean Up] Packages: On
+[2018-01-10 07:57:58] 2018-01-10 07:57:58.893826
+[2018-01-10 07:57:59] Continuing Start Up Script
+[2018-01-10 07:57:59] [Path Check] Started
+[2018-01-10 07:57:59] [Path Check] Good!
+[2018-01-10 07:57:59] [Auto Install Repo] Started
+[2018-01-10 07:57:59] [Auto Install Repo] Repository already installed
+[2018-01-10 07:57:59] [Auto Update Wizard] Started
+[2018-01-10 07:57:59] [Auto Update Wizard] Not Enabled
+[2018-01-10 07:57:59] [Notifications] Started
+[2018-01-10 07:58:00] [Notifications] id[1] Dismissed
+[2018-01-10 07:58:00] [Installed Check] Started
+[2018-01-10 07:58:00] [Installed Check] Not Enabled
+[2018-01-10 07:58:00] [Build Check] Started
+[2018-01-10 07:58:00] [Trakt Data] Started
+[2018-01-10 07:58:00] [Trakt Data] Not Enabled
+[2018-01-10 07:58:00] [Real Debrid Data] Started
+[2018-01-10 07:58:00] [Real Debrid Data] Not Enabled
+[2018-01-10 07:58:00] [Login Data] Started
+[2018-01-10 07:58:00] [Login Data] Not Enabled
+[2018-01-10 07:58:00] [Auto Clean Up] Started
+[2018-01-10 07:58:00] [Auto Clean Up] Cache: On
+[2018-01-10 07:58:00] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-10 07:58:00] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-10 07:58:00] Ignore Log File: kodi.log
+[2018-01-10 07:58:00] Ignore Log File: kodi.old.log
+[2018-01-10 07:58:00] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-10 07:58:00] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-10 07:58:00] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-10 07:58:00] [Auto Clean Up] Old Thumbs: On
+[2018-01-10 07:58:00] 0 total thumbs cleaned up.
+[2018-01-10 07:58:00] [Auto Clean Up] Packages: On
+[2018-01-10 14:11:25] 2018-01-10 14:11:25.467989
+[2018-01-10 14:11:26] Continuing Start Up Script
+[2018-01-10 14:11:26] [Path Check] Started
+[2018-01-10 14:11:26] [Path Check] Good!
+[2018-01-10 14:11:26] [Auto Install Repo] Started
+[2018-01-10 14:11:26] [Auto Install Repo] Repository already installed
+[2018-01-10 14:11:26] [Auto Update Wizard] Started
+[2018-01-10 14:11:26] [Auto Update Wizard] Not Enabled
+[2018-01-10 14:11:26] [Notifications] Started
+[2018-01-10 14:11:27] [Notifications] id[1] Dismissed
+[2018-01-10 14:11:27] [Installed Check] Started
+[2018-01-10 14:11:27] [Installed Check] Not Enabled
+[2018-01-10 14:11:27] [Build Check] Started
+[2018-01-10 14:11:27] [Trakt Data] Started
+[2018-01-10 14:11:27] [Trakt Data] Not Enabled
+[2018-01-10 14:11:27] [Real Debrid Data] Started
+[2018-01-10 14:11:27] [Real Debrid Data] Not Enabled
+[2018-01-10 14:11:27] [Login Data] Started
+[2018-01-10 14:11:27] [Login Data] Not Enabled
+[2018-01-10 14:11:27] [Auto Clean Up] Started
+[2018-01-10 14:11:27] [Auto Clean Up] Cache: On
+[2018-01-10 14:11:27] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-10 14:11:27] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-10 14:11:27] Ignore Log File: kodi.log
+[2018-01-10 14:11:27] Ignore Log File: kodi.old.log
+[2018-01-10 14:11:27] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-10 14:11:27] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-10 14:11:27] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-10 14:11:27] [Auto Clean Up] Old Thumbs: On
+[2018-01-10 14:11:27] 0 total thumbs cleaned up.
+[2018-01-10 14:11:27] [Auto Clean Up] Packages: On
+[2018-01-10 17:42:07] 2018-01-10 17:42:07.167412
+[2018-01-10 17:42:08] Continuing Start Up Script
+[2018-01-10 17:42:08] [Path Check] Started
+[2018-01-10 17:42:08] [Path Check] Good!
+[2018-01-10 17:42:08] [Auto Install Repo] Started
+[2018-01-10 17:42:08] [Auto Install Repo] Repository already installed
+[2018-01-10 17:42:08] [Auto Update Wizard] Started
+[2018-01-10 17:42:08] [Auto Update Wizard] Not Enabled
+[2018-01-10 17:42:08] [Notifications] Started
+[2018-01-10 17:42:08] [Notifications] id[1] Dismissed
+[2018-01-10 17:42:08] [Installed Check] Started
+[2018-01-10 17:42:08] [Installed Check] Not Enabled
+[2018-01-10 17:42:08] [Build Check] Started
+[2018-01-10 17:42:08] [Trakt Data] Started
+[2018-01-10 17:42:08] [Trakt Data] Not Enabled
+[2018-01-10 17:42:08] [Real Debrid Data] Started
+[2018-01-10 17:42:08] [Real Debrid Data] Not Enabled
+[2018-01-10 17:42:08] [Login Data] Started
+[2018-01-10 17:42:08] [Login Data] Not Enabled
+[2018-01-10 17:42:08] [Auto Clean Up] Started
+[2018-01-10 17:42:08] [Auto Clean Up] Cache: On
+[2018-01-10 17:42:08] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-10 17:42:08] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-10 17:42:08] Ignore Log File: kodi.log
+[2018-01-10 17:42:08] Ignore Log File: kodi.old.log
+[2018-01-10 17:42:08] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-10 17:42:08] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-10 17:42:08] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-10 17:42:08] [Auto Clean Up] Old Thumbs: On
+[2018-01-10 17:42:08] 0 total thumbs cleaned up.
+[2018-01-10 17:42:08] [Auto Clean Up] Packages: On
+[2018-01-11 03:26:02] 2018-01-11 03:26:02.594995
+[2018-01-11 03:26:03] Continuing Start Up Script
+[2018-01-11 03:26:03] [Path Check] Started
+[2018-01-11 03:26:03] [Path Check] Good!
+[2018-01-11 03:26:03] [Auto Install Repo] Started
+[2018-01-11 03:26:03] [Auto Install Repo] Repository already installed
+[2018-01-11 03:26:03] [Auto Update Wizard] Started
+[2018-01-11 03:26:03] [Auto Update Wizard] Not Enabled
+[2018-01-11 03:26:03] [Notifications] Started
+[2018-01-11 03:26:04] [Notifications] id[1] Dismissed
+[2018-01-11 03:26:04] [Installed Check] Started
+[2018-01-11 03:26:04] [Installed Check] Not Enabled
+[2018-01-11 03:26:04] [Build Check] Started
+[2018-01-11 03:26:04] [Trakt Data] Started
+[2018-01-11 03:26:04] [Trakt Data] Not Enabled
+[2018-01-11 03:26:04] [Real Debrid Data] Started
+[2018-01-11 03:26:04] [Real Debrid Data] Not Enabled
+[2018-01-11 03:26:04] [Login Data] Started
+[2018-01-11 03:26:04] [Login Data] Not Enabled
+[2018-01-11 03:26:04] [Auto Clean Up] Started
+[2018-01-11 03:26:04] [Auto Clean Up] Cache: On
+[2018-01-11 03:26:04] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-11 03:26:04] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-11 03:26:04] Ignore Log File: kodi.log
+[2018-01-11 03:26:04] Ignore Log File: kodi.old.log
+[2018-01-11 03:26:04] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-11 03:26:04] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-11 03:26:04] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-11 03:26:04] [Auto Clean Up] Old Thumbs: On
+[2018-01-11 03:26:04] 0 total thumbs cleaned up.
+[2018-01-11 03:26:04] [Auto Clean Up] Packages: On
+[2018-01-11 14:32:31] 2018-01-11 14:32:31.239527
+[2018-01-11 14:32:32] Continuing Start Up Script
+[2018-01-11 14:32:32] [Path Check] Started
+[2018-01-11 14:32:32] [Path Check] Good!
+[2018-01-11 14:32:32] [Auto Install Repo] Started
+[2018-01-11 14:32:32] [Auto Install Repo] Repository already installed
+[2018-01-11 14:32:32] [Auto Update Wizard] Started
+[2018-01-11 14:32:32] [Auto Update Wizard] Not Enabled
+[2018-01-11 14:32:32] [Notifications] Started
+[2018-01-11 14:32:32] [Notifications] id[1] Dismissed
+[2018-01-11 14:32:32] [Installed Check] Started
+[2018-01-11 14:32:32] [Installed Check] Not Enabled
+[2018-01-11 14:32:32] [Build Check] Started
+[2018-01-11 14:32:32] [Trakt Data] Started
+[2018-01-11 14:32:32] [Trakt Data] Not Enabled
+[2018-01-11 14:32:32] [Real Debrid Data] Started
+[2018-01-11 14:32:32] [Real Debrid Data] Not Enabled
+[2018-01-11 14:32:32] [Login Data] Started
+[2018-01-11 14:32:32] [Login Data] Not Enabled
+[2018-01-11 14:32:32] [Auto Clean Up] Started
+[2018-01-11 14:32:32] [Auto Clean Up] Cache: On
+[2018-01-11 14:32:32] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-11 14:32:32] Ignore Log File: kodi.log
+[2018-01-11 14:32:32] Ignore Log File: kodi.old.log
+[2018-01-11 14:32:32] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-11 14:32:32] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-11 14:32:32] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-11 14:32:32] [Auto Clean Up] Old Thumbs: On
+[2018-01-11 14:32:33] 0 total thumbs cleaned up.
+[2018-01-11 14:32:33] [Auto Clean Up] Packages: On
+[2018-01-11 20:22:28] 2018-01-11 20:22:28.499640
+[2018-01-11 20:22:29] Continuing Start Up Script
+[2018-01-11 20:22:29] [Path Check] Started
+[2018-01-11 20:22:29] [Path Check] Good!
+[2018-01-11 20:22:29] [Auto Install Repo] Started
+[2018-01-11 20:22:29] [Auto Install Repo] Repository already installed
+[2018-01-11 20:22:29] [Auto Update Wizard] Started
+[2018-01-11 20:22:29] [Auto Update Wizard] Not Enabled
+[2018-01-11 20:22:29] [Notifications] Started
+[2018-01-11 20:22:29] [Notifications] id[1] Dismissed
+[2018-01-11 20:22:29] [Installed Check] Started
+[2018-01-11 20:22:29] [Installed Check] Not Enabled
+[2018-01-11 20:22:29] [Build Check] Started
+[2018-01-11 20:22:29] [Trakt Data] Started
+[2018-01-11 20:22:29] [Trakt Data] Not Enabled
+[2018-01-11 20:22:29] [Real Debrid Data] Started
+[2018-01-11 20:22:29] [Real Debrid Data] Not Enabled
+[2018-01-11 20:22:29] [Login Data] Started
+[2018-01-11 20:22:29] [Login Data] Not Enabled
+[2018-01-11 20:22:29] [Auto Clean Up] Started
+[2018-01-11 20:22:29] [Auto Clean Up] Cache: On
+[2018-01-11 20:22:29] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-11 20:22:29] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-11 20:22:29] Ignore Log File: kodi.log
+[2018-01-11 20:22:29] Ignore Log File: kodi.old.log
+[2018-01-11 20:22:29] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-11 20:22:29] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-11 20:22:29] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-11 20:22:29] [Auto Clean Up] Old Thumbs: On
+[2018-01-11 20:22:29] 0 total thumbs cleaned up.
+[2018-01-11 20:22:29] [Auto Clean Up] Packages: On
+[2018-01-11 20:46:02] 2018-01-11 20:46:02.075155
+[2018-01-11 20:46:03] Continuing Start Up Script
+[2018-01-11 20:46:03] [Path Check] Started
+[2018-01-11 20:46:03] [Path Check] Good!
+[2018-01-11 20:46:03] [Auto Install Repo] Started
+[2018-01-11 20:46:03] [Auto Install Repo] Repository already installed
+[2018-01-11 20:46:03] [Auto Update Wizard] Started
+[2018-01-11 20:46:03] [Auto Update Wizard] Not Enabled
+[2018-01-11 20:46:03] [Notifications] Started
+[2018-01-11 20:46:03] [Notifications] id[1] Dismissed
+[2018-01-11 20:46:03] [Installed Check] Started
+[2018-01-11 20:46:03] [Installed Check] Not Enabled
+[2018-01-11 20:46:03] [Build Check] Started
+[2018-01-11 20:46:03] [Trakt Data] Started
+[2018-01-11 20:46:03] [Trakt Data] Not Enabled
+[2018-01-11 20:46:03] [Real Debrid Data] Started
+[2018-01-11 20:46:03] [Real Debrid Data] Not Enabled
+[2018-01-11 20:46:03] [Login Data] Started
+[2018-01-11 20:46:03] [Login Data] Not Enabled
+[2018-01-11 20:46:03] [Auto Clean Up] Started
+[2018-01-11 20:46:03] [Auto Clean Up] Cache: On
+[2018-01-11 20:46:03] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-11 20:46:03] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-11 20:46:03] Ignore Log File: kodi.log
+[2018-01-11 20:46:03] Ignore Log File: kodi.old.log
+[2018-01-11 20:46:03] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-11 20:46:03] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-11 20:46:03] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-11 20:46:03] [Auto Clean Up] Old Thumbs: On
+[2018-01-11 20:46:03] 0 total thumbs cleaned up.
+[2018-01-11 20:46:03] [Auto Clean Up] Packages: On
+[2018-01-12 13:15:23] 2018-01-12 13:15:23.177680
+[2018-01-12 13:15:24] Continuing Start Up Script
+[2018-01-12 13:15:24] [Path Check] Started
+[2018-01-12 13:15:24] [Path Check] Good!
+[2018-01-12 13:15:24] [Auto Install Repo] Started
+[2018-01-12 13:15:24] [Auto Install Repo] Repository already installed
+[2018-01-12 13:15:24] [Auto Update Wizard] Started
+[2018-01-12 13:15:24] [Auto Update Wizard] Not Enabled
+[2018-01-12 13:15:24] [Notifications] Started
+[2018-01-12 13:15:24] [Notifications] id[1] Dismissed
+[2018-01-12 13:15:24] [Installed Check] Started
+[2018-01-12 13:15:24] [Installed Check] Not Enabled
+[2018-01-12 13:15:24] [Build Check] Started
+[2018-01-12 13:15:24] [Trakt Data] Started
+[2018-01-12 13:15:24] [Trakt Data] Not Enabled
+[2018-01-12 13:15:24] [Real Debrid Data] Started
+[2018-01-12 13:15:24] [Real Debrid Data] Not Enabled
+[2018-01-12 13:15:24] [Login Data] Started
+[2018-01-12 13:15:24] [Login Data] Not Enabled
+[2018-01-12 13:15:24] [Auto Clean Up] Started
+[2018-01-12 13:15:24] [Auto Clean Up] Cache: On
+[2018-01-12 13:15:24] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-12 13:15:24] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-12 13:15:24] Ignore Log File: kodi.log
+[2018-01-12 13:15:24] Ignore Log File: kodi.old.log
+[2018-01-12 13:15:24] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-12 13:15:24] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-12 13:15:24] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-12 13:15:24] [Auto Clean Up] Old Thumbs: On
+[2018-01-12 13:15:24] 0 total thumbs cleaned up.
+[2018-01-12 13:15:24] [Auto Clean Up] Packages: On
+[2018-01-12 14:20:06] 2018-01-12 14:20:06.890235
+[2018-01-12 14:20:07] Continuing Start Up Script
+[2018-01-12 14:20:07] [Path Check] Started
+[2018-01-12 14:20:07] [Path Check] Good!
+[2018-01-12 14:20:07] [Auto Install Repo] Started
+[2018-01-12 14:20:07] [Auto Install Repo] Repository already installed
+[2018-01-12 14:20:07] [Auto Update Wizard] Started
+[2018-01-12 14:20:07] [Auto Update Wizard] Not Enabled
+[2018-01-12 14:20:07] [Notifications] Started
+[2018-01-12 14:20:08] [Notifications] id[1] Dismissed
+[2018-01-12 14:20:08] [Installed Check] Started
+[2018-01-12 14:20:08] [Installed Check] Not Enabled
+[2018-01-12 14:20:08] [Build Check] Started
+[2018-01-12 14:20:08] [Trakt Data] Started
+[2018-01-12 14:20:08] [Trakt Data] Not Enabled
+[2018-01-12 14:20:08] [Real Debrid Data] Started
+[2018-01-12 14:20:08] [Real Debrid Data] Not Enabled
+[2018-01-12 14:20:08] [Login Data] Started
+[2018-01-12 14:20:08] [Login Data] Not Enabled
+[2018-01-12 14:20:08] [Auto Clean Up] Started
+[2018-01-12 14:20:08] [Auto Clean Up] Cache: On
+[2018-01-12 14:20:08] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-12 14:20:08] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-12 14:20:08] Ignore Log File: kodi.log
+[2018-01-12 14:20:08] Ignore Log File: kodi.old.log
+[2018-01-12 14:20:08] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-12 14:20:08] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-12 14:20:08] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-12 14:20:08] [Auto Clean Up] Old Thumbs: On
+[2018-01-12 14:20:08] 0 total thumbs cleaned up.
+[2018-01-12 14:20:08] [Auto Clean Up] Packages: On
+[2018-01-13 02:17:43] 2018-01-13 02:17:43.897081
+[2018-01-13 02:17:44] Continuing Start Up Script
+[2018-01-13 02:17:44] [Path Check] Started
+[2018-01-13 02:17:45] [Path Check] Good!
+[2018-01-13 02:17:45] [Auto Install Repo] Started
+[2018-01-13 02:17:45] [Auto Install Repo] Repository already installed
+[2018-01-13 02:17:45] [Auto Update Wizard] Started
+[2018-01-13 02:17:45] [Auto Update Wizard] Not Enabled
+[2018-01-13 02:17:45] [Notifications] Started
+[2018-01-13 02:17:45] [Notifications] id[1] Dismissed
+[2018-01-13 02:17:45] [Installed Check] Started
+[2018-01-13 02:17:45] [Installed Check] Not Enabled
+[2018-01-13 02:17:45] [Build Check] Started
+[2018-01-13 02:17:45] [Trakt Data] Started
+[2018-01-13 02:17:45] [Trakt Data] Not Enabled
+[2018-01-13 02:17:45] [Real Debrid Data] Started
+[2018-01-13 02:17:45] [Real Debrid Data] Not Enabled
+[2018-01-13 02:17:45] [Login Data] Started
+[2018-01-13 02:17:45] [Login Data] Not Enabled
+[2018-01-13 02:17:45] [Auto Clean Up] Started
+[2018-01-13 02:17:45] [Auto Clean Up] Cache: On
+[2018-01-13 02:17:45] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-13 02:17:45] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-13 02:17:45] Ignore Log File: kodi.log
+[2018-01-13 02:17:45] Ignore Log File: kodi.old.log
+[2018-01-13 02:17:45] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-13 02:17:45] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-13 02:17:45] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-13 02:17:45] [Auto Clean Up] Old Thumbs: On
+[2018-01-13 02:17:45] 0 total thumbs cleaned up.
+[2018-01-13 02:17:45] [Auto Clean Up] Packages: On
+[2018-01-13 14:08:58] 2018-01-13 14:08:57.981784
+[2018-01-13 14:08:59] Continuing Start Up Script
+[2018-01-13 14:08:59] [Path Check] Started
+[2018-01-13 14:08:59] [Path Check] Good!
+[2018-01-13 14:08:59] [Auto Install Repo] Started
+[2018-01-13 14:08:59] [Auto Install Repo] Repository already installed
+[2018-01-13 14:08:59] [Auto Update Wizard] Started
+[2018-01-13 14:08:59] [Auto Update Wizard] Not Enabled
+[2018-01-13 14:08:59] [Notifications] Started
+[2018-01-13 14:08:59] [Notifications] id[1] Dismissed
+[2018-01-13 14:08:59] [Installed Check] Started
+[2018-01-13 14:08:59] [Installed Check] Not Enabled
+[2018-01-13 14:08:59] [Build Check] Started
+[2018-01-13 14:08:59] [Trakt Data] Started
+[2018-01-13 14:08:59] [Trakt Data] Not Enabled
+[2018-01-13 14:08:59] [Real Debrid Data] Started
+[2018-01-13 14:08:59] [Real Debrid Data] Not Enabled
+[2018-01-13 14:08:59] [Login Data] Started
+[2018-01-13 14:08:59] [Login Data] Not Enabled
+[2018-01-13 14:08:59] [Auto Clean Up] Started
+[2018-01-13 14:08:59] [Auto Clean Up] Cache: On
+[2018-01-13 14:08:59] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-13 14:08:59] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-13 14:08:59] Ignore Log File: kodi.log
+[2018-01-13 14:08:59] Ignore Log File: kodi.old.log
+[2018-01-13 14:08:59] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-13 14:08:59] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-13 14:08:59] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-13 14:08:59] [Auto Clean Up] Old Thumbs: On
+[2018-01-13 14:08:59] 0 total thumbs cleaned up.
+[2018-01-13 14:08:59] [Auto Clean Up] Packages: On
+[2018-01-13 21:49:01] 2018-01-13 21:49:01.869721
+[2018-01-13 21:49:02] Continuing Start Up Script
+[2018-01-13 21:49:02] [Path Check] Started
+[2018-01-13 21:49:02] [Path Check] Good!
+[2018-01-13 21:49:02] [Auto Install Repo] Started
+[2018-01-13 21:49:02] [Auto Install Repo] Repository already installed
+[2018-01-13 21:49:02] [Auto Update Wizard] Started
+[2018-01-13 21:49:02] [Auto Update Wizard] Not Enabled
+[2018-01-13 21:49:02] [Notifications] Started
+[2018-01-13 21:49:03] [Notifications] id[1] Dismissed
+[2018-01-13 21:49:03] [Installed Check] Started
+[2018-01-13 21:49:03] [Installed Check] Not Enabled
+[2018-01-13 21:49:03] [Build Check] Started
+[2018-01-13 21:49:03] [Trakt Data] Started
+[2018-01-13 21:49:03] [Trakt Data] Not Enabled
+[2018-01-13 21:49:03] [Real Debrid Data] Started
+[2018-01-13 21:49:03] [Real Debrid Data] Not Enabled
+[2018-01-13 21:49:03] [Login Data] Started
+[2018-01-13 21:49:03] [Login Data] Not Enabled
+[2018-01-13 21:49:03] [Auto Clean Up] Started
+[2018-01-13 21:49:03] [Auto Clean Up] Cache: On
+[2018-01-13 21:49:03] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-13 21:49:03] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-13 21:49:03] Ignore Log File: kodi.log
+[2018-01-13 21:49:03] Ignore Log File: kodi.old.log
+[2018-01-13 21:49:03] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-13 21:49:03] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-13 21:49:03] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-13 21:49:03] [Auto Clean Up] Old Thumbs: On
+[2018-01-13 21:49:03] 0 total thumbs cleaned up.
+[2018-01-13 21:49:03] [Auto Clean Up] Packages: On
+[2018-01-14 02:20:32] 2018-01-14 02:20:32.357666
+[2018-01-14 02:20:33] Continuing Start Up Script
+[2018-01-14 02:20:33] [Path Check] Started
+[2018-01-14 02:20:33] [Path Check] Good!
+[2018-01-14 02:20:33] [Auto Install Repo] Started
+[2018-01-14 02:20:33] [Auto Install Repo] Repository already installed
+[2018-01-14 02:20:33] [Auto Update Wizard] Started
+[2018-01-14 02:20:33] [Auto Update Wizard] Not Enabled
+[2018-01-14 02:20:33] [Notifications] Started
+[2018-01-14 02:20:33] [Notifications] id[1] Dismissed
+[2018-01-14 02:20:33] [Installed Check] Started
+[2018-01-14 02:20:33] [Installed Check] Not Enabled
+[2018-01-14 02:20:33] [Build Check] Started
+[2018-01-14 02:20:33] [Trakt Data] Started
+[2018-01-14 02:20:33] [Trakt Data] Not Enabled
+[2018-01-14 02:20:33] [Real Debrid Data] Started
+[2018-01-14 02:20:33] [Real Debrid Data] Not Enabled
+[2018-01-14 02:20:33] [Login Data] Started
+[2018-01-14 02:20:33] [Login Data] Not Enabled
+[2018-01-14 02:20:33] [Auto Clean Up] Started
+[2018-01-14 02:20:33] [Auto Clean Up] Cache: On
+[2018-01-14 02:20:33] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-14 02:20:33] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-14 02:20:33] Ignore Log File: kodi.log
+[2018-01-14 02:20:33] Ignore Log File: kodi.old.log
+[2018-01-14 02:20:33] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-14 02:20:33] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-14 02:20:33] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-14 02:20:33] [Auto Clean Up] Old Thumbs: On
+[2018-01-14 02:20:33] 0 total thumbs cleaned up.
+[2018-01-14 02:20:33] [Auto Clean Up] Packages: On
+[2018-01-14 14:48:57] 2018-01-14 14:48:57.910360
+[2018-01-14 14:48:58] Continuing Start Up Script
+[2018-01-14 14:48:58] [Path Check] Started
+[2018-01-14 14:48:58] [Path Check] Good!
+[2018-01-14 14:48:58] [Auto Install Repo] Started
+[2018-01-14 14:48:58] [Auto Install Repo] Repository already installed
+[2018-01-14 14:48:58] [Auto Update Wizard] Started
+[2018-01-14 14:48:58] [Auto Update Wizard] Not Enabled
+[2018-01-14 14:48:58] [Notifications] Started
+[2018-01-14 14:48:59] [Notifications] id[1] Dismissed
+[2018-01-14 14:48:59] [Installed Check] Started
+[2018-01-14 14:48:59] [Installed Check] Not Enabled
+[2018-01-14 14:48:59] [Build Check] Started
+[2018-01-14 14:48:59] [Trakt Data] Started
+[2018-01-14 14:48:59] [Trakt Data] Not Enabled
+[2018-01-14 14:48:59] [Real Debrid Data] Started
+[2018-01-14 14:48:59] [Real Debrid Data] Not Enabled
+[2018-01-14 14:48:59] [Login Data] Started
+[2018-01-14 14:48:59] [Login Data] Not Enabled
+[2018-01-14 14:48:59] [Auto Clean Up] Started
+[2018-01-14 14:48:59] [Auto Clean Up] Cache: On
+[2018-01-14 14:48:59] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-14 14:48:59] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-14 14:48:59] Ignore Log File: kodi.log
+[2018-01-14 14:48:59] Ignore Log File: kodi.old.log
+[2018-01-14 14:48:59] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-14 14:48:59] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-14 14:48:59] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-14 14:48:59] [Auto Clean Up] Old Thumbs: On
+[2018-01-14 14:48:59] 0 total thumbs cleaned up.
+[2018-01-14 14:48:59] [Auto Clean Up] Packages: On
+[2018-01-15 02:56:35] 2018-01-15 02:56:35.422996
+[2018-01-15 02:56:36] Continuing Start Up Script
+[2018-01-15 02:56:36] [Path Check] Started
+[2018-01-15 02:56:36] [Path Check] Good!
+[2018-01-15 02:56:36] [Auto Install Repo] Started
+[2018-01-15 02:56:36] [Auto Install Repo] Repository already installed
+[2018-01-15 02:56:36] [Auto Update Wizard] Started
+[2018-01-15 02:56:36] [Auto Update Wizard] Not Enabled
+[2018-01-15 02:56:36] [Notifications] Started
+[2018-01-15 02:56:37] [Notifications] id[1] Dismissed
+[2018-01-15 02:56:37] [Installed Check] Started
+[2018-01-15 02:56:37] [Installed Check] Not Enabled
+[2018-01-15 02:56:37] [Build Check] Started
+[2018-01-15 02:56:37] [Trakt Data] Started
+[2018-01-15 02:56:37] [Trakt Data] Not Enabled
+[2018-01-15 02:56:37] [Real Debrid Data] Started
+[2018-01-15 02:56:37] [Real Debrid Data] Not Enabled
+[2018-01-15 02:56:37] [Login Data] Started
+[2018-01-15 02:56:37] [Login Data] Not Enabled
+[2018-01-15 02:56:37] [Auto Clean Up] Started
+[2018-01-15 02:56:37] [Auto Clean Up] Cache: On
+[2018-01-15 02:56:37] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-15 02:56:37] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-15 02:56:37] Ignore Log File: kodi.log
+[2018-01-15 02:56:37] Ignore Log File: kodi.old.log
+[2018-01-15 02:56:37] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-15 02:56:37] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-15 02:56:37] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-15 02:56:37] [Auto Clean Up] Old Thumbs: On
+[2018-01-15 02:56:37] 0 total thumbs cleaned up.
+[2018-01-15 02:56:37] [Auto Clean Up] Packages: On
+[2018-01-15 12:38:14] 2018-01-15 12:38:14.238326
+[2018-01-15 12:38:15] Continuing Start Up Script
+[2018-01-15 12:38:15] [Path Check] Started
+[2018-01-15 12:38:15] [Path Check] Good!
+[2018-01-15 12:38:15] [Auto Install Repo] Started
+[2018-01-15 12:38:15] [Auto Install Repo] Repository already installed
+[2018-01-15 12:38:15] [Auto Update Wizard] Started
+[2018-01-15 12:38:15] [Auto Update Wizard] Not Enabled
+[2018-01-15 12:38:15] [Notifications] Started
+[2018-01-15 12:38:15] [Notifications] id[1] Dismissed
+[2018-01-15 12:38:15] [Installed Check] Started
+[2018-01-15 12:38:15] [Installed Check] Not Enabled
+[2018-01-15 12:38:15] [Build Check] Started
+[2018-01-15 12:38:15] [Trakt Data] Started
+[2018-01-15 12:38:15] [Trakt Data] Not Enabled
+[2018-01-15 12:38:15] [Real Debrid Data] Started
+[2018-01-15 12:38:15] [Real Debrid Data] Not Enabled
+[2018-01-15 12:38:15] [Login Data] Started
+[2018-01-15 12:38:15] [Login Data] Not Enabled
+[2018-01-15 12:38:15] [Auto Clean Up] Started
+[2018-01-15 12:38:15] [Auto Clean Up] Cache: On
+[2018-01-15 12:38:15] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache 
+[2018-01-15 12:38:15] [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache 
+[2018-01-15 12:38:15] Ignore Log File: kodi.log
+[2018-01-15 12:38:15] Ignore Log File: kodi.old.log
+[2018-01-15 12:38:15] [Wiped] /home/aba/.kodi/temp/commoncache.socket
+[2018-01-15 12:38:15] [Wiped] /home/aba/.kodi/temp/commoncache.db
+[2018-01-15 12:38:15] [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+[2018-01-15 12:38:15] [Auto Clean Up] Old Thumbs: On
+[2018-01-15 12:38:15] 0 total thumbs cleaned up.
+[2018-01-15 12:38:15] [Auto Clean Up] Packages: On

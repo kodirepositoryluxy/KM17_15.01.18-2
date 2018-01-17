@@ -1,0 +1,6 @@
+#EXTINF:-1 tvg-logo="0210.png",[COLOR orange]RTS 1[/COLOR]
+9:enc9uni_ch@191320
+#EXTINF:-1 tvg-logo="0212.png",[COLOR orange]RTS 2[/COLOR]
+10:enc10uni_ch@191367
+#EXTINF:-1 tvg-logo="rtsi.png",[COLOR orangered]RTS Info[/COLOR]
+11:enc11uni_ch@191455

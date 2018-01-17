@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+    <id>altadefinizionehd</id>
+    <name>AltadefinizioneHD</name>
+
+    <active>true</active>
+    <adult>false</adult>
+    <language>it</language>
+
+    <fanart></fanart>
+    <thumbnail>http://altadefinizionehd.com/wp-content/uploads/2015/09/logo-1.png</thumbnail>
+    <bannermenu>http://altadefinizionehd.com/wp-content/uploads/2015/09/logo-1.png</bannermenu>
+
+    <update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/channels/</update_url>
+    <version>2</version>
+    <date>25/05/2017</date>
+    <changes>Addes newest e cambiata visualizzazione dei servers</changes>
+
+    <categories>
+        <category>movie</category>
+    </categories>
+
+ 	<settings>
+		<id>include_in_global_search</id>
+		<type>bool</type>
+		<label>Includi ricerca globale</label>
+		<default>true</default>
+		<enabled>true</enabled>
+		<visible>true</visible>
+	</settings>
+
+    <settings>
+		<id>include_in_newest_peliculas</id>
+		<type>bool</type>
+		<label>Includi in novità - film</label>
+		<default>true</default>
+		<enabled>true</enabled>
+		<visible>true</visible>
+	</settings>
+</channel>

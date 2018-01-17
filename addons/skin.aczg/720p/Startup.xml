@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<onload>CancelAlarm(ShutdownInProgressCancelIfNotWorking,silent)</onload>
+	<onload>ClearProperty(ShutdownInProgressText,home)</onload>
+	<onload>ReplaceWindow($INFO[System.StartupWindow])</onload>
+	<controls></controls>
+</window>

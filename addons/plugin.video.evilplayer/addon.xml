@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.evilplayer" 
+	     name="[COLOR red][B] Evil Player [/COLOR][/B]" 
+	     version="1.0"
+	     provider-name="By Stefano e Doc">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="plugin.video.f4mTester" version="2.7.1"/>
+    <import addon="script.module.urlresolver" version="3.0.26"/>
+    <import addon="script.module.liveresolver" version="0.1.48"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>video</provides>
+  </extension> 
+  <extension point="xbmc.addon.metadata">
+    <platform>all</platform>
+    <summary lang="en">Support: </summary>
+    <description lang="en">Riproduce una serie di estensioni di file diversi tramite URL.</description>
+    <disclaimer lang="en">Play ts, m3u, m3u8, mp4, mkv E molto di più!</disclaimer>
+    <language></language>
+    <platform>all</platform>
+    <license></license>
+    <forum></forum>
+    <website></website>
+    <email></email>
+  </extension>
+</addon>

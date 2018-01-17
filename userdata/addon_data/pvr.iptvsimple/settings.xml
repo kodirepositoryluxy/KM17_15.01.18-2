@@ -1,0 +1,20 @@
+<settings>
+    <setting id="epgCache" value="true" />
+    <setting id="epgPath" value="/home/androidaba/.kodi/userdata/addon_data/plugin.video.israelive/guide.xml" />
+    <setting id="epgPathType" value="1" />
+    <setting id="epgTSOverride" value="false" />
+    <setting id="epgTimeShift" value="0.000000" />
+    <setting id="epgUrl" value="http://www.epg-guide.com/it.gz" />
+    <setting id="logoBaseUrl" value="http://bit.ly/qdrm3u" />
+    <setting id="logoFromEpg" value="0" />
+    <setting id="logoPath" value="" />
+    <setting id="logoPathType" value="1" />
+    <setting id="m3uCache" value="true" />
+    <setting id="m3uPath" value="/home/androidaba/.kodi/userdata/addon_data/plugin.video.israelive/iptv.m3u" />
+    <setting id="m3uPathType" value="1" />
+    <setting id="m3uUrl" value="http://bit.ly/qdrm3u" />
+    <setting id="sep1" value="" />
+    <setting id="sep2" value="" />
+    <setting id="sep3" value="" />
+    <setting id="startNum" value="1" />
+</settings>

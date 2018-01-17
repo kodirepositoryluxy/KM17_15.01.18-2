@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>megavideo</id>
+	<name>megavideo.one</name>
+
+	<active>true</active>
+	<adult>false</adult>
+	<language>it</language>
+
+	<fanart></fanart>
+	<thumbnail>https://www.megavideo.one/wp-content/uploads/2017/07/1_Primary_logo_on_transparent_254x63-e1501370586369.png</thumbnail>
+	<bannermenu>https://www.megavideo.one/wp-content/uploads/2017/07/1_Primary_logo_on_transparent_254x63-e1501370586369.png</bannermenu>
+
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/channels/</update_url>
+	<version>1</version>
+	<date>06/12/2017</date>
+	<changes>new channel</changes>
+
+	<categories>
+		<category>movie</category>
+		<category>top channels</category>
+	</categories>
+
+	<settings>
+		<id>include_in_global_search</id>
+		<type>bool</type>
+		<label>Includi ricerca globale</label>
+		<default>true</default>
+		<enabled>true</enabled>
+		<visible>true</visible>
+	</settings>
+</channel>

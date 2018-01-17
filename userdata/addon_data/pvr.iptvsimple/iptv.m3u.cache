@@ -1,0 +1,1210 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" group-title="RAI HD" tvg-logo="http://www.rai.it/dl/img/2016/09/1473429803381logo-rai1-2016.png",Rai 1 HD
+http://bit.ly/rai1qdr
+
+#EXTINF:-1 tvg-id="" group-title="RAI HD" tvg-logo="http://www.rai.it/dl/img/2016/09/1473149101555logo-rai2-2016.png",Rai 2 HD
+http://bit.ly/rai2qdr
+
+#EXTINF:-1 tvg-id="" group-title="RAI HD" tvg-logo="http://www.rai.it/dl/img/2016/09/1473429907779logo-rai3-2016.png",Rai 3 HD
+http://bit.ly/rai3qdr
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Rete_4.svg/100px-Rete_4.svg.png",Rete 4
+http://bit.ly/rete4qdr
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ae/Canale_5.svg/200px-Canale_5.svg.png",Canale 5
+http://bit.ly/canale5qdr
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/200px-Logo_Italia_1.svg.png",Italia 1
+http://bit.ly/italia1qdr
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="http://www.la7.it/sites/default/files/la7_logo_0102_def.png",La7
+http://bit.ly/la7qdr
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="https://upload.wikimedia.org/wikipedia/it/d/de/TV8_Logo_2016.png",TV8
+http://par-1.ml/hls/36b35538-7b62-fedb-14ed-efbb87852f8e.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0f/NOVE_TV_logo_2017.png/200px-NOVE_TV_logo_2017.png",Nove
+http://par-1.ml/hls/59c39cf8-3388-ebfc-1dcd-d660c566f7c0.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/SkyTg24.png/240px-SkyTg24.png",Sky Tg24
+http://skyianywhere2-i.akamaihd.net/hls/live/200275/tg24/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="http://www.realtimetv.it/wp-content/themes/wp-theme-real-time-italy/img/logo.png",Real Time
+http://kepleriptv.cechire.org:15003/live/SSLazio1900pa/g2PVYfz4xR/529.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3e/DMAX_Italia_Logo_2015.png/255px-DMAX_Italia_Logo_2015.png",DMAX
+http://supervip.mine.nu:36000/live/Benedetto/B2SzYMmjbs/3819.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="http://www.rai.it/dl/img/2016/09/1473430014865logo-rai4-2016.png",Rai 4
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="http://imgr.video.mediaset.it/bin/396.$plit/C_2_channel_14_upImg.png",Iris
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH06HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="http://www.rai.it/dl/img/2017/04/04/1491313066406_logo_rai5.png",Rai 5
+http://b2everyrai-lh.akamaihd.net/i/rai5_1@182695/index_1800_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="http://www.rai.it/dl/img/2017/04/05/1491407722487_logo-raimovie2x.png",Rai Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/index_1800_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="http://www.rai.it/dl/img/2017/04/05/1491399851219_logo-raipremium2x.png",Rai Premium
+http://b2everyrai-lh.akamaihd.net/i/raipremium_1@181837/index_1800_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="http://nst.sky.it/etc/designs/skycielo/images/logo.png",Cielo
+http://skyianywhere2-i.akamaihd.net/hls/live/216865/cielo/stream2/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/3b/Paramount_Channel_logo.svg/160px-Paramount_Channel_logo.svg.png",Paramount Channel
+http://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@195657/index_2500_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/0d/Logo_tv2000_2015.svg/220px-Logo_tv2000_2015.svg.png",TV2000
+http://cld01ibi16.wz.tv2000.it/tv2000_alfa.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="http://imgr.video.mediaset.it/bin/615.$plit/C_2_channel_17_upImg.png",La5
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH04HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="https://www.qvc.it/etc/designs/qvc-commerce/clientlib/qvc-ui/images/logo.png",QVC
+http://qvcitalia.mmdlive.lldns.net/qvcitalia/66f8359ae9c046bb8aa92144511b450a/manifest.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="http://imgr.video.mediaset.it/bin/744.$plit/C_2_channel_18_upImg.png",Mediaset Extra
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH09HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="http://imgr.video.mediaset.it/bin/963.$plit/C_2_channel_15_upImg.png",Italia 2
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH05HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Euronews_2016_logo.svg/250px-Euronews_2016_logo.svg.png",Euronews
+http://euronews-it-p-cdn.hexaglobe.net//21a840c0ec9d6dc8fbf36ceb27eb6349//594e7a70//euronews//euronews-euronews-website-web-responsive-2//ewnsabritpri_ita.smil//playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="http://img.rtl.it/www.rtl.it/img/header/logo_rtl.gif",RTL 102.5 TV
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/HSE24.svg/260px-HSE24.svg.png",HSE24
+rtmp://xapp1023574018c1000286.f.l.f.lb.core-cdn.net/1000286copo playpath=live/app1023574018/w1020002321/live_it_500 swfUrl=http://www.hse24.it/hse24/js/player.swf pageUrl=http://www.hse24.it/diretta-tv/ live=1 timeout=120
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="http://imgr.video.mediaset.it/bin/25.$plit/C_2_channel_28_upImg.png",Top Crime
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH07HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="http://www.raigulp.rai.it/dl/RaiGulp/2017/images/raigulp-logo-2017.png",Rai Gulp
+http://b2everyrai-lh.akamaihd.net/i/raigulp_1@66350/index_1800_av-b.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Rai_Yoyo_logo_2017.svg/260px-Rai_Yoyo_logo_2017.svg.png",Rai Yoyo
+http://b2everyrai-lh.akamaihd.net/i/raiyoyo_1@191405/index_1800_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d6/Logo_Rainews_it.svg/200px-Logo_Rainews_it.svg.png",Rai News
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET" tvg-logo="http://imgr.video.mediaset.it/bin/834.$plit/C_2_channel_34_upImg.png",Tgcom24 
+http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH10HA)/Stream(04)/index.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Rai_Storia_logo_2017.svg/260px-Rai_Storia_logo_2017.svg.png",Rai Storia
+http://everyrai-lh.akamaihd.net/i/raistoria_1@308058/index_900_av-p.m3u8
+
+#EXTINF:-1 tvg-id="Rai Sport 2" group-title="RAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rai_Sport_2017.svg/260px-Rai_Sport_2017.svg.png",Rai Sport+
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=4145
+
+#EXTINF:-1 tvg-id="Rai Sport 2" group-title="RAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Rai_Sport_2017.svg/260px-Rai_Sport_2017.svg.png",Rai Sport
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=179975
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/it/5/51/Radio_Italia_TV_Logo.png",Radio Italia Tv
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/01/105.png/180px-105.png",Radio 105 TV
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/78/Tele_Radio_Padre_Pio.png",Padre Pio TV
+https://56972e8bd3345.streamlock.net/TRPP_live/smil:bcffcc98-ac2f-4b73-b0a5-ad1bfb96d845_all.smil/chunklist_w1418321773_b227000_slita.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Rai_Scuola_logo_2017.svg/260px-Rai_Scuola_logo_2017.svg.png",Rai Scuola
+http://everyrai-lh.akamaihd.net/i/raiscuola_1@177965/index_900_av-p.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2d/Logo_m2o_%282012%29.png/200px-Logo_m2o_%282012%29.png",M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/27/Monoscopio_Radio_Capital_TV.png/260px-Monoscopio_Radio_Capital_TV.png",Radio capital Tivù
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Tg_norba24.png/260px-Tg_norba24.png",TG Norba24
+rtmp://37.48.83.34:80/tgnorba_24/tgnorba_24_source.stream
+
+#EXTINF:-1 tvg-id="" group-title="LT MULTIMEDIA" tvg-logo="http://i.imgur.com/WuSwc2m.png",ALICE
+http://ltlive01.cloudapp.net/LT_CH_4plat296w.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="" group-title="LT MULTIMEDIA" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/e/e8/Marcopolo_Logo_2015.png/220px-Marcopolo_Logo_2015.png",MARCOPOLO
+http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Logo_R101_Wiki.jpg/250px-Logo_R101_Wiki.jpg",R101 TV
+http://hlslive.msf.ticdn.it/hls/CH10/live_Layer2.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="http://i.imgur.com/3I0ZFoj.png",Camera Dei Deputati
+rtsp://live.cdn2.streamago.tv/streamago/1919/812/?idcanale=812
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/73/Senato_TV.svg/100px-Senato_TV.svg.png",Senato TV
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="http://www.rai.it/dl/img/2016/09/1473429803381logo-rai1-2016.png",Rai 1
+http://149.100.19.146:8000/play/a00w
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="http://www.rai.it/dl/img/2016/09/1473149101555logo-rai2-2016.png",Rai 2
+http://149.100.19.146:8000/play/a00x
+
+#EXTINF:-1 tvg-id="" group-title="RAI" tvg-logo="http://www.rai.it/dl/img/2016/09/1473429907779logo-rai3-2016.png",Rai 3
+http://149.100.19.146:8000/play/a00y
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/28/Rete_4.svg/100px-Rete_4.svg.png",Rete 4 HD
+http://livecdn.bid:8080/live/oBwVnBKs2c/TSrCnXkY08/49.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/ae/Canale_5.svg/200px-Canale_5.svg.png",Canale 5 HD
+http://livecdn.bid:8080/live/oBwVnBKs2c/TSrCnXkY08/50.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MEDIASET HD" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/200px-Logo_Italia_1.svg.png",Italia 1 HD
+http://livecdn.bid:8080/live/oBwVnBKs2c/TSrCnXkY08/51.m3u8
+
+#EXTINF:-1 group-title="CREDITS" tvg-logo="http://i.imgur.com/eGcoFU4.png",[COLOR blue][B]Canali pay (solo per guida TV)[/B][/COLOR]
+http://bit.ly/qdrforumads
+
+#EXTINF:-1,  ======== SKY INTRATTENIMENTO ========
+
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Sky_Atlantic_HD_DE_Logo_2015.png/260px-Sky_Atlantic_HD_DE_Logo_2015.png", Sky Atlantic HD  
+http://bit.ly/qdrforumads
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",   tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/21/SkyUno2015.png/260px-SkyUno2015.png",Sky Uno HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/d/d3/Logo_Fox_Italia.png/260px-Logo_Fox_Italia.png", Fox HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/FOX_Life_%282017%29.png/200px-FOX_Life_%282017%29.png", Fox Life HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/2b/Fox_Crime_logo-1-.svg/260px-Fox_Crime_logo-1-.svg.png", Fox Crime HD
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/7/71/Fox_Animation_Logo_2015.png", Fox Animation
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/9f/Logo_Fox_Comedy_IT_2015.png/260px-Logo_Fox_Comedy_IT_2015.png", Fox Comedy HD  
+http://bit.ly/qdrforum
+
+#EXTINF:-1,>>>>>Sky Cinema<<<<<
+http://ksportiptv.com:1557/live/metti/metti/4219.ts
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Sky3D-IT-channel-plinth-RGB-3.png/260px-Sky3D-IT-channel-plinth-RGB-3.png", Sky 3D
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_cinema_hd_2016.png/280px-Sky_cinema_hd_2016.png", Sky Cinema 1
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_cinema_hd_2016.png/280px-Sky_cinema_hd_2016.png", Sky Cinema 1 +24 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_cinema_hd_2016.png/280px-Sky_cinema_hd_2016.png", Sky Cinema Hits HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_cinema_hd_2016.png/280px-Sky_cinema_hd_2016.png", Sky Cinema Family HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_cinema_hd_2016.png/280px-Sky_cinema_hd_2016.png", Sky Cinema Comedy HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_cinema_hd_2016.png/280px-Sky_cinema_hd_2016.png", Sky Cinema Max HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_cinema_hd_2016.png/280px-Sky_cinema_hd_2016.png", Sky Cinema Passion HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_cinema_hd_2016.png/280px-Sky_cinema_hd_2016.png", Sky Cinema Cult HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Sky_cinema_hd_2016.png/280px-Sky_cinema_hd_2016.png", Sky Cinema Classic HD  
+http://bit.ly/qdrforum
+
+#EXTINF:-1,>>>>>Premium Cinema<<<<<
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png", Premium Cinema 1 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png", Premium Cinema +24 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png",  Premium Cinema 2 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png", Premium Cinema 2 +24 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png", Premium Action HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png", Premium Action +24 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png", Premium Comedy HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png", Premium Energy HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png", Premium Energy +1
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png", Premium Cinema Emotion
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png", Premium Joi  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/b/b4/Premium_cinema_logo.png/220px-Premium_cinema_logo.png", Premium Joy +24
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/9a/Premium_Stories_Logo_2015.png/260px-Premium_Stories_Logo_2015.png", Premium Stories
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c6/Logo_Premium_Crime.png/220px-Logo_Premium_Crime.png",  Premium Crime HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/c/c6/Logo_Premium_Crime.png/220px-Logo_Premium_Crime.png", Premium Crime +24 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/260px-StudioUniversal2016.png", Premium Studio Universal
+http://bit.ly/qdrforum
+
+#EXTINF:-1,  ======== SKY SPORT ========
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/e/ef/Sky_Sport_24_HD_Logo_2015.png/240px-Sky_Sport_24_HD_Logo_2015.png", Sky Sport 24 HD 
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/9d/Skysport_LOGO.png/260px-Skysport_LOGO.png", Sky Sport 1 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/9d/Skysport_LOGO.png/260px-Skysport_LOGO.png", Sky Sport 2 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/9d/Skysport_LOGO.png/260px-Skysport_LOGO.png", Sky Sport 3 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/9/9d/Skysport_LOGO.png/260px-Skysport_LOGO.png", Sky Supercalcio HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/7/75/Interchannel_logo.png/250px-Interchannel_logo.png", Inter Channel
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Juventus_TV_2013_logo.jpg/260px-Juventus_TV_2013_logo.jpg", Juventus TV
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/0/04/Lazio_Style_Channel_2012.jpg/250px-Lazio_Style_Channel_2012.jpg", Lazio Style Channel
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/a/a5/Milan_Channel.gif/220px-Milan_Channel.gif", Milan TV
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="http://i.imgur.com/f9h2QdF.png", Roma TV
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/e/e0/Fox_Sports_Logo_2015.png/260px-Fox_Sports_Logo_2015.png", Fox Sports
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/0/05/Caccia_pesca.png", Caccia&Pesca
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/f/fd/Bike_Channel_Logo_2015.png", Sky Bike Channel
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/25/SkySportMotoGP.png/260px-SkySportMotoGP.png", Sky Sport MotoGP HD
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/62/SkySportFormula1.png/260px-SkySportFormula1.png", Sky Sport F1 HD 
+http://bit.ly/qdrforum
+
+#EXTINF:-1,  ======== SKY CALCIO ========
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="http://i.imgur.com/zrVTZkW.png", Sky Calcio 1 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="http://i.imgur.com/zrVTZkW.png", Sky Calcio 2 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="http://i.imgur.com/zrVTZkW.png", Sky Calcio 3 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="http://i.imgur.com/zrVTZkW.png", Sky Calcio 4 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="http://i.imgur.com/zrVTZkW.png", Sky Calcio 5 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="http://i.imgur.com/zrVTZkW.png", Sky Calcio 6 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="http://i.imgur.com/zrVTZkW.png", Sky Calcio 7  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="http://i.imgur.com/zrVTZkW.png", Sky Calcio 8  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="http://i.imgur.com/zrVTZkW.png", Sky Calcio 9  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", tvg-logo="http://i.imgur.com/zrVTZkW.png", Sky Calcio 10  
+http://bit.ly/qdrforum
+
+#EXTINF:-1,>>>>>SCIENZA<<<<<
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Premium Discovery World  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Discovery Channel HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Discovery Science HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Discovery Travel & Living HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  National Geographic HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Nat Geo People HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Nat Geo Wild HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Focus
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  History
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  AutoMoto TV
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Fishing Tv
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Animal Planet  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Dmax HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Gambero Rosso
+http://bit.ly/qdrforum
+
+#EXTINF:-1,>>>>>Cartoni<<<<<
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Boing
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  K2
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Cartoonito
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Frisbee
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Super!
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  MAN-GA
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Disney XD
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Disney Junior
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Disney Channel HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Cartoon Network
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  BABY TV
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Cartoon Network
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Dea Kids
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Disney Channel HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Disney Junior
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Nick Junior
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Nickelodeon
+http://bit.ly/qdrforum
+
+#EXTINF:-1, ======== SKY PRIMAFILA ========
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 1 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 2 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 3 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 4 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 5 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 6 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 7 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 8 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 9 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 10 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 11 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 12 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 13 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 14 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 15 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 16 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 17 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 18 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)", Prima Fila 19 LIVE
+http://bit.ly/qdrforum
+#EXTINF:-1,  ======== MEDIASET PREMIUM SPORT ========
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Premium Sport HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Premium sport 2 HD  
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Premium Calcio 1
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Premium Calcio 2
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Premium Calcio 3
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Premium Calcio 4
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Premium Calcio 5
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Premium Calcio 6
+http://bit.ly/qdrforum
+#EXTINF:-1 tvg-id="" group-title="PAY TV (Solo per guida)",  Premium Calcio 7
+http://bit.ly/qdrforum
+
+#EXTINF:-1, === LPC/Lega Pro Ch. ===
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Cosenza
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Fidelis Andria
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Foggia
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Info Channel
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Juve Stabia
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Lecce
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Livorno
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Melfi
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Messina
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Parma
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Piacenza
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Piacenza.
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Reggina
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Siracusa
+http://bit.ly/qdrforum
+#EXTINF:-1,   Lega Pro Taranto
+http://bit.ly/qdrforum
+#EXTINF:-1,  Lega Pro Catania
+http://bit.ly/qdrforum
+
+#EXTINF:-1 group-title="CREDITS" tvg-logo="http://i.imgur.com/eGcoFU4.png",[COLOR blue][B]ALTRI CANALI[/B][/COLOR]
+http://bit.ly/qdrforum
+
+#EXTINF:-1 group-title="NO CATEGORY" tvg-logo="1000.png",[COLOR green][B]         CANALI REGIONALI[/B][/COLOR]
+plugin://plugin.video.youtube/
+
+#EXTINF:-1 tvg-id="" group-title="ABRUZZO" tvg-logo="093.png",Rete 8 News 24
+rtsp://live.cdn2.streamago.tv/streamago/39648/33591/?idcanale=33591
+#EXTINF:-1 tvg-id="" group-title="ABRUZZO" tvg-logo="094.png",Rete 8 Sport
+rtsp://live.cdn2.streamago.tv/streamago/39648/36567/?idcanale=36567
+#EXTINF:-1 tvg-id="" group-title="ABRUZZO" tvg-logo="098.png",Rete8
+rtsp://live.cdn2.streamago.tv/streamago/39648/36568/?idcanale=36568
+
+#EXTINF:-1 tvg-id="" group-title="BASILICATA" tvg-logo="087.png",Lucania TV
+rtmp://wms.shared.streamshow.it:80/lucaniatv/lucaniatv
+
+#EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="100.png",Esperia TV
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="103.png",Castrovillari TV
+rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
+#EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="104.png",8 Video Calabria
+rtmp://wms.shared.streamshow.it:80/videocalabria/videocalabria
+#EXTINF:-1 tvg-id="" group-title="CALABRIA" tvg-logo="106.png",Tele Diogene
+http://wms.shared.streamshow.it:1935/telediogene/telediogene/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="112.png",Canale 8
+rtmp://wms.shared.streamshow.it:80/canale8/canale8
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="113.png",Telecolore
+http://xtcstelecoloresalernox.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="114.png",Tv Luna
+http://live.streamcaster.net:1935/test_live/teleluna/chunklist_w1578080865.m3u8
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="117.png",Televomero
+http://1se2.troydesign.eu:80/televomero/channel1_televomero/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="118.png",Julie Italia
+http://188.138.102.199:1935/julieitalia/julieitalia/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="121.png",Telenuova 2
+rtmp://54.228.254.95:1935/live/myStream
+#EXTINF:-1 tvg-id="" group-title="CAMPANIA" tvg-logo="122.png",Telenuova
+http://31.7.144.144:1935/telenuova/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="131.png",Tele Argento
+http://wms.shared.streamshow.it:1935/teleargento/teleargento/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="132.png",Nettuno TV
+http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="134.png",Radio Bruno TV
+rtmp://37.48.83.34:80/radiobrunotv/radiobrunotv
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="135.png",Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="136.png",Teleromagna News
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="137.png",Teleromagna Sport
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="138.png",Teleromagna Mia
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="139.png",Teleromagna Lifestyle
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="144.png",TeleStudio Modena
+rtmp://wms.shared.streamshow.it:80/telestudiomo/telestudiomo
+#EXTINF:-1 tvg-id="" group-title="EMILIA ROMAGNA" tvg-logo="145.png",Icaro Tv
+http://open.http.mp.streamamg.com/p/3000380/sp/300038000/playManifest/entryId/0_xgibi59e/format/applehttp/protocol/http/uiConfId/30011075/a.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="146.png",Company TV
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA-VENETO" tvg-logo="148.png",Antenna 3
+rtsp://live.cdn2.streamago.tv/streamago/34674/28723/?idcanale=28723
+#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="149.png",Telepordenone
+rtmp://213.187.12.18/telepn/telepn
+#EXTINF:-1 tvg-id="" group-title="FRIULI VENEZIA GIULIA" tvg-logo="150.png",Sportelevision
+http://37.59.17.33:1935/sportelevision_live/smil:channel.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="154.png",Teleitalia 41
+rtmp://live.flv.xuniplay.fdnames.com:1935/live/ playpath=centroserena swfUrl=http://centroserena.fabbricadigitale.it/player.swf pageUrl=http://www.centroserena.it/webtv.html live=1 timeout=120
+#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="155.png",Tuscia Sabina 2000
+rtmp://stream.ts2000tv.it/oflaDemo/ playpath=TusciaSabina2 swfUrl=http://ssl.p.jwpcdn.com/player/v/7.7.4/jwplayer.flash.swf pageUrl=http://ts2000tv.it/diretta/ live=1 timeout=120
+#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="161.png",Canale 10
+rtmp://37.187.142.147:1935/ch10live/high.stream 
+#EXTINF:-1 tvg-id="" group-title="LAZIO-TOSCANA" tvg-logo="163.png",TRG
+http://46.37.22.126:8134/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="123.png",Napoli Canale 21
+http://live.kronopress.com:1935/canale21_live/stream8/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LAZIO" tvg-logo="162.png",Retesole
+http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIGURIA" tvg-logo="166.png",Imperia TV
+http://ximperia-tvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LIGURIA" tvg-logo="167.png",Primocanale
+rtmp://msh0203.stream.seeweb.it/live/stream1.sdp
+#EXTINF:-1 tvg-id="" group-title="LIGURIA" tvg-logo="168.png",Teleliguria Sud
+rtmp://misty.infoporto.it:1935/play/tls
+#EXTINF:-1 tvg-id="" group-title="LIGURIA" tvg-logo="169.png",Telenord
+http://streamer.oodlz.it/hls/livestream.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="PIEMONTE" tvg-logo="176.png",QuartaRete
+http://sb.top-ix.org:1935/quartaretetv/quartareteweb/plyalist.m3u8
+#EXTINF:-1 tvg-id="" group-title="PIEMONTE" tvg-logo="327.png",QuartaRete Blu
+http://sb.top-ix.org:1935/quartaretetv/quartaretebluweb/plyalist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="181.png",TSN Livigno
+http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="182.png",TSN Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="183.png",Rete 55
+http://live.youiptv.ch:1935/Rete55/R55.stream_source/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="185.png",Video Brescia
+http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="186.png",Primarete Lombardia
+http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="187.png",Telecolor Lombardia
+http://telecolor.econcept.it/live/telecolor.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="188.png",Cremona 1 
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="189.png",Radio Number One TV
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="191.png",Telemonteve
+http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="192.png",Telemonteve 3
+http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="193.png",Teleunica Lecco
+http://flash3.ipercast.net/teleunica.tv-live/livestream1/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="194.png",Teleunica Sondrio
+http://flash3.ipercast.net/teleunica.tv-live/livestream2/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="195.png",TCI
+rtmp://tvcn3sz3vud.rtmphost.com/FMEWebViewer playpath=livestream swfUrl=http://infxapps.influxis.com/apps/jpfssa2ikiocdpy27bde/FMEWebViewer/FMEWebViewer.swf pageUrl=http://www.tci-italia.it/ live=1 timeout=1
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="196.png",Super Tv
+rtmp://wms.shared.streamshow.it:443/supertv/supertv
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="198.png",TeleBoario
+rtmp://flash7.streaming.xdevel.com:80/teleboario playpath=teleboario swfUrl=http://share.xdevel.com/api/lib/js/jwplayer5/player.swf pageUrl=http://share.xdevel.com/api/?platform=streamsolution&get=player&key=bdf8d1f1f4ae8b1534d6b59b86931927
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="199.png",Studio 1
+rtmp://91.121.222.160:1935/studiouno/studiouno.sdp 
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="201.png",Espansione TV
+http://espansione.meway.tv:80/live/espansione/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="203.png",TeleMantova
+rtmp://wma07.fluidstream.net:1935/TeleMantova/livestream
+#EXTINF:-1 tvg-id="" group-title="LOMBARDIA" tvg-logo="205.png",TeleMilano Piu' Blu
+rtmp://ondemand.superstreaming.it:1935/piublu/piublu.sdp
+
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="211.png",Tele Galatina
+rtmp://flash2.streaming.xdevel.com:80/telegalatina/telegalatina 
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="214.png",TeleBari
+rtmp://fl1.mediastreaming.it:1935/telebari/livestream
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="216.png",Antichita' Chiossone
+rtmp://tzvr73.live.cloud.influxis.com:1935/tzvr73/_definst_/acLive
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="217.png",Studio 100
+rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="219.png",Teleonda
+rtmp://wms.shared.streamshow.it:443/teleonda/teleonda
+#EXTINF:-1 tvg-id="" group-title="PUGLIA" tvg-logo="222.png",Canale 7
+rtmp://wms.shared.streamshow.it:80/canale7/canale7
+
+#EXTINF:-1 tvg-id="" group-title="SARDEGNA" tvg-logo="225.png",Radio Iglesias TV
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="SARDEGNA" tvg-logo="226.png",Telegi
+rtsp://live.cdn2.streamago.tv/streamago/31314/25470/?idcanale=25470
+#EXTINF:-1 tvg-id="" group-title="SARDEGNA" tvg-logo="229.png",Sassari Tv
+rtsp://live.cdn2.streamago.tv/streamago/22615/18731/?idcanale=18731
+#EXTINF:-1 tvg-id="" group-title="SARDEGNA" tvg-logo="230.png",VideoLina
+rtmp://178.33.229.111/live playpath=Videolina swfUrl=http://www.videolina.it/flash/flowplayer.commercial-3.2.11.swf pageUrl=http://www.videolina.it/live.html timeout=120 live=1
+
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="239.png",Radio Tivù Azzurra
+rtmp://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="240.png",Radio Universal TV
+rtmp://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="243.png",Radio Taormina TV
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="244.png",Telecolor
+rtmp://live.lasiciliaweb.it:1935/tg/tc
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="247.png",Tele Radio Sciacca
+rtmp://streamtv.level7.it:1935/teleradiosciacca-tv/teleradiosciacca-tv/teleradiosciacca-tv
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="252.png",Video Star TV
+rtmp://live1.kronopress.com:1935/videostar_live/videostar
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="253.png",Rtp TV
+rtmp://wms.shared.streamshow.it:80/rtp/rtp
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="258.png",C.T.S TV
+rtmp://vod1.kronopress.com:1935/cts_live/cts
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="261.png",Teleacras
+rtmp://streamtv.level7.it/teleacras-tv/teleacras-tv 
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="262.png",Onda tv
+rtmp://live.streamcaster.net:1935/ondatv_live/ondatv 
+#EXTINF:-1 tvg-id="" group-title="SICILIA" tvg-logo="263.png",Antenna Sicilia
+rtmp://live.lasiciliaweb.it:1935/tg/as 
+
+#EXTINF:-1 tvg-id="" group-title="TOSCANA" tvg-logo="268.png",Tele Argento
+rtmp://wms.shared.streamshow.it:1935/teleargento/teleargento
+#EXTINF:-1 tvg-id="" group-title="TOSCANA" tvg-logo="273.png",Siena TV
+rtmp://wz1.newradio.it:80/elena831/elena831
+#EXTINF:-1 tvg-id="" group-title="TOSCANA" tvg-logo="275.png",Televaldarno RTV38
+http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="UMBRIA-MARCHE" tvg-logo="276.png",Vera TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="278.png",Umbria TV
+rtmp://eventi.ictvalleumbra.it:1935/live/umbriatv.sdp
+#EXTINF:-1 tvg-id="" group-title="UMBRIA" tvg-logo="279.png",Retesole
+http://flash2.bsnewline.com:1935/retesolelazio/retesolelazio/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="287.png",Company Tv
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="288.png",Televenezia
+rtmp://flash2.streaming.xdevel.com:80/televenezia/televenezia
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="289.png",TeleVeneto
+rtmp://1se3.troydesign.eu:80/televeneto/channel1_televeneto
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="290.png",TeleChiara
+rtmp://fms.tvavicenza.it:1935/telechiara/diretta
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="292.png",VicenzaPiu TV
+rtmp://fms.vicenzapiu.tv:1935/vicenzapiutv/live
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="293.png",Cafe TV 24
+rtmp://srv3.meway.tv:1957/cafe/live
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="294.png",Tva Vicenza
+rtmp://fms.tvavicenza.it:1935/live/diretta_1
+#EXTINF:-1 tvg-id="" group-title="VENETO" tvg-logo="295.png",Rete Veneta
+http://streaming.reteveneta.it/RVApple.isml/manifest(format=m3u8-aapl).m3u8
+
+#EXTINF:-1 tvg-id="" group-title="Trentino Alto Adige" tvg-logo="302.png",Video 33
+http://livestream.goinfo.it/V33Live/v33ros/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="304.png",TVRS
+http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
+#EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="175.png",ETV Marche
+http://vs2.streamcaster.net:1935/etvmarche_live/etvmarche/hasbahca.m3u8
+#EXTINF:-1 tvg-id="" group-title="MARCHE" tvg-logo="227.png",Fano Tv
+http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="059.png",Ibiza TV
+http://wma10.fluidstream.net/RadioIbizaTV/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="308.png",kissKiss Napoli TV
+http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="309.png",KIssKiss TV
+http://wma05.fluidstream.net/KKMulti/livestream_600p/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="061.png",KissKiss Italia TV
+http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="062.png",TeleOLTRE
+rtmp://1se2.troydesign.eu:80/np_teleoltre/channel1_np_teleoltre
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="063.png",Automoto TV
+rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="068.png",Rtv San Marino
+
+
+#EXTINF:-1 tvg-id="RadionorbaTV.it" group-title="MUSIC TV" tvg-logo="072.png",Radionorba Tv
+rtmp://37.48.83.34:80/radionorbatv/norbatv_source.stream 
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="073.png",UniNettuno University TV
+http://stream6.rai.it/live/smil:uninettuno.smil/chunklist_b900000.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="074.png", Virgin Tv
+http://fms.105.net:1935/live/virgin1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="076.png",Radio Montecarlo TV
+http://fms.105.net:1935/live/rmc1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="VARI" tvg-logo="077.png",Repubblica TV
+http://repvideo_1-lh.akamaihd.net/i/Studio1_1@183089/master.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="080.png",FORMUSIC TV
+http://sb.top-ix.org:1935/quartaretetv/formusicweb/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" group-title="MUSIC TV" tvg-logo="081.png",Rock TV
+mmsh://mediatv2.topix.it/24RockOne66
+
+#EXTINF:-1 tvg-id="" group-title="METEO" tvg-logo="082.png",Il Meteo.It Oggi
+http://media.ilmeteo.it/video/iphone/oggi.m4v
+
+#EXTINF:-1 tvg-id="" group-title="METEO" tvg-logo="084.png",Il Meteo.It Domani
+http://media.ilmeteo.it/video/iphone/domani.m4v
+
+#EXTINF:-1 tvg-id="" group-title="METEO" tvg-logo="083.png",Il Meteo.It Dopodomani
+http://media.ilmeteo.it/video/iphone/dopodomani.m4v
+
+#EXTINF:-1 ,::: CANALI PANDASAT :::
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1 ,Luna Sport
+http://vs2.streamcaster.net:1935/test_live/lunasport/playlist.m3u8
+#EXTINF:-1 ,Teleromagna Sport
+http://livetr.teleromagna.it/sport/live/playlist.m3u8
+#EXTINF:-1 ,Automoto Tv
+rtmp://178.22.187.253:1935/streaming-tv/mp4:myStream3
+#EXTINF:-1 ,Canale 65 Sport
+http://178.22.187.253:1935/streaming-tv/smil:65sport.smil/playlist.m3u8
+#EXTINF:-1 ,Rai Sport
+http://185.53.163.86:8888/play/a00t
+#EXTINF:-1 ,---CANALI SPORT ESTERI---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1 ,Eurosport Eng (opzione 1)
+http://esioslive6-i.akamaihd.net/hls/live/202874/AL_P_ESP1_INTER_ENG/playlist_1000.m3u8
+#EXTINF:-1 ,Motor Sport 1
+http://motorsport.hopto.org:8080/
+#EXTINF:-1 ,Motor Sport 2
+http://motorsport.hopto.org:8084/
+#EXTINF:-1 ,Real Madrid Tv
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 ,Super Sport 1
+http://81.7.13.162/hls/ss1/index.m3u8
+#EXTINF:-1 ,Super Sport 2
+http://81.7.13.162/hls/ss2/index.m3u8
+#EXTINF:-1 ,Super Sport 3
+http://81.7.13.162/hls/ss3/index.m3u8
+#EXTINF:-1 ,Super Sport 4
+http://81.7.13.162/hls/ss4/index.m3u8
+#EXTINF:-1 ,Bursaspor Tv
+http://stream.yayindayiz.biz/Bursaspor/bursaspor/HasBahCa.m3u8
+#EXTINF:-1 ,Dx Tv
+http://186.33.227.200:1935/DXTV/DXTV.smil/stream.m3u8
+#EXTINF:-1 ,A.d. Sport 1
+http://adtv.ercdn.net/adsport1/adsport1_480p.m3u8
+#EXTINF:-1 ,A.d. Sport 2
+http://adtv.ercdn.net/adsport2/adsport2_480p.m3u8
+#EXTINF:-1 ,Canal 9 Hd
+http://b-dnordichlslive09-i.akamaihd.net/hls/live/223862-b/C9DKHD/master.m3u8
+#EXTINF:-1 ,Digi Sport1
+http://89.38.8.130:39440
+#EXTINF:-1 ,Digi Sport2
+http://89.38.8.131:39559
+#EXTINF:-1 ,Sports Tonight
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-SD?ref=www.sportstonightlive.com&USER=STL_0001
+#EXTINF:-1 ,Deport Tv
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:-1 ,Todo Deportes Tv
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8
+#EXTINF:-1 ,Ring
+http://srv1.global-iptv.eu:8080/live/ring/index.m3u8
+#EXTINF:-1 ,Dolce Sport 1
+http://89.38.8.130:39441
+#EXTINF:-1 ,Dolce Sport 2
+http://89.38.8.130:39442
+#EXTINF:-1 ,Espn 2
+http://live.tvplayerlatino.com/usuarios/src1/ESPN2/mundial/playlist.m3u8
+#EXTINF:-1 ,---NEWS ITALIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1 ,Camera Dei Deputati
+rtsp://live.cdn2.streamago.tv/streamago/1919/812/?idcanale=812
+#EXTINF:-1 ,Senato Tv
+http://senato.spectar.tv:1935/senato-live/ngrp:webtv1_all/chunklist_b1155072_DVR.m3u8
+#EXTINF:-1 ,Rai News
+http://rm-edge-8.cdn2.streamago.tv/streamagoedge/1917/810/playlist.m3u8
+#EXTINF:-1 ,Rai News (opz2)
+http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/master.m3u8
+#EXTINF:-1 ,Euronews
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/18-live.m3u8
+#EXTINF:-1 ,Tg Norba24
+http://85.17.80.132:80/tgnorba_24/tgnorba_24_source.stream/playlist.m3u8
+#EXTINF:-1 ,Il Meteo.it Oggi
+http://media.ilmeteo.it/video/iphone/oggi.m4v
+#EXTINF:-1 ,Il Meteo.it Domani
+http://media.ilmeteo.it/video/iphone/domani.m4v
+#EXTINF:-1 ,Il Meteo.it Dopodomani
+http://media.ilmeteo.it/video/iphone/dopodomani.m4v
+#EXTINF:-1 ,---MUSICA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1 ,Rtl 102.5 Tv
+http://origin-rtl-radio-stream.4mecloud.it/live-video/radiovisione/ngrp:radiovisione/playlist.m3u8
+#EXTINF:-1 ,Radio Universal Tv
+rtmp://flash2.streaming.xdevel.com:80/radiouniversaltv/radiouniversaltv
+#EXTINF:-1 ,Radio Italia Tv
+http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 ,Radio Monte Carlo Tv
+http://fms.105.net:1935/live/rmc1/.m3u8
+#EXTINF:-1 ,Radio 105 Tv
+http://fms.105.net:1935/live/105Test1/playlist.m3u8
+#EXTINF:-1 ,M2o Tv
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/master.m3u8
+#EXTINF:-1 ,Radio Capital Tv
+http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
+#EXTINF:-1 ,Virgin Tv
+http://fms.105.net:1935/live/virgin1/playlist.m3u8
+#EXTINF:-1 ,Rock Tv
+mmsh://mediatv2.topix.it/24RockOne66
+#EXTINF:-1 ,Tele Radio Sciacca
+rtmp://streamtv.level7.it:1935/teleradiosciacca-tv/teleradiosciacca-tv/teleradiosciacca-tv
+#EXTINF:-1 ,Radio Taormina Tv
+http://flash5.streaming.xdevel.com:80/taorminatv/taorminatv/playlist.m3u8
+#EXTINF:-1 ,Visual Radio Tv
+http://wms.shared.streamshow.it/visualradio/visualradio_mobile/playlist.m3u8
+#EXTINF:-1 ,Radio Bruno Tv
+rtmp://37.48.83.34:80/radiobrunotv/radiobrunotv
+#EXTINF:-1 ,1 Hd Russia
+http://80.250.191.10:1935/live/livestream3/chunklist_w1242882920.m3u8
+#EXTINF:-1 ,Radio 51 Tv
+http://wms.shared.streamshow.it:80/canale51/canale51/playlist.m3u8
+#EXTINF:-1 ,Rti Hd
+http://cdn.vsnw.net:8081/interradio/720i.m3u8
+#EXTINF:-1 ,One Hd By
+rtmp://rtmp.one.by/HD/1muz
+#EXTINF:-1 ,Jing Underground Hd
+http://cdn.djing.com/tv/u-05.m3u8
+#EXTINF:-1 ,Jing Dancefloor Hd
+http://cdn.djing.com/tv/d-05.m3u8
+#EXTINF:-1 ,Jing Classic
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:-1 ,Jing Animation
+http://www.djing.com/tv/a-05.m3u8
+#EXTINF:-1 ,Jing Ibiza
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:-1 ,Electrosound (sonus Fm)
+rtmp://www.electrosound.tv:1935/public/stream
+#EXTINF:-1 ,Radio Number One Tv
+http://wma02.fluidstream.net/RN1TV/livestream/playlist.m3u8
+#EXTINF:-1 ,Venere Tv
+rtmp://188.165.224.142:1935/veneretv/veneretv
+#EXTINF:-1 ,Venere Tv 2
+rtmp://188.165.224.142:1935/veneretv2/veneretv2
+#EXTINF:-1 ,Otto Fm Tv
+http://live.youiptv.ch:1935/8FM/8FM_source/livestream.m3u8
+#EXTINF:-1 ,Radionorba Tv
+http://85.17.80.132:80/radionorbatv/norbatv_source.stream/playlist.m3u8
+#EXTINF:-1 ,Nrj Hits
+http://5.196.138.6:1935/live/nrjbelgique_720p/chunklist_w1562122761.m3u8
+#EXTINF:-1 ,1 Music Channel
+http://stream.1music.hu/stream/1music.m3u8
+#EXTINF:-1 ,Deluxe Music
+http://server55.livestreamingcdn.com:1935/tulixdemo/tulixdemo/playlist.m3u8
+#EXTINF:-1 ,Kiss Kiss Italia Tv
+http://wma05.fluidstream.net/KKTV01/livestream/playlist.m3u8
+#EXTINF:-1 ,Kiss Kiss Napoli Tv
+http://wma05.fluidstream.net/KKTVNapoli/livestream/playlist.m3u8
+#EXTINF:-1 ,Vibeetv Music Pop
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:-1 ,City Tv
+http://nodeb.gocaster.net:1935/CGL/_definst_/mp4:TODAYFM_TEST2/stream.m3u8
+#EXTINF:-1 ,Amazing
+http://redir.atmcdn.pl/hls/mm/multimedia/live/amazing/live.livx/playlist.m3u8?sessionId%3DABA74CBC0702307FF0B559F938FC9B21.node1%26stream%3D2
+#EXTINF:-1 ,Radio Linea N. 1 Tv
+rtmp://flash2.streaming.xdevel.com:80/radiolineatv/radiolineatv
+#EXTINF:-1 ,Beaz Tv
+http://rtmp.infomaniak.ch/livecast/beats_1/playlist.m3u8
+#EXTINF:-1 ,Radio One Tv (usa)
+rtmp://server5.stweb.tv/radioone/live
+#EXTINF:-1 ,Klik Tv (rep Ceca)
+http://92.62.234.201:2249/klik.flv
+#EXTINF:-1 ,Slusnej Kanal Rock (rep. Ceca)
+http://212.96.163.139:8010/1-tv-pc/924.m3u8
+#EXTINF:-1 ,Ocko Live (rep. Ceca)
+http://se02.se.ocko-live.service.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
+#EXTINF:-1 ,Ocko Gold (rep. Ceca) Opzione 2
+http://se03.se.ocko-live.service.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
+#EXTINF:-1 ,All Music (usa)
+http://208.75.225.101/all-music/all-music/tracks-1,6/index.m3u8
+#EXTINF:-1 ,Hit Music Channel
+http://1mstream.digicable.hu/hitmusic/hitmusic.m3u8
+#EXTINF:-1 ,Melody Channel
+rtmp://186.155.200.118:1935/live/MelodyChannel
+#EXTINF:-1 ,Mimusica Hd
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:-1 ,Hit Tv
+rtmp://tst.es.flash.glb.ipercast.net/tst.es-live//live
+#EXTINF:-1 ,Xite
+http://highvolume03.streampartner.nl/vleugels_hd4/livestream/playlist.m3u8
+#EXTINF:-1 ,Senzi
+http://109.74.144.130/live/senzihity/senzihity.m3u8
+#EXTINF:-1 ,Atomic
+rtmp://5.154.185.153/live/live.flv
+#EXTINF:-1 ,Juce Tv
+http://109.68.190.192:1935/WEB_JuceTV/JuceTV.stream/playlist.m3u8
+#EXTINF:-1 ,Company Tv
+rtmp://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p
+#EXTINF:-1 ,Radio Tv Azzurra Live
+rtmp://188.165.224.142:1935/radiotivuazzurralive/radiotivuazzurralive
+#EXTINF:-1 ,Telemusica
+rtmp://186.155.200.118:1935/live/telemusica
+#EXTINF:-1 ,Pik Tv Hd
+rtmp://78.140.209.14:1935/live/piktv3pik3tv
+#EXTINF:-1 ,Heart Tv
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:-1 ,Krone Tv
+http://bitcdn-kronehit-live.bitmovin.com/hls/1500k/bitcodin.m3u8
+#EXTINF:-1 ,O 2
+http://hls.mycdn0633430096.cdnvideo.ru/mycdn0633430096/stream1_sd.sdp/chunklist.m3u8
+#EXTINF:-1 ,Capital Tv Uk
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_1500_av-b.m3u8
+#EXTINF:-1 ,Mcm Top
+http://37.235.171.201:81/udp/225.50.64.17:1234
+#EXTINF:-1 ,Bridge Dance Tv
+http://37.235.171.201:81/udp/225.50.64.26:1234
+#EXTINF:-1 ,Top Cento Rtv
+http://wms.shared.streamshow.it/rs/mp4:rs/chunklist_w2048803768.m3u8
+#EXTINF:-1 ,Urban Love Radio TV
+rtmp://52.10.37.231:1986/itstream4179/_definst_/itstream4179
+#EXTINF:-1 ,Mc Alternative
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/122/chunklist.m3u8
+#EXTINF:-1 ,Mc Brits Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/143/chunklist.m3u8
+#EXTINF:-1 ,Mc Dance Edm
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/127/chunklist.m3u8
+#EXTINF:-1 ,Mc Hiphop R&b
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/106/chunklist.m3u8
+#EXTINF:-1 ,Mc Hit List
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/100/chunklist.m3u8
+#EXTINF:-1 ,Mc Indie
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/129/chunklist.m3u8
+#EXTINF:-1 ,Mc Y2k
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/145/chunklist.m3u8
+#EXTINF:-1 ,Mc Throwback Jamz
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/142/chunklist.m3u8
+#EXTINF:-1 ,Mc 90s
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/140/chunklist.m3u8
+#EXTINF:-1 ,Mc Today's Country
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/121/chunklist.m3u8
+#EXTINF:-1 ,Mc Teen Beats
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/118/chunklist.m3u8
+#EXTINF:-1 ,Mc Rock
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/138/chunklist.m3u8
+#EXTINF:-1 ,Mc Rap 2k
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/141/chunklist.m3u8
+#EXTINF:-1 ,Mc Rap
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/125/chunklist.m3u8
+#EXTINF:-1 ,Mc R&b Soul
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/124/chunklist.m3u8
+#EXTINF:-1 ,Mc Pop Hits
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/133/chunklist.m3u8
+#EXTINF:-1 ,Mc Pop & Country
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/132/chunklist.m3u8
+#EXTINF:-1 ,Mc Metal
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/139/chunklist.m3u8
+#EXTINF:-1 ,Mc Mexicana
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/131/chunklist.m3u8
+#EXTINF:-1 ,Mc Musica Urbana
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/128/chunklist.m3u8
+#EXTINF:-1 ,Mc Pop Latino
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/123/chunklist.m3u8
+#EXTINF:-1 ,Mc Tropicales
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/137/chunklist.m3u8
+#EXTINF:-1 ,Mc Kidz Only!
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/130/chunklist.m3u8
+#EXTINF:-1 ,Mc Toddler Tunes
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/144/chunklist.m3u8
+#EXTINF:-1 ,---VARI ITALIA---
+http://www.pandasat.info/iptv/PLAYLIST.avi
+#EXTINF:-1 ,Tele Arena
+http://wma07.fluidstream.net:1935/TeleArena/livestream/live.m3u8
+#EXTINF:-1 ,Tele Ticino (CH)
+http://rtmp.infomaniak.ch:1935/livecast/teleticinolive/livestream.m3u8
+#EXTINF:-1 ,TelePavia
+http://wms.shared.streamshow.it:1935/telepavia/telepavia/live.m3u8
+#EXTINF:-1 ,SuperTv
+http://wms.shared.streamshow.it:1935/supertv/supertv/live.m3u8
+#EXTINF:-1 ,Lucania TV
+rtmp://wms.shared.streamshow.it:80/lucaniatv/lucaniatv
+#EXTINF:-1 ,Trm H24
+http://flash.streamingmedia.it:1935/TRM/livestream/playlist.m3u8
+#EXTINF:-1 ,8 Video Calabria
+rtmp://wms.shared.streamshow.it:80/videocalabria/videocalabria
+#EXTINF:-1 ,Canale 8
+rtmp://wms.shared.streamshow.it:80/canale8/canale8
+#EXTINF:-1 ,Telecolore
+http://xtcstelecoloresalernox.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 ,Telenuova 2
+rtmp://54.228.254.95:1935/live/myStream
+#EXTINF:-1 ,Tele Argento
+rtmp://wms.shared.streamshow.it:1935/teleargento/teleargento
+#EXTINF:-1 ,Televendita Arte Network
+http://77.92.76.135:1935/tuttositiweb/livestream/playlist.m3u8?wowzasessionid=967085821
+#EXTINF:-1 ,Etv Rete 7
+http://video2.kronopress.com:1935/etv_live/rete7/playlist.m3u8
+#EXTINF:-1 ,Teletricolore
+http://video2.kronopress.com:1935/etv_live/teletricolore/playlist.m3u8
+#EXTINF:-1 ,TeleStudio Modena
+rtmp://wms.shared.streamshow.it:80/telestudiomo/telestudiomo
+#EXTINF:-1 ,Telepordenone
+rtmp://213.187.12.18/telepn/telepn
+#EXTINF:-1 ,Canale 10
+rtmp://37.187.142.147:1935/ch10live/high.stream
+#EXTINF:-1 ,Retesole
+rtmp://flash2.bsnewline.com:1935/retesolelazio/retesolelazio
+#EXTINF:-1 ,Primocanale
+rtmp://msh0203.stream.seeweb.it/live/stream1.sdp
+#EXTINF:-1 ,Teleliguria Sud
+rtmp://misty.infoporto.it:1935/play/tls
+#EXTINF:-1 ,Telenord
+http://streamer.oodlz.it/hls/livestream.m3u8
+#EXTINF:-1 ,Saronno TV
+http://msh0193.stream.seeweb.it/live/stream00.sdp/playlist.m3u8
+#EXTINF:-1 ,Rete 55
+http://live.youiptv.ch:1935/Rete55/R55.stream_source/playlist.m3u8
+#EXTINF:-1 ,Video Brescia
+http://wms.shared.streamshow.it/videobrescia/videobrescia/hasbahca.m3u8
+#EXTINF:-1 ,Primarete Lombardia
+http://telecolor.econcept.it/live/primarete.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 ,Telecolor Lombardia
+http://telecolor.econcept.it/live/telecolor.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 ,Cremona 1
+http://cremona1.econcept.it/live/cremona1_high.isml/manifest(format=m3u8-aapl).m3u8
+#EXTINF:-1 ,Telemonteve
+http://wms.shared.streamshow.it/telemonteneve/telemonteneve/playlist.m3u8
+#EXTINF:-1 ,Telemonteve 3
+http://wms.shared.streamshow.it/telemonteneve3/telemonteneve3/playlist.m3u8
+#EXTINF:-1 ,TeleMilano Piu' Blu
+rtmp://ondemand.superstreaming.it:1935/piublu/piublu.sdp
+#EXTINF:-1 ,TeleBari
+rtmp://fl1.mediastreaming.it:1935/telebari/livestream
+#EXTINF:-1 ,Antichita' Chiossone
+rtmp://tzvr73.live.cloud.influxis.com:1935/tzvr73/_definst_/acLive
+#EXTINF:-1 ,Studio 100
+rtmp://wms.shared.streamshow.it:1935/studio100ta/studio100ta
+#EXTINF:-1 ,Canale 7
+rtmp://wms.shared.streamshow.it:80/canale7/canale7
+#EXTINF:-1 ,Telegi
+rtsp://live.cdn2.streamago.tv/streamago/31314/25470/?idcanale=25470
+#EXTINF:-1 ,Video 2
+rtmp://video2.kronopress.com:1935/ctp_live/stream5
+#EXTINF:-1 ,Canale 33
+rtmp://video2.kronopress.com:1935/ctp_live/stream6
+#EXTINF:-1 ,Video Star TV
+rtmp://live1.kronopress.com:1935/videostar_live/videostar
+#EXTINF:-1 ,Tele8
+rtmp://vs2.streamcaster.net:1935/tele8_live/tele8
+#EXTINF:-1 ,Tirreno Sat
+http://xtirrenosatx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 ,Onda tv
+rtmp://live.streamcaster.net:1935/ondatv_live/ondatv
+#EXTINF:-1 ,Tele Argento
+rtmp://wms.shared.streamshow.it:1935/teleargento/teleargento
+#EXTINF:-1 ,Televaldarno RTV38
+http://splive-lh.akamaihd.net/i/livertv38_1@396529/master.m3u8
+#EXTINF:-1 ,Vera TV
+http://wms.shared.streamshow.it/veratv/veratv/playlist.m3u8
+#EXTINF:-1 ,Umbria TV
+rtmp://eventi.ictvalleumbra.it:1935/live/umbriatv.sdp
+#EXTINF:-1 ,TeleChiara
+rtmp://fms.tvavicenza.it:1935/telechiara/diretta
+#EXTINF:-1 ,VicenzaPiu TV
+rtmp://fms.vicenzapiu.tv:1935/vicenzapiutv/live
+#EXTINF:-1 ,Tva Vicenza
+rtmp://fms.tvavicenza.it:1935/live/diretta_1
+#EXTINF:-1 ,Rttr
+rtmp://wma07.fluidstream.net:1935/RTTRlive/livestream
+#EXTINF:-1 ,Info Trentino
+http://77.72.196.214:8554/live/TrentinoSAT/hasbahca.m3u8
+#EXTINF:-1 ,TVRS
+http://wms.shared.streamshow.it/tvrs/tvrs/playlist.m3u8
+#EXTINF:-1 ,Fano Tv
+http://live.kronopress.com:1935/live/fanotv/playlist.m3u8
+#EXTINF:-1 ,Tele Milano
+rtmp://91.121.222.160:1935/piublu/piublu.sdp
+#EXTINF:-1 ,Icaro Tv
+http://open.http.mp.streamamg.com/p/3000380/sp/300038000/playManifest/entryId/0_xgibi59e/format/applehttp/protocol/http/uiConfId/30011075/a.m3u8
+#EXTINF:-1 ,Videolina
+http://178.33.229.111/live/Videolina/master.m3u8
+#EXTINF:-1 ,Televenezia
+rtmp://flash2.streaming.xdevel.com:80/televenezia/televenezia
+#EXTINF:-1 ,Teleromagna
+http://livetr.teleromagna.it/teleromagna/live/playlist.m3u8
+#EXTINF:-1 ,Teleromagna Lifestyle
+http://livetr.teleromagna.it/lifestyle/live/playlist.m3u8
+#EXTINF:-1 ,Teleromagna News
+http://livetr.teleromagna.it/news/live/playlist.m3u8
+#EXTINF:-1 ,Teleromagna Mia
+http://livetr.teleromagna.it/mia/live/playlist.m3u8
+#EXTINF:-1 ,Rete Biella Tv
+rtmp://sb.top-ix.org:1935/retebiella/streaming
+#EXTINF:-1 ,Tele Idea
+rtsp://cdn-ca-edge-1.cdn2.streamago.tv:554/streamagoedge/59072/49106
+#EXTINF:-1 ,Tele Mia
+http://wms.shared.streamshow.it:80/telemia/telemia/playlist.m3u8
+#EXTINF:-1 ,Tv Luna
+http://live.streamcaster.net:1935/test_live/teleluna/chunklist_w1578080865.m3u8
+#EXTINF:-1 ,Radio Tv Peloritana
+rtmp://wms.shared.streamshow.it:80/rtp/rtp
+#EXTINF:-1 ,C.t.s.90
+rtmp://vod1.kronopress.com:1935/cts_live/cts
+#EXTINF:-1 ,Esperia Tv
+http://wms.shared.streamshow.it/esperiatv/esperiatv/playlist.m3u8
+#EXTINF:-1 ,Tele Galatina
+rtmp://flash2.streaming.xdevel.com:80/telegalatina/telegalatina
+#EXTINF:-1 ,Julie Italia
+http://188.138.102.199:1935/julieitalia/julieitalia/playlist.m3u8
+#EXTINF:-1 ,Imperia Tv
+http://ximperia-tvx.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 ,Tele Mantova
+rtmp://wma07.fluidstream.net:1935/TeleMantova/livestream
+#EXTINF:-1 ,Tele Oltre
+rtmp://1se2.troydesign.eu:80/np_teleoltre/channel1_np_teleoltre
+#EXTINF:-1 ,Di Tv
+http://1se3.troydesign.eu/ditv/_definst_/channel1_ditv/playlist.m3u8?ext=.m3u8
+#EXTINF:-1 ,Canale 21 Lazio
+http://live.streamcaster.net:1935/canale21_live/canale21/playlist.m3u8
+#EXTINF:-1 ,T.r.c. Modena
+rtmp://o1.senape.tv:1935/webtv_live/VC3TCRHI9LNP
+#EXTINF:-1 ,Castrovillari Tv
+rtmp://msh0062.stream.seeweb.it:1935/live/stream00.sdp
+#EXTINF:-1 ,Life Channel
+http://37.59.17.33:1935/sportelevision_live/smil:channel.smil/playlist.m3u8
+#EXTINF:-1 ,Reggio Tv
+http://rm-edge-1.cdn2.streamago.tv:1935/streamagoedge/49217/42253/live.m3u8
+#EXTINF:-1 ,Tele Diogene
+http://wms.shared.streamshow.it:1935/telediogene/telediogene/playlist.m3u8
+#EXTINF:-1 ,Tele Jonio
+http://streaming1.bluehat.it:8092/diretta_1.flv
+#EXTINF:-1 ,Tuscia Sabina 2000
+rtmp://stream.ts2000tv.it/oflaDemo/TusciaSabina2
+#EXTINF:-1 ,Tsn Tele Sondrio News
+http://wms.shared.streamshow.it/tsn/tsn_mobile/playlist.m3u8
+#EXTINF:-1 ,Tsn Livigno
+http://wms.shared.streamshow.it/tsn2/tsn2/playlist.m3u8
+#EXTINF:-1 ,Tele Laser
+rtmp://flash2.bsnewline.com:1935/telelaser/telelaser
+#EXTINF:-1 ,Rete Oro
+rtmp://149.202.200.72/ReteOro/LiveIst/ReteOro
+#EXTINF:-1 ,Nettuno TV
+http://msh0209.stream.seeweb.it:1935/live/stream02.sdp/playlist.m3u8
+#EXTINF:-1 ,QuartaRete Blu
+http://sb.top-ix.org:1935/quartaretetv/quartaretebluweb/plyalist.m3u8
+#EXTINF:-1 ,Brescia Tv
+http://wms.shared.streamshow.it/brescialivetv/brescialivetv/playlist.m3u8
+#EXTINF:-1 ,Sicilia Media Tv
+http://live.streamcaster.net:1935/siciliamediatv_live/siciliamedia/playlist.m3u8
+#EXTINF:-1 ,Super J Tv
+http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
+#EXTINF:-1 ,Canale 85
+http://wms.shared.streamshow.it/canale85/mp4:canale85/playlist.m3u8
+#EXTINF:-1 ,Carina Tv
+http://wms.shared.streamshow.it/carinatv/mp4:carinatv/playlist.m3u8
+#EXTINF:-1 ,Telestar 1
+http://193.34.109.10:8090/
+#EXTINF:-1 ,Irc Tv
+http://wms.shared.streamshow.it/irctv/mp4:irctv/playlist.m3u8
+#EXTINF:-1 ,Teleitalia 2
+rtmp://live.flv.xuniplay.fdnames.com:1935/live/centroserena
+#EXTINF:-1 ,Tv Campane
+http://xtvcampanex.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:-1 ,Alto Adige Tv
+http://77.72.196.214:8554/live/AltoAdigeTV/playlist.m3u8
+#EXTINF:-1 ,Sudtirol Tv
+http://77.72.196.214:8554/live/SuedtirolTV/hasbahca.m3u8
+#EXTINF:-1 ,Eden Tv
+http://wma02.fluidstream.net/EdenTV/smil:EdenTV.smil/playlist.m3u8
+#EXTINF:-1 ,Videonola
+http://79.143.181.106:8000/live/videonola/videonola/1021.m3u8
+#EXTINF:-1 ,Piu' Enne News
+http://52.10.37.231:1955/itstream165/_definst_/itstream165/playlist.m3u8
+#EXTINF:-1 ,Telefoggia
+http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/chunklist_w485752473.m3u8
+#EXTINF:-1 ,Ultima Tv
+http://vod1.kronopress.com:1935/ultimatv_live/4B96-D3C4-CD06-4CFE/chunklist_w1315656524.m3u8
+#EXTINF:-1 ,Teleabruzzo Tv
+http://uk4.streamingpulse.com:1935/TeleabruzzoTV/TeleabruzzoTV/playlist.m3u8
+#EXTINF:-1 ,Dinamo Tv
+http://cdnselector.streamago.tv/live/39881/33805/playlist.m3u8
+#EXTINF:-1 ,Tele Citta Padova
+rtmp://stream.telepadova.com/live/tv1
+#EXTINF:-1 ,Telegenova
+http://6zkpywaglbeg.hls.live.5centscdn.com/telegenova/6314e7a3d50e89928d181385c6f3f047.sdp/tracks-v1a1/index.m3u8
+
+
+#EXTINF:-1 group-title="CREDITS" tvg-logo="http://i.imgur.com/eGcoFU4.png",[COLOR blue][B]Lista QDR Forum - Visita qdr.forumcommunity.net[/B][/COLOR]
+http://bit.ly/qdrforum
+
+#EXT-X-ENDLIST

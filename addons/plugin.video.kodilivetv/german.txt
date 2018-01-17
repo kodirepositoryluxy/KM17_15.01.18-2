@@ -1,0 +1,33 @@
+[
+    {
+        "url": "de.txt",
+        "image": "tv.png",        
+        "name": 10056
+    }, 
+
+    {
+        "url": "radiode.txt",
+        "image": "radio.png",
+        "name":10072
+    }, 
+    {
+        "url": "srf.txt",
+        "image": "https://kodilive.eu/icon/srf.png",        
+        "name": "SRF.ch"
+    }, 
+    {
+        "url": "vpnat.txt",
+        "image": "tv.png",
+        "name":10060
+    },
+    {
+        "url": "http://kodilive.eu/iptv/rawtb.php?l=chde",
+        "image": "tb.png",      
+        "name":10054
+    },
+    {
+        "url": "w_de.txt",
+        "image": "wi.png",        
+        "name": 10054
+    }
+]

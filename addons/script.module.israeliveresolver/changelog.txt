@@ -1,0 +1,8 @@
+[B]v0.3.5[/B]
+- Better support of playing plugins links.
+[B]v0.3.4[/B]
+- Addon move to my repository.
+[B]v0.3.3[/B]
+- Local proxy host changed from 'localhost' to '127.0.0.1'.
+[B]v0.3.2[/B]
+- Local proxy for LiveTV dynamic links, move from IsraeLIVE to IsraeLiveResolver.

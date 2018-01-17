@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<channel>
+	<id>cinehdx10</id>
+	<name>Cinehdx10</name>
+
+	<active>false</active>
+	<adult>false</adult>
+	<language>it</language>
+
+	<fanart></fanart>
+	<thumbnail>https://i.imgur.com/91bLKru.png</thumbnail>
+	<bannermenu>https://i.imgur.com/91bLKru.png</bannermenu>
+
+	<update_url>https://raw.githubusercontent.com/streamondemand/plugin.video.streamondemand/master/channels/</update_url>
+	<version>1</version>
+	<date>16/10/2017</date>
+	<changes>New</changes>
+
+	<categories>
+		<category>movie</category>
+                <category>serie</category>
+	</categories>
+
+	<settings>
+		<id>include_in_global_search</id>
+		<type>bool</type>
+		<label>Includi ricerca globale</label>
+		<default>false</default>
+		<enabled>false</enabled>
+		<visible>false</visible>
+	</settings>
+
+</channel>

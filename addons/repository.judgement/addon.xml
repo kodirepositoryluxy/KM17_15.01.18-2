@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.judgement" name="Judgement Repo" version="1.2" provider-name="Judgement">
+	<extension point="xbmc.addon.repository" name="Judgement">
+	<dir>
+		<info compressed="false">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml</info>
+		<checksum>https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/addons.xml.md5</checksum>
+		<datadir zip="true">https://raw.githubusercontent.com/noobsandnerds/modules4all/master/zips/</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml</info>
+		<checksum>https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/addons.xml.md5</checksum>
+		<datadir zip="true">https://github.com/tvaddonsco/tva-resolvers-repo/raw/master/zips/</datadir>
+	</dir>
+	<dir>
+		<info compressed="false">https://archive.org/download/JudgementRepo/Repo/addons.xml</info>
+		<checksum>https://archive.org/download/JudgementRepo/Repo/addons.xml.md5</checksum>
+		<datadir zip="true">https://archive.org/download/JudgementRepo/Repo/</datadir>
+	</dir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Judgement Repo</summary>
+		<description>Judgement Wizard Repository</description>
+		<platform>all</platform>
+	</extension>
+</addon>

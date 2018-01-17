@@ -1,0 +1,16 @@
+v2.0
+- [COLOR red][HOT][/COLOR] Migrazione da Hosting a VPS
+- [COLOR red][HOT][/COLOR] Nuovo logo per la Repository adatto allo stile di Evil King Ultimate 4.0
+- [COLOR red][HOT][/COLOR] Aggiunti colori nel titolo della Repository
+v1.5
+- Problema risolto "invisiblità" Evil King su alcuni Kodi
+v1.4
+- Correzione errore di battitura configurazione server
+v1.3
+- Migrazione nuovo server
+v1.2
+- Correzione descrizione Evil King Repository
+v1.1
+- Test auto aggiornamento: Nessuna modifica
+v1.0
+- Rilascio della Repository

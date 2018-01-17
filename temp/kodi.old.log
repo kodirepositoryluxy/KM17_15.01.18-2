@@ -1,0 +1,993 @@
+﻿02:56:27.763 T:140212487965056  NOTICE: special://profile/ is mapped to: special://masterprofile/
+02:56:27.763 T:140212487965056  NOTICE: -----------------------------------------------------------------------
+02:56:27.763 T:140212487965056  NOTICE: Starting Kodi (17.6 Git:20171114-a9a7a20). Platform: Linux x86 64-bit
+02:56:27.763 T:140212487965056  NOTICE: Using Release Kodi x64 build
+02:56:27.763 T:140212487965056  NOTICE: Kodi compiled Nov  4 2012 by GCC 6.3.0 for Linux x86 64-bit version 4.10.17 (264721)
+02:56:27.763 T:140212487965056  NOTICE: Running on Ubuntu 17.04, kernel: Linux x86 64-bit version 4.10.0-42-generic
+02:56:27.763 T:140212487965056  NOTICE: FFmpeg version/source: ffmpeg-3.1-kodi
+02:56:27.763 T:140212487965056  NOTICE: Host CPU: Intel(R) Core(TM) i7-6700HQ CPU @ 2.60GHz, 8 cores available
+02:56:27.763 T:140212487965056  NOTICE: special://xbmc/ is mapped to: /usr/share/kodi
+02:56:27.763 T:140212487965056  NOTICE: special://xbmcbin/ is mapped to: /usr/lib/x86_64-linux-gnu/kodi
+02:56:27.763 T:140212487965056  NOTICE: special://xbmcbinaddons/ is mapped to: /usr/lib/x86_64-linux-gnu/kodi/addons
+02:56:27.763 T:140212487965056  NOTICE: special://masterprofile/ is mapped to: /home/aba/.kodi/userdata
+02:56:27.763 T:140212487965056  NOTICE: special://envhome/ is mapped to: /home/aba
+02:56:27.763 T:140212487965056  NOTICE: special://home/ is mapped to: /home/aba/.kodi
+02:56:27.763 T:140212487965056  NOTICE: special://temp/ is mapped to: /home/aba/.kodi/temp
+02:56:27.763 T:140212487965056  NOTICE: special://logpath/ is mapped to: /home/aba/.kodi/temp
+02:56:27.763 T:140212487965056  NOTICE: The executable running is: /usr/lib/x86_64-linux-gnu/kodi/kodi.bin
+02:56:27.763 T:140212487965056  NOTICE: Local hostname: aba-HP-ENVY-Notebook
+02:56:27.763 T:140212487965056  NOTICE: Log File is located: /home/aba/.kodi/temp//kodi.log
+02:56:27.763 T:140212487965056  NOTICE: -----------------------------------------------------------------------
+02:56:27.789 T:140212487965056   ERROR: DBus: Error org.freedesktop.DBus.Error.InvalidArgs - Proprietà "CanSuspend" inesistente
+02:56:27.790 T:140212487965056   ERROR: DBus: Error org.freedesktop.DBus.Error.InvalidArgs - Proprietà "CanHibernate" inesistente
+02:56:27.793 T:140212487965056  NOTICE: load settings...
+02:56:27.810 T:140212487965056  NOTICE: Found 1 Lists of Devices
+02:56:27.810 T:140212487965056  NOTICE: Enumerated PULSE devices:
+02:56:27.810 T:140212487965056  NOTICE:     Device 1
+02:56:27.810 T:140212487965056  NOTICE:         m_deviceName      : Default
+02:56:27.810 T:140212487965056  NOTICE:         m_displayName     : Default
+02:56:27.810 T:140212487965056  NOTICE:         m_displayNameExtra: Default Output Device (PULSEAUDIO)
+02:56:27.810 T:140212487965056  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+02:56:27.810 T:140212487965056  NOTICE:         m_channels        : FL,FR
+02:56:27.810 T:140212487965056  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+02:56:27.810 T:140212487965056  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
+02:56:27.810 T:140212487965056  NOTICE:         m_streamTypes     : No passthrough capabilities
+02:56:27.810 T:140212487965056  NOTICE:     Device 2
+02:56:27.810 T:140212487965056  NOTICE:         m_deviceName      : alsa_output.pci-0000_00_1f.3.analog-stereo
+02:56:27.810 T:140212487965056  NOTICE:         m_displayName     : Audio interno Stereo analogico
+02:56:27.810 T:140212487965056  NOTICE:         m_displayNameExtra: Cuffie analogiche (PULSEAUDIO)
+02:56:27.810 T:140212487965056  NOTICE:         m_deviceType      : AE_DEVTYPE_PCM
+02:56:27.810 T:140212487965056  NOTICE:         m_channels        : FL,FR
+02:56:27.810 T:140212487965056  NOTICE:         m_sampleRates     : 5512,8000,11025,16000,22050,32000,44100,48000,64000,88200,96000,176400,192000,384000
+02:56:27.810 T:140212487965056  NOTICE:         m_dataFormats     : AE_FMT_U8,AE_FMT_S16NE,AE_FMT_S24NE3,AE_FMT_S24NE4,AE_FMT_S32NE,AE_FMT_FLOAT
+02:56:27.810 T:140212487965056  NOTICE:         m_streamTypes     : No passthrough capabilities
+02:56:27.815 T:140212487965056  NOTICE: No settings file to load (special://xbmc/system/advancedsettings.xml)
+02:56:27.815 T:140212487965056  NOTICE: Loaded settings file from special://profile/advancedsettings.xml
+02:56:27.815 T:140212487965056  NOTICE: Contents of special://profile/advancedsettings.xml are...
+                                            <!-- Created using Easy Advanced Settings addon -->
+                                            <advancedsettings>
+                                              <network>
+                                                <buffermode>1</buffermode>
+                                                <cachemembuffersize>419430400</cachemembuffersize>
+                                                <readbufferfactor>4.0</readbufferfactor>
+                                              </network>
+                                            </advancedsettings>
+02:56:27.815 T:140212487965056  NOTICE: Default Video Player: VideoPlayer
+02:56:27.815 T:140212487965056  NOTICE: Default Audio Player: paplayer
+02:56:27.816 T:140212487965056  NOTICE: Disabled debug logging due to GUI setting. Level 0.
+02:56:27.816 T:140212487965056  NOTICE: Log level changed to "LOG_LEVEL_NORMAL"
+02:56:27.816 T:140212487965056  NOTICE: CMediaSourceSettings: loading media sources from special://masterprofile/sources.xml
+02:56:27.817 T:140212487965056  NOTICE: Loading player core factory settings from special://xbmc/system/playercorefactory.xml.
+02:56:27.818 T:140212487965056  NOTICE: Loaded playercorefactory configuration
+02:56:27.818 T:140212487965056  NOTICE: Loading player core factory settings from special://masterprofile/playercorefactory.xml.
+02:56:27.818 T:140212487965056  NOTICE: special://masterprofile/playercorefactory.xml does not exist. Skipping.
+02:56:27.823 T:140212487965056  NOTICE: Running database version Addons27
+02:56:27.938 T:140212487965056  NOTICE: ADDONS: Using repository repository.xbmc.org
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.axbmcuser
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.colossus
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository superrepo.kodi.krypton.all
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.vipsecrettv
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.aresproject
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.xbmchub
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.kodil
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository baseaddons.repository
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.evilkingrepository
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.exodus
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.origin
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.stefanorepository
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.RisingTides
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository loganaddon.repository
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.smash
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.StreamArmy
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.supremacy
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.schemestreams
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.Brettusrepo
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.inside4ndroid
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.kodinerds
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.maverickrepo
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.alleyezonme
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.Goliath
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository MOTB.repository
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.Rockcrusher
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.cerebro
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.noobsandnerds
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.xbmc-avigdork
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository plugin.video.avezy
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.playonmonkey
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.sweetwork
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.zt
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.lucifer
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.Maniac
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.SpinzTV
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.lookingglass
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.uncoded
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.jesusboxtv
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.streetwise
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.q
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.subzero
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.slim
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.husham.com
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.Galaxy
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.swiperdan
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.Wherethemonsterslive
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.blamo
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.Firestickplusman
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.aj
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.tknorris.release
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.ytplugin
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository tvsupertuga.repository
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.illuminati
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.tantrumtv
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.plexus-streams
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.boom
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository repository.judgement
+02:56:27.939 T:140212487965056  NOTICE: ADDONS: Using repository frenchdj.repository
+02:56:27.948 T:140211883337472  NOTICE: PulseAudio: Opened device Default in pcm mode with Buffersize 150 ms
+02:56:28.028 T:140212487965056  NOTICE: Checking resolution 15
+02:56:28.071 T:140212487965056  NOTICE: Using visual 0x41
+02:56:28.080 T:140212487965056  NOTICE: GL_VENDOR = Intel Open Source Technology Center
+02:56:28.080 T:140212487965056  NOTICE: GL_RENDERER = Mesa DRI Intel(R) HD Graphics 530 (Skylake GT2)
+02:56:28.080 T:140212487965056  NOTICE: GL_VERSION = 3.0 Mesa 17.0.7
+02:56:28.080 T:140212487965056  NOTICE: GL_SHADING_LANGUAGE_VERSION = 1.30
+02:56:28.080 T:140212487965056  NOTICE: GL_EXTENSIONS = GL_ARB_multisample GL_EXT_abgr GL_EXT_bgra GL_EXT_blend_color GL_EXT_blend_minmax GL_EXT_blend_subtract GL_EXT_copy_texture GL_EXT_polygon_offset GL_EXT_subtexture GL_EXT_texture_object GL_EXT_vertex_array GL_EXT_compiled_vertex_array GL_EXT_texture GL_EXT_texture3D GL_IBM_rasterpos_clip GL_ARB_point_parameters GL_EXT_draw_range_elements GL_EXT_packed_pixels GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_separate_specular_color GL_EXT_texture_edge_clamp GL_SGIS_generate_mipmap GL_SGIS_texture_border_clamp GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod GL_ARB_framebuffer_sRGB GL_ARB_multitexture GL_EXT_framebuffer_sRGB GL_IBM_multimode_draw_arrays GL_IBM_texture_mirrored_repeat GL_3DFX_texture_compression_FXT1 GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_transpose_matrix GL_EXT_blend_func_separate GL_EXT_fog_coord GL_EXT_multi_draw_arrays GL_EXT_secondary_color GL_EXT_texture_env_add GL_EXT_texture_filter_anisotropic GL_EXT_texture_lod_bias GL_INGR_blend_func_separate GL_NV_blend_square GL_NV_light_max_exponent GL_NV_texgen_reflection GL_NV_texture_env_combine4 GL_S3_s3tc GL_SUN_multi_draw_arrays GL_ARB_texture_border_clamp GL_ARB_texture_compression GL_EXT_framebuffer_object GL_EXT_texture_compression_s3tc GL_EXT_texture_env_combine GL_EXT_texture_env_dot3 GL_MESA_window_pos GL_NV_packed_depth_stencil GL_NV_texture_rectangle GL_ARB_depth_texture GL_ARB_occlusion_query GL_ARB_shadow GL_ARB_texture_env_combine GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_mirrored_repeat GL_ARB_window_pos GL_EXT_stencil_two_side GL_EXT_texture_cube_map GL_NV_depth_clamp GL_APPLE_packed_pixels GL_APPLE_vertex_array_object GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_fragment_shader GL_ARB_shader_objects GL_ARB_vertex_program GL_ARB_vertex_shader GL_ATI_draw_buffers GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_EXT_shadow_funcs GL_EXT_stencil_wrap GL_MESA_pack_invert GL_NV_primitive_restart GL_ARB_depth_clamp GL_ARB_fragment_program_shadow GL_ARB_half_float_pixel GL_ARB_occlusion_query2 GL_ARB_point_sprite GL_ARB_shading_language_100 GL_ARB_sync GL_ARB_texture_non_power_of_two GL_ARB_vertex_buffer_object GL_ATI_blend_equation_separate GL_EXT_blend_equation_separate GL_OES_read_format GL_ARB_color_buffer_float GL_ARB_pixel_buffer_object GL_ARB_texture_compression_rgtc GL_ARB_texture_float GL_ARB_texture_rectangle GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_texture_shared_exponent GL_ARB_framebuffer_object GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_packed_depth_stencil GL_APPLE_object_purgeable GL_ARB_vertex_array_object GL_ATI_separate_stencil GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_gpu_program_parameters GL_EXT_texture_array GL_EXT_texture_integer GL_EXT_texture_sRGB_decode GL_EXT_timer_query GL_OES_EGL_image GL_ARB_copy_buffer GL_ARB_depth_buffer_float GL_ARB_draw_instanced GL_ARB_half_float_vertex GL_ARB_instanced_arrays GL_ARB_map_buffer_range GL_ARB_texture_rg GL_ARB_texture_swizzle GL_ARB_vertex_array_bgra GL_EXT_texture_swizzle GL_EXT_vertex_array_bgra GL_NV_conditional_render GL_AMD_conservative_depth GL_AMD_draw_buffers_blend GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_ARB_ES2_compatibility GL_ARB_blend_func_extended GL_ARB_debug_output GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_explicit_attrib_location GL_ARB_fragment_coord_conventions GL_ARB_provoking_vertex GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_shader_stencil_export GL_ARB_shader_texture_lod GL_ARB_texture_cube_map_array GL_ARB_texture_gather GL_ARB_texture_multisample GL_ARB_texture_query_lod GL_ARB_texture_rgb10_a2ui GL_ARB_uniform_buffer_object GL_ARB_vertex_type_2_10_10_10_rev GL_EXT_provoking_vertex GL_EXT_texture_snorm GL_MESA_texture_signed_rgba GL_NV_texture_barrier GL_ARB_get_program_binary GL_ARB_robustness GL_ARB_separate_shader_objects GL_ARB_shader_bit_encoding GL_ARB_shader_precision GL_ARB_texture_compression_bptc GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_compressed_texture_pixel_storage GL_ARB_conservative_depth GL_ARB_internalformat_query GL_ARB_map_buffer_alignment GL_ARB_shader_atomic_counters GL_ARB_shader_image_load_store GL_ARB_shading_language_420pack GL_ARB_shading_language_packing GL_ARB_texture_storage GL_ARB_transform_feedback_instanced GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_transform_feedback GL_AMD_shader_trinary_minmax GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_clear_buffer_object GL_ARB_compute_shader GL_ARB_copy_image GL_ARB_explicit_uniform_location GL_ARB_framebuffer_no_attachments GL_ARB_invalidate_subdata GL_ARB_program_interface_query GL_ARB_robust_buffer_access_behavior GL_ARB_shader_image_size GL_ARB_shader_storage_buffer_object GL_ARB_stencil_texturing GL_ARB_texture_query_levels GL_ARB_texture_storage_multisample GL_ARB_texture_view GL_ARB_vertex_attrib_binding GL_KHR_debug GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_ARB_buffer_storage GL_ARB_clear_texture GL_ARB_internalformat_query2 GL_ARB_multi_bind GL_ARB_query_buffer_object GL_ARB_seamless_cubemap_per_texture GL_ARB_shader_draw_parameters GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_stencil8 GL_ARB_vertex_type_10f_11f_11f_rev GL_EXT_shader_integer_mix GL_ARB_clip_control GL_ARB_conditional_render_inverted GL_ARB_cull_distance GL_ARB_derivative_control GL_ARB_get_texture_sub_image GL_ARB_pipeline_statistics_query GL_ARB_shader_texture_image_samples GL_ARB_texture_barrier GL_EXT_polygon_offset_clamp GL_KHR_blend_equation_advanced GL_KHR_blend_equation_advanced_coherent GL_KHR_context_flush_control GL_KHR_robust_buffer_access_behavior GL_ARB_shader_atomic_counter_ops GL_ARB_shader_clock GL_EXT_shader_samples_identical GL_KHR_texture_compression_astc_sliced_3d GL_MESA_shader_integer_functions
+02:56:28.590 T:140211974956800  NOTICE: Running database version Addons27
+02:56:28.597 T:140211974956800  NOTICE: Running database version ViewModes6
+02:56:28.598 T:140211974956800  NOTICE: Running database version Textures13
+02:56:28.606 T:140211974956800  NOTICE: Running database version MyMusic60
+02:56:28.611 T:140211974956800  NOTICE: Running database version MyVideos107
+02:56:28.613 T:140211974956800  NOTICE: Running database version TV29
+02:56:28.616 T:140211974956800  NOTICE: Running database version Epg11
+02:56:28.622 T:140212487965056  NOTICE: start dvd mediatype detection
+02:56:29.265 T:140212487965056   ERROR: Window Translator: Can't find window infodialog
+02:56:29.408 T:140212487965056 WARNING: JSONRPC: Could not parse type "Setting.Details.SettingList"
+02:56:29.599 T:140212487965056  NOTICE: initialize done
+02:56:29.599 T:140212487965056  NOTICE: Running the application...
+02:56:29.601 T:140212487965056  NOTICE: starting zeroconf publishing
+02:56:29.601 T:140212487965056  NOTICE: starting upnp client
+02:56:29.607 T:140209467418368  NOTICE: ES: Starting UDP Event server on port 9777
+02:56:29.607 T:140209467418368  NOTICE: UDP: Listening on port 9777 (ipv6 : false)
+02:56:30.722 T:140210390157056  NOTICE: INDIGO NOTICE: STARTING STEMAN SERVICE
+02:56:31.068 T:140210415335168  NOTICE: AddOnLog: PVR IPTV Simple Client: Loaded 550 channels.
+02:56:31.541 T:140210905110272   ERROR: EXCEPTION: Unknown addon id 'plugin.video.israelive'.
+02:56:33.023 T:140209450632960   ERROR: Previous line repeats 1 times.
+02:56:33.023 T:140209450632960  NOTICE: Start - EPG thread started
+02:56:33.338 T:140210373371648   ERROR: EXCEPTION: Unknown addon id 'plugin.video.ugottoc'.
+02:56:33.338 T:140210373371648   ERROR: EXCEPTION: Unknown addon id 'plugin.video.theroyalwe'.
+02:56:33.338 T:140210373371648   ERROR: EXCEPTION: Unknown addon id 'plugin.video.redbeard'.
+02:56:33.534 T:140210373371648  NOTICE: URLResolver: Initializing URLResolver version: 4.0.17
+02:56:33.557 T:140210373371648  NOTICE: APEP Common Routines: Setting DHCR API Access log to: /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/access.log
+02:56:33.570 T:140210373371648  NOTICE: APEP Common Routines: DHCR Service Starting...
+02:56:33.637 T:140210373371648  NOTICE: APEP Common Routines:  
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMM DudeHere - 2016 - http://forums.tvaddons.ag MMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+                                            MMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMM
+02:56:33.637 T:140210373371648  NOTICE: APEP Common Routines: Version: 0.7.14
+02:56:33.663 T:140210373371648  NOTICE: APEP Common Routines: Repository installed: False
+02:56:33.685 T:140210373371648  NOTICE: APEP Common Routines: Transmogrifier installed: False
+02:56:33.732 T:140210373371648  NOTICE: APEP Common Routines: Walter Sobchak installed: False
+02:56:33.732 T:140210373371648  NOTICE: APEP Common Routines: Launching Fanart WebInterface on: 127.0.0.1:8630
+02:56:34.442 T:140210398549760  NOTICE: [plugin.video.youtube] Startup: detected Krypton (Kodi-17.6), setting DASH_SUPPORT_BUILTIN = False, DASH_SUPPORT_ADDON = True
+02:56:35.653 T:140210281117440  NOTICE: GENIE WIZ: 2018-01-15 02:56:35.422996
+02:56:36.694 T:140210281117440  NOTICE: GENIE WIZ: Continuing Start Up Script
+02:56:36.694 T:140210281117440  NOTICE: GENIE WIZ: [Path Check] Started
+02:56:36.694 T:140210281117440  NOTICE: GENIE WIZ: [Path Check] Good!
+02:56:36.694 T:140210281117440  NOTICE: GENIE WIZ: [Auto Install Repo] Started
+02:56:36.695 T:140210281117440  NOTICE: GENIE WIZ: [Auto Install Repo] Repository already installed
+02:56:36.695 T:140210281117440  NOTICE: GENIE WIZ: [Auto Update Wizard] Started
+02:56:36.695 T:140210281117440  NOTICE: GENIE WIZ: [Auto Update Wizard] Not Enabled
+02:56:36.695 T:140210281117440  NOTICE: GENIE WIZ: [Notifications] Started
+02:56:37.514 T:140210281117440  NOTICE: GENIE WIZ: [Notifications] id[1] Dismissed
+02:56:37.514 T:140210281117440  NOTICE: GENIE WIZ: [Installed Check] Started
+02:56:37.514 T:140210281117440  NOTICE: GENIE WIZ: [Installed Check] Not Enabled
+02:56:37.514 T:140210281117440  NOTICE: GENIE WIZ: [Build Check] Started
+02:56:37.514 T:140210281117440  NOTICE: GENIE WIZ: [Trakt Data] Started
+02:56:37.514 T:140210281117440  NOTICE: GENIE WIZ: [Trakt Data] Not Enabled
+02:56:37.514 T:140210281117440  NOTICE: GENIE WIZ: [Real Debrid Data] Started
+02:56:37.514 T:140210281117440  NOTICE: GENIE WIZ: [Real Debrid Data] Not Enabled
+02:56:37.514 T:140210281117440  NOTICE: GENIE WIZ: [Login Data] Started
+02:56:37.515 T:140210281117440  NOTICE: GENIE WIZ: [Login Data] Not Enabled
+02:56:37.515 T:140210281117440  NOTICE: GENIE WIZ: [Auto Clean Up] Started
+02:56:37.516 T:140210281117440  NOTICE: GENIE WIZ: [Auto Clean Up] Cache: On
+02:56:37.520 T:140210281117440  NOTICE: GENIE WIZ: [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.urlresolver/cache
+02:56:37.524 T:140210281117440  NOTICE: GENIE WIZ: [Success] wiped /home/aba/.kodi/userdata/addon_data/script.module.dudehere.routines/cache
+02:56:37.529 T:140210281117440  NOTICE: GENIE WIZ: Ignore Log File: kodi.log
+02:56:37.529 T:140210281117440  NOTICE: GENIE WIZ: Ignore Log File: kodi.old.log
+02:56:37.529 T:140210281117440  NOTICE: GENIE WIZ: [Wiped] /home/aba/.kodi/temp/commoncache.socket
+02:56:37.529 T:140210281117440  NOTICE: GENIE WIZ: [Wiped] /home/aba/.kodi/temp/commoncache.db
+02:56:37.529 T:140210281117440  NOTICE: GENIE WIZ: [Success] cleared 4 files from /home/aba/.kodi/temp/temp
+02:56:37.529 T:140210281117440  NOTICE: GENIE WIZ: [Auto Clean Up] Old Thumbs: On
+02:56:37.530 T:140210281117440  NOTICE: GENIE WIZ: 0 total thumbs cleaned up.
+02:56:37.544 T:140210281117440  NOTICE: GENIE WIZ: [Auto Clean Up] Packages: On
+02:56:37.671 T:140210390157056  NOTICE: INDIGO NOTICE: Auto Main Turned off
+02:56:37.671 T:140210390157056  NOTICE: INDIGO NOTICE: SCRIPT BLOCKER ON
+02:56:41.270 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+02:58:10.033 T:140210896717568  NOTICE: URLResolver: Initializing URLResolver version: 4.0.17
+02:58:10.565 T:140212487965056  NOTICE: VideoPlayer: Opening: https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4
+02:58:10.565 T:140212487965056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:58:10.814 T:140209450632960  NOTICE: Creating InputStream
+02:58:11.215 T:140209450632960   ERROR: CCurlFile::Open failed with code 404 for https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4
+02:58:11.466 T:140209450632960   ERROR: Previous line repeats 1 times.
+02:58:11.467 T:140209450632960   ERROR: Open - failed to open source <https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4>
+02:58:11.467 T:140209450632960   ERROR: CVideoPlayer::OpenInputStream - error opening [https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4]
+02:58:11.467 T:140209450632960  NOTICE: CVideoPlayer::OnExit()
+02:58:11.651 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:11.651 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:11.651 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:11.651 T:140212487965056  NOTICE: VideoPlayer: Opening: https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4
+02:58:11.913 T:140209450632960  NOTICE: Creating InputStream
+02:58:12.169 T:140209450632960   ERROR: CCurlFile::Open failed with code 404 for https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4
+02:58:12.468 T:140209450632960   ERROR: Previous line repeats 1 times.
+02:58:12.468 T:140209450632960   ERROR: Open - failed to open source <https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4>
+02:58:12.468 T:140209450632960   ERROR: CVideoPlayer::OpenInputStream - error opening [https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4]
+02:58:12.468 T:140209450632960  NOTICE: CVideoPlayer::OnExit()
+02:58:12.509 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:12.509 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:12.509 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:12.512 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:12.512 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:12.512 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:16.728 T:140208603395840  NOTICE: URLResolver: Initializing URLResolver version: 4.0.17
+02:58:17.527 T:140212487965056  NOTICE: VideoPlayer: Opening: https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4
+02:58:17.527 T:140212487965056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:58:18.412 T:140211690403584  NOTICE: Creating InputStream
+02:58:19.582 T:140211690403584   ERROR: CCurlFile::Open failed with code 404 for https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4
+02:58:20.562 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:20.562 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:21.740 T:140211690403584   ERROR: CCurlFile::Open failed with code 404 for https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4
+02:58:21.740 T:140211690403584   ERROR: Open - failed to open source <https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4>
+02:58:21.740 T:140211690403584   ERROR: CVideoPlayer::OpenInputStream - error opening [https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4]
+02:58:21.740 T:140211690403584  NOTICE: CVideoPlayer::OnExit()
+02:58:21.741 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:21.741 T:140212487965056  NOTICE: VideoPlayer: Opening: https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4
+02:58:25.932 T:140211690403584  NOTICE: Creating InputStream
+02:58:29.267 T:140211690403584   ERROR: CCurlFile::Open failed with code 404 for https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4
+02:58:29.584 T:140211690403584   ERROR: Previous line repeats 1 times.
+02:58:29.584 T:140211690403584   ERROR: Open - failed to open source <https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4>
+02:58:29.584 T:140211690403584   ERROR: CVideoPlayer::OpenInputStream - error opening [https://1fiagem.oloadcdn.net/dl/l/40zFM5nk0aa10noS/oENq9umuJ9s/Dunkirk+%5BHD%5D+%282017%29+IMAX+Bluray+1080p.mp4]
+02:58:29.584 T:140211690403584  NOTICE: CVideoPlayer::OnExit()
+02:58:29.627 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:29.627 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:29.627 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:29.630 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:29.630 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:29.630 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:39.812 T:140212487965056  NOTICE: VideoPlayer: Opening: http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftelesuper.tv%3A23000%2Flive%2Ffcf1368a3b50%2FSTHZGMmJZW%2F22884.ts&callbackparam=&swf=None&auth=&simpledownloader=False
+02:58:39.812 T:140212487965056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:58:39.813 T:140211668842240  NOTICE: Creating InputStream
+02:58:39.842 T:140211660449536   ERROR: 127.0.0.1 - - [15/Jan/2018 02:58:39] "GET /callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftelesuper.tv%3A23000%2Flive%2Ffcf1368a3b50%2FSTHZGMmJZW%2F22884.ts&callbackparam=&swf=None&auth=&simpledownloader=False HTTP/1.1" 200 -
+02:58:40.044 T:140211660449536   ERROR: Traceback (most recent call last):
+02:58:40.044 T:140211660449536   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:40.045 T:140211660449536   ERROR:     response = openner.open(req)
+02:58:40.045 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 429, in open
+02:58:40.046 T:140211660449536   ERROR:     response = self._open(req, data)
+02:58:40.046 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+02:58:40.046 T:140211660449536   ERROR:     '_open', req)
+02:58:40.046 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:40.046 T:140211660449536   ERROR:     result = func(*args)
+02:58:40.046 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+02:58:40.046 T:140211660449536   ERROR:     return self.do_open(httplib.HTTPConnection, req)
+02:58:40.046 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+02:58:40.046 T:140211660449536   ERROR:     r = h.getresponse(buffering=True)
+02:58:40.046 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 1121, in getresponse
+02:58:40.047 T:140211660449536   ERROR:     response.begin()
+02:58:40.047 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 438, in begin
+02:58:40.047 T:140211660449536   ERROR:     version, status, reason = self._read_status()
+02:58:40.047 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 402, in _read_status
+02:58:40.047 T:140211660449536   ERROR:     raise BadStatusLine(line)
+02:58:40.047 T:140211660449536   ERROR: BadStatusLine: ''
+02:58:40.187 T:140211660449536   ERROR: Traceback (most recent call last):
+02:58:40.187 T:140211660449536   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:40.187 T:140211660449536   ERROR:     response = openner.open(req)
+02:58:40.187 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 429, in open
+02:58:40.187 T:140211660449536   ERROR:     response = self._open(req, data)
+02:58:40.187 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+02:58:40.187 T:140211660449536   ERROR:     '_open', req)
+02:58:40.187 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:40.187 T:140211660449536   ERROR:     result = func(*args)
+02:58:40.187 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+02:58:40.187 T:140211660449536   ERROR:     return self.do_open(httplib.HTTPConnection, req)
+02:58:40.187 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+02:58:40.187 T:140211660449536   ERROR:     r = h.getresponse(buffering=True)
+02:58:40.187 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 1121, in getresponse
+02:58:40.187 T:140211660449536   ERROR:     response.begin()
+02:58:40.187 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 438, in begin
+02:58:40.187 T:140211660449536   ERROR:     version, status, reason = self._read_status()
+02:58:40.187 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 402, in _read_status
+02:58:40.187 T:140211660449536   ERROR:     raise BadStatusLine(line)
+02:58:40.187 T:140211660449536   ERROR: BadStatusLine: ''
+02:58:40.309 T:140211660449536   ERROR: Traceback (most recent call last):
+02:58:40.309 T:140211660449536   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:40.309 T:140211660449536   ERROR:     response = openner.open(req)
+02:58:40.309 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 429, in open
+02:58:40.309 T:140211660449536   ERROR:     response = self._open(req, data)
+02:58:40.309 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+02:58:40.309 T:140211660449536   ERROR:     '_open', req)
+02:58:40.309 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:40.309 T:140211660449536   ERROR:     result = func(*args)
+02:58:40.309 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+02:58:40.309 T:140211660449536   ERROR:     return self.do_open(httplib.HTTPConnection, req)
+02:58:40.309 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+02:58:40.309 T:140211660449536   ERROR:     r = h.getresponse(buffering=True)
+02:58:40.309 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 1121, in getresponse
+02:58:40.309 T:140211660449536   ERROR:     response.begin()
+02:58:40.309 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 438, in begin
+02:58:40.309 T:140211660449536   ERROR:     version, status, reason = self._read_status()
+02:58:40.309 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 402, in _read_status
+02:58:40.309 T:140211660449536   ERROR:     raise BadStatusLine(line)
+02:58:40.309 T:140211660449536   ERROR: BadStatusLine: ''
+02:58:40.424 T:140211660449536   ERROR: Traceback (most recent call last):
+02:58:40.424 T:140211660449536   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:40.424 T:140211660449536   ERROR:     response = openner.open(req)
+02:58:40.425 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 429, in open
+02:58:40.425 T:140211660449536   ERROR:     response = self._open(req, data)
+02:58:40.425 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+02:58:40.425 T:140211660449536   ERROR:     '_open', req)
+02:58:40.425 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:40.425 T:140211660449536   ERROR:     result = func(*args)
+02:58:40.425 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+02:58:40.425 T:140211660449536   ERROR:     return self.do_open(httplib.HTTPConnection, req)
+02:58:40.425 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+02:58:40.425 T:140211660449536   ERROR:     r = h.getresponse(buffering=True)
+02:58:40.425 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 1121, in getresponse
+02:58:40.425 T:140211660449536   ERROR:     response.begin()
+02:58:40.425 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 438, in begin
+02:58:40.425 T:140211660449536   ERROR:     version, status, reason = self._read_status()
+02:58:40.425 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 402, in _read_status
+02:58:40.425 T:140211660449536   ERROR:     raise BadStatusLine(line)
+02:58:40.425 T:140211660449536   ERROR: BadStatusLine: ''
+02:58:40.540 T:140211660449536   ERROR: Traceback (most recent call last):
+02:58:40.540 T:140211660449536   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:40.540 T:140211660449536   ERROR:     response = openner.open(req)
+02:58:40.540 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 429, in open
+02:58:40.540 T:140211660449536   ERROR:     response = self._open(req, data)
+02:58:40.540 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+02:58:40.540 T:140211660449536   ERROR:     '_open', req)
+02:58:40.540 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:40.540 T:140211660449536   ERROR:     result = func(*args)
+02:58:40.540 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+02:58:40.540 T:140211660449536   ERROR:     return self.do_open(httplib.HTTPConnection, req)
+02:58:40.540 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+02:58:40.540 T:140211660449536   ERROR:     r = h.getresponse(buffering=True)
+02:58:40.540 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 1121, in getresponse
+02:58:40.540 T:140211660449536   ERROR:     response.begin()
+02:58:40.540 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 438, in begin
+02:58:40.540 T:140211660449536   ERROR:     version, status, reason = self._read_status()
+02:58:40.540 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 402, in _read_status
+02:58:40.540 T:140211660449536   ERROR:     raise BadStatusLine(line)
+02:58:40.540 T:140211660449536   ERROR: BadStatusLine: ''
+02:58:40.678 T:140211660449536   ERROR: Traceback (most recent call last):
+02:58:40.678 T:140211660449536   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:40.678 T:140211660449536   ERROR:     response = openner.open(req)
+02:58:40.678 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 429, in open
+02:58:40.678 T:140211660449536   ERROR:     response = self._open(req, data)
+02:58:40.678 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+02:58:40.678 T:140211660449536   ERROR:     '_open', req)
+02:58:40.678 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:40.678 T:140211660449536   ERROR:     result = func(*args)
+02:58:40.678 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+02:58:40.678 T:140211660449536   ERROR:     return self.do_open(httplib.HTTPConnection, req)
+02:58:40.678 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+02:58:40.678 T:140211660449536   ERROR:     r = h.getresponse(buffering=True)
+02:58:40.678 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 1121, in getresponse
+02:58:40.678 T:140211660449536   ERROR:     response.begin()
+02:58:40.678 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 438, in begin
+02:58:40.678 T:140211660449536   ERROR:     version, status, reason = self._read_status()
+02:58:40.678 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 402, in _read_status
+02:58:40.678 T:140211660449536   ERROR:     raise BadStatusLine(line)
+02:58:40.678 T:140211660449536   ERROR: BadStatusLine: ''
+02:58:40.816 T:140211660449536   ERROR: Traceback (most recent call last):
+02:58:40.816 T:140211660449536   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:40.816 T:140211660449536   ERROR:     response = openner.open(req)
+02:58:40.816 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 429, in open
+02:58:40.816 T:140211660449536   ERROR:     response = self._open(req, data)
+02:58:40.816 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+02:58:40.816 T:140211660449536   ERROR:     '_open', req)
+02:58:40.816 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:40.816 T:140211660449536   ERROR:     result = func(*args)
+02:58:40.816 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+02:58:40.816 T:140211660449536   ERROR:     return self.do_open(httplib.HTTPConnection, req)
+02:58:40.816 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+02:58:40.816 T:140211660449536   ERROR:     r = h.getresponse(buffering=True)
+02:58:40.816 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 1121, in getresponse
+02:58:40.817 T:140211660449536   ERROR:     response.begin()
+02:58:40.817 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 438, in begin
+02:58:40.817 T:140211660449536   ERROR:     version, status, reason = self._read_status()
+02:58:40.817 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 402, in _read_status
+02:58:40.817 T:140211660449536   ERROR:     raise BadStatusLine(line)
+02:58:40.817 T:140211660449536   ERROR: BadStatusLine: ''
+02:58:40.936 T:140211660449536   ERROR: Traceback (most recent call last):
+02:58:40.936 T:140211660449536   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:40.936 T:140211660449536   ERROR:     response = openner.open(req)
+02:58:40.936 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 429, in open
+02:58:40.936 T:140211660449536   ERROR:     response = self._open(req, data)
+02:58:40.936 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+02:58:40.936 T:140211660449536   ERROR:     '_open', req)
+02:58:40.936 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:40.936 T:140211660449536   ERROR:     result = func(*args)
+02:58:40.936 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+02:58:40.936 T:140211660449536   ERROR:     return self.do_open(httplib.HTTPConnection, req)
+02:58:40.936 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+02:58:40.936 T:140211660449536   ERROR:     r = h.getresponse(buffering=True)
+02:58:40.936 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 1121, in getresponse
+02:58:40.936 T:140211660449536   ERROR:     response.begin()
+02:58:40.936 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 438, in begin
+02:58:40.936 T:140211660449536   ERROR:     version, status, reason = self._read_status()
+02:58:40.936 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 402, in _read_status
+02:58:40.936 T:140211660449536   ERROR:     raise BadStatusLine(line)
+02:58:40.936 T:140211660449536   ERROR: BadStatusLine: ''
+02:58:41.055 T:140211660449536   ERROR: Traceback (most recent call last):
+02:58:41.055 T:140211660449536   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:41.056 T:140211660449536   ERROR:     response = openner.open(req)
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 429, in open
+02:58:41.056 T:140211660449536   ERROR:     response = self._open(req, data)
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 447, in _open
+02:58:41.056 T:140211660449536   ERROR:     '_open', req)
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:41.056 T:140211660449536   ERROR:     result = func(*args)
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1228, in http_open
+02:58:41.056 T:140211660449536   ERROR:     return self.do_open(httplib.HTTPConnection, req)
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 1201, in do_open
+02:58:41.056 T:140211660449536   ERROR:     r = h.getresponse(buffering=True)
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 1121, in getresponse
+02:58:41.056 T:140211660449536   ERROR:     response.begin()
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 438, in begin
+02:58:41.056 T:140211660449536   ERROR:     version, status, reason = self._read_status()
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/httplib.py", line 402, in _read_status
+02:58:41.056 T:140211660449536   ERROR:     raise BadStatusLine(line)
+02:58:41.056 T:140211660449536   ERROR: BadStatusLine: ''
+02:58:41.056 T:140211660449536   ERROR: Traceback (most recent call last):
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/SocketServer.py", line 596, in process_request_thread
+02:58:41.056 T:140211660449536   ERROR:     self.finish_request(request, client_address)
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/SocketServer.py", line 331, in finish_request
+02:58:41.056 T:140211660449536   ERROR:     self.RequestHandlerClass(request, client_address, self)
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/SocketServer.py", line 652, in __init__
+02:58:41.056 T:140211660449536   ERROR:     self.handle()
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/BaseHTTPServer.py", line 342, in handle
+02:58:41.056 T:140211660449536   ERROR:     self.handle_one_request()
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/BaseHTTPServer.py", line 310, in handle_one_request
+02:58:41.056 T:140211660449536   ERROR:     self.raw_requestline = self.rfile.readline(65537)
+02:58:41.056 T:140211660449536   ERROR:   File "/usr/lib/python2.7/socket.py", line 480, in readline
+02:58:41.057 T:140211660449536   ERROR:     data = self._sock.recv(self._rbufsize)
+02:58:41.057 T:140211660449536   ERROR: AttributeError: 'NoneType' object has no attribute 'recv'
+02:58:41.057 T:140211668842240  NOTICE: Creating Demuxer
+02:58:41.108 T:140211668842240 WARNING: could not find codec parameters for http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftelesuper.tv%3A23000%2Flive%2Ffcf1368a3b50%2FSTHZGMmJZW%2F22884.ts&callbackparam=&swf=None&auth=&simpledownloader=False
+02:58:41.108 T:140211668842240  NOTICE: CVideoPlayer::OnExit()
+02:58:41.108 T:140211668842240  NOTICE: VideoPlayer: eof, waiting for queues to empty
+02:58:41.134 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:41.134 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:41.134 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:41.138 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:41.138 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:41.138 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:42.787 T:140211883337472  NOTICE: PulseAudio: Opened device Default in pcm mode with Buffersize 150 ms
+02:58:44.344 T:140211652056832  NOTICE: URLResolver: Initializing URLResolver version: 4.0.17
+02:58:45.348 T:140212487965056  NOTICE: VideoPlayer: Opening: http://kepleriptv.cechire.org:15003/movie/carid/100916/7681.mkv
+02:58:45.348 T:140212487965056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:58:45.666 T:140211679651584  NOTICE: Creating InputStream
+02:58:46.581 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:58:46.581 T:140211679651584   ERROR: CCurlFile::Open failed with code 401 for http://kepleriptv.cechire.org:15003/movie/carid/100916/7681.mkv
+02:58:46.642 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:46.642 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:46.891 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:58:46.891 T:140211679651584   ERROR: CCurlFile::Open failed with code 401 for http://kepleriptv.cechire.org:15003/movie/carid/100916/7681.mkv
+02:58:46.891 T:140211679651584   ERROR: Open - failed to open source <http://kepleriptv.cechire.org:15003/movie/carid/100916/7681.mkv>
+02:58:46.891 T:140211679651584   ERROR: CVideoPlayer::OpenInputStream - error opening [http://kepleriptv.cechire.org:15003/movie/carid/100916/7681.mkv]
+02:58:46.891 T:140211679651584  NOTICE: CVideoPlayer::OnExit()
+02:58:46.892 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:46.892 T:140212487965056  NOTICE: VideoPlayer: Opening: http://kepleriptv.cechire.org:15003/movie/carid/100916/7681.mkv
+02:58:47.260 T:140211679651584  NOTICE: Creating InputStream
+02:58:47.637 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:58:47.637 T:140211679651584   ERROR: CCurlFile::Open failed with code 401 for http://kepleriptv.cechire.org:15003/movie/carid/100916/7681.mkv
+02:58:48.054 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:58:48.054 T:140211679651584   ERROR: CCurlFile::Open failed with code 401 for http://kepleriptv.cechire.org:15003/movie/carid/100916/7681.mkv
+02:58:48.054 T:140211679651584   ERROR: Open - failed to open source <http://kepleriptv.cechire.org:15003/movie/carid/100916/7681.mkv>
+02:58:48.054 T:140211679651584   ERROR: CVideoPlayer::OpenInputStream - error opening [http://kepleriptv.cechire.org:15003/movie/carid/100916/7681.mkv]
+02:58:48.054 T:140211679651584  NOTICE: CVideoPlayer::OnExit()
+02:58:48.093 T:140212487965056   ERROR: Playlist Player: skipping unplayable item: 0, path [plugin://plugin.video.evilkingplus30/?url=plugin%3A%2F%2Fscript.module.evilsearch%2F%3Faction%3Dplay%26url%3Dhttp%253A%252F%252Ftelesuper.tv%253A23000%252Flive%252Ffcf1368a3b50%252FSTHZGMmJZW%252F22884.ts%26content%3Dvideos&mode=12]
+02:58:48.111 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:48.111 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:48.111 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:48.118 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:48.118 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:48.118 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:53.008 T:140212487965056  NOTICE: VideoPlayer: Opening: http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftelesuper.tv%3A23000%2Flive%2Ffullpers%2F9yqVSOwJCe%2F22887.ts&callbackparam=&swf=None&auth=&simpledownloader=False
+02:58:53.008 T:140212487965056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:58:53.008 T:140211632183040  NOTICE: Creating InputStream
+02:58:53.035 T:140210415335168   ERROR: 127.0.0.1 - - [15/Jan/2018 02:58:53] "GET /callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftelesuper.tv%3A23000%2Flive%2Ffullpers%2F9yqVSOwJCe%2F22887.ts&callbackparam=&swf=None&auth=&simpledownloader=False HTTP/1.1" 200 -
+02:58:53.202 T:140210415335168   ERROR: Traceback (most recent call last):
+02:58:53.202 T:140210415335168   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:53.202 T:140210415335168   ERROR:     response = openner.open(req)
+02:58:53.202 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 435, in open
+02:58:53.202 T:140210415335168   ERROR:     response = meth(req, response)
+02:58:53.202 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+02:58:53.202 T:140210415335168   ERROR:     'http', request, response, code, msg, hdrs)
+02:58:53.202 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 473, in error
+02:58:53.202 T:140210415335168   ERROR:     return self._call_chain(*args)
+02:58:53.202 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:53.202 T:140210415335168   ERROR:     result = func(*args)
+02:58:53.202 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+02:58:53.202 T:140210415335168   ERROR:     raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+02:58:53.202 T:140210415335168   ERROR: HTTPError: HTTP Error 401: Unauthorized
+02:58:53.348 T:140210415335168   ERROR: Traceback (most recent call last):
+02:58:53.348 T:140210415335168   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:53.348 T:140210415335168   ERROR:     response = openner.open(req)
+02:58:53.348 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 435, in open
+02:58:53.348 T:140210415335168   ERROR:     response = meth(req, response)
+02:58:53.348 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+02:58:53.348 T:140210415335168   ERROR:     'http', request, response, code, msg, hdrs)
+02:58:53.348 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 473, in error
+02:58:53.348 T:140210415335168   ERROR:     return self._call_chain(*args)
+02:58:53.348 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:53.348 T:140210415335168   ERROR:     result = func(*args)
+02:58:53.348 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+02:58:53.348 T:140210415335168   ERROR:     raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+02:58:53.348 T:140210415335168   ERROR: HTTPError: HTTP Error 401: Unauthorized
+02:58:53.498 T:140210415335168   ERROR: Traceback (most recent call last):
+02:58:53.498 T:140210415335168   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:53.498 T:140210415335168   ERROR:     response = openner.open(req)
+02:58:53.498 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 435, in open
+02:58:53.498 T:140210415335168   ERROR:     response = meth(req, response)
+02:58:53.498 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+02:58:53.498 T:140210415335168   ERROR:     'http', request, response, code, msg, hdrs)
+02:58:53.498 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 473, in error
+02:58:53.498 T:140210415335168   ERROR:     return self._call_chain(*args)
+02:58:53.498 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:53.498 T:140210415335168   ERROR:     result = func(*args)
+02:58:53.498 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+02:58:53.498 T:140210415335168   ERROR:     raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+02:58:53.498 T:140210415335168   ERROR: HTTPError: HTTP Error 401: Unauthorized
+02:58:53.664 T:140210415335168   ERROR: Traceback (most recent call last):
+02:58:53.664 T:140210415335168   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:53.664 T:140210415335168   ERROR:     response = openner.open(req)
+02:58:53.664 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 435, in open
+02:58:53.665 T:140210415335168   ERROR:     response = meth(req, response)
+02:58:53.665 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+02:58:53.665 T:140210415335168   ERROR:     'http', request, response, code, msg, hdrs)
+02:58:53.665 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 473, in error
+02:58:53.665 T:140210415335168   ERROR:     return self._call_chain(*args)
+02:58:53.665 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:53.665 T:140210415335168   ERROR:     result = func(*args)
+02:58:53.665 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+02:58:53.665 T:140210415335168   ERROR:     raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+02:58:53.665 T:140210415335168   ERROR: HTTPError: HTTP Error 401: Unauthorized
+02:58:53.831 T:140210415335168   ERROR: Traceback (most recent call last):
+02:58:53.831 T:140210415335168   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:53.831 T:140210415335168   ERROR:     response = openner.open(req)
+02:58:53.831 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 435, in open
+02:58:53.831 T:140210415335168   ERROR:     response = meth(req, response)
+02:58:53.831 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+02:58:53.831 T:140210415335168   ERROR:     'http', request, response, code, msg, hdrs)
+02:58:53.831 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 473, in error
+02:58:53.831 T:140210415335168   ERROR:     return self._call_chain(*args)
+02:58:53.831 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:53.831 T:140210415335168   ERROR:     result = func(*args)
+02:58:53.831 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+02:58:53.831 T:140210415335168   ERROR:     raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+02:58:53.831 T:140210415335168   ERROR: HTTPError: HTTP Error 401: Unauthorized
+02:58:53.977 T:140210415335168   ERROR: Traceback (most recent call last):
+02:58:53.977 T:140210415335168   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:53.977 T:140210415335168   ERROR:     response = openner.open(req)
+02:58:53.977 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 435, in open
+02:58:53.977 T:140210415335168   ERROR:     response = meth(req, response)
+02:58:53.977 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+02:58:53.977 T:140210415335168   ERROR:     'http', request, response, code, msg, hdrs)
+02:58:53.977 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 473, in error
+02:58:53.977 T:140210415335168   ERROR:     return self._call_chain(*args)
+02:58:53.977 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:53.977 T:140210415335168   ERROR:     result = func(*args)
+02:58:53.977 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+02:58:53.977 T:140210415335168   ERROR:     raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+02:58:53.977 T:140210415335168   ERROR: HTTPError: HTTP Error 401: Unauthorized
+02:58:54.126 T:140210415335168   ERROR: Traceback (most recent call last):
+02:58:54.126 T:140210415335168   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:54.126 T:140210415335168   ERROR:     response = openner.open(req)
+02:58:54.126 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 435, in open
+02:58:54.126 T:140210415335168   ERROR:     response = meth(req, response)
+02:58:54.126 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+02:58:54.126 T:140210415335168   ERROR:     'http', request, response, code, msg, hdrs)
+02:58:54.126 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 473, in error
+02:58:54.126 T:140210415335168   ERROR:     return self._call_chain(*args)
+02:58:54.126 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:54.126 T:140210415335168   ERROR:     result = func(*args)
+02:58:54.126 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+02:58:54.126 T:140210415335168   ERROR:     raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+02:58:54.126 T:140210415335168   ERROR: HTTPError: HTTP Error 401: Unauthorized
+02:58:54.288 T:140210415335168   ERROR: Traceback (most recent call last):
+02:58:54.288 T:140210415335168   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:54.288 T:140210415335168   ERROR:     response = openner.open(req)
+02:58:54.288 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 435, in open
+02:58:54.288 T:140210415335168   ERROR:     response = meth(req, response)
+02:58:54.288 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+02:58:54.288 T:140210415335168   ERROR:     'http', request, response, code, msg, hdrs)
+02:58:54.288 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 473, in error
+02:58:54.288 T:140210415335168   ERROR:     return self._call_chain(*args)
+02:58:54.288 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:54.288 T:140210415335168   ERROR:     result = func(*args)
+02:58:54.288 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+02:58:54.288 T:140210415335168   ERROR:     raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+02:58:54.288 T:140210415335168   ERROR: HTTPError: HTTP Error 401: Unauthorized
+02:58:54.463 T:140210415335168   ERROR: Traceback (most recent call last):
+02:58:54.463 T:140210415335168   ERROR:   File "/home/aba/.kodi/addons/script.video.F4mProxy/lib/TSDownloader.py", line 399, in openUrl
+02:58:54.463 T:140210415335168   ERROR:     response = openner.open(req)
+02:58:54.463 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 435, in open
+02:58:54.463 T:140210415335168   ERROR:     response = meth(req, response)
+02:58:54.463 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 548, in http_response
+02:58:54.463 T:140210415335168   ERROR:     'http', request, response, code, msg, hdrs)
+02:58:54.463 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 473, in error
+02:58:54.463 T:140210415335168   ERROR:     return self._call_chain(*args)
+02:58:54.463 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 407, in _call_chain
+02:58:54.463 T:140210415335168   ERROR:     result = func(*args)
+02:58:54.463 T:140210415335168   ERROR:   File "/usr/lib/python2.7/urllib2.py", line 556, in http_error_default
+02:58:54.463 T:140210415335168   ERROR:     raise HTTPError(req.get_full_url(), code, msg, hdrs, fp)
+02:58:54.463 T:140210415335168   ERROR: HTTPError: HTTP Error 401: Unauthorized
+02:58:54.464 T:140210415335168   ERROR: Traceback (most recent call last):
+02:58:54.464 T:140210415335168   ERROR:   File "/usr/lib/python2.7/SocketServer.py", line 596, in process_request_thread
+02:58:54.464 T:140210415335168   ERROR:     self.finish_request(request, client_address)
+02:58:54.464 T:140210415335168   ERROR:   File "/usr/lib/python2.7/SocketServer.py", line 331, in finish_request
+02:58:54.464 T:140210415335168   ERROR:     self.RequestHandlerClass(request, client_address, self)
+02:58:54.464 T:140210415335168   ERROR:   File "/usr/lib/python2.7/SocketServer.py", line 652, in __init__
+02:58:54.464 T:140210415335168   ERROR:     self.handle()
+02:58:54.464 T:140210415335168   ERROR:   File "/usr/lib/python2.7/BaseHTTPServer.py", line 342, in handle
+02:58:54.464 T:140210415335168   ERROR:     self.handle_one_request()
+02:58:54.464 T:140210415335168   ERROR:   File "/usr/lib/python2.7/BaseHTTPServer.py", line 310, in handle_one_request
+02:58:54.464 T:140210415335168   ERROR:     self.raw_requestline = self.rfile.readline(65537)
+02:58:54.465 T:140210415335168   ERROR:   File "/usr/lib/python2.7/socket.py", line 480, in readline
+02:58:54.465 T:140210415335168   ERROR:     data = self._sock.recv(self._rbufsize)
+02:58:54.465 T:140210415335168   ERROR: AttributeError: 'NoneType' object has no attribute 'recv'
+02:58:54.465 T:140211632183040  NOTICE: Creating Demuxer
+02:58:54.465 T:140211632183040 WARNING: could not find codec parameters for http://127.0.0.1:55333/callbackpath=&use_proxy_for_chunks=True&streamtype=TSDOWNLOADER&maxbitrate=0&proxy=None&url=http%3A%2F%2Ftelesuper.tv%3A23000%2Flive%2Ffullpers%2F9yqVSOwJCe%2F22887.ts&callbackparam=&swf=None&auth=&simpledownloader=False
+02:58:54.466 T:140211632183040  NOTICE: CVideoPlayer::OnExit()
+02:58:54.466 T:140211632183040  NOTICE: VideoPlayer: eof, waiting for queues to empty
+02:58:54.491 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:54.491 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:54.491 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:54.494 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:54.494 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:54.494 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:56.733 T:140210415335168  NOTICE: URLResolver: Initializing URLResolver version: 4.0.17
+02:58:57.140 T:140212487965056  NOTICE: VideoPlayer: Opening: http://kepleriptv.cechire.org:15003/movie/Zgemma41/F9J7Y3gZPD/7681.mkv
+02:58:57.140 T:140212487965056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:58:57.465 T:140210398549760  NOTICE: Creating InputStream
+02:58:57.995 T:140210398549760   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:58:57.995 T:140210398549760   ERROR: CCurlFile::Open failed with code 401 for http://kepleriptv.cechire.org:15003/movie/Zgemma41/F9J7Y3gZPD/7681.mkv
+02:58:58.335 T:140210398549760   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:58:58.335 T:140210398549760   ERROR: CCurlFile::Open failed with code 401 for http://kepleriptv.cechire.org:15003/movie/Zgemma41/F9J7Y3gZPD/7681.mkv
+02:58:58.335 T:140210398549760   ERROR: Open - failed to open source <http://kepleriptv.cechire.org:15003/movie/Zgemma41/F9J7Y3gZPD/7681.mkv>
+02:58:58.335 T:140210398549760   ERROR: CVideoPlayer::OpenInputStream - error opening [http://kepleriptv.cechire.org:15003/movie/Zgemma41/F9J7Y3gZPD/7681.mkv]
+02:58:58.335 T:140210398549760  NOTICE: CVideoPlayer::OnExit()
+02:58:58.386 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:58.386 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:58.386 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:58.386 T:140212487965056  NOTICE: VideoPlayer: Opening: http://kepleriptv.cechire.org:15003/movie/Zgemma41/F9J7Y3gZPD/7681.mkv
+02:58:58.786 T:140210398549760  NOTICE: Creating InputStream
+02:58:59.117 T:140210398549760   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:58:59.117 T:140210398549760   ERROR: CCurlFile::Open failed with code 401 for http://kepleriptv.cechire.org:15003/movie/Zgemma41/F9J7Y3gZPD/7681.mkv
+02:58:59.477 T:140210398549760   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:58:59.477 T:140210398549760   ERROR: CCurlFile::Open failed with code 401 for http://kepleriptv.cechire.org:15003/movie/Zgemma41/F9J7Y3gZPD/7681.mkv
+02:58:59.477 T:140210398549760   ERROR: Open - failed to open source <http://kepleriptv.cechire.org:15003/movie/Zgemma41/F9J7Y3gZPD/7681.mkv>
+02:58:59.477 T:140210398549760   ERROR: CVideoPlayer::OpenInputStream - error opening [http://kepleriptv.cechire.org:15003/movie/Zgemma41/F9J7Y3gZPD/7681.mkv]
+02:58:59.477 T:140210398549760  NOTICE: CVideoPlayer::OnExit()
+02:58:59.518 T:140212487965056   ERROR: Playlist Player: skipping unplayable item: 0, path [plugin://plugin.video.evilkingplus30/?url=plugin%3A%2F%2Fscript.module.evilsearch%2F%3Faction%3Dplay%26url%3Dhttp%253A%252F%252Ftelesuper.tv%253A23000%252Flive%252Ffullpers%252F9yqVSOwJCe%252F22887.ts%26content%3Dvideos&mode=12]
+02:58:59.519 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:59.519 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:59.519 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:58:59.522 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:58:59.522 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:58:59.522 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:59:02.759 T:140211690403584  NOTICE: URLResolver: Initializing URLResolver version: 4.0.17
+02:59:03.239 T:140212487965056   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4
+02:59:03.243 T:140212487965056  NOTICE: VideoPlayer: Opening: http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4
+02:59:03.243 T:140212487965056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:59:03.563 T:140212487965056   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4
+02:59:03.564 T:140206493374208  NOTICE: Creating InputStream
+02:59:03.838 T:140206493374208   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:59:03.838 T:140206493374208   ERROR: CCurlFile::Open failed with code 401 for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4
+02:59:03.987 T:140206493374208   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:59:03.987 T:140206493374208   ERROR: CCurlFile::Open failed with code 401 for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4
+02:59:03.987 T:140206493374208   ERROR: Open - failed to open source <http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4>
+02:59:03.987 T:140206493374208   ERROR: CVideoPlayer::OpenInputStream - error opening [http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4]
+02:59:03.987 T:140206493374208  NOTICE: CVideoPlayer::OnExit()
+02:59:03.987 T:140212487965056   ERROR: Playlist Player: skipping unplayable item: 0, path [plugin://plugin.video.evilkingplus30/?url=plugin%3A%2F%2Fscript.module.evilsearch%2F%3Faction%3Dplay%26url%3Dhttp%253A%252F%252Fcdn04.selling-team.net%253A80%252Fmovie%252FcUaRkSrjlW%252FFcykZoRdXa%252F85425.mp4%26content%3Dvideos&mode=12]
+02:59:03.990 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:59:03.990 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:59:03.990 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:59:03.993 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:59:03.993 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:59:03.993 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:59:04.295 T:140212487965056   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4
+02:59:04.299 T:140212487965056  NOTICE: VideoPlayer: Opening: http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4
+02:59:04.299 T:140212487965056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:59:04.616 T:140212487965056   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4
+02:59:04.617 T:140206493374208  NOTICE: Creating InputStream
+02:59:04.787 T:140206493374208   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:59:04.787 T:140206493374208   ERROR: CCurlFile::Open failed with code 401 for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4
+02:59:04.945 T:140206493374208   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:59:04.945 T:140206493374208   ERROR: CCurlFile::Open failed with code 401 for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4
+02:59:04.945 T:140206493374208   ERROR: Open - failed to open source <http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4>
+02:59:04.945 T:140206493374208   ERROR: CVideoPlayer::OpenInputStream - error opening [http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85425.mp4]
+02:59:04.945 T:140206493374208  NOTICE: CVideoPlayer::OnExit()
+02:59:04.948 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:59:04.948 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:59:04.948 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:59:04.950 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:59:04.950 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:59:04.950 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:59:07.083 T:140210398549760  NOTICE: URLResolver: Initializing URLResolver version: 4.0.17
+02:59:07.452 T:140212487965056   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv
+02:59:07.455 T:140212487965056  NOTICE: VideoPlayer: Opening: http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv
+02:59:07.456 T:140212487965056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:59:07.769 T:140212487965056   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv
+02:59:07.769 T:140211679651584  NOTICE: Creating InputStream
+02:59:07.943 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:59:07.943 T:140211679651584   ERROR: CCurlFile::Open failed with code 401 for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv
+02:59:08.113 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:59:08.113 T:140211679651584   ERROR: CCurlFile::Open failed with code 401 for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv
+02:59:08.113 T:140211679651584   ERROR: Open - failed to open source <http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv>
+02:59:08.113 T:140211679651584   ERROR: CVideoPlayer::OpenInputStream - error opening [http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv]
+02:59:08.113 T:140211679651584  NOTICE: CVideoPlayer::OnExit()
+02:59:08.113 T:140212487965056   ERROR: Playlist Player: skipping unplayable item: 0, path [plugin://plugin.video.evilkingplus30/?url=plugin%3A%2F%2Fscript.module.evilsearch%2F%3Faction%3Dplay%26url%3Dhttp%253A%252F%252Fcdn04.selling-team.net%253A80%252Fmovie%252FcUaRkSrjlW%252FFcykZoRdXa%252F85417.mkv%26content%3Dvideos&mode=12]
+02:59:08.116 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:59:08.116 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:59:08.116 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:59:08.121 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:59:08.121 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:59:08.121 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:59:08.436 T:140212487965056   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv
+02:59:08.441 T:140212487965056  NOTICE: VideoPlayer: Opening: http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv
+02:59:08.441 T:140212487965056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:59:08.751 T:140212487965056   ERROR: CCurlFile::Stat - Failed: HTTP response code said error(22) for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv
+02:59:08.751 T:140211679651584  NOTICE: Creating InputStream
+02:59:08.924 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:59:08.924 T:140211679651584   ERROR: CCurlFile::Open failed with code 401 for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv
+02:59:09.100 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+02:59:09.100 T:140211679651584   ERROR: CCurlFile::Open failed with code 401 for http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv
+02:59:09.100 T:140211679651584   ERROR: Open - failed to open source <http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv>
+02:59:09.100 T:140211679651584   ERROR: CVideoPlayer::OpenInputStream - error opening [http://cdn04.selling-team.net:80/movie/cUaRkSrjlW/FcykZoRdXa/85417.mkv]
+02:59:09.100 T:140211679651584  NOTICE: CVideoPlayer::OnExit()
+02:59:09.106 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:59:09.106 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:59:09.106 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:59:09.109 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:59:09.109 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:59:09.109 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:59:11.052 T:140206493374208  NOTICE: URLResolver: Initializing URLResolver version: 4.0.17
+02:59:11.373 T:140212487965056  NOTICE: VideoPlayer: Opening: http://vod.cdnlive1.win/movie/OOIvC0h1v0/tLw3iMGwUG/54297.mp4
+02:59:11.373 T:140212487965056 WARNING: CDVDMessageQueue(player)::Put MSGQ_NOT_INITIALIZED
+02:59:11.433 T:140211632183040  NOTICE: Creating InputStream
+02:59:12.059 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+02:59:12.059 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+02:59:12.167 T:140211632183040  NOTICE: Creating Demuxer
+02:59:12.167 T:140211632183040   ERROR: OpenDemuxStream - Error creating demuxer
+02:59:12.167 T:140211632183040  NOTICE: CVideoPlayer::OnExit()
+02:59:12.167 T:140212487965056  NOTICE: VideoPlayer: finished waiting
+02:59:12.167 T:140212487965056  NOTICE: VideoPlayer: Opening: http://vod.cdnlive1.win/movie/OOIvC0h1v0/tLw3iMGwUG/54297.mp4
+02:59:12.228 T:140211632183040  NOTICE: Creating InputStream
+02:59:12.752 T:140211632183040  NOTICE: Creating Demuxer
+02:59:16.750 T:140211632183040  NOTICE: Opening stream: 0 source: 256
+02:59:16.750 T:140211632183040  NOTICE: Creating video codec with codec id: 28
+02:59:16.750 T:140211632183040  NOTICE: CDVDVideoCodecFFmpeg::Open() Using codec: H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10
+02:59:16.750 T:140211632183040  NOTICE: Creating video thread
+02:59:16.750 T:140211632183040  NOTICE: Opening stream: 1 source: 256
+02:59:16.750 T:140211632183040  NOTICE: Finding audio codec for: 86018
+02:59:16.750 T:140209420650240  NOTICE: running thread: video_thread
+02:59:16.751 T:140211632183040  NOTICE: Creating audio thread
+02:59:16.751 T:140208571881216  NOTICE: running thread: CVideoPlayerAudio::Process()
+02:59:16.751 T:140209420650240  NOTICE: CDVDVideoCodecFFmpeg::GetFormat - Creating VDPAU(720x406)
+02:59:16.751 T:140209420650240  NOTICE: VDPAU::Open: required extension GL_NV_vdpau_interop not found
+02:59:16.751 T:140209420650240  NOTICE:  (VDPAU) Close
+02:59:16.759 T:140208563488512  NOTICE: COutput::OnStartup: Output Thread created
+02:59:16.761 T:140208571881216  NOTICE: Creating audio stream (codec id: 86018, channels: 2, sample rate: 48000, no pass-through)
+02:59:16.775 T:140212487965056  NOTICE: GL: Selecting Single Pass YUV 2 RGB shader
+02:59:16.791 T:140212487965056  NOTICE: GL: NPOT texture support detected
+02:59:16.791 T:140212487965056  NOTICE: GL: Using GL_ARB_pixel_buffer_object
+02:59:16.791 T:140212487965056  NOTICE: Using GL_TEXTURE_2D
+02:59:16.791 T:140212487965056  NOTICE: GL: Selecting Single Pass YUV 2 RGB shader
+02:59:16.800 T:140212487965056  NOTICE: GL: NPOT texture support detected
+02:59:16.800 T:140212487965056  NOTICE: GL: Using GL_ARB_pixel_buffer_object
+02:59:16.958 T:140211883337472  NOTICE: PulseAudio: Opened device Default in pcm mode with Buffersize 150 ms
+02:59:17.235 T:140209420650240  NOTICE: CDVDVideoCodecFFmpeg::CDropControl: calculated diff time: 33333
+02:59:24.206 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+02:59:24.206 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+02:59:27.825 T:140209420650240 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+03:01:42.594 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+03:10:38.516 T:140212487965056  NOTICE: Previous line repeats 1 times.
+03:10:38.516 T:140212487965056   ERROR: Control 50 in window 10025 has been asked to focus, but it can't
+03:11:44.892 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+03:15:59.758 T:140211883337472  NOTICE: PulseAudio: Opened device Default in pcm mode with Buffersize 150 ms
+03:16:12.598 T:140209420650240 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+03:16:46.035 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+03:25:14.528 T:140211883337472  NOTICE: Previous line repeats 1 times.
+03:25:14.528 T:140211883337472  NOTICE: PulseAudio: Opened device Default in pcm mode with Buffersize 150 ms
+03:25:15.955 T:140212487965056  NOTICE: VideoPlayer: OnLostDisplay received
+03:25:15.985 T:140212487965056  NOTICE: VideoPlayer: OnResetDisplay received
+03:25:16.014 T:140212487965056  NOTICE: GL: Selecting Single Pass YUV 2 RGB shader
+03:25:16.060 T:140212487965056  NOTICE: GL: NPOT texture support detected
+03:25:16.060 T:140212487965056  NOTICE: GL: Using GL_ARB_pixel_buffer_object
+03:25:16.060 T:140212487965056  NOTICE: Using GL_TEXTURE_2D
+03:25:16.085 T:140212487965056  NOTICE: GL: Selecting Single Pass YUV 2 RGB shader
+03:25:16.106 T:140212487965056  NOTICE: GL: NPOT texture support detected
+03:25:16.106 T:140212487965056  NOTICE: GL: Using GL_ARB_pixel_buffer_object
+03:25:59.992 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:25:59.992 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:26:38.742 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+03:26:48.397 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+03:26:53.530 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:26:53.530 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:28:41.419 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:28:41.419 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:29:54.327 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:29:54.327 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:31:41.654 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:31:41.654 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:31:49.588 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+03:32:49.650 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:32:49.651 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:33:47.053 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:33:47.053 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:34:58.095 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:34:58.095 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:36:26.129 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:36:26.129 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:36:50.696 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+03:37:36.388 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:37:36.388 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:38:32.256 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:38:32.256 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:39:36.881 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:39:36.881 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:40:24.531 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:40:24.531 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:41:51.838 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+03:41:52.287 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:41:52.287 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:43:28.668 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:43:28.668 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:44:31.421 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:44:31.421 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:46:53.025 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+03:47:15.788 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:47:15.788 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:48:23.552 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:48:23.552 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:49:32.162 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:49:32.162 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:50:50.702 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:50:50.702 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:51:54.199 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+03:52:31.283 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:52:31.284 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:53:57.231 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:53:57.231 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:55:44.248 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:55:44.248 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+03:56:39.135 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+03:56:55.345 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+03:58:05.151 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+03:58:05.151 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:00:10.313 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:00:10.313 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:01:47.655 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:01:47.655 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:01:56.520 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+04:02:43.425 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:02:43.425 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:04:08.718 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:04:08.719 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:05:34.719 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:05:34.719 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:06:56.886 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:06:56.886 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:06:57.662 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+04:08:21.016 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:08:21.016 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:10:12.522 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:10:12.522 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:11:58.806 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+04:12:01.886 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:12:01.886 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:13:23.689 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:13:23.689 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:14:46.619 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:14:46.619 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:16:49.352 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:16:49.352 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:17:00.121 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+04:19:09.481 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:19:09.481 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:21:28.053 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:21:28.053 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:22:01.246 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+04:22:47.182 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:22:47.182 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:24:20.291 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:24:20.291 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:26:02.595 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:26:02.595 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:26:39.496 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+04:27:02.457 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+04:27:16.217 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:27:16.217 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:29:03.489 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:29:03.489 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:30:04.092 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:30:04.092 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:31:45.521 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:31:45.521 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:32:03.591 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+04:34:22.583 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:34:22.583 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:35:04.680 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:35:04.680 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:35:59.758 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:35:59.758 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:37:04.707 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+04:37:41.286 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:37:41.286 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:39:13.096 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:39:13.096 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:40:33.924 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:40:33.924 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:41:40.820 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:41:40.820 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:42:05.934 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+04:42:22.985 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:42:22.985 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:43:33.686 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:43:33.686 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:44:40.992 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:44:40.992 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:46:40.559 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: Transferred a partial file(18)
+04:46:40.559 T:140211679651584 WARNING: CCurlFile::FillBuffer - Reconnect, (re)try 1
+04:46:40.675 T:140211679651584   ERROR: CCurlFile::FillBuffer - Failed: HTTP returned error 401
+04:47:03.640 T:140208571881216  NOTICE: CVideoPlayerAudio::Process - stream stalled
+04:47:03.716 T:140209420650240   ERROR: Decode - avcodec_decode_video returned failure
+04:47:07.056 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+04:56:39.879 T:140210390157056  NOTICE: Previous line repeats 1 times.
+04:56:39.879 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+04:57:09.307 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+05:26:40.395 T:140210390157056  NOTICE: Previous line repeats 5 times.
+05:26:40.395 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+05:27:15.481 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+05:56:40.807 T:140210390157056  NOTICE: Previous line repeats 5 times.
+05:56:40.807 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+05:57:21.364 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+06:26:41.181 T:140210390157056  NOTICE: Previous line repeats 5 times.
+06:26:41.181 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+06:27:28.236 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+06:56:41.559 T:140210390157056  NOTICE: Previous line repeats 5 times.
+06:56:41.559 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+06:57:34.084 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+07:26:42.027 T:140210390157056  NOTICE: Previous line repeats 5 times.
+07:26:42.027 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+07:27:41.947 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+07:56:42.436 T:140210390157056  NOTICE: Previous line repeats 5 times.
+07:56:42.436 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+07:57:48.890 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+08:26:42.889 T:140210390157056  NOTICE: Previous line repeats 5 times.
+08:26:42.889 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+08:27:55.974 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+08:56:43.359 T:140210390157056  NOTICE: Previous line repeats 5 times.
+08:56:43.359 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+08:58:01.944 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+09:26:43.786 T:140210390157056  NOTICE: Previous line repeats 5 times.
+09:26:43.786 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+09:28:09.704 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+09:56:44.137 T:140210390157056  NOTICE: Previous line repeats 5 times.
+09:56:44.137 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+09:58:16.801 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+10:26:44.508 T:140210390157056  NOTICE: Previous line repeats 5 times.
+10:26:44.508 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+10:28:23.815 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+10:56:44.902 T:140210390157056  NOTICE: Previous line repeats 5 times.
+10:56:44.902 T:140210390157056  NOTICE: INDIGO NOTICE: Checking for Malicious scripts
+10:58:30.780 T:140209025308416  NOTICE: AddOnLog: PVR IPTV Simple Client: EPG Loaded.
+11:04:56.623 T:140212487965056  NOTICE: Previous line repeats 1 times.
+11:04:56.623 T:140212487965056  NOTICE: CVideoPlayer::CloseFile()
+11:04:56.623 T:140212487965056  NOTICE: VideoPlayer: waiting for threads to exit
+11:04:57.124 T:140209420650240 WARNING: CRenderManager::WaitForBuffer - timeout waiting for buffer
+11:05:06.393 T:140211883337472 WARNING: Previous line repeats 2 times.
+11:05:06.393 T:140211883337472   ERROR: CPulseAudioDirectSound::AddPackets - pa_stream_write failed
