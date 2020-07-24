@@ -1,6 +1,6 @@
 # -*- coding: iso-8859-1 -*-
 #------------------------------------------------------------
-# streamondemand-pureita-master - XBMC Plugin
+# streamondemand-pureita-main - XBMC Plugin
 # Zip Tools
 # http://blog.tvalacarta.info/plugin-xbmc/streamondemand-pureita-master/
 #------------------------------------------------------------
@@ -27,7 +27,7 @@ class ziptools:
             logger.info("name=%s" % name)
             if not name.endswith('/'):
                 content = zf.read(name)
-                name = name.replace('-master', '')
+                name = name.replace('-main', '')
                 logger.info("no es un directorio")
                 try:
                     (path, filename) = os.path.split(os.path.join(dir, name))
@@ -58,7 +58,7 @@ class ziptools:
         dirs = []
         for name in zf.namelist():
             if name.endswith('/'):
-                dirs.append(name.replace('-master', ''))
+                dirs.append(name.replace('-main', ''))
 
         dirs.sort()
         return dirs

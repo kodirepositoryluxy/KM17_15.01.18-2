@@ -260,13 +260,13 @@ class SMBMachine:
 
 class SMBDomain:
 
-    def __init__(self, nbgroup, type, master_browser):
+    def __init__(self, nbgroup, type, main_browser):
         self.__nbgroup = nbgroup
         self.__type = type
-        self.__master_browser = master_browser
+        self.__main_browser = main_browser
 
     def __repr__(self):
-        return '<SMBDomain instance: nbgroup="' + self.__nbgroup + '", type=' + hex(self.__type) + ', master browser="' + self.__master_browser + '">'
+        return '<SMBDomain instance: nbgroup="' + self.__nbgroup + '", type=' + hex(self.__type) + ', main browser="' + self.__main_browser + '">'
 
 
 

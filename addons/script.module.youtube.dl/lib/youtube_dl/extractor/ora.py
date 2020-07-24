@@ -46,7 +46,7 @@ class OraTVIE(InfoExtractor):
                 QUALITIES_RE, m3u8_path, 'qualities').strip(',').split(',')
             http_path = m3u8_path[1:].split('/', 1)[1]
             http_template = re.sub(QUALITIES_RE, r'%s', http_path)
-            http_template = http_template.replace('.csmil/master.m3u8', '')
+            http_template = http_template.replace('.csmil/main.m3u8', '')
             http_template = compat_urlparse.urljoin(
                 'http://videocdn-pmd.ora.tv/', http_template)
             preference = qualities(

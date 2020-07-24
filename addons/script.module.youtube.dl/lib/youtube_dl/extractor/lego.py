@@ -84,7 +84,7 @@ class LEGOIE(InfoExtractor):
         streaming_path = ','.join(map(lambda bitrate: compat_str(bitrate), self._BITRATES))
 
         formats = self._extract_akamai_formats(
-            '%si/s/public/%s_,%s,.mp4.csmil/master.m3u8' % (streaming_base, path, streaming_path), video_id)
+            '%si/s/public/%s_,%s,.mp4.csmil/main.m3u8' % (streaming_base, path, streaming_path), video_id)
         m3u8_formats = list(filter(
             lambda f: f.get('protocol') == 'm3u8_native' and f.get('vcodec') != 'none',
             formats))

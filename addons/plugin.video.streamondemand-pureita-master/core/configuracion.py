@@ -1,6 +1,6 @@
 # -*- coding: iso-8859-1 -*-
 #------------------------------------------------------------
-# streamondemand-pureita-master - XBMC Plugin
+# streamondemand-pureita-main - XBMC Plugin
 # Configuración
 # http://blog.tvalacarta.info/plugin-xbmc/streamondemand-pureita-master/
 #------------------------------------------------------------

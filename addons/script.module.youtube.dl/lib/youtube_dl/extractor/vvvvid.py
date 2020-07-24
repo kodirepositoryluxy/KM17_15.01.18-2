@@ -122,7 +122,7 @@ class VVVVIDIE(InfoExtractor):
             embed_code = ds(embed_code)
             video_type = video_data.get('video_type')
             if video_type in ('video/rcs', 'video/kenc'):
-                embed_code = re.sub(r'https?://([^/]+)/z/', r'https://\1/i/', embed_code).replace('/manifest.f4m', '/master.m3u8')
+                embed_code = re.sub(r'https?://([^/]+)/z/', r'https://\1/i/', embed_code).replace('/manifest.f4m', '/main.m3u8')
                 if video_type == 'video/kenc':
                     kenc = self._download_json(
                         'https://www.vvvvid.it/kenc', video_id, query={

@@ -48,7 +48,7 @@ ATTRIBUTE_REGEX = (r"([A-Z\-]+)=(\d+\.\d+|0x[0-9A-z]+|\d+x\d+|\d+|"
 class M3U8(object):
     def __init__(self):
         self.is_endlist = False
-        self.is_master = False
+        self.is_main = False
 
         self.allow_cache = None
         self.discontinuity_sequence = None
@@ -249,7 +249,7 @@ class M3U8Parser(object):
                                         self.m3u8.media):
                         playlist.media.append(media)
 
-        self.m3u8.is_master = not not self.m3u8.playlists
+        self.m3u8.is_main = not not self.m3u8.playlists
 
         return self.m3u8
 

@@ -473,9 +473,9 @@ def interface(name):
     xbmc.executebuiltin("Container.SetViewMode(%s)" % VIEW)
 	
 def unsorted(name):
-    name = "masterlock"
+    name = "mainlock"
     dirlist =  ['startuplock<>bool<>true prompts user for code upon startup\nIf you enable, setting will be removed from UI<>', 
-	'automastermode<>bool<>automatically enters master mode if the master code is given\nIf you enable, setting will be removed from UI<>',
+	'automainmode<>bool<>automatically enters main mode if the main code is given\nIf you enable, setting will be removed from UI<>',
 	'loginlock<>bool<>whether to use locks on login screen or not\nIf you enable, setting will be removed from UI<>',
 	'maxretries<>num<>enter the max number of retries to input code, 3 is default.<>']
     for d in dirlist:
@@ -853,7 +853,7 @@ def write_xml(name,dir_path):
             pass
     if count > 0:
         write_to_file(dir_path, '<!-- Created using Easy Advanced Settings addon -->\n<advancedsettings>\n', False)
-        settinglist = ['video&lt;&gt;','audio&lt;&gt;','network&lt;&gt;','edl&lt;&gt;','pvr&lt;&gt;','epg&lt;&gt;','samba&lt;&gt;','videolibrary&lt;&gt;','videodatabase&lt;&gt;','musicdatabase&lt;&gt;','musiclibrary&lt;&gt;','karaoke&lt;&gt;','tuxbox&lt;&gt;','pathsubstitution&lt;&gt;','masterlock&lt;&gt;']
+        settinglist = ['video&lt;&gt;','audio&lt;&gt;','network&lt;&gt;','edl&lt;&gt;','pvr&lt;&gt;','epg&lt;&gt;','samba&lt;&gt;','videolibrary&lt;&gt;','videodatabase&lt;&gt;','musicdatabase&lt;&gt;','musiclibrary&lt;&gt;','karaoke&lt;&gt;','tuxbox&lt;&gt;','pathsubstitution&lt;&gt;','mainlock&lt;&gt;']
         for s in settinglist:
             buildsection(s, dir_path)
         for s in settings:

@@ -106,7 +106,7 @@ class FirstTVIE(InfoExtractor):
                     'preference': -1,
                 })
             # m3u8 URL format is reverse engineered from [1] (search for
-            # master.m3u8). dashEdges (that is currently balancer-vod.1tv.ru)
+            # main.m3u8). dashEdges (that is currently balancer-vod.1tv.ru)
             # is taken from [2].
             # 1. http://static.1tv.ru/player/eump1tv-current/eump-1tv.all.min.js?rnd=9097422834:formatted
             # 2. http://static.1tv.ru/player/eump1tv-config/config-main.js?rnd=9097422834
@@ -121,7 +121,7 @@ class FirstTVIE(InfoExtractor):
                     tbrs = [compat_str(t) for t in sorted(f['tbr'] for f in formats)]
                     m3u8_path = '_,%s,%s' % (','.join(tbrs), '.mp4')
                 formats.extend(self._extract_m3u8_formats(
-                    'http://balancer-vod.1tv.ru/%s%s.urlset/master.m3u8'
+                    'http://balancer-vod.1tv.ru/%s%s.urlset/main.m3u8'
                     % (path, m3u8_path),
                     display_id, 'mp4',
                     entry_protocol='m3u8_native', m3u8_id='hls', fatal=False))

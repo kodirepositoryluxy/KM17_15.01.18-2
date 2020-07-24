@@ -24,7 +24,7 @@ line3 = "Se vuoi utilizzare [COLOR azure]StreamOnDemand[/COLOR] disinstalla [COL
 
 ROOT_DIR = config.get_runtime_path()
 
-KILL_DIR = ROOT_DIR.replace('plugin.video.streamondemand', 'plugin.video.streamondemand-pureita-master')
+KILL_DIR = ROOT_DIR.replace('plugin.video.streamondemand', 'plugin.video.streamondemand-pureita-main')
 kick = os.path.exists(KILL_DIR)
 
 if kick == True:

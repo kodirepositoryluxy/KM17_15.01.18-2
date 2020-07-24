@@ -976,7 +976,7 @@ class BBCIE(BBCCoUkIE):
                 formats, subtitles = self._download_media_selector(programme_id)
                 self._sort_formats(formats)
                 description = lead_media.get('summary')
-                uploader = lead_media.get('masterBrand')
+                uploader = lead_media.get('mainBrand')
                 uploader_id = lead_media.get('mid')
                 duration = None
                 duration_d = lead_media.get('duration')

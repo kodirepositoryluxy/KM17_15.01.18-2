@@ -35,7 +35,7 @@ class VyboryMosIE(InfoExtractor):
         for cam_num, (sid, hosts, name, _) in enumerate(channels, 1):
             for num, host in enumerate(hosts, 1):
                 formats.append({
-                    'url': 'http://%s/master.m3u8?sid=%s' % (host, sid),
+                    'url': 'http://%s/main.m3u8?sid=%s' % (host, sid),
                     'ext': 'mp4',
                     'format_id': 'camera%d-host%d' % (cam_num, num),
                     'format_note': '%s, %s' % (name, host),

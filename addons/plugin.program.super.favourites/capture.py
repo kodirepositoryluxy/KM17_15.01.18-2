@@ -235,7 +235,7 @@ def doMenu(mode):
         doStandard(useScript=False)
         return
 
-    # to prevent master profile setting being used in other profiles
+    # to prevent main profile setting being used in other profiles
     if mode == 0 and ADDON.getSetting('CONTEXT') != 'true':
         doStandard(useScript=False)
         return

@@ -34,7 +34,7 @@ from core import scrapertools
 
 # Funciónn genérica para encontrar ídeos en una página
 def find_video_items(item=None, data=None, channel=""):
-    logger.info("streamondemand-pureita-master.core.servertools find_video_items")
+    logger.info("streamondemand-pureita-main.core.servertools find_video_items")
 
     # Descarga la página
     if data is None:
@@ -70,37 +70,37 @@ def find_video_items(item=None, data=None, channel=""):
 
 
 def guess_server_thumbnail(title):
-    logger.info("streamondemand-pureita-master.core.servertools guess_server_thumbnail title=" + title)
+    logger.info("streamondemand-pureita-main.core.servertools guess_server_thumbnail title=" + title)
 
     lowcase_title = title.lower()
 
     if "netu" in lowcase_title:
-        logger.info("streamondemand-pureita-master.core.servertools guess_server_thumbnail caso especial netutv")
+        logger.info("streamondemand-pureita-main.core.servertools guess_server_thumbnail caso especial netutv")
         return "http://media.tvalacarta.info/servers/server_netutv.png"
 
     if "ul.to" in lowcase_title:
-        logger.info("streamondemand-pureita-master.core.servertools guess_server_thumbnail caso especial ul.to")
+        logger.info("streamondemand-pureita-main.core.servertools guess_server_thumbnail caso especial ul.to")
         return "http://media.tvalacarta.info/servers/server_uploadedto.png"
 
     if "waaw" in lowcase_title:
-        logger.info("streamondemand-pureita-master.core.servertools guess_server_thumbnail caso especial waaw")
+        logger.info("streamondemand-pureita-main.core.servertools guess_server_thumbnail caso especial waaw")
         return "http://media.tvalacarta.info/servers/server_waaw.png"
 
     if "streamin" in lowcase_title:
-        logger.info("streamondemand-pureita-master.core.servertools guess_server_thumbnail caso especial streamin")
+        logger.info("streamondemand-pureita-main.core.servertools guess_server_thumbnail caso especial streamin")
         return "http://media.tvalacarta.info/servers/server_streaminto.png"
 
     servers = get_servers_list()
     for serverid in servers:
         if serverid in lowcase_title:
-            logger.info("streamondemand-pureita-master.core.servertools guess_server_thumbnail encontrado " + serverid)
+            logger.info("streamondemand-pureita-main.core.servertools guess_server_thumbnail encontrado " + serverid)
             return "http://media.tvalacarta.info/servers/server_" + serverid + ".png"
 
     return ""
 
 
 def findvideosbyserver(data, serverid):
-    logger.info("streamondemand-pureita-master.core.servertools findvideosbyserver")
+    logger.info("streamondemand-pureita-main.core.servertools findvideosbyserver")
     encontrados = set()
     devuelve = []
     try:
@@ -119,7 +119,7 @@ def findvideosbyserver(data, serverid):
 
 
 def findvideos(data, skip=False):
-    logger.info("streamondemand-pureita-master.core.servertools findvideos")  # en #"+data+"#")
+    logger.info("streamondemand-pureita-main.core.servertools findvideos")  # en #"+data+"#")
     encontrados = set()
     devuelve = []
 
@@ -177,7 +177,7 @@ def get_server_from_url(url):
 
 
 def resolve_video_urls_for_playing(server, url, video_password="", muestra_dialogo=False):
-    logger.info("streamondemand-pureita-master.core.servertools resolve_video_urls_for_playing, server=" + server + ", url=" + url)
+    logger.info("streamondemand-pureita-main.core.servertools resolve_video_urls_for_playing, server=" + server + ", url=" + url)
     video_urls = []
     torrent = False
 
@@ -185,7 +185,7 @@ def resolve_video_urls_for_playing(server, url, video_password="", muestra_dialo
 
     # Si el vídeo es "directo", no hay que buscar más
     if server == "directo" or server == "local":
-        logger.info("streamondemand-pureita-master.core.servertools server=directo, la url es la buena")
+        logger.info("streamondemand-pureita-main.core.servertools server=directo, la url es la buena")
 
         try:
             import urlparse
@@ -215,7 +215,7 @@ def resolve_video_urls_for_playing(server, url, video_password="", muestra_dialo
                 opciones.append("free")
             opciones.extend([premium for premium in server_parameters["premium"] if
                              config.get_setting(premium + "premium") == "true"])
-            logger.info("streamondemand-pureita-master.core.servertools opciones disponibles para " + server + ": " + str(
+            logger.info("streamondemand-pureita-main.core.servertools opciones disponibles para " + server + ": " + str(
                 len(opciones)) + " " + str(opciones))
 
             # Sustituye el código por otro "Plex compatible"
@@ -223,27 +223,27 @@ def resolve_video_urls_for_playing(server, url, video_password="", muestra_dialo
             servers_module = __import__("servers." + server)
             server_connector = getattr(servers_module, server)
 
-            logger.info("streamondemand-pureita-master.core.servertools servidor de " + server + " importado")
+            logger.info("streamondemand-pureita-main.core.servertools servidor de " + server + " importado")
 
             # Si tiene una función para ver si el vídeo existe, lo comprueba ahora
             if hasattr(server_connector, 'test_video_exists'):
-                logger.info("streamondemand-pureita-master.core.servertools invocando a " + server + ".test_video_exists")
+                logger.info("streamondemand-pureita-main.core.servertools invocando a " + server + ".test_video_exists")
                 puedes, motivo = server_connector.test_video_exists(page_url=url)
 
                 # Si la funcion dice que no existe, fin
                 if not puedes:
-                    logger.info("streamondemand-pureita-master.core.servertools test_video_exists dice que el video no existe")
+                    logger.info("streamondemand-pureita-main.core.servertools test_video_exists dice que el video no existe")
                     if muestra_dialogo: progreso.close()
                     return video_urls, puedes, motivo
                 else:
-                    logger.info("streamondemand-pureita-master.core.servertools test_video_exists dice que el video SI existe")
+                    logger.info("streamondemand-pureita-main.core.servertools test_video_exists dice que el video SI existe")
 
             # Obtiene enlaces free
             if server_parameters["free"] == "true":
                 if muestra_dialogo:
                     progreso.update((100 / len(opciones)) * opciones.index("free"), "Connessione con " + server)
 
-                logger.info("streamondemand-pureita-master.core.servertools invocando a " + server + ".get_video_url")
+                logger.info("streamondemand-pureita-main.core.servertools invocando a " + server + ".get_video_url")
                 video_urls = server_connector.get_video_url(page_url=url, video_password=video_password)
 
                 # Si no se encuentran vídeos en modo free, es porque el vídeo no existe
@@ -354,7 +354,7 @@ def get_server_parameters(server):
 
 
 def get_servers_list():
-    logger.info("streamondemand-pureita-master.core.servertools get_servers_list")
+    logger.info("streamondemand-pureita-main.core.servertools get_servers_list")
     ServersPath = os.path.join(config.get_runtime_path(), "servers")
     ServerList = {}
     for server in os.listdir(ServersPath):
@@ -409,8 +409,8 @@ def get_server_remote_url(server_name):
     remote_server_url = server_parameters["update_url"] + server_name + ".py"
     remote_version_url = server_parameters["update_url"] + server_name + ".xml"
 
-    logger.info("streamondemand-pureita-master.core.servertools remote_server_url=" + remote_server_url)
-    logger.info("streamondemand-pureita-master.core.servertools remote_version_url=" + remote_version_url)
+    logger.info("streamondemand-pureita-main.core.servertools remote_server_url=" + remote_server_url)
+    logger.info("streamondemand-pureita-main.core.servertools remote_version_url=" + remote_version_url)
 
     return remote_server_url, remote_version_url
 
@@ -420,8 +420,8 @@ def get_server_local_path(server_name):
     local_version_path = os.path.join(config.get_runtime_path(), 'servers', server_name + ".xml")
     local_compiled_path = os.path.join(config.get_runtime_path(), 'servers', server_name + ".pyo")
 
-    logger.info("streamondemand-pureita-master.core.servertools local_servers_path=" + local_server_path)
-    logger.info("streamondemand-pureita-master.core.servertools local_version_path=" + local_version_path)
-    logger.info("streamondemand-pureita-master.core.servertools local_compiled_path=" + local_compiled_path)
+    logger.info("streamondemand-pureita-main.core.servertools local_servers_path=" + local_server_path)
+    logger.info("streamondemand-pureita-main.core.servertools local_version_path=" + local_version_path)
+    logger.info("streamondemand-pureita-main.core.servertools local_compiled_path=" + local_compiled_path)
 
     return local_server_path, local_version_path, local_compiled_path

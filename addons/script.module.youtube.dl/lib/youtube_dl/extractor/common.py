@@ -1364,15 +1364,15 @@ class InfoExtractor(object):
         # 1. https://tools.ietf.org/html/draft-pantos-http-live-streaming-21
         # 2. https://github.com/rg3/youtube-dl/issues/12211
 
-        # We should try extracting formats only from master playlists [1, 4.3.4],
+        # We should try extracting formats only from main playlists [1, 4.3.4],
         # i.e. playlists that describe available qualities. On the other hand
         # media playlists [1, 4.3.3] should be returned as is since they contain
         # just the media without qualities renditions.
-        # Fortunately, master playlist can be easily distinguished from media
+        # Fortunately, main playlist can be easily distinguished from media
         # playlist based on particular tags availability. As of [1, 4.3.3, 4.3.4]
-        # master playlist tags MUST NOT appear in a media playist and vice versa.
+        # main playlist tags MUST NOT appear in a media playist and vice versa.
         # As of [1, 4.3.3.1] #EXT-X-TARGETDURATION tag is REQUIRED for every
-        # media playlist and MUST NOT appear in master playlist thus we can
+        # media playlist and MUST NOT appear in main playlist thus we can
         # clearly detect media playlist with this criterion.
 
         if '#EXT-X-TARGETDURATION' in m3u8_doc:  # media playlist, return as is
@@ -2225,7 +2225,7 @@ class InfoExtractor(object):
     def _extract_akamai_formats(self, manifest_url, video_id, hosts={}):
         formats = []
         hdcore_sign = 'hdcore=3.7.0'
-        f4m_url = re.sub(r'(https?://[^/]+)/i/', r'\1/z/', manifest_url).replace('/master.m3u8', '/manifest.f4m')
+        f4m_url = re.sub(r'(https?://[^/]+)/i/', r'\1/z/', manifest_url).replace('/main.m3u8', '/manifest.f4m')
         hds_host = hosts.get('hds')
         if hds_host:
             f4m_url = re.sub(r'(https?://)[^/]+', r'\1' + hds_host, f4m_url)
@@ -2236,7 +2236,7 @@ class InfoExtractor(object):
         for entry in f4m_formats:
             entry.update({'extra_param_to_segment_url': hdcore_sign})
         formats.extend(f4m_formats)
-        m3u8_url = re.sub(r'(https?://[^/]+)/z/', r'\1/i/', manifest_url).replace('/manifest.f4m', '/master.m3u8')
+        m3u8_url = re.sub(r'(https?://[^/]+)/z/', r'\1/i/', manifest_url).replace('/manifest.f4m', '/main.m3u8')
         hls_host = hosts.get('hls')
         if hls_host:
             m3u8_url = re.sub(r'(https?://)[^/]+', r'\1' + hls_host, m3u8_url)

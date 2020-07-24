@@ -40,7 +40,7 @@ LOCAL_VERSION_FILE = os.path.join( ROOT_DIR , "version.xml" )
 
 ## Full path to the local .zip file. It includes the beginning of the file name.
 ## Later, the version that you correspoda, name of the platform and the extension .zip is added.
-LOCAL_FILE = os.path.join( ROOT_DIR , "plugin.video."+config.PLUGIN_NAME+"-master" )
+LOCAL_FILE = os.path.join( ROOT_DIR , "plugin.video."+config.PLUGIN_NAME+"-main" )
 
 try:
     # Añadida a la opcion : si plataforma xbmcdharma es "True", no debe ser con la plataforma de la xbox

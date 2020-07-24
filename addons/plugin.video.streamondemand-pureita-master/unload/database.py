@@ -287,8 +287,8 @@ def do_channels_search(item):
     import imp
     from lib.fuzzywuzzy import fuzz
 
-    master_exclude_data_file = os.path.join( config.get_runtime_path() , "resources", "sodsearch.txt")
-    logger.info("streamondemand.channels.database master_exclude_data_file=" + master_exclude_data_file)
+    main_exclude_data_file = os.path.join( config.get_runtime_path() , "resources", "sodsearch.txt")
+    logger.info("streamondemand.channels.database main_exclude_data_file=" + main_exclude_data_file)
 
     exclude_data_file = os.path.join( config.get_data_path() , "sodsearch.txt")
     logger.info("streamondemand.channels.database exclude_data_file=" + exclude_data_file)
@@ -298,7 +298,7 @@ def do_channels_search(item):
 
     channels_excluded = "seriesly\nbuscador\ntengourl\n__init__\n"
 
-    for path in [master_exclude_data_file, exclude_data_file]:
+    for path in [main_exclude_data_file, exclude_data_file]:
         if os.path.exists(path):
             logger.info("streamondemand.channels.database found exclusion file %s" % path)
 

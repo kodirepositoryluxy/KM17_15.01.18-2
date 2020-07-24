@@ -50,7 +50,7 @@ class WashingtonPostIE(InfoExtractor):
             video_type = s.get('type')
             if video_type == 'smil':
                 continue
-            elif video_type in ('ts', 'hls') and ('_master.m3u8' in s_url or '_mobile.m3u8' in s_url):
+            elif video_type in ('ts', 'hls') and ('_main.m3u8' in s_url or '_mobile.m3u8' in s_url):
                 m3u8_formats = self._extract_m3u8_formats(
                     s_url, video_id, 'mp4', 'm3u8_native', m3u8_id='hls', fatal=False)
                 for m3u8_format in m3u8_formats:

@@ -117,7 +117,7 @@ def PlayOtherUrl ( url,name ):
         
         #result = ws.recv()   
         #xbmc.sleep(2000)
-        jsdata='[{"key":"type","value":"channelrequest"},{"key":"dbid","value":"%s"},{"key":"tbid","value":""},{"key":"format","value":"masterm3u8"},{"key":"proxify","value":"true"},{"key":"bitrate","value":"1368000"},{"key":"maxbitrate","value":"3305000"}]'%url
+        jsdata='[{"key":"type","value":"channelrequest"},{"key":"dbid","value":"%s"},{"key":"tbid","value":""},{"key":"format","value":"mainm3u8"},{"key":"proxify","value":"true"},{"key":"bitrate","value":"1368000"},{"key":"maxbitrate","value":"3305000"}]'%url
         ws.send(jsdata)
         result = ws.recv()
         #result = ws.recv()

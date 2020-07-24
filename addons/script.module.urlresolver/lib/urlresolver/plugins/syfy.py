@@ -43,7 +43,7 @@ class SyFyResolver(UrlResolver):
                 url = a["captions"][0]["src"]
                 url = url.split('/caption/',1)[1]
                 url_snippit = url.split('.',1)[0]
-                url_template = 'https://tvesyfy-vh.akamaihd.net/i/prod/video/%s_,25,40,18,12,7,4,2,00.mp4.csmil/master.m3u8?__b__=1000&hdnea=st=%s~exp=%s'
+                url_template = 'https://tvesyfy-vh.akamaihd.net/i/prod/video/%s_,25,40,18,12,7,4,2,00.mp4.csmil/main.m3u8?__b__=1000&hdnea=st=%s~exp=%s'
                 curr_time = (datetime.datetime.utcnow()- datetime.datetime(1970,1,1))
                 start_time = int((curr_time.microseconds + (curr_time.seconds + curr_time.days * 24 * 3600) * 10**6) / 10**6)
                 resolved_url = url_template % (url_snippit, str(start_time), str(start_time+60))

@@ -195,7 +195,7 @@ class BRMediathekIE(InfoExtractor):
         clip_id = self._match_id(url)
 
         clip = self._download_json(
-            'https://proxy-base.master.mango.express/graphql',
+            'https://proxy-base.main.mango.express/graphql',
             clip_id, data=json.dumps({
                 "query": """{
   viewer {

@@ -50,7 +50,7 @@ TMDB_KEY = '99ceb6cfe8e4ee644dc3b4d2ca2b2044'
 #    api_key_match = re.search('\?api_key=([\da-fA-F]+)\&amp;', tmdbxml)
 #    if api_key_match:
 #        TMDB_KEY = api_key_match.group(1)
-#        logger.info('streamondemand-pureita-master.biblioteca use metadata.themoviedb.org api_key')
+#        logger.info('streamondemand-pureita-main.biblioteca use metadata.themoviedb.org api_key')
 #except Exception, e:
 #    pass
 

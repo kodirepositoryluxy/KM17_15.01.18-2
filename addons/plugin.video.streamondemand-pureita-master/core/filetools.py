@@ -585,7 +585,7 @@ def remove_tags(title):
     @rtype: str
     @return: cadena sin tags
     """
-    logger.info("streamondemand-pureita-master.core.filetools remove_tags")
+    logger.info("streamondemand-pureita-main.core.filetools remove_tags")
 
     title_without_tags = scrapertools.find_single_match(title, '\[color .+?\](.+)\[\/color\]')
 

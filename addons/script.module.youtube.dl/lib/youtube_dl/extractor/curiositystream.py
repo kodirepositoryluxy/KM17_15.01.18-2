@@ -52,7 +52,7 @@ class CuriosityStreamBaseIE(InfoExtractor):
 
         formats = []
         for encoding in media.get('encodings', []):
-            m3u8_url = encoding.get('master_playlist_url')
+            m3u8_url = encoding.get('main_playlist_url')
             if m3u8_url:
                 formats.extend(self._extract_m3u8_formats(
                     m3u8_url, video_id, 'mp4', 'm3u8_native',

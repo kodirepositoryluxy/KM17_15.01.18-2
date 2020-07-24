@@ -58,7 +58,7 @@ AVAILABLE PARAMS:
     url='plugin://plugin.video.youtube/play/?video_id=FTI16i7APhU'
 
     mode  -  The mode you want to open when this item is clicked, this is set
-    in your master_modes dictionary (see template add-on linked above)
+    in your main_modes dictionary (see template add-on linked above)
 
     folder       -  This is an optional boolean, by default it's set to False.
     True will open into a folder rather than an executable command
@@ -221,5 +221,5 @@ Add_Dir(name='TEST ITEM', url='', mode='test_item', folder=False, context_items=
 def Default_Mode():
     """ internal command ~"""
     dialog = xbmcgui.Dialog()
-    dialog.ok('MODE ERROR','You\'ve tried to call Add_Dir() without a valid mode, check you\'ve added the mode into the master_modes dictionary')
+    dialog.ok('MODE ERROR','You\'ve tried to call Add_Dir() without a valid mode, check you\'ve added the mode into the main_modes dictionary')
 #---------------------------------------------------------------- 
