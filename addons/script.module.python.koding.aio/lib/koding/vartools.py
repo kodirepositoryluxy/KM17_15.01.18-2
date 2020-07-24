@@ -562,7 +562,7 @@ AVAILABLE PARAMS:
     memory as a string so made sure you've either used Open_URL or Text_File to
     read the contents before sending through.
 
-    block -  This is the master tag you want to use for creating a dictionary of items.
+    block -  This is the main tag you want to use for creating a dictionary of items.
     For example if you have an xml which contains multiple tags called <item> and you wanted
     to create a dictionary of sub items found in each of these you would just use 'item'.
 

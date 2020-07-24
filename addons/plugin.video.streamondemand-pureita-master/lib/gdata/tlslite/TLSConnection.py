@@ -459,7 +459,7 @@ class TLSConnection(TLSRecordLayer):
         serverCertChain = None
         cipherSuite = 0
         certificateType = CertificateType.x509
-        premasterSecret = None
+        premainSecret = None
 
         #Get client nonce
         clientRandom = getRandomBytes(32)
@@ -714,7 +714,7 @@ class TLSConnection(TLSRecordLayer):
                 raise AssertionError()
 
 
-            #Calculate SRP premaster secret, if server chose an SRP or
+            #Calculate SRP premain secret, if server chose an SRP or
             #SRP+RSA suite
             if cipherSuite in CipherSuite.srpSuites + \
                               CipherSuite.srpRsaSuites:
@@ -789,14 +789,14 @@ class TLSConnection(TLSRecordLayer):
                 #Calculate u
                 u = makeU(N, A, B)
 
-                #Calculate premaster secret
+                #Calculate premain secret
                 k = makeK(N, g)
                 S = powMod((B - (k*v)) % N, a+(u*x), N)
 
                 if self.fault == Fault.badA:
                     A = N
                     S = 0
-                premasterSecret = numberToBytes(S)
+                premainSecret = numberToBytes(S)
 
                 #Send ClientKeyExchange
                 for result in self._sendMsg(\
@@ -804,7 +804,7 @@ class TLSConnection(TLSRecordLayer):
                     yield result
 
 
-            #Calculate RSA premaster secret, if server chose an RSA suite
+            #Calculate RSA premain secret, if server chose an RSA suite
             elif cipherSuite in CipherSuite.rsaSuites:
 
                 #Handle the presence of a CertificateRequest
@@ -824,18 +824,18 @@ class TLSConnection(TLSRecordLayer):
                 publicKey, serverCertChain = result
 
 
-                #Calculate premaster secret
-                premasterSecret = getRandomBytes(48)
-                premasterSecret[0] = settings.maxVersion[0]
-                premasterSecret[1] = settings.maxVersion[1]
+                #Calculate premain secret
+                premainSecret = getRandomBytes(48)
+                premainSecret[0] = settings.maxVersion[0]
+                premainSecret[1] = settings.maxVersion[1]
 
-                if self.fault == Fault.badPremasterPadding:
-                    premasterSecret[0] = 5
-                if self.fault == Fault.shortPremasterSecret:
-                    premasterSecret = premasterSecret[:-1]
+                if self.fault == Fault.badPremainPadding:
+                    premainSecret[0] = 5
+                if self.fault == Fault.shortPremainSecret:
+                    premainSecret = premainSecret[:-1]
 
-                #Encrypt premaster secret to server's public key
-                encryptedPreMasterSecret = publicKey.encrypt(premasterSecret)
+                #Encrypt premain secret to server's public key
+                encryptedPreMainSecret = publicKey.encrypt(premainSecret)
 
                 #If client authentication was requested, send Certificate
                 #message, either with certificates or empty
@@ -873,7 +873,7 @@ class TLSConnection(TLSRecordLayer):
                 #Send ClientKeyExchange
                 clientKeyExchange = ClientKeyExchange(cipherSuite,
                                                       self.version)
-                clientKeyExchange.createRSA(encryptedPreMasterSecret)
+                clientKeyExchange.createRSA(encryptedPreMainSecret)
                 for result in self._sendMsg(clientKeyExchange):
                     yield result
 
@@ -884,12 +884,12 @@ class TLSConnection(TLSRecordLayer):
                         #Create a temporary session object, just for the
                         #purpose of creating the CertificateVerify
                         session = Session()
-                        session._calcMasterSecret(self.version,
-                                                 premasterSecret,
+                        session._calcMainSecret(self.version,
+                                                 premainSecret,
                                                  clientRandom,
                                                  serverRandom)
                         verifyBytes = self._calcSSLHandshakeHash(\
-                                          session.masterSecret, "")
+                                          session.mainSecret, "")
                     elif self.version in ((3,1), (3,2)):
                         verifyBytes = stringToBytes(\
                             self._handshake_md5.digest() + \
@@ -905,7 +905,7 @@ class TLSConnection(TLSRecordLayer):
 
             #Create the session object
             self.session = Session()
-            self.session._calcMasterSecret(self.version, premasterSecret,
+            self.session._calcMainSecret(self.version, premainSecret,
                                           clientRandom, serverRandom)
             self.session.sessionID = serverHello.session_id
             self.session.cipherSuite = cipherSuite
@@ -1241,7 +1241,7 @@ class TLSConnection(TLSRecordLayer):
             sessionID = createByteArraySequence([])
 
         #If we've selected an SRP suite, exchange keys and calculate
-        #premaster secret:
+        #premain secret:
         if cipherSuite in CipherSuite.srpSuites + CipherSuite.srpRsaSuites:
 
             #If there's no SRP username...
@@ -1365,13 +1365,13 @@ class TLSConnection(TLSRecordLayer):
             #Calculate u
             u = makeU(N, A, B)
 
-            #Calculate premaster secret
+            #Calculate premain secret
             S = powMod((A * powMod(v,u,N)) % N, b, N)
-            premasterSecret = numberToBytes(S)
+            premainSecret = numberToBytes(S)
 
 
         #If we've selected an RSA suite, exchange keys and calculate
-        #premaster secret:
+        #premain secret:
         elif cipherSuite in CipherSuite.rsaSuites:
 
             #Send ServerHello, Certificate[, CertificateRequest],
@@ -1442,18 +1442,18 @@ class TLSConnection(TLSRecordLayer):
             clientKeyExchange = result
 
             #Decrypt ClientKeyExchange
-            premasterSecret = privateKey.decrypt(\
-                clientKeyExchange.encryptedPreMasterSecret)
+            premainSecret = privateKey.decrypt(\
+                clientKeyExchange.encryptedPreMainSecret)
 
-            randomPreMasterSecret = getRandomBytes(48)
-            versionCheck = (premasterSecret[0], premasterSecret[1])
-            if not premasterSecret:
-                premasterSecret = randomPreMasterSecret
-            elif len(premasterSecret)!=48:
-                premasterSecret = randomPreMasterSecret
+            randomPreMainSecret = getRandomBytes(48)
+            versionCheck = (premainSecret[0], premainSecret[1])
+            if not premainSecret:
+                premainSecret = randomPreMainSecret
+            elif len(premainSecret)!=48:
+                premainSecret = randomPreMainSecret
             elif versionCheck != clientHello.client_version:
                 if versionCheck != self.version: #Tolerate buggy IE clients
-                    premasterSecret = randomPreMasterSecret
+                    premainSecret = randomPreMainSecret
 
             #Get and check CertificateVerify, if relevant
             if clientCertChain:
@@ -1461,10 +1461,10 @@ class TLSConnection(TLSRecordLayer):
                     #Create a temporary session object, just for the purpose
                     #of checking the CertificateVerify
                     session = Session()
-                    session._calcMasterSecret(self.version, premasterSecret,
+                    session._calcMainSecret(self.version, premainSecret,
                                              clientRandom, serverRandom)
                     verifyBytes = self._calcSSLHandshakeHash(\
-                                    session.masterSecret, "")
+                                    session.mainSecret, "")
                 elif self.version in ((3,1), (3,2)):
                     verifyBytes = stringToBytes(self._handshake_md5.digest() +\
                                                 self._handshake_sha.digest())
@@ -1491,7 +1491,7 @@ class TLSConnection(TLSRecordLayer):
 
         #Create the session object
         self.session = Session()
-        self.session._calcMasterSecret(self.version, premasterSecret,
+        self.session._calcMainSecret(self.version, premainSecret,
                                       clientRandom, serverRandom)
         self.session.sessionID = sessionID
         self.session.cipherSuite = cipherSuite

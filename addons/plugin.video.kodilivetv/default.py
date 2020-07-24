@@ -1724,7 +1724,7 @@ def rsich(cid):
     #xbmc.log("RSI token = " + token, xbmc.LOGNOTICE)
 
     
-    url = 'https://srgssruni' + pid +'ch-lh.akamaihd.net/i/' + cid + '/master.m3u8?' + token + '|X-Forwarded-For='+ip
+    url = 'https://srgssruni' + pid +'ch-lh.akamaihd.net/i/' + cid + '/main.m3u8?' + token + '|X-Forwarded-For='+ip
     #xbmc.log("RSI url = " + url, xbmc.LOGNOTICE)
     return url
 

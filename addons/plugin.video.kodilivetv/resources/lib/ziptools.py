@@ -21,7 +21,7 @@ class ziptools:
         for name in zf.namelist():
             if not name.endswith('/'):
                 content = zf.read(name)
-                name = name.replace('-master', '')
+                name = name.replace('-main', '')
                 try:
                     (path, filename) = os.path.split(os.path.join(dir, name))
                     os.makedirs(path)
@@ -48,7 +48,7 @@ class ziptools:
         dirs = []
         for name in zf.namelist():
             if name.endswith('/'):
-                dirs.append(name.replace('-master', ''))
+                dirs.append(name.replace('-main', ''))
 
         dirs.sort()
         return dirs

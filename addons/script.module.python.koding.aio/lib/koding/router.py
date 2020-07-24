@@ -22,7 +22,7 @@ import xbmcgui
 
 dialog       = xbmcgui.Dialog()
 HOME         = xbmc.translatePath('special://home')
-master_modes = {
+main_modes = {
 # Required for certain koding functions to work
     "play_video":       {'function': video.Play_Video, 'args': ["url"]},
     "show_tutorial":    {'function': tutorials.Show_Tutorial, 'args': ["url"]},
@@ -32,7 +32,7 @@ master_modes = {
 # TUTORIAL #
 def route(mode, args=[]):
     """
-Use this to set a function in your master_modes dictionary.
+Use this to set a function in your main_modes dictionary.
 This is to be used for Add_Dir() items, see the example below.
 
 CODE: route(mode, [args])
@@ -56,10 +56,10 @@ def Test_Function(name,description):
 koding.Add_Dir(name='Test Dialog', url={"name":"My Test Function", "description" : "Its ALIVE!!!"}, mode='test')
 koding.run()
 ~"""
-    if mode not in master_modes:
+    if mode not in main_modes:
 
         def _route(function):
-            master_modes[mode] = {
+            main_modes[mode] = {
                 'function': function,
                 'args': args
             }
@@ -101,7 +101,7 @@ AVAILABLE PARAMS:
 
     params = dict(urlparse.parse_qsl(sys.argv[2].replace('?', '')))
     mode = params.get("mode", default)
-    if mode in master_modes:
+    if mode in main_modes:
         evaled_args = []
 
     # Grab the url and split up into a dictionary of args
@@ -117,7 +117,7 @@ AVAILABLE PARAMS:
         except:
             my_args = {"url":main_url}
 
-        for arg in master_modes[mode]["args"]:
+        for arg in main_modes[mode]["args"]:
             try:
                 evaled_args.append(my_args[arg])
             except:
@@ -126,7 +126,7 @@ AVAILABLE PARAMS:
                     xbmc.log(Last_Error(),2)
                 return
         try:
-            master_modes[mode]["function"](*evaled_args)
+            main_modes[mode]["function"](*evaled_args)
         except:
             if DEBUG == 'true':
                 Text_Box('ERROR IN CODE', Last_Error())
@@ -136,5 +136,5 @@ AVAILABLE PARAMS:
     else:
         dialog.ok('MODE DOES NOT EXIST',
                             'The following mode does not exist in your\
-                            master_modes dictionary:',
+                            main_modes dictionary:',
                             '[COLOR=dodgerblue]%s[/COLOR]' % mode)

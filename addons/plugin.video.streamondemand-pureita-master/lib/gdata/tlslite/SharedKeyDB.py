@@ -55,4 +55,4 @@ class SharedKeyDB(BaseDB):
 
     def _checkItem(self, value, username, param):
         newSession = self._getItem(username, param)
-        return value.masterSecret == newSession.masterSecret
+        return value.mainSecret == newSession.mainSecret

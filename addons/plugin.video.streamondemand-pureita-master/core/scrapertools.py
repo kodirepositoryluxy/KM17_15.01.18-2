@@ -104,7 +104,7 @@ def anti_cloudflare(url, headers=None, post=None):
 def printMatches(matches):
     i = 0
     for match in matches:
-        logger.info("streamondemand-pureita-master.core.scrapertools %d %s" % (i , match))
+        logger.info("streamondemand-pureita-main.core.scrapertools %d %s" % (i , match))
         i = i + 1
 
 def get_match(data,patron,index=0):

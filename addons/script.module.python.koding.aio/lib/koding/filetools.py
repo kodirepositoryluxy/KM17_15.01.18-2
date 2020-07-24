@@ -64,9 +64,9 @@ dialog.ok('AUTORUN VALUE','The value of autorun in these new settings is [COLOR 
 os.remove(koding.Physical_Path(myXmlFile))
 ~"""
 
-    def __init__(self, xmlFile, masterTag="settings", childTag="setting"):
+    def __init__(self, xmlFile, mainTag="settings", childTag="setting"):
         self.xmlFile = xmlFile
-        self.masterTag = masterTag
+        self.mainTag = mainTag
         self.childTag = childTag
         self.xmlFile = Physical_Path(self.xmlFile)
 
@@ -107,7 +107,7 @@ os.remove(koding.Physical_Path(myXmlFile))
         f.close()
 
     def CreateXML(self, settingIDTag="id", settingValueTag="value", addChild=False, formatXML=True):
-        root = ElementTree.Element("%s" % self.masterTag)
+        root = ElementTree.Element("%s" % self.mainTag)
         if addChild:
             sub = ElementTree.SubElement(root, "%s" % self.childTag)
             sub.set(settingIDTag, "")
@@ -748,7 +748,7 @@ AVAILABLE PARAMS:
     from the wipe (leave intact) then just enter a list of add-on id's here. The code
     will determine from the addon.xml file which dependencies and sub-dependencies are
     required for that add-on so there's no need to create a huge list, you only need to
-    list the master add-on id's. For example if you want to keep the current skin and
+    list the main add-on id's. For example if you want to keep the current skin and
     your add-on you would use: keep_addons=['plugin.program.myaddon',System('currentskin')]
     and all addons/dependencies associated with those two add-ons will be added to the ignore
     list.

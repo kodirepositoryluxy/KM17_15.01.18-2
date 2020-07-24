@@ -619,7 +619,7 @@ koding.Text_Box('Modules required for %s'%current_id,clean_text)
         if not name in processed:
             processed.append(name)
 
-    # Get list of master dependencies
+    # Get list of main dependencies
         depfiles = Check_Deps(addon_path,[name])
         
     # Recursively check all other dependencies
@@ -633,7 +633,7 @@ koding.Text_Box('Modules required for %s'%current_id,clean_text)
                         except:
                             dep_path = os.path.join(ADDONS,depfile)
                         newdepfiles = Check_Deps(dep_path, depfiles)
-                    # Pass through the path of sub-dependency and add items to master list and list to check
+                    # Pass through the path of sub-dependency and add items to main list and list to check
                         for newdep in newdepfiles:
                             if not (newdep in depchecks) and not (newdep in processed):
                                 depchecks.append(newdep)

@@ -152,7 +152,7 @@ class VimeoBaseInfoExtractor(InfoExtractor):
                         mpd_manifest_urls = [(format_id, manifest_url)]
                     for f_id, m_url in mpd_manifest_urls:
                         mpd_formats = self._extract_mpd_formats(
-                            m_url.replace('/master.json', '/master.mpd'), video_id, f_id,
+                            m_url.replace('/main.json', '/main.mpd'), video_id, f_id,
                             'Downloading %s MPD information' % cdn_name,
                             fatal=False)
                         for f in mpd_formats:

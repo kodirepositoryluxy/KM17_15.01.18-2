@@ -368,7 +368,7 @@ class YoutubeDL(object):
         if params.get('bidi_workaround', False):
             try:
                 import pty
-                master, slave = pty.openpty()
+                main, subordinate = pty.openpty()
                 width = compat_get_terminal_size().columns
                 if width is None:
                     width_args = []
@@ -376,7 +376,7 @@ class YoutubeDL(object):
                     width_args = ['-w', str(width)]
                 sp_kwargs = dict(
                     stdin=subprocess.PIPE,
-                    stdout=slave,
+                    stdout=subordinate,
                     stderr=self._err_file)
                 try:
                     self._output_process = subprocess.Popen(
@@ -385,7 +385,7 @@ class YoutubeDL(object):
                 except OSError:
                     self._output_process = subprocess.Popen(
                         ['fribidi', '-c', 'UTF-8'] + width_args, **sp_kwargs)
-                self._output_channel = os.fdopen(master, 'rb')
+                self._output_channel = os.fdopen(main, 'rb')
             except OSError as ose:
                 if ose.errno == errno.ENOENT:
                     self.report_warning('Could not find fribidi executable, ignoring --bidi-workaround . Make sure that  fribidi  is an executable file in one of the directories in your $PATH.')

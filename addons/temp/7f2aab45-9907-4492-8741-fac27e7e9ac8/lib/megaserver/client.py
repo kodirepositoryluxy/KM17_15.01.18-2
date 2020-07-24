@@ -105,14 +105,14 @@ class Client(object):
             if len(url.split("!")) == 3:
                 folder_id = url.split("!")[1]
                 folder_key = url.split("!")[2]
-                master_key = self.base64_to_a32(folder_key)
+                main_key = self.base64_to_a32(folder_key)
                 files = self.api_req({"a": "f", "c": 1, "r": 1}, "&n=" + folder_id)
                 for file in files["f"]:
                     if file["t"] == 0:
                         if id_video and id_video != file["h"]:
                             continue
                         key = file['k'][file['k'].index(':') + 1:]
-                        key = self.decrypt_key(self.base64_to_a32(key), master_key)
+                        key = self.decrypt_key(self.base64_to_a32(key), main_key)
                         k = (key[0] ^ key[4], key[1] ^ key[5], key[2] ^ key[6], key[3] ^ key[7])
                         attributes = self.base64urldecode(file['a'])
                         attributes = self.dec_attr(attributes, k)

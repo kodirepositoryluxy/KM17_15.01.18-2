@@ -977,13 +977,13 @@ class TLSRecordLayer:
 
         outputLength = (macLength*2) + (keyLength*2) + (ivLength*2)
 
-        #Calculate Keying Material from Master Secret
+        #Calculate Keying Material from Main Secret
         if self.version == (3,0):
-            keyBlock = PRF_SSL(self.session.masterSecret,
+            keyBlock = PRF_SSL(self.session.mainSecret,
                                concatArrays(serverRandom, clientRandom),
                                outputLength)
         elif self.version in ((3,1), (3,2)):
-            keyBlock = PRF(self.session.masterSecret,
+            keyBlock = PRF(self.session.mainSecret,
                            "key expansion",
                            concatArrays(serverRandom,clientRandom),
                            outputLength)
@@ -1086,7 +1086,7 @@ class TLSRecordLayer:
             else:
                 senderStr = "\x53\x52\x56\x52"
 
-            verifyData = self._calcSSLHandshakeHash(self.session.masterSecret,
+            verifyData = self._calcSSLHandshakeHash(self.session.mainSecret,
                                                    senderStr)
             return verifyData
 
@@ -1098,25 +1098,25 @@ class TLSRecordLayer:
 
             handshakeHashes = stringToBytes(self._handshake_md5.digest() + \
                                             self._handshake_sha.digest())
-            verifyData = PRF(self.session.masterSecret, label, handshakeHashes,
+            verifyData = PRF(self.session.mainSecret, label, handshakeHashes,
                              12)
             return verifyData
         else:
             raise AssertionError()
 
     #Used for Finished messages and CertificateVerify messages in SSL v3
-    def _calcSSLHandshakeHash(self, masterSecret, label):
-        masterSecretStr = bytesToString(masterSecret)
+    def _calcSSLHandshakeHash(self, mainSecret, label):
+        mainSecretStr = bytesToString(mainSecret)
 
         imac_md5 = self._handshake_md5.copy()
         imac_sha = self._handshake_sha.copy()
 
-        imac_md5.update(label + masterSecretStr + '\x36'*48)
-        imac_sha.update(label + masterSecretStr + '\x36'*40)
+        imac_md5.update(label + mainSecretStr + '\x36'*48)
+        imac_sha.update(label + mainSecretStr + '\x36'*40)
 
-        md5Str = md5.md5(masterSecretStr + ('\x5c'*48) + \
+        md5Str = md5.md5(mainSecretStr + ('\x5c'*48) + \
                          imac_md5.digest()).digest()
-        shaStr = sha.sha(masterSecretStr + ('\x5c'*40) + \
+        shaStr = sha.sha(mainSecretStr + ('\x5c'*40) + \
                          imac_sha.digest()).digest()
 
         return stringToBytes(md5Str + shaStr)

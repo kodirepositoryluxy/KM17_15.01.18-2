@@ -134,7 +134,7 @@ def savelibrary(titulo="",url="",thumbnail="",server="",plot="",canal="",categor
 # Eliminación de plot y thumnail
     addon_name = sys.argv[ 0 ].strip()
     if not addon_name or not addon_name.startswith("plugin://"):
-        addon_name="plugin://plugin.video.streamondemand-pureita-master/"
+        addon_name="plugin://plugin.video.streamondemand-pureita-main/"
     itemurl = '%s?channel=%s&action=%s&category=%s&title=%s&url=%s&thumbnail=%s&plot=%s&server=%s&Serie=%s&subtitle=%s&extra=%s' % ( addon_name , canal , accion , urllib.quote_plus( category ) , urllib.quote_plus( titulo ) , urllib.quote_plus( url ) , "" , "" , server , Serie , urllib.quote_plus(subtitle) , urllib.quote_plus(extra) )
     logger.info("[library.py] savelibrary fullfilename=%s , itemurl=%s" % (fullfilename,itemurl))
 
@@ -174,13 +174,13 @@ def update(total,errores=0, nuevos=0, serie="No indicada"):
     if nuevos > 0:
         logger.info("[library.py] update - nuevos")
         if errores == 0:
-            actualizar = advertencia.yesno('streamondemand-pureita-master' , texto ,'¿Deseas que actualice ahora la Biblioteca?')
+            actualizar = advertencia.yesno('streamondemand-pureita-main' , texto ,'¿Deseas que actualice ahora la Biblioteca?')
         else:  # Si hubo errores muestra una línea adicional en la pregunta de actualizar biblioteca
             if errores == 1:
                 texto2 = '(No se pudo añadir 1 episodio)'
             else:
                 texto2 = '(No se pudieron añadir '+str(errores)+' episodios)'
-            actualizar = advertencia.yesno('streamondemand-pureita-master' , texto , texto2 , '¿Deseas que actualice ahora la Biblioteca?')
+            actualizar = advertencia.yesno('streamondemand-pureita-main' , texto , texto2 , '¿Deseas que actualice ahora la Biblioteca?')
     else: #No hay episodios nuevos -> no actualizar
         logger.info("[library.py] update - no nuevos")
         if errores == 0:
@@ -189,7 +189,7 @@ def update(total,errores=0, nuevos=0, serie="No indicada"):
             texto2 = '(No se pudo añadir 1 episodio)'
         else:
             texto2 = '(No se pudieron añadir '+str(errores)+' episodios)'
-        #advertencia.ok('streamondemand-pureita-master',texto,texto2)
+        #advertencia.ok('streamondemand-pureita-main',texto,texto2)
         actualizar = False
     
     if actualizar:
@@ -203,7 +203,7 @@ def update(total,errores=0, nuevos=0, serie="No indicada"):
 def MonitorSerie ( canal, accion, server, url, serie): 
     ''' Añade una serie a la lista de series a monitorizar.
     
-    Si se configura para que lo haga streamondemand-pureita-master arrancará un proceso al inicio de XBMC
+    Si se configura para que lo haga streamondemand-pureita-main arrancará un proceso al inicio de XBMC
     para monitorizar las series que se desee mediante una llamada a esta función.
     Los episodios nuevos que vayan apareciendo en la web del canal para la serie indicada
     se irán añdiendo a la biblioteca.
@@ -217,9 +217,9 @@ def fixStrmLibrary(path = LIBRARY_PATH):
     
     Este cambio es necesario con el paso a XBMC Dharma (10.5) donde las url de
     plugin cambiaron de:
-      plugin://video/streamondemand-pureita-master/
+      plugin://video/streamondemand-pureita-main/
     a: 
-      plugin://plugin.video.streamondemand-pureita-master/
+      plugin://plugin.video.streamondemand-pureita-main/
     dado que esto podría volver a pasar (en ciertos momentos se ha estado
     experimentando con urls del tipo addon://... hemos decidido crear esta función
     para arreglar los strm en cualquier momento.

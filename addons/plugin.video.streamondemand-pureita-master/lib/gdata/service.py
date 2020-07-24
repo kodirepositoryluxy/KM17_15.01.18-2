@@ -130,7 +130,7 @@ CLIENT_LOGIN_SCOPES = {
     'wise': [ # Spreadsheets Data API
         'https://spreadsheets.google.com/feeds/',
         'http://spreadsheets.google.com/feeds/'],
-    'sitemaps': [ # Google Webmaster Tools
+    'sitemaps': [ # Google Webmain Tools
         'https://www.google.com/webmasters/tools/feeds/'],
     'youtube': [ # YouTube
         'http://gdata.youtube.com/feeds/api/',

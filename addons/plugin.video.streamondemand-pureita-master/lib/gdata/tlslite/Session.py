@@ -39,7 +39,7 @@ class Session:
     """
 
     def __init__(self):
-        self.masterSecret = createByteArraySequence([])
+        self.mainSecret = createByteArraySequence([])
         self.sessionID = createByteArraySequence([])
         self.cipherSuite = 0
         self.srpUsername = None
@@ -51,7 +51,7 @@ class Session:
 
     def _clone(self):
         other = Session()
-        other.masterSecret = self.masterSecret
+        other.mainSecret = self.mainSecret
         other.sessionID = self.sessionID
         other.cipherSuite = self.cipherSuite
         other.srpUsername = self.srpUsername
@@ -62,13 +62,13 @@ class Session:
         other.sharedKey = self.sharedKey
         return other
 
-    def _calcMasterSecret(self, version, premasterSecret, clientRandom,
+    def _calcMainSecret(self, version, premainSecret, clientRandom,
                          serverRandom):
         if version == (3,0):
-            self.masterSecret = PRF_SSL(premasterSecret,
+            self.mainSecret = PRF_SSL(premainSecret,
                                 concatArrays(clientRandom, serverRandom), 48)
         elif version in ((3,1), (3,2)):
-            self.masterSecret = PRF(premasterSecret, "master secret",
+            self.mainSecret = PRF(premainSecret, "main secret",
                                 concatArrays(clientRandom, serverRandom), 48)
         else:
             raise AssertionError()
@@ -118,12 +118,12 @@ class Session:
         for x in range(len(sharedKeyUsername)):
             self.sessionID[x] = ord(sharedKeyUsername[x])
 
-        premasterSecret = createByteArrayZeros(48)
+        premainSecret = createByteArrayZeros(48)
         sharedKey = chr(len(sharedKey)) + sharedKey
         for x in range(48):
-            premasterSecret[x] = ord(sharedKey[x % len(sharedKey)])
+            premainSecret[x] = ord(sharedKey[x % len(sharedKey)])
 
-        self.masterSecret = PRF(premasterSecret, "shared secret",
+        self.mainSecret = PRF(premainSecret, "shared secret",
                                 createByteArraySequence([]), 48)
         self.sharedKey = True
         return self

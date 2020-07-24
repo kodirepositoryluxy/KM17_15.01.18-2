@@ -209,9 +209,9 @@ class LifeEmbedIE(InfoExtractor):
                 r'options\s*=\s*({.+?});', webpage, 'options', default='{}'),
             video_id).get('playlist', {})
         if playlist:
-            master = playlist.get('master')
-            if isinstance(master, compat_str) and determine_ext(master) == 'm3u8':
-                extract_m3u8(compat_urlparse.urljoin(url, master))
+            main = playlist.get('main')
+            if isinstance(main, compat_str) and determine_ext(main) == 'm3u8':
+                extract_m3u8(compat_urlparse.urljoin(url, main))
             original = playlist.get('original')
             if isinstance(original, compat_str):
                 extract_original(original)

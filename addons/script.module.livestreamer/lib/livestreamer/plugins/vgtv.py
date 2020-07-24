@@ -17,7 +17,7 @@ STREAM_TYPES = {
     },
     "hls": {
         "parser": HLSStream.parse_variant_playlist,
-        "file" : "master.m3u8"
+        "file" : "main.m3u8"
     },
     "http" : {}
 }

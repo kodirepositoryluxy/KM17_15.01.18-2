@@ -276,7 +276,7 @@ def Crea_Url(pagina="1", azione="ricerca", categoria="", nome=""):
 
 # -----------------------------------------------------------------
 def HomePage(item):
-    xbmc.executebuiltin("ReplaceWindow(10024,plugin://plugin.video.streamondemand-pureita-master)")
+    xbmc.executebuiltin("ReplaceWindow(10024,plugin://plugin.video.streamondemand-pureita-main)")
 # =================================================================
 
 # =================================================================

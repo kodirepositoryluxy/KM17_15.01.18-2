@@ -20,7 +20,7 @@ from lib.fuzzywuzzy import fuzz
 
 __channel__ = "buscador"
 
-logger.info("streamondemand-pureita-master.channels.buscador init")
+logger.info("streamondemand-pureita-main.channels.buscador init")
 
 DEBUG = config.get_setting("debug")
 
@@ -32,7 +32,7 @@ def isGeneric():
 
 
 def mainlist(item, preferred_thumbnail="squares"):
-    logger.info("streamondemand-pureita-master.channels.buscador mainlist")
+    logger.info("streamondemand-pureita-main.channels.buscador mainlist")
 
     itemlist = [
         Item(channel=__channel__,
@@ -69,7 +69,7 @@ def mainlist(item, preferred_thumbnail="squares"):
 # Al llamar a esta función, el sistema pedirá primero el texto a buscar
 # y lo pasará en el parámetro "tecleado"
 def search(item, tecleado):
-    logger.info("streamondemand-pureita-master.channels.buscador search")
+    logger.info("streamondemand-pureita-main.channels.buscador search")
 
     if tecleado != "":
         save_search(item.channel, tecleado)
@@ -80,7 +80,7 @@ def search(item, tecleado):
 
 # Esta es la función que realmente realiza la búsqueda
 def do_search(item):
-    logger.info("streamondemand-pureita-master.channels.buscador do_search")
+    logger.info("streamondemand-pureita-main.channels.buscador do_search")
 
     tecleado = item.extra
     mostra = tecleado.replace("+", " ")
@@ -88,13 +88,13 @@ def do_search(item):
     itemlist = []
 
     channels_path = os.path.join(config.get_runtime_path(), "channels", '*.xml')
-    logger.info("streamondemand-pureita-master.channels.buscador channels_path=" + channels_path)
+    logger.info("streamondemand-pureita-main.channels.buscador channels_path=" + channels_path)
 
     channel_language = config.get_setting("channel_language")
-    logger.info("streamondemand-pureita-master.channels.buscador channel_language=" + channel_language)
+    logger.info("streamondemand-pureita-main.channels.buscador channel_language=" + channel_language)
     if channel_language == "":
         channel_language = "all"
-        logger.info("streamondemand-pureita-master.channels.buscador channel_language=" + channel_language)
+        logger.info("streamondemand-pureita-main.channels.buscador channel_language=" + channel_language)
 
     if config.is_xbmc():
         show_dialog = True
@@ -112,7 +112,7 @@ def do_search(item):
             basename_without_extension = os.path.basename(infile)[:-4]
             # http://docs.python.org/library/imp.html?highlight=imp#module-imp
             obj = imp.load_source(basename_without_extension, infile[:-4]+".py")
-            logger.info("streamondemand-pureita-master.channels.buscador cargado " + basename_without_extension + " de " + infile)
+            logger.info("streamondemand-pureita-main.channels.buscador cargado " + basename_without_extension + " de " + infile)
             channel_result_itemlist.extend(obj.search(Item(extra=item.category), tecleado))
             for local_item in channel_result_itemlist:
                 local_item.title = " [COLOR azure] " + local_item.title + " [/COLOR] [COLOR orange]su[/COLOR] [COLOR green]" + basename_without_extension + "[/COLOR]"

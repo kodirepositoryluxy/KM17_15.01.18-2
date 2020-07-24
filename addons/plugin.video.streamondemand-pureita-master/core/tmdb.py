@@ -1487,7 +1487,7 @@ def infoSod(item, tipo="movie"):
     :param item:  item
     :return:      ritorna un'item completo esente da errori di codice
     '''
-    logger.info("streamondemand-pureita-master.core.tmdb infoSod")
+    logger.info("streamondemand-pureita-main.core.tmdb infoSod")
     logger.info("channel=[" + item.channel + "], action=[" + item.action + "], title[" + item.title + "], url=[" + item.url + "], thumbnail=[" + item.thumbnail + "], tipo=[" + tipo + "]")
     try:
         tmdbtitle = item.fulltitle.split("|")[0].split("{")[0].split("[")[0].split("(")[0].split("Sub-ITA")[0].split("Sub ITA")[0].split("20")[0].split("19")[0].split("S0")[0].split("Serie")[0].split("HD ")[0]

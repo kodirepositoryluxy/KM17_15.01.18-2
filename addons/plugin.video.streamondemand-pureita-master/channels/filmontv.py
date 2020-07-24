@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 # ------------------------------------------------------------
-# streamondemand-pureita-master - XBMC Plugin
+# streamondemand-pureita-main - XBMC Plugin
 # Canale filmontv - Fix by Orione7
 # http://www.mimediacenter.info/foro/viewtopic.php?f=36&t=7808/
 # ------------------------------------------------------------
